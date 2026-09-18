@@ -1,0 +1,22 @@
+{{Infobox people
+|image = unknown
+|imagesize = 250px
+|full name = Nate Smith
+|aka = 
+|status = Alive
+|gender = M
+|nationality = {{Country|US|adj=y}}
+}}
+'''Nate Smith''' is an American voice actor.
+
+==Career==
+Smith provided the voice of a [[Pedestrians in GTA IV|pedestrian]] in ''[[The Lost and Damned]]''.
+
+==''GTA'' Works==
+*''[[The Lost and Damned]]'' - [[Pedestrians in GTA IV|Pedestrian]] (2009)
+
+{{Clr}}
+==External Link==
+*[https://www.imdb.com/name/nm1741380/ Nate Smith's IMDb Page]
+[[Category:Real-world people credited on TLAD]]
+[[Category:Real-world voice actors]]

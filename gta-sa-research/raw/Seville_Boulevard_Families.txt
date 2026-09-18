@@ -1,0 +1,117 @@
+{{PageTabber
+|page1 = [[Grove Street Families]]
+|page2 = SBF set<sup>†</sup>
+|page3 = [[Temple Drive Families|TDF set<sup>†</sup>]]
+|page4 = [[Big Smoke's Grove Street Families Faction|Big Smoke's faction<sup>†</sup>]]
+}}
+{{Infobox organization
+|name         = Seville Boulevard Families
+|image        = 
+<gallery>
+SevilleBoulevardFamilies-GTASA.png|Gang members
+SevilleBlvd-GTASA-Tag.png|Tag
+</gallery>
+|games        = {{Games|SA=y}}
+|locations    = [[Playa del Seville]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]] <small>(Formerly)</small>
+|businesses   = 
+*[[Emmet's]]
+*[[LB's Garage]] <small>(Possibly)</small>
+|affiliations = 
+*[[Ballas (3D Universe)|Ballas]] <small>(Suppliers)</small>
+|vehicles     = 
+*[[Sentinel]]
+|weapons      = 
+*[[Pistol (3D Universe)|Pistol]]
+*[[Tec-9]]
+|status       = defunct
+|gang_type    = Set of the [[Grove Street Families]]
+|nationality  = {{Country|US|adj=y}}
+|established  = Between [[1987]] and [[1992]]
+|members      = 
+*[[Emmet]]
+*[[LB]] <small>(Possibly)</small>
+|enemies      = 
+*[[Grove Street Families]] <small>([[Reuniting the Families|Cease-fire]])</small>
+*[[Temple Drive Families]] <small>([[Reuniting the Families|Cease-fire]])</small>
+}}
+'''Seville Boulevard Families''' is a former splinter group of [[Grove Street Families]] appearing in {{SA}}.
+
+==Description==
+Seville Boulevard Families were established as an independent gang at some point between [[1987]] and [[1992]], after the death of [[Brian Johnson]], brother of gang leader [[Sweet Johnson]] from the Grove Street Families.
+
+According to dialogue from [[Big Smoke]] in [[Nines and AKs]] and unused dialogue from [[Big Bear]] in [[Beat Down on B Dup]], the Grove Street Families members running the Seville Boulevard territory were the first group to split from the gang, forming the "Seville Boulevard Families". Both the Seville Boulevard Families and the Temple Drive Families were split due to disagreements with the main Grove Street Families gang, who didn't allow distribution of powerful drugs in their territory through Sweet's leadership (particularly crack cocaine).
+
+Shortly before 1992, Seville Boulevard Families became enemies of the Temple Drive Families, starting a small scale three-way war between the three sets. By 1992, the Grove Street Families are referred to as the "OG Family set" by the members of the original gang after the split, in order to differentiate the main gang from the enemy sets.
+
+Due to bad leadership of both enemy sets, the Ballas gang managed to "take control" of both sets by selling crack cocaine to the members, making them weak and allowing them to use both former Grove Street Families turfs for crack distribution.
+
+The Families' gun supplier [[Emmet]] became a member of the Seville Boulevard Families set after the gang split, although he never shows hostility to the original Grove Street Families. [[Ryder]]'s contact [[LB]] is implied to be a friendly Seville Boulevard Families member.
+
+==History==
+===Events of ''Grand Theft Auto: San Andreas''===
+{{Quote|Since you been away, shit has changed 'round here. Grove Street Families ain't big no more. Seville Boulevard Families and Temple Drive Families are beefing, and split with the Grove. Now we so busy set tripping, Ballas and Vagos have taken over, so watch yo'self out there. Just because they're wearing greens, don't mean they're allies. Copy?|Sweet Johnson to Carl Johnson via phone call after their mother's funeral in [[Sweet & Kendl]].}}
+In 1992, Sweet's mother [[Beverly Johnson]] is killed in a drive-by shooting by the Ballas, prompting his brother Carl Johnson to return to Los Santos from Liberty City since Brian's death in 1987.
+
+Unaware of the gang split, Carl Johnson briefly visits the former Grove Street Families territory in [[Temple]], now run by the enemy Temple Drive Families set, and realizes the bad situation within the main gang. Sweet explains the situation through a phone call after Beverly's funeral, and begins working to help Grove Street Families get back in the map.
+
+====Playa del Seville Ambush====
+{{Dialogue|p1=Carl Johnson|d1=Green blasting on green ain't no way to run the Families!|p2=Sweet Johnson|d2=Man, Seville Families gone too far this time!|p3=Carl Johnson|d3=Shit is crazy, bro! We gotta bring the Families back together!|quotedetail=Carl Johnson and Sweet Johnson during the Seville Boulevard Families ambush in [[Sweet's Girl]].}}
+At one point, Sweet starts a relationship with a girl from the Seville Boulevard Families, and during one of his visits, Sweet is targeted by the enemy set. With the help of Carl, Sweet and his girlfriend manage to escape alive from the Seville Boulevard Families ambush.
+
+====Motel Ambush====
+{{Quote|I don't like this, man. Look at all them other family hoods - they used to be Grove Streets!|Ryder about the enemy sets during the meeting in [[Reuniting the Families]].}}
+Sweet eventually manages to convince both sets that the Ballas are making them weak and using them to sell crack in their turfs. All three sets agree to make a reunion at the [[Jefferson Motel (3D Universe)|Jefferson Motel]] and put an end to crack distribution in all Families turfs.
+
+Arriving at the Jefferson Motel, the meeting is ambushed by the [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] and their [[Special Weapons and Tactics (3D Universe)|SWAT]] units, leaving several Families members dead during a shootout inside the building.
+
+Carl manages to rescue Sweet and escape the authorities with Big Smoke and Ryder.
+
+====Fate====
+After the mission Reuniting the Families, the outcome of the reunion is left ambiguous and is never specified whether the Seville Boulevard Families merged back with the original gang or if they were wiped out in the ambush. Both sets are no longer mentioned in the storyline after these events.
+
+Shortly after the failed meeting, Carl Johnson discovers Big Smoke's betrayal, and Sweet Johnson is arrested in a gang shootout. Carl is exiled from Los Santos by the corrupt [[C.R.A.S.H.]] division of the LSPD, allowing time for Big Smoke to build his crack empire in Los Santos, resulting in a major crack cocaine epidemic in the city and the downfall of the Families as a whole.
+
+Eventually, with the help of secret agent [[Mike Toreno]], Sweet and Carl return to Grove Street, only to find the original set turf controlled by the Ballas and infested with drug dealers. The Johnson brothers clear their turf and begin to reclaim territories from enemy gangs shortly after.
+
+Both Playa del Seville and Temple are revealed to be fully controlled by the Ballas at this point, suggesting the crack epidemic completely destroyed the Seville Boulevard Families and Temple Drive Families and that both sets no longer exists.
+
+====Territory Reclaim====
+{{Quote|Playa del Seville is ours!|Carl Johnson wipping out the Ballas in the former Seville Boulevard Families after [[Home Coming]].|sound=SevilleBoulevardFamilies-GTASA-TerritoryReclaim.wav}}
+Carl Johnson can reclaim both turfs by killing the Ballas controlling the area, reverting both turfs to their original 1987 pre-gang split state, once again controlled by the original Grove Street Families set and officially ending the Seville Boulevard Families.
+
+==Prominent Appearances in Gameplay==
+*[[Nines and AK's]]
+*[[Sweet's Girl]]
+*[[Reuniting the Families]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+GroveStreetFamilies-GTASA-SevilleBoulevardGraffiti.jpg|Non-interactive '''Seville''' graffiti.
+Graffiti-GTASA-SvBlvdFams.png|Another non-interactive '''Seville''' graffiti.
+Sweet'sGirl-GTASA-SS12.png|[[Sweet Johnson|Sweet]] shooting at a member of the '''SBF'''.
+SevilleBlvd-GTASA-Tag.png|The [[Tags|tag]] of '''Seville Boulevard Families'''.
+SevilleBoulevardFamilies-GTASA(2).jpg|Three '''Seville''' members after killing a [[Motor Officer|motor officer]].
+</gallery>
+
+==Trivia==
+*Outside missions, the Seville Boulevard Families are simply programmed as regular [[Grove Street Families]] members (including voice lines) spawning in a [[Playa del Seville]] gang zone, meaning that the player can recruit them.
+**Additionally, like any regular Grove Street Families member, they will attack any hostile [[Pedestrians|pedestrian]] or [[Police Officers|police officer]] attacking the player during [[Wanted Level in GTA San Andreas|wanted levels]].
+**The set's weaponry will also be also upgraded by spraying all [[tags]].
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families|state=collapsed}}
+{{Gtasa gangs|state=collapsed}}
+}}
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Afro-descendant organizations]]
+[[Category:Former organizations]]
+
+[[de:Seville Boulevard Families]]
+[[fi:Seville Boulevard Families]]
+[[pt:Seville Boulevard Families]]
+[[ru:Seville Boulevard Families]]

@@ -1,0 +1,108 @@
+{{Infobox_location
+|image = SantaMariaBeach-GTASA.png
+|games = {{Games|SA=y}}
+|location = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+SantaMariaBeach-GTASA-Map.jpg|Santa Maria Beach
+SantaMariaBeach-GTASA-LosSantosMap.jpg|Los Santos
+SantaMariaBeach-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|neighborhood = y
+|pscanner       = PoliceScanner-GTASA-SantaMariaBeach.ogg
+}}'''Santa Maria Beach''' is a district to the south-west of the city center of [[Los Santos (3D Universe)|Los Santos]], and is controlled by the [[Grove Street Families]]. [[Carl Johnson]] owns a [[Santa Maria Beach Safehouse|home]] in the area, although he primarily lives in the [[Johnson House]] in [[Ganton]].
+
+As mentioned above, Santa Maria Beach is a stronghold for the [[Temple Drive Families]]. Usually, members of the Temple Drive Families and the Temple Drive Ballas have skirmishes near this area, as [[Verona Beach]], a [[Ballas (3D Universe)|Ballas]]-controlled district, is just east of Santa Maria Beach. Later on in the storyline, upon the player's return to Los Santos, this area belongs to the Ballas, but can be reclaimed as GSF territory through [[Gang Warfare in GTA San Andreas|gang warfare]].
+
+Besides Verona Beach, surrounding areas are [[Marina (3D Universe)|Marina]], [[Rodeo]], [[Los Santos Inlet]] and [[Flint County (3D Universe)|Flint County]].
+
+==Influence==
+Santa Maria Beach is heavily based on the {{WP|Santa Monica State Beach}} in {{WP|Santa Monica, California}}. The name itself may be a reference to {{WP|Santa Maria, California}}.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+{{Spoiler}}
+Santa Maria Beach plays a relatively small role in the storyline of [[Grand Theft Auto: San Andreas]]. In [[High Stakes, Low-Rider]] the finish line for the race is on the pier offshore. Santa Maria Beach features during the [[Life's a Beach]] mission, where [[Carl Johnson]] steals a [[Pony|sound van]] for [[OG Loc (3D Universe)|Jeffrey "OG Loc" Cross]]. During the mission, Carl also dances with the DJ. Later on in the storyline, [[Frank Tenpenny]] sends Carl to follow and kill an informant in the mission [[Snail Trail]], who goes to the end of the [[Yacht Harbor|pier]] in Santa Maria Beach. The beach also appears during the mission [[Cut Throat Business]], where Carl Johnson and [[Madd Dogg (3D Universe)|Madd Dogg]] chase OG Loc across parts of Los Santos and [[Flint County (3D Universe)|Flint County]]. Santa Maria Beach is also the starting point for the [[Beat the Cock!|triathlon]] events that take place in Los Santos.
+
+==Known Residents==
+*[[Carl Johnson]] (can buy a [[Santa Maria Beach Safehouse|house]] there)
+
+==Places of Interest==
+*[[Los Santos Lighthouse]]
+*[[Santa Maria Beach Safehouse]]
+*[[Yacht Harbor]]
+
+==Businesses==
+*[[The Beach House]]
+*[[The Brown Starfish Bar and Grill]]
+*[[Carmel Corn]]
+*[[Gelatto Splatto]]
+*[[Hippy Art Shit]]
+*[[Muerto-Mex]]
+*[[Pay 'n' Spray]]
+*[[Pier Pressure Pizzeria]]
+*[[Pizza by the Slice]]
+*[[Son of a Beach]]
+*[[Substandard]]
+*[[Teatro Broadway]]
+
+==Weapons==
+*[[Grenades]] {{nd}} Midway down [[Yacht Harbor]], behind a building on the east side.
+*[[Pistol (3D Universe)|Pistol]] {{nd}} On the balcony of a beach house near the sea, west side of Yacht Harbor.
+
+==Stationary vehicles==
+*[[BF Injection]] (occasionally)
+*[[Clover]] (occasionally)
+*[[Flash]] (occasionally)
+*[[Feltzer]] (occasionally)
+*[[Greenwood (3D Universe)|Greenwood]] (occasionally)
+*[[Oceanic]] (occasionally)
+*[[Perennial]] (occasionally)
+*[[Previon]] (occasionally)
+*[[Primo (3D Universe)|Primo]] (occasionally)
+*[[Raindance]] (after the mission [[Learning to Fly]])
+*[[Washington]] (occasionally)
+*[[Voodoo (3D Universe)|Voodoo]] (occasionally)
+
+==Other==
+*Two [[Tags|Gang Tags]]
+*One [[Oysters|Oyster]]
+*One [[Unique Stunt Jumps in GTA San Andreas|Unique Stunt Jump]]
+*[[Vendors|Chilli dogs vendor]]
+
+==Gallery==
+<gallery position="center" spacing="small" hideaddbutton="true" spacing="small" widths="270px">
+SantaMariaBeach-GTASA-Sunny.jpg|Sunny afternoon.
+SantaMariaBeach-GTASA-Sidewalk.jpg|The small sidewalk near the beach.
+</gallery>
+
+==Trivia==
+*During [[Amphibious Assault]], [[Carl Johnson|Carl]] reveals to [[Wu Zi Mu]] that when he was a child, he once got a condom stuck to his face whilst swimming in the sea off Santa Maria Beach.
+*If Carl is standing under a bridge whilst it is raining, the rain will pass through the bridge.
+*The [[Pay 'n' Spray]] in this area has an incorrect address. Next to the main Pay 'n' Spray logo, a [[Verona Beach]] address is written on the sign, even though the Pay 'n' Spray is located in Santa Maria Beach.
+*[[ROSALÍA]] mentions [[Verona Beach]] and Santa Maria by name on [[MOTOMAMI Los Santos]] in {{O}}. This is likely an oversight, as their equivalents are [[Vespucci Beach]] and [[Del Perro Beach]] in the [[HD Universe]], respectively.{{Ref|name=rosalia|type=quote|ref={{Quote|Reminder, bebés: you're listening to MOTOMAMI Los Santos. Imagine you're surfriding from Santa Maria to Verona Beach, your extensions blowing in the wind.|ROSALÍA on [[MOTOMAMI Los Santos]] in {{O}}.}}}}
+
+==See Also==
+*[[Del Perro Beach]] {{nd}} The [[HD Universe]] equivalent of this beach.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families}}
+{{Gtasa neighborhoods|state=collapsed}}
+}}
+[[de:Santa Maria Beach]] 
+[[es:Santa Maria Beach]]
+[[ru:Санта-Мария-Бич]]
+[[pl:Santa Maria Beach]] 
+[[pt:Santa Maria Beach]]
+[[uk:Санта-Марія-Біч]]
+
+[[Category:Locations in GTA San Andreas in Los Santos]]
+[[Category:Neighborhoods]]
+[[Category:Beaches in GTA San Andreas]]
+[[Category:Zones]]

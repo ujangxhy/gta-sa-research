@@ -1,0 +1,117 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=[[Cesar Vialpando|Cesar]] is on the rooftop of a building opposite to [[Pier 69]] and calls [[Carl Johnson|Carl]].
+}}{{Line
+|name=Cesar
+|dialogue=Hey, holmes, I'm up here. Go around the back!
+}}{{Line
+|background=CJ meets Cesar on the roof.
+}}{{Line
+|name=CJ
+|dialogue=Hey man.
+}}{{Line
+|name=Cesar
+|dialogue=Nice job getting that phone message. So, what's up with Jizzy?
+}}{{Line
+|name=CJ
+|dialogue=Dead. So, what's the plan?
+}}{{Line
+|name=Cesar
+|dialogue=T-Bone's security got here real early. They've got men on the roofs watching over the pier. (gets phone call) Eh. Ok, yeah, yeah, yeah, I see you. (to CJ) That was Woozie's boys, they're in place. Look, down by the side entrance.
+}}{{Line
+|name=CJ
+|dialogue=Shit, they're heading up to the roof!
+}}{{Line
+|name=Cesar
+|dialogue=Shit! Mira, we're gonna have to take out T-Bone's men on the rooftops before this whole gig blows wide open!
+}}{{Line
+|background=CJ is sniping the [[San Fierro Rifa|Rifa]] guards on the roof to protect the [[San Fierro Triads|Triads]].
+}}{{Line
+|name=Cesar
+|dialogue=(if CJ snipes at the left first) There's some more to the right... Shit they walked right into it! One of those triad boys is down.
+}}{{Line
+|background=CJ takes out all the guards.
+}}{{Line
+|name=CJ
+|dialogue=Man, my busting was tight!
+}}{{Line
+|background=[[T-Bone Mendez|T-Bone]] arrives with his gang.
+}}{{Line
+|name=Cesar
+|dialogue=Here comes T-Bone...
+}}{{Line
+|background=And then [[Ryder]] arrives with [[Ballas (3D Universe)|his gang]].
+}}{{Line
+|name=CJ
+|dialogue=And here's that snake Ryder. Look at that fool, hanging out with the Ballas like they was life long pals.
+}}{{Line
+|background=Ryder and T-Bone meet at the pier.
+}}{{Line
+|name=CJ
+|dialogue=Something ain't right. Where's Toreno?
+}}{{Line
+|background=[[Mike Toreno|Toreno]] arrives by a [[Maverick (3D Universe)|helicopter]] at the pier.
+}}{{Line
+|name=Cesar
+|dialogue=Chopper inbound!
+}}{{Line
+|name=CJ
+|dialogue=That's gotta be Toreno. Oh shit, he'll see the bodies on the rooftops!
+}}{{Line
+|background=Toreno flees after seeing the bodies on the rooftops.
+}}{{Line
+|name=Cesar
+|dialogue=It's too late, man he's tripping out, holmes!
+}}{{Line
+|background=The gangsters at the pier throw [[Tear Gas|smoke grenades]].
+}}{{Line
+|name=CJ
+|dialogue=Smoke grenades! So much for a surprise, c'mon, we gotta take these fools right now!
+}}{{Line
+|background=CJ guns down T-Bone.
+}}{{Line
+|name=Cesar
+|dialogue=Mendez, I see you, Rifa motherfucker!
+}}{{Line
+|background=CJ and Cesar kill T-Bone. Ryder then comes out and attempts to escape.
+}}{{Line
+|name=CJ
+|dialogue=Hey Ryder, sherm-head asshole, where do you think you're going?
+}}{{Line
+|name=Ryder
+|dialogue=C... Can't stop me...
+}}{{Line
+|name=Cesar
+|dialogue=He's headed for those boats!
+}}{{Line
+|name=CJ
+|dialogue=Don't worry about it, I got this.
+}}{{Line
+|background='''''NOTE:''' The remaining conversation can be skipped if the player kills Ryder by sniping him from the pier.''
+}}{{Line
+|background=Ryder escapes by a boat, and CJ chases him using another boat.
+}}{{Line
+|name=CJ
+|dialogue=You sold us out, Ryder! You fucked with us all!
+}}{{Line
+|name=Ryder
+|dialogue=I'm a motherfucking genius!
+}}{{Line
+|background=CJ kills Ryder. Cesar then calls CJ.
+}}{{Line
+|name=CJ
+|dialogue='Sup Cesar.
+}}{{Line
+|name=Cesar
+|dialogue=Hey, you OK, holmes, we been watching from the pier with binoculars!
+}}{{Line
+|name=CJ
+|dialogue=Yeah, I'm good, I think. Listen, you better clear out. The cops gonna be all over the spot in a minute.
+}}{{Line
+|name=Cesar
+|dialogue=Sure thing, see you back at the garage!
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

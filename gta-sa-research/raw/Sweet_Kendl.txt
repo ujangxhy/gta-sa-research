@@ -1,0 +1,151 @@
+{{Infobox mission
+|name = Sweet & Kendl
+|image = Sweet&Kendl-GTASA-Mission.png
+|caption = [[Carl Johnson reunite with his siblings Sweet]] and [[Kendl]] in their mother]]'s funeral, after he left Los Santos]] five years prior.
+|game           = {{games|SA=y}}
+|type           = SA
+|for = {{For|game=SA|cj}}
+|location = [[Vinewood Cemetery, Vinewood]], Los Santos]]
+|fail = *[[Wasted
+*[[Busted
+*Sweet dies
+*[[Big Smoke dies
+*[[Ryder dies
+*BMX trashed <small>{{H:title|Possible if the player submerges the BMX underwater.|[?]}}</small>
+|reward = *[[Respect
+*Access to [[Johnson House
+|unlocks = Ryder
+|unlockedby = Big Smoke
+|protagonists = [[Carl Johnson|target = Escape the Ballas
+|todo =
+*Get on the {{Color|sa-hud-blue|bike}}.
+*Follow {{Color|sa-hud-blue|Sweet}}.
+*You're too far away. Stay with {{Color|sa-hud-blue|Sweet}}. <small>{{H:title|If CJ gets too far away from Sweet.|[?]}}</small>
+*Follow {{Color|sa-hud-blue|Ryder}}.
+*You're too far away. Stay with {{Color|sa-hud-blue|Ryder}}. <small>{{H:title|If CJ gets too far away from Ryder.|[?]}}</small>
+}}{{Quote|That's another funeral you ran away from, fool. Just like Brian's.|[[Sweet Johnson meeting his brother for the first time in 5 years]]|sound=Sweet&amp;Kendl-GTASA-Quote.ogg}}
+'''Sweet & Kendl''' is a mission in {{SA}}, which protagonist [[Carl Johnson performs automatically after returning to his house]] in [[Ganton]], Los Santos]], San Andreas]].
+
+==Mission==
+Carl and Big Smoke arrive at the cemetery in Vinewood]]. They are greeted by Carl's sister Kendl]], while fellow gang member [[Ryder]] looks on. Carl expresses his sorrow towards his brother Sweet, but Sweet gets annoyed at Carl, stating that Carl "ran away" from her funeral just like their younger brother Brian's five years prior. Kendl goes to leave, saying that she's going to see her boyfriend, Cesar]], who is part of a rival gang]]. Sweet and Kendl argue and losing patience, which leads to Kendl storming off while Sweet notifies Carl of the deaths of other late Grove Street]] members, Tony]], [[Big Devil]] and [[Little Devil]].
+
+As Carl, Sweet, Smoke and Ryder are leaving the cemetery, some Ballas attempt a drive-by shooting, destroying Smoke's [[Perennial]] while doing so. The four Grove Street members steal four BMX]] bikes and try to evade the Ballas car]]. After riding their bikes through Los Santos, they stop in a car park under the freeway. Sweet splits up from Carl, Smoke and Ryder while being chased by the Ballas car. Carl follows Smoke and Ryder through the car park and onto the streets, where the Ballas car eventually catches up to them. The three Grove members escape back to Grove Street]] and are soon joined by Sweet.
+
+After meeting up again, Sweet asks Carl when he's leaving again, to which Carl tells him that he's staying around this time. Smoke tells him to drop in whenever he can, while Ryder belittles Carl for his haircut and choice of [[clothing. Sweet, Smoke and Ryder leave while Carl heads back into the [[Johnson House]].
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Get on the {{Color|sa-hud-blue|bike}}.
+*Follow {{Color|sa-hud-blue|Sweet}}.
+*You're too far away. Stay with {{Color|sa-hud-blue|Sweet}}. <small>(if CJ falls too far away from Sweet.)</small>
+*Follow {{Color|sa-hud-blue|Ryder}}.
+*You're too far away. Stay with {{Color|sa-hud-blue|Ryder}}. <small>(if CJ falls too far away from [[Ryder.)</small>
+
+==Reward==
+The rewards for completing this mission include:
+*An increase in [[respect and the next mission, Ryder]], is unlocked.
+*Johnson House in Grove Street is now available as a Safehouse.
+
+==Transcript==
+{{/Transcript}}
+
+==Post-Mission Phone Call==
+*'''Carl Johnson''': Hello?
+*'''[[Sweet Johnson''': Thought I'd explain some shit.
+*'''Carl Johnson''': Sweet, hey, wassup?
+*'''Sweet Johnson''': Since you been away, shit has changed 'round here. [[Grove Street Families ain't big no more. [[Seville Boulevard Families]] and [[Temple Drive Families]] are beefing, and split with the Grove. Now we so busy set tripping, Ballas]] and Vagos]] have taken over, so watch yo'self out there.
+*'''Carl Johnson''': Yeah, I hear you. Thanks for the heads up.
+*'''Sweet Johnson''': Don't mention it.
+
+==Aftermath==
+As Carl discovers, a lot has changed around San Andreas during the past five years:
+*A devastating earthquake has struck San Andreas, with travel disruption across the state until the road bridges were repaired.
+*Gang warfare and heavy drug dealing is on the rise in San Andreas. Carl receives a phone call from Sweet, who explains that Grove Street has lost its power and while the [[Seville Boulevard Families and the [[Temple Drive Families]] - who were once allied with the Grove Street Families - are "beefing" and ended up splitting into their own gangs, the Ballas and Vagos]] are taking over Los Santos.
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px" bordersize="small">
+Sweet&Kendl-GTASA-SS1.png|As CJ and Smoke]] approach Carl's family in the [[Vinewood Cemetery]], Smoke tries to calm CJ down.
+Sweet&Kendl-GTASA-SS2.png|The funeral has gone by; the only remaining people at CJ's mother's grave are Carl's brother Sweet]], his sister Kendl]] and their childhood friend [[Ryder]].
+Sweet&Kendl-GTASA-SS3.png|Smoke greets the trio and tells them to look at who he had met in Grove Street.
+Sweet&Kendl-GTASA-SS4.png|Kendl tells CJ it's good to see him and hugs him.
+Sweet&Kendl-GTASA-SS5.png|After a moment of silence, CJ says he can't believe their mother is gone.
+Sweet&Kendl-GTASA-SS6.png|Sweet is cold to CJ, as he doesn't know CJ missed his mother's funeral because of [[C.R.A.S.H. taking them hostage and comments how it's now the second funeral of an important person in his life he was too scared to attend.
+Sweet&Kendl-GTASA-SS7.png|CJ assures Sweet that he didn't miss the funeral because he didn't love his mother and reminds him that she was also CJ's mom. Sweet quickly replies, saying that it doesn't feel like she was CJ's mother, since he abandoned her and his family for five years.
+Sweet&Kendl-GTASA-SS8.png|Kendl immediately gets annoyed by Sweet's coldness and walks off. Sweet asks her where she's going.
+Sweet&Kendl-GTASA-SS9.png|Kendl tells Sweet that she's going to see someone named Cesar.
+Sweet&Kendl-GTASA-SS10.png|Sweet tells Kendl that he forbids her to go see this man, as he's a part of a Mexican gang that is currently beefing with [[Grove Street Families]].
+Sweet&Kendl-GTASA-SS11.png|Kendl tells Sweet that she doesn't care whether or not the Families and the eses are beefing or not, as she loves Cesar and asks Sweet what he's planning to do to stop her.
+Sweet&Kendl-GTASA-SS12.png|Sweet tells Kendl that at least he has some principles and Kendl laughs at his statement and asks CJ to back her up in this argument.
+Sweet&Kendl-GTASA-SS13.png|Sweet says that he doesn't care if CJ backs Kendl up or not, while CJ says that Kendl can see her boyfriend all she wants.
+Sweet&Kendl-GTASA-SS14.png|He then adds that if this Cesar disrespects or hurts Kendl, there'll be hell to pay for him.
+Sweet&Kendl-GTASA-SS15.png|Sweet is continuing to act cold towards CJ and asks him how he can just say something like that and pretend like he cares for his family after he abandoned them for five years.
+Sweet&Kendl-GTASA-SS16.png|This annoys Kendl even more, leading to her telling Sweet off and walking out of cemetery.
+Sweet&Kendl-GTASA-SS17.png|Sweet remarks how bad things are going for them right now and CJ asks him what he means by that.
+Sweet&Kendl-GTASA-SS18.png|Sweet starts by reminding Carl that his mother was killed.
+Sweet&Kendl-GTASA-SS19.png|Sweet then proceeds to show Carl where some of their old friends, Tony, [[Little Devil]] and [[Big Devil]] are buried.
+Sweet&Kendl-GTASA-SS20.png|Sweet tells Carl that Grove Street members are getting killed faster than anyone can notice.
+Sweet&Kendl-GTASA-SS21.png|Some time later, CJ, Sweet, Ryder and Smoke are walking out of the cemetery.
+Sweet&Kendl-GTASA-SS22.png|As the quartet approaches Smoke's car, they see a purple Voodoo]] driven by Kilo Tray]] Ballas]] approaching and Ryder alerts the other three they're about to have a drive-by performed on them.
+Sweet&Kendl-GTASA-SS23.png|As the Ballas begin the drive-by, they destroy Smoke's car, leaving the gang in a very dangerous spot.
+Sweet&Kendl-GTASA-SS24.png|Fortunately, there are exactly four bikes left in a building just across the street. Sweet tells everyone to get on them and pedal as fast as they can back to Grove Street.
+Sweet&Kendl-GTASA-SS25.png|CJ getting onto the last bike.
+Sweet&Kendl-GTASA-SS26.png|CJ, Sweet, Ryder and Smoke escaping the Ballas assassins.
+Sweet&Kendl-GTASA-SS27.png|As the gang drives away, CJ asks why the Ballas keep chasing them in Vinewood, if it's the Families turf.
+Sweet&Kendl-GTASA-SS28.png|Sweet explains, that the Families have now split into several sets and they're in [[Temple Drive Families territory, where their deaths would make no difference.
+Sweet&Kendl-GTASA-SS29.png|The quartet's attempt to escape leads them to a large parking lot underneath the freeway in Downtown.
+Sweet&Kendl-GTASA-SS30.png|Sweet decides that it'd be best if the group splits up and rides in a different direction to let CJ, Ryder and Smoke escape.
+Sweet&Kendl-GTASA-SS31.png|Ryder tells CJ to keep up.
+Sweet&Kendl-GTASA-SS32.png|CJ must now follow Ryder's lead.
+Sweet&Kendl-GTASA-SS33.png|CJ, Ryder and Smoke heading back to Grove Street.
+Sweet&Kendl-GTASA-SS34.png|As CJ, Ryder and Smoke approach [[Idlewood, the Ballas Voodoo gets back on their tail.
+Sweet&Kendl-GTASA-SS35.png|As CJ, Ryder and Smoke reunite with Sweet and near Grove Street, the Voodoo opts to not follow the quartet into deep Grove Street territory and leaves them alone.
+Sweet&Kendl-GTASA-SS36.png|The gang arriving back at the cul-de-sac in Grove Street.
+Sweet&Kendl-GTASA-SS37.png|As the quartet takes a moment to breathe after the intense chase, Ryder circles them and monologues about how good his performance was.
+Sweet&Kendl-GTASA-SS38.png|Sweet asks Carl when he'll leave again.
+Sweet&Kendl-GTASA-SS39.png|Carl responds saying that after seeing how bad things are back home, he may just stay and help the crew get back up on their feet.
+Sweet&Kendl-GTASA-SS40.png|Sweet then makes a sarcastic comment about how Carl's help is the last thing they need. After a moment Sweet tells him that they'll call up some girls and chill out and invites Carl to join them.
+Sweet&Kendl-GTASA-SS41.png|CJ tells Sweet that he's got a lot of things on his mind and that he'd rather think things over.
+Sweet&Kendl-GTASA-SS42.png|Smoke tells CJ to drop by whenever he feels like helping out, as they're always eager to welcome him.
+Sweet&Kendl-GTASA-SS43.png|Ryder then tells CJ to get some clothing that would better suit his gang, before all of them go their separate ways.
+Sweet&Kendl-GTASA-SS44.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{videogallery
+|{{#ev:youtube|OpTizzox2Qo|275px|center}}
+|{{#ev:youtube|6mJ_6upxD7M|275px|center}}
+|{{#ev:youtube|w365ropuLHg|275px|center}}
+|{{#ev:youtube|x7J8Hu57QSw|275px|center}}
+}}
+==Trivia==
+*Ryder, Sweet, and Big Smoke cannot be knocked off their bikes.
+*Not counting the player, in the whole chase, Ryder will always be on the first position, Sweet on second and Big Smoke on last position.
+*During the getaway, the Ballas actually only pursue CJ and Sweet and ignore Big Smoke and Ryder. This is one of the early signs of their betrayals later in the game.
+*The [[Kilo Tray Ballas are likely the set seen in this mission, as the Voodoo with the same color is seen again in [[Drive-Thru]].
+**If the player destroys the Voodoo (or kills both Ballas in it) before the cutscene under the [[Mulholland Intersection, Sweet won't split from the rest of the gang and the Voodoo won't reappear in [[Idlewood]], and the relevant cutscene will omit the part that Sweet escapes. However their vehicle will appear in a later mission]] regardless.
+*If the player steals a car instead of taking the BMX bike, during the ending cutscene in [[Ganton]], Carl won't be sitting on the bike talking with Sweet, Smoke and Ryder, but will be standing and talking with them instead, and the vehicle he used will be parked nearby, or, on certain occasions, vanish.
+*During the final cutscene, Ryder can be seen riding his bike around the cul-de-sac and doing wheelies while Big Smoke and Sweet talk to Carl.
+*The {{V}} mission "[[Hood Safari" makes a subtle reference to this mission, where the player can see three [[Chamberlain Gangster Families]] members riding away from Grove Street]] on bicycles, with a generic gangster wearing a white tank top (Carl's default outfit) leading the group.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[Category:Gameplay in GTA San Andreas
+[[Category:Storyline missions
+
+[[ar:سويت وكيندل
+[[de:Sweet & Kendl
+[[es:Sweet and Kendl
+[[fi:Sweet & Kendl
+[[fr:Sweet & Kendl
+[[it:Sweet & Kendl
+[[pl:Sweet i Kendl
+[[pt:Sweet e Kendl
+[[ru:Sweet & Kendl
+[[uk:Sweet & Kendl
+[[vi:Sweet & Kendl
+[[zh:Sweet & Kendl

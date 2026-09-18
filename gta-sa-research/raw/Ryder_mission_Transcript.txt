@@ -1,0 +1,136 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson|CJ]] enters [[Ryder's House]].
+}}{{line
+|name=[[Ryder]]
+|dialogue=Hey, man, what you want?
+}}{{line
+|name=CJ
+|dialogue=Seeing my homie. What's up with you?
+}}{{line
+|name=Ryder
+|dialogue=Yeah, homie, yeah yeah. It's good to see you back.
+}}{{line
+|name=CJ
+|dialogue=No homie love? No hug?
+}}{{line
+|name=Ryder
+|dialogue=Oh, for sure, for sure my ni**a, my bad. What's crackin' with you?
+}}{{line
+|name=CJ
+|dialogue=Hey, man, what you strapped for?
+}}{{line
+|name=Ryder
+|dialogue=Man, some pizza place keeps painting over our hit up, man! That shit is beautiful. Teach the owner a lesson. He's fucking with Grove Street. You down?
+}}{{line
+|name=CJ
+|dialogue=I'm always down.
+}}{{line
+|name=Ryder
+|dialogue=Ahhhh, yeah... Let's go, bitch.
+}}{{line
+|background=CJ and Ryder exit Ryder's house.
+}}{{line
+|name=Ryder
+|dialogue=Hey, show me how they drive on the East Coast, homie!
+}}{{line
+|background=CJ and Ryder get into Ryder's [[Picador]] and drives to [[Reece's Hair & Facial Studio]].
+}}{{line
+|name=CJ
+|dialogue=Hey, Old Reece still running the barber shop?
+}}{{line
+|name=Ryder
+|dialogue=Like a raggedy-assed motherfucker! He popped his membrane years ago! No way I'd let that old fool near ''my'' head!
+}}{{line
+|name=CJ
+|dialogue=Yeah, I think I'll get cut up.
+}}{{line
+|name=Ryder
+|dialogue=Whatever. You got five minutes. I'll be cutting you like a DJ. So when you running off again?
+}}{{line
+|name=CJ
+|dialogue=I'm not, I'm thinkin' of staying.
+}}{{line
+|name=Ryder
+|dialogue=Why?
+}}{{line
+|name=CJ
+|dialogue=My family, the homies is here.
+}}{{line
+|name=Ryder
+|dialogue=We were always here, fool!
+}}{{line
+|name=CJ
+|dialogue=Yeah, but, now I'm back and I know what I've been missing.
+}}{{line
+|name=Ryder
+|dialogue=Don't expect me to kiss your ass or nothing. You're still a buster to me.
+}}{{line
+|name=CJ
+|dialogue=Yeah, OK, thanks homie.
+}}{{line
+|name=Ryder
+|dialogue=Yeah, don't mention it.
+}}{{line
+|background=(If CJ gets out of the Picador.
+}}{{line
+|name=Ryder
+|dialogue=<br>*Hop in, CJ.<br>*Jump in.<br>*Get in fool!<br>*All aboard, CJ.<br>*Guess you drivin' huh?<br>*C'mon CJ, earn your keep!)
+}}{{line
+|background=CJ enters the barber shop and chooses a haircut.
+}}{{line
+|name=[[Old Reece|Reece]]
+|dialogue=<br>*Tell Big Smoke he needs a cut.<br>*Hope you stick around longer.<br>*Nice to have you back, son.<br>*Say hi to your [[Sweet|brother]] for me.
+}}{{line
+|background=CJ leaves the barber shop.
+}}{{line
+|name=Ryder
+|dialogue=(if CJ gets a Cesar, Flattop, or High Fade haircut) Shit, I told you he was crazy! Man, you jacked up!
+}}{{line
+|name=Ryder
+|dialogue=(if CJ gets an Afro, Jheri Curl, or Cornrow haircut) You know something? I take it back, Old Reece still got it cracking.
+}}{{line
+|name=Ryder
+|dialogue=Man, what's this? Shit looks ridiculous. No respect for the 'hood, all clean and shit. You're looking too skinny, CJ. Go and get us something to eat. I'm gonna finish this. Then I'm gonna take care of business.
+}}{{line
+|background=CJ enters [[The Well Stacked Pizza Co. (3D Universe)|The Well Stacked Pizza Co.]] and orders some food. Ryder shortly after enters wielding a [[Pistol (3D Universe)|Pistol]].
+}}{{line
+|name=Ryder
+|dialogue=Give up the money! This a raid!
+}}{{line
+|name=Well Stacked Pizza Clerk
+|dialogue=Ryder! Not this again!
+}}{{line
+|name=Ryder
+|dialogue=It ain't me, fool!
+}}{{line
+|name=Well Stacked Pizza Clerk
+|dialogue=No one else is that small! I feel sorry for your dad!
+}}{{line
+|name=CJ
+|dialogue=Shit, you crazy! Let's get out up outta here!
+}}{{line
+|name=Ryder
+|dialogue=Same old CJ! Busta! Straight busta!
+}}{{line
+|background=The Well Stacked Pizza Clerk pulls a [[Shotgun (3D Universe)|shotgun]] from behind the counter and fires a warning shot, sending CJ and Ryder running.
+}}{{line
+|name=Ryder
+|dialogue=Oh, shit! RUN!
+}}{{line
+|background=CJ and Ryder get into Ryder's Picador and start to escape as the Well Stacked Pizza Clerk runs out of the store, Shotgun in hand.
+}}{{line
+|name=Well Stacked Pizza Clerk
+|dialogue=This pizza parlor is no push-over!
+}}{{line
+|name=Ryder
+|dialogue=What you waiting for, fool? Take us back to the Grove, motherfucker!
+}}{{line
+|background=CJ and Ryder drive back to Ryder's house in Grove Street.
+}}{{line
+|name=Ryder
+|dialogue=Better drop by and see Sweet. He's been yapping on about that graffiti, too. Later, homie.
+}}}}<noinclude>
+</noinclude><noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

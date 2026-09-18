@@ -1,0 +1,98 @@
+{{Scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] goes to [[Big Smoke's House]] to find [[Frank Tenpenny]] and [[Eddie Pulaski]] leaving. [[Big Smoke]] follows behind them.
+}}{{line
+|name=Tenpenny
+|dialogue=Boo!
+}}{{line
+|name=CJ
+|dialogue=Asshole.
+}}{{line
+|name=Tenpenny
+|dialogue=Yo Carl, see you around!
+}}{{line
+|name=CJ
+|dialogue=The fuck they doin' here anyway? Punk ass police.
+}}{{line
+|name=Big Smoke
+|dialogue=Those lousy motherfuckers won't leave me alone. Think i'm Mr. Big or something but I don't tell 'em shit! For me, it's all about my homeboy Carl.
+}}{{line
+|name=CJ
+|dialogue=Yeah, whatever you say.
+}}{{line
+|name=Big Smoke
+|dialogue=The gang's realy important, CJ, you know that. You down to represent, baby?
+}}{{line
+|name=CJ
+|dialogue=Yeah.
+}}{{line
+|name=Big Smoke
+|dialogue=Look, my cousin is coming into town from [[Mexico]]. I got to go scoop her up.
+}}{{line
+|name=CJ
+|dialogue=Alright then, let's go.
+}}{{line
+|background=CJ and Big Smoke head to [[East Los Santos (3D Universe)|East Los Santos]] to meet Big Smoke's cousin.
+}}{{line
+|name=CJ
+|dialogue=What you want me to roll with you for anyway?
+}}{{line
+|name=Big Smoke
+|dialogue=No reason. I just wanted to get to the car pool lane.
+}}{{line
+|name=CJ
+|dialogue=Oh yeah?
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah man, just cool out homie, just chill.
+}}{{line
+|name=CJ
+|dialogue=Your cousin's coming here? From Mexico?
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, me an' her go way back, way back.
+}}{{line
+|name=CJ
+|dialogue=Ah Smoke, you full of shit.
+}}{{line
+|name=Big Smoke
+|dialogue=Don't be prejudiced again in my presence, Carl. Everybody is my cousin.
+}}{{line
+|background=CJ and Big Smoke arrive to East Los Santos, where they see two [[Los Santos Vagos (3D Universe)|Vagos]] members.
+}}{{line
+|name=Big Smoke
+|dialogue=Ok, my cousin Mary's in there. Sweet. Sticky. Bud fresh off the plantation. Here, pull up here, let me do the talking.
+}}{{line
+|name=CJ
+|dialogue=Man, I shoulda known.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, excuse me, Jose, yo soy El Grando Smokio. And I want that grass. Comprende?
+}}{{line
+|name=Vago
+|dialogue=Ey, fuck you cabrón.
+}}{{line
+|name=CJ
+|dialogue=What?
+}}{{line
+|name=Big Smoke
+|dialogue=Now that ain't nice. Coughio up el weedo, before I blow your brains out all over the patio.
+}}{{line
+|name=Vago
+|dialogue=Chinga a tu madre, pendejo.
+}}{{line
+|name=CJ
+|dialogue=Man, let me get the heater on this... Get him, Smoke.
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, yeah, you go get that shit, ni**a... (hits Vago with a [[Baseball Bat|baseball bat]]) Yeah, motherfucker, Big Smoke! Remember that name!
+}}{{line
+|name=Big Smoke
+|dialogue=We gotta stick with him! (Smoke sprints down a staircase and runs out of breath.) CJ, this one's all yours, baby./I ain't built for this shit!
+}}{{line
+|background=CJ chases the remaining Vago and once he kills him the mission is complete.
+}}}}<noinclude>
+</noinclude><noinclude>
+</noinclude><noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

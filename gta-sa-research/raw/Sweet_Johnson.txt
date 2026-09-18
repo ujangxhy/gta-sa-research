@@ -1,0 +1,216 @@
+{{Infobox character
+|image          = SeanJohnson-GTASA.png
+|games          = {{Games|SA=y}}
+|name           = Sean Johnson
+|aka            = Sweet
+|status         = Alive
+|gender         = M
+|pob            = [[Los Santos (3D Universe)|Los Santos]]
+|home           = [[Grove Street (3D Universe)|Grove Street]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]]
+|nationality    = {{Country|US|adj=y}}
+|family         = 
+*[[Beverly Johnson]] <small>(mother)</small> {{Status|D1=y}}
+*[[Carl Johnson]] <small>(brother)</small>
+*[[Kendl Johnson]] <small>(sister)</small>
+*[[Brian Johnson]] <small>(brother)</small> {{Status|D1=y}}
+*[[Sweet's Girlfriend|Unnamed girlfriend]]
+*[[Carl Johnson's father|Unnamed father]] {{Status|U=y}}
+|affiliations   = 
+*[[Grove Street Families]] <small>(Leader)</small>
+*[[Carl Johnson]]
+*[[Kendl Johnson]]
+*[[Big Smoke]] <small>(Formerly)</small> {{Status|D1=y}}
+*[[Ryder]] <small>(Formerly)</small> {{Status|D1=y}}
+*[[Cesar Vialpando]]
+*[[OG Loc (3D Universe)|OG Loc]] <small>(Formerly)</small> {{Status|U=y}}
+*[[B Dup]] <small>(Formerly)</small>
+*[[Big Bear]]
+|vehicles       = 
+*Blue "<code>{{H:title|License plate|GROVE4L}}</code>" [[Greenwood (3D Universe)|Greenwood]] <small>([[Reuniting the Families|destroyed]])</small>
+*Second Blue "<code>{{H:title|License plate|GROVE4L}}</code>" Greenwood <small>(bought before the [[Riot (GTA San Andreas)|riot]])</small>
+|businesses     = [[Grove Street Families]]
+|voice          = [[Faizon Love]]
+|weapons = 
+*[[Pistol (3D Universe)|Pistol]]
+*[[Tec-9]]
+*[[Micro SMG (3D Universe)|Micro SMG]]
+*[[SMG (3D Universe)|SMG]]
+*[[AK47|AK-47]]
+*[[Spray Can]]
+*[[Desert Eagle]] <small>([[Cutscene Weapons|cutscenes]] only)</small>
+}}
+{{Quote|You gotta love your hood like you love your homies. It's always been that way, and ain't nothing ever gonna change, I done seen it all.|Sweet Johnson to other [[Grove Street Families|GSF]] members in [[Grove 4 Life]].|sound=SeanJohnson-GTASA-Quote.ogg}}
+'''Sean "Sweet" Johnson'''{{Ref
+|name = Sweet's full name
+|type = undefined
+|date = 11/12/2024
+|filepath   = \TEXT\american.gxt
+|filedata   = [CRED280] Sean "Sweet" Johnson - Faizon Love
+|ref        = Full name revealed in the in-game credits, official manual and promotional material.<br>[[File:GroveStreetFamilies-GTASA-MostWanted.png|200px]]
+}} is the [[deuteragonist]] of {{SA}}.
+
+He is voiced by [[Faizon Love]].
+
+==History==
+Sweet is the [[Gang Leaders|leader]] of the [[Grove Street Families (3D Universe)|Grove Street Families]] gang, which is based in [[Ganton]], [[Los Santos (3D Universe)|Los Santos]]. He is the eldest child of [[Beverly Johnson]] and the elder brother of [[Carl Johnson|Carl]], [[Kendl Johnson|Kendl]], and [[Brian Johnson|Brian]]. Sweet is also shown to have an unnamed girlfriend in two missions.
+
+===Background===
+Sweet was born to [[Beverly Johnson]] and an [[Carl Johnson's Father|unnamed father]] in [[Los Santos (3D Universe)|Los Santos]]. He was later present at the births of his three younger siblings, Carl, Kendl, and Brian. Carl described Sweet as "the man of the house", since they barely knew their father. Sweet was also often bringing necessary money to the family through robbing other people. After [[1987]], Sweet became the leader of the [[Grove Street Families (3D Universe)|Grove Street Families]] and recruited [[Big Smoke]]. Later on, [[Ryder]] and Carl joined the gang. Sweet's youngest brother Brian died in an accident, which Sweet blamed on Carl; this resulted in Carl leaving for [[Liberty City (3D Universe)|Liberty City]]. Sweet then moved out into his own [[Sweet's House|house]], two doors down from his childhood home. As stated by [[Big Bear]] during a [[Beat Down on B Dup|deleted dialogue]] between himself and CJ, after Brian's death and CJ's departure, Sweet became a "hard man to be with", and when the [[Seville Boulevard Families|Seville Boulevard]] and [[Temple Drive Families|Temple Drive]] sets split up from the Grove, Sweet did nothing about this, which was one of the major factors in Big Bear's defection, and Grove Street's loss of power and influence.
+
+Throughout the game, Sweet is seen to have two different girlfriends, one of which Carl [[Sweet's Girl|saved]]. However, since Sweet shows little to no attention when Carl [[Beat Down on B Dup|throws his girl out]] near the end of the game, it is implied that Sweet and her are not in a relationship and he only has one girlfriend.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+====Beverly's Death====
+{{quote|No! Oh, shit! Hell!|Sweet running to his [[Beverly Johnson|mother]]'s home, after the drive-by attack}}{{Dialogue|p1=Sweet|d1=Carl, it's Sweet.|p2=CJ|d2=Hey, wassup, Sweet? What you want?|p3=Sweet|d3=I think you better come home. It's Moms... She's dead, bro.|quotedetail=Sweet's call to Carl}}
+[[Category:Pages containing retired templates]]
+Sweet continued to lead the Grove Street Families, whose influence began to decline as their [[Ballas (3D Universe)|rivals]] began to manufacture and sell [[drugs]]. His childhood friend, Big Smoke, attempted to convince him to start selling drugs to help the Grove Street Families, but Sweet refused. The Ballas, with whom Big Smoke and Ryder are now connected, plot to kill Sweet and perform a drive-by shooting at the Johnson House. The gang, however, instead miss Sweet altogether and kill his [[Beverly Johnson|mother]] instead, which results in Carl returning from Liberty City.
+
+====Carl's Return====
+{{quote|That's another funeral you ran away from, fool. Just like Brian's.|Sweet to Carl}}
+At the funeral, Sweet and his sister Kendl are reunited with their brother Carl. Sweet angered with argument Kendl by insulting her [[Cesar Vialpando|boyfriend]], and berated Carl for missing both their [[Brian Johnson|brother's]] and mother's funerals. Sweet's dislike of Carl, prior to his return to Los Santos, is seen during [[The Introduction]] where he states that Carl "has his own life, more than he deserves", and that he "can rot in hell for all I give a fuck".
+
+Sweet did not trust Carl on his return, but he later realized his true intentions of staying and helping the Grove Street Families. This resulted in a closer relationship.
+
+Sweet then decided to have Carl work for the gang, including to [[Tagging Up Turf|putting the gang tag]] across [[Los Santos (3D Universe)|Los Santos']] poorer districts, [[Cleaning the Hood|killing some Ballas drug dealers]], [[Drive-Thru|killing some Ballas attempting a drive-by]], and [[Nines and AK's|meeting]] an [[Emmet|old friend]] and [[Drive-By|killing Ballas]] gang members in [[Jefferson (neighborhood)|Jefferson]]. He also had Carl [[Cesar Vialpando (mission)|meet]] Kendl's boyfriend [[Cesar Vialpando]], member of the rival gang [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]], with Carl reporting that he will be good to Kendl.
+
+Sweet's leadership and the gang's continued decline began to lead to factions within the Grove Street Families agitating to break away. This is shown during [[Sweet's Girl]], where Sweet [[Mobile Phone|phones]] his brother requesting help to escape from the Seville Boulevard Families, who have cornered him and his girlfriend in [[Playa del Seville]]. Carl manages to rescue them and later Sweet arranges a [[Reuniting the Families|meeting]] for the various factions, including the Temple Drive Families, which is interrupted by the [[Los Santos Police Department (3D Universe)|police]]. The gang, however, continue to do well despite the fractions, with Carl [[Doberman|taking control]] of [[Glen Park]] and [[Los Sepulcros|killing]] [[Kane]], a high-ranked Ballas member.
+
+====Imprisoned====
+{{Dialogue|p1=Sweet|d1=Grove Street is king! Say it with me ni**as, Grove Street is KING! Yeah!|p2=GSF members|d2=GROVE STREET IS KING!|quotedetail=Sweet and other [[Grove Street Families|GSF]] members during mission [[The Green Sabre]].}}
+
+Sweet is later involved in a shootout with various [[Ballas (3D Universe)|Ballas]] members, who attack in seemingly endless waves of vans. He is shot during the shootout, but is saved from death due to the assistance of Carl and three other Grove Street Families members, although Carl does inform Sweet of the betrayal of Big Smoke and Ryder and their alliance with [[Frank Tenpenny]] and [[Eddie Pulaski]] of [[C.R.A.S.H.]] The [[Los Santos Police Department (3D Universe)|police]] show up on the scene and arrest both Sweet and Carl was kidnapped. Sweet is later imprisoned in a prison hospital "upstate", while Carl is taken to [[Angel Pine]] by Tenpenny, Pulaski and [[Jimmy Hernandez]] and begins his life in exile in the rural part of the [[State of San Andreas (3D Universe)|state of San Andreas]].
+
+====Life While Imprisoned====
+{{quote|Sweet is alive. Alive and inside. He's in a prison hospital being treated for gunshot wounds, awaiting trial.|[[Frank Tenpenny]]}}Carl continues to work his way up the criminal underworld in [[San Fierro (3D Universe)|San Fierro]] and becomes aware of the [[Loco Syndicate]], led by [[Jizzy B.]], [[T-Bone Mendez]] and [[Mike Toreno]], who are selling drugs to members of the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]], who are in alliance with Big Smoke, the Ballas and the [[Russian Mafia (3D Universe)|Russian Mafia]]. Carl begins working for them, allowing his new [[San Fierro Triads|Triad]] allies to find out more about their dealings. Carl later kills [[Ice Cold Killa|Jizzy]], [[Pier 69 (mission)|T-Bone Mendez]] and seemingly obliterating [[Toreno's Last Flight|Mike Toreno]], along with former ally Ryder. He later receives a phone call from an unknown man who reveals himself to be Mike Toreno, who had sent another man as a decoy during [[Toreno's Last Flight]]. Carl begins to work for the government agent and his work is rewarded, as Toreno helps secure the release of Sweet, who is released during [[Home Coming]].
+
+During his imprisonment, Sweet was taken "upstate" and placed in cell 13 of the prison's D-wing, according to [[Mike Toreno]] in the mission [[Interdiction]]. The prisoner in his cell to the left was a child killer who wanted to rip his throat out, and to the right was a white supremacist who wanted to eat his heart. Mike Toreno also ensures Sweet's safety during incarceration, as he reassures to Carl that if "he gets touched, a prison guard goes home and finds that his wife and kids have been murdered".
+
+====Release from Prison====
+{{quote|This is home, man. Get these fuckers out of Mom's house! You was born in there. Damn!|Sweet to Carl after both return to [[Grove Street]]}}
+[[File:HomeComing-GTASA2.jpg|right|thumb|200px|Sweet meeting [[Carl Johnson]] in [[Pershing Square]] after being released from prison, during [[Home Coming]].]]
+Carl tells Sweet of his and Kendl's new life in [[San Fierro (3D Universe)|San Fierro]] and [[Las Venturas (3D Universe)|Las Venturas]], trying to convince him to move away from the hood. Sweet, however, insists on returning to [[Ganton]] and, upon on their return, they retake control of the area. Sweet then accompanies Carl as the two [[Beat Down on B Dup|re-take]] [[Glen Park]] and rescue [[Big Bear]] from the clutches of the drug dealer [[B Dup]], with Sweet taking him to rehab. Carl is then instructed to [[Grove 4 Life|take control]] of [[Idlewood]], one of the districts neighboring Ganton.
+
+During this time, Frank Tenpenny had finally been charged with racketeering, corruption, narcotics, and sexual assault. However, he was found not guilty due to Carl killing most of the witnesses under Tenpenny's orders and is released, resulting in [[Riot (GTA San Andreas)|riots]] across Los Santos' poorer districts. Sweet, who had joined Carl, Kendl, Cesar, [[The Truth]], [[Maccer]] and [[Madd Dogg (3D Universe)|Madd Dogg]] to watch the news at Madd Dogg's [[Madd Dogg's Crib|mansion]], is then driven home by Carl.
+
+Shortly afterwards, Sweet orders Carl to "pay back his debts" and help Cesar [[Los Desperados|retake]] his neighborhood from the [[Los Santos Vagos (3D Universe)|Vagos]] in return for the countless times that Cesar helped them and their gang.
+
+====End of Problems====
+[[File:EndoftheLine-GTASA5.jpg|right|thumb|200px|Sweet, [[Carl Johnson]], [[Cesar Vialpando]] and [[Kendl Johnson]] witnessing the last moments of [[Frank Tenpenny]] in [[Grove Street (3D Universe)|Grove Street]], during [[End of the Line]].]]
+Shortly afterwards, the two brothers [[End of the Line|decide to take on the Ballas, stop their drug manufacturing and kill Big Smoke]]. Beforehand, however, Sweet has Carl take over many territories all over [[Los Santos (3D Universe)|Los Santos]] in order to obtain concrete information about Big Smoke's location, and after Carl successfully does so, Carl breaks into the [[Big Smoke's Crack Palace|manufacturing plant]] and kills Big Smoke, despite [[Ballas (3D Universe)|Ballas]], [[Los Santos Vagos (3D Universe)|Los Santos Vagos]], [[San Fierro Rifa]] and [[Russian Mafia (3D Universe)|Russian Mafia]] members attempting to stop him. After killing Smoke, Carl is interrupted by Frank Tenpenny, who sets fire to some of the machinery. Carl, however, manages to escape out of the building just in time to see Tenpenny escape in a [[Fire Truck (ladder)|fire truck]].
+
+Sweet, however, grabs hold of one of the truck's ladders, furious for Tenpenny's actions. Carl then drives after his brother in an open-top [[Feltzer]], which Sweet eventually drops into. Sweet takes the wheel and the two give chase, fending off the [[Los Santos Police Department (3D Universe)|police]] and rival gang members. The two continue to chase Tenpenny until he crashes his fire truck, which goes over a bridge and crashing into [[Grove Street (3D Universe)|Grove Street]]. Sweet and Carl, along with Kendl, Cesar and The Truth, then watch Tenpenny die from his injuries sustained from the accident after he climbs out of the truck's cabin. Carl prepares to shoot Tenpenny to "make sure it's over", but Sweet restrains him, declaring Tenpenny died in a traffic accident to ensure that his death cannot be pinned on the gang.
+
+The five then return to the [[Johnson House]] and are joined by [[Madd Dogg (3D Universe)|Madd Dogg]], [[Ken Rosenberg]], [[Maccer]] and [[Kent Paul]] as they celebrate their newfound success.
+
+==Character==
+===Personality===
+Sweet is described in the C.R.A.S.H. dossier (viewable in the instruction manual) as "naive, but powerful". He is intensely loyal to his neighborhood but he can be harshly judgmental of people. As leader of the Grove Street Families, he idealistically thought of using them as a means to keep crack and other hard drugs off the streets, and even when GSF's influence began to wane, he refused to compromise family and friends, and originally founded the Grove Street Families as a way of keeping his hood safe. When CJ leaves for Liberty City after Brian's death, he views it as a betrayal of both the gang and his family and is reluctant to forgive him. Once CJ has proven himself, however, Sweet angrily stands up for him when others insult him. Due to his loyalty, Sweet is also extremely provincial, refusing to leave the hood and failing to show interest in the world outside of Grove Street.
+
+While in prison, Sweet becomes despondent and gives up hope of ever getting out. After his [[Home Coming|release from prison]], Sweet becomes angry and losing patience at CJ over his decision to abandon Grove Street. He refuses to go and see any of the properties CJ has acquired and returns to his house in Ganton. However, in the end the two brothers manage to take back Grove Street and get rid of Tenpenny.
+
+Unlike the leaders of the Ballas and the Los Santos Vagos, Sweet is not a coward and often leads attacks on the rival gangs' home turf.
+
+===Appearance===
+Sweet has a black goatee with stubble across his jaw. He wears a green cap with an "LS" logo (presumably standing for Los Santos) and a green plain t-shirt with a white undershirt and blue jeans with blue shoes. The shoes are similar to the Hi-Tops from [[Sub Urban (3D Universe)|Sub Urban]], which can be purchased by the player.
+
+===Vehicles===
+Sweet owns a bright blue [[Greenwood (3D Universe)|Greenwood]], with a [[Vehicle Features/Custom Vehicle License Plates|licence plate]] reading GROVE4L ("Grove 4 Life").
+
+It is destroyed during the mission [[Reuniting the Families]], after being driven through a [[Sprunk (3D Universe)|Sprunk]] billboard, falling onto the highway below and colliding with a petrol tanker. Sweet later purchases an identical car, and when Carl complains that he can't believe that Sweet "bought that same bucket-ass car", Sweet comments that "if it ain't broke, don't fix it".
+
+===Development===
+The [[Beta Content in GTA San Andreas|beta version]] of Sweet wore a black T-shirt, a long-sleeved white undershirt, black trousers and black skully, which can be seen in a picture inside the [[Johnson House]]. He is seen with Kendl. Note that there is a very similar [[Pedestrians|pedestrian]] in the game as well.
+
+The "final" version of Sweet also wore a white, long-sleeved undershirt, as seen from the first trailer.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[In the Beginning]] <small>(Voice)</small>
+*[[Sweet & Kendl]]
+*[[Tagging Up Turf]] <small>(Boss) </small>
+*[[Cleaning the Hood]] <small>(Boss) </small>
+*[[Drive-Thru]] <small>(Boss) </small>
+*[[Nines and AK's]] <small>(Boss)</small>
+*[[Drive-By]] <small>(Boss) </small>
+*[[Sweet's Girl]] <small>(Boss) </small>
+*[[Cesar Vialpando (mission)|Cesar Vialpando]] <small>(Boss) </small>
+*[[OG Loc (mission)|OG Loc]]
+*[[House Party]]
+*[[Burning Desire]] <small>(Post-mission phone call) </small>
+*[[Doberman]] <small>(Boss/Unseen) </small>
+*[[Los Sepulcros]] <small>(Boss)</small>
+*[[Reuniting the Families]] <small>(Boss) </small>
+*[[The Green Sabre]] <small>(Boss/Arrested) </small>
+*[[Badlands]] <small>(Post-mission phone call) </small>
+*[[Saint Mark's Bistro]] <small>(Post-mission phone call) </small>
+*[[Home Coming]] <small>(Released) </small>
+*[[Beat Down on B Dup]] <small>(Boss) </small>
+*[[Grove 4 Life]] <small>(Boss) </small>
+*[[Riot (GTA San Andreas)|Riot]]
+*[[Los Desperados]] <small>(Boss) </small>
+*[[End of the Line]] <small>(Boss) </small>
+
+==Gallery==
+===Artworks===
+<gallery position="center" spacing="small" widths="250px">
+Sweet.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''Sweet''' and [[Ryder]].
+Artwork-GSF-GTASA.jpg|Artwork of '''Sweet''', Ryder and [[Big Smoke]].
+Artwork-GroveStreetFamily-GTASA.jpg|Artwork of '''Sweet''', CJ and Ryder.
+GSFVSBALLAS.jpg|Artwork of '''Sweet''', Ryder and Big Smoke doing a [[Drive-By Shooting|drive-by shooting]].
+GSF with Ballas.png|Artwork of '''Sweet''', Ryder and Big Smoke doing a drive-by shooting against the [[Ballas (3D Universe)|Ballas]].
+</gallery>
+
+===In-Game===
+<gallery position="center" spacing="small" widths="250px">
+SweetJohnsons'house-GTASA-exterior.jpg|'''Sweet'''{{'}}s car and [[Sweet's House|his home]].
+Greenwood-GTASA-Sweet.jpg|'''Sweet'''{{'}}s [[Greenwood (3D Universe)|Greenwood]].
+GroveStreetFamilies-GTASA-members.jpg|'''Sweet'''{{'}}s [[Grove Street Families|GSF]] members.
+Sweet'sGirl-GTASA-Mission.png|'''Sweet''' (right) during [[Sweet's Girl]].
+TheGreenSabre-GTASA-SS10.png|'''Sweet''' in [[The Green Sabre]].
+TheGreenSabre-GTASA-SS75.png|'''Sweet''' shot during the mission The Green Sabre.
+JohnsonHouse-GTASA-SweetandKendlPortrait.png|[[Beta Content in GTA San Andreas/Characters|Early version]] of the [[Cutscenes|cutscene]] models of '''Sweet''' and [[Kendl Johnson|Kendl]] found in the [[Johnson House]].
+SeanJohnson-GTASADE.png|'''Sweet''' in a screenshot from {{TDE}}.
+GTATrilogyDE-GTASA-Screenshot6.jpg|'''Sweet''' in a screenshot from ''The Definitive Edition''.
+Sweet-GTASAde.png|'''Sweet''' in ''The Definitive Edition'' of {{SA}}.
+</gallery>
+
+==Trivia==
+*Sweet is one of the few characters to survive a [[canon]] gunshot, some others being [[Claude]], [[Roman Bellic]], [[Pathos]], and [[Jimmy Pegorino]].
+*Sweet's favorite radio stations are [[Bounce FM]], [[CSR 103.9]], and [[Radio Los Santos (3D Universe)|Radio Los Santos]].
+*Sweet's face resembles that of {{WP|Ice Cube}}.
+*Sweet gives the player 15 missions, the second-highest number of any character in all games, behind [[Salvatore Leone]], who gives 19 missions to [[Toni Cipriani|the player]] in {{LCS}}.
+*Sweet is one of the three characters (alongside [[Ryder]] and [[Cesar Vialpando]]) to negatively react to [[Carl Johnson|Carl]]'s car crashing whenever they ride with him.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families}}
+{{Navbox gtasa characters}}
+}}
+
+[[ar:سويت جونسون]]
+[[de:Sean Johnson]]
+[[es:Sweet Johnson]]
+[[fr:Sweet]]
+[[it:Sean Johnson]]
+[[hu:Sweet Johnson]]
+[[nl:Sean Johnson]]
+[[pl:Sean Johnson]]
+[[pt:Sean Johnson]]
+[[ru:Свит]]
+[[fi:Sean Johnson]]
+[[tr:Sean Johnson]]
+[[vi:Sweet Johnson]]
+[[uk:Шон Джонсон]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Deuteragonists]]
+[[Category:Gangsters]]
+[[Category:Gang leaders]]
+[[Category:Members of the Johnson family]]
+[[Category:Mission givers]]

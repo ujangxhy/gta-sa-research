@@ -1,0 +1,55 @@
+{{Spoilers}}
+{{Infobox location
+|type           = house
+|name           = Ryder's House
+|image          = Ryder'sHouse-GTASA-exterior.jpg
+|caption        = Ryder's House as it appears in ''Grand Theft Auto: San Andreas''.
+|games          = {{Games|SA=y}}
+|architecture   = Bungalow
+|floors         = 1
+|owner          = [[Ryder|Lance "Ryder" Wilson]] <small>(formerly)</small> 
+|location       = [[Grove Street (3D Universe)|Grove Street]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+}}
+'''Ryder's House''' is located on [[Grove Street (3D Universe)|Grove Street]] in [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], between the [[Johnson House]] and the Grove Street overpass.
+
+==Description==
+The property consists of a bungalow with a driveway and back garden. There is Ryder's brown [[Picador]] parked in the driveway. The interior of the house is featured briefly during mission [[cutscenes]], with only the kitchen and the living room visible. In the living room, a boxart of {{VC}} can be seen. In the back garden, a [[shovel]] can be found, along with several holes which were dug by Ryder during the mission Home Invasion whilst looking for [[drugs]] he buried in the garden.
+
+Following Ryder's [[Pier 69 (mission)|death]], the house remains unoccupied for the rest of the game, though the Picador can still be found parked in the driveway.
+
+==Prominent Appearances in Gameplay==
+*[[Ryder (mission)|Ryder]]
+*[[Home Invasion]] <small>(exterior only)</small>
+*[[Catalyst]]
+*[[Robbing Uncle Sam]] <small>(exterior only)</small>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+RydersHouse-GTASA-Location.png|Location of the house in eastern [[Los Santos (3D Universe)|Los Santos]].
+Ryder'sHouse-GTASA-Hallway.jpg|Hallway.
+Ryder'sHouse-GTASA-LivingRoom.jpg|[[Ryder]]'s living room, which is not normally accessible.
+Ryder'sHouse-GTASA-Kitchen.jpg|Ryder's kitchen, which is not normally accessible.
+Ryder'sHouse-GTASA-Bathroom.jpg|Bathroom.
+RydersHouse-GTASA-Backyard.jpg|The backyard.
+Ryder'sHouse-GTASA-GTAViceCityPoster.jpg|{{VC}} poster in '''Ryder's house'''.
+</gallery>
+
+==Trivia==
+*The holes in Ryder's backyard are present even before the [[Home Invasion]] mission.
+
+==See Also==
+*[[Sweet's House]]
+*[[Johnson House]]
+*[[Big Smoke's House]]
+*[[OG Loc's House]]
+
+[[Category:Buildings in GTA San Andreas in Los Santos]]
+[[Category:Single-family homes]]
+[[Category:Homes]]
+
+[[de:Ryders Haus]]
+[[es:Casa de Ryder]]
+[[fr:Maison de Ryder]]
+[[it:Casa di Ryder]]
+[[pl:Dom Rydera]]
+[[ru:Дом Райдера]]

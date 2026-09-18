@@ -1,0 +1,149 @@
+{{Infobox mission
+|name       = Stowaway
+|image      = Stowaway-GTASA-Mission.png
+|caption    = The [[Andromada]] arriving at [[Verdant Meadows Airfield|Verdant Meadows]].
+|game       = {{Games|SA=y}}
+|type       = SA
+|for        = {{For|game=SA|airyardToreno}}
+|location   = [[Verdant Meadows Airfield|Verdant Meadows]], [[Bone County (3D Universe)|Bone County]]
+|target     = [[Andromada]]
+|fail       = 
+*[[Wasted]]
+*[[Andromada]] gets away
+*The plane was not destroyed
+*Jumping out of the plane without a parachute or with a different parachute
+*The guard with the parachute falls out of the plane
+*Blown up in the plane
+|reward     = [[Money|$]]20,000
+|unlocks    = [[Black Project]]
+|unlockedby = [[N.O.E.]]
+|todo       =
+*Toreno needs you to plant a bomb in the plane. Stealth is out of the question so you'll need to move fast.
+*Use the bike to get up the plane's ramp and plant the bomb inside.
+*Drive the bike up the plane's ramp before it takes off.
+*Go! Get up the plane's '''<span style="color:#D1BC86">ramp</span>''' now!
+*You're trapped on the plane.
+*The plane is packed with explosives! Be careful firing weapons onboard.
+*You'll need a parachute to get off the plane. One of the crew members will have one.
+*Pick up the parachute.
+*You have the parachute.
+*Place a satchel charge on the plane then get out the back.
+}}
+{{Dialogue|p1=Toreno|d1=Listen, Carl. We've got a problem. Some traitors from another department think they can help the "overseas situation" by financing militaristic dictators in exchange for arms contracts.|p2=CJ|d2=Hey, ain't that exactly what you do?|p3=Toreno|d3=Well, kind of, but we get to pick our dictators. Degenerates that we can control. We try to stay away from these guys with principles, cause that just - muddies the waters.|quotedetail=[[Mike Toreno]] tells [[Carl Johnson]] about the rival agents in [[Verdant Meadows Airfield|Verdant Meadows]]|sound=Stowaway-GTASA-Quote.ogg}}
+'''Stowaway''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by government agent [[Mike Toreno]] from the [[Verdant Meadows Airfield]] in [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Carl is in the middle of the airstrip waiting for Toreno, when [[Men in Black|government agents]] arrive in [[Bobcat (3D Universe)|trucks]] and a [[Andromada|cargo plane]]. Feeling exposed, he hides behind some crates. A little later, Toreno sneaks up to him, saying that the people who arrived are from a rival agency. Toreno, having permission from his apparent boss, wants Carl to kill the agents by bombing the cargo plane. Carl, though reluctant at first, accepts.
+
+Carl hops on a [[PCJ 600|bike]] and hastily makes his way inside the plane as it is about to take off, dodging bullets from the agents and the barrels rolling out of the plane. He successfully gets in the plane as it takes off. Once on board, he makes his way to the front of the plane, killing several agents on the way. He places a [[Satchel Charges|satchel charge]], and then, using a [[parachute]] he stole from an agent on board, he jumps out of the plane, freefalling down to earth as the aircraft disintegrates in mid-air, completing the mission.
+
+==Mission Objectives==
+*Go! Get up the plane's '''<span style="color:#dece71">ramp</span>''' now.
+*The aircraft is filled with explosives - the player must avoid firing weapons or the plane will be destroyed, wasting the player along with it, failing the mission.
+*You'll need a parachute to get off the plane. One of the crew members will have one.
+*Pick up the parachute.
+*Place a satchel charge on the plane then get out the back.
+
+==Reward==
+The reward for this mission is [[Money|$]]20,000. The mission [[Black Project]] is also unlocked.
+
+{{Clear}}
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px">
+Stowaway-GTASA-SS1.png|[[Carl Johnson]] spots a [[Andromada|cargo plane]] arriving at the [[Verdant Meadows Airfield|airstrip]] with some [[Men in Black|government agents]], thinking they are [[Mike Toreno]]'s allies.
+Stowaway-GTASA-SS2.png|Feeling exposed, CJ quickly runs off the runway...
+Stowaway-GTASA-SS3.png|...and goes to hide behind crates.
+Stowaway-GTASA-SS4.png|The agents are unpacking the load from the plane.
+Stowaway-GTASA-SS5.png|As CJ snoops on them, Toreno appears from behind him.
+Stowaway-GTASA-SS6.png|Toreno asks CJ what he thinks about the agents over there.
+Stowaway-GTASA-SS7.png|CJ realizes they are not Toreno's allies.
+Stowaway-GTASA-SS8.png|Toreno says they have a problem...
+Stowaway-GTASA-SS9.png|...explaining why the rival agency arrived...
+Stowaway-GTASA-SS10.png|...and how Toreno and his agency is different.
+Stowaway-GTASA-SS11.png|Toreno also elaborates the rival agency's intentions...
+Stowaway-GTASA-SS12.png|...declaring they need to eliminate those agents...
+Stowaway-GTASA-SS13.png|...otherwise the situation will worsen.
+Stowaway-GTASA-SS14.png|So on his boss's orders, Toreno wants CJ to eliminate them.
+Stowaway-GTASA-SS15.png|CJ thinks about the gravity of killing government agents.
+Stowaway-GTASA-SS16.png|Toreno tells CJ not to think about that...
+Stowaway-GTASA-SS17.png|...and leaves, explaining he can't stay around.
+Stowaway-GTASA-SS18.png|Toreno instructs CJ to plant a bomb in the plane. He needs to move fast before the plane takes off, so stealth is not an option.
+Stowaway-GTASA-SS19.png|For this purpose, CJ needs to use a [[PCJ 600|motorbike]] so he can climb up the plane's ramp...
+Stowaway-GTASA-SS20.png|...and get inside the plane to plant the bomb.
+Stowaway-GTASA-SS21.png|Speeding up to the ramp while avoiding barrels rolling out of the plane.
+Stowaway-GTASA-SS22.png|CJ successfully gets in the plane as it takes off.
+Stowaway-GTASA-SS23.png|Finding himself trapped in the plane at high altitude...
+Stowaway-GTASA-SS24.png|...CJ dodges a barrel rolling out just in time, losing the motorbike as it falls off the plane.
+Stowaway-GTASA-SS25.png|CJ must be careful not to use any firearms inside the plane as it is packed with explosives.
+Stowaway-GTASA-SS26.png|To get off the plane, he needs a [[parachute]], carried by one of the crew members.
+Stowaway-GTASA-SS27.png|Killing the crew members onboard.
+Stowaway-GTASA-SS28.png|CJ finds a crew member with a parachute.
+Stowaway-GTASA-SS29.png|After killing him, he must take the parachute.
+Stowaway-GTASA-SS30.png|Taking the parachute.
+Stowaway-GTASA-SS31.png|CJ must place a [[Satchel Charges|satchel charge]] on the plane.
+Stowaway-GTASA-SS32.png|Once the bomb is planted, CJ prepares to jump out of the plane.
+Stowaway-GTASA-SS33.png|Jumping out of the plane.
+Stowaway-GTASA-SS34.png|As CJ jumps out, the bomb detonates, causing the plane to blow up.
+Stowaway-GTASA-SS35.png|Mission passed!
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|RFep5wFUnRw|275px|center}}
+{{#ev:youtube|Kf7ieemS4MQ|275px|center}}
+{{#ev:youtube|RJxMPr75JYg|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Stowaway-GTASA.jpg|The [[Men in Black|rival agents]] arriving.
+Stowaway-GTASA2.jpg|[[Carl Johnson]] watching the [[Andromada|plane]].
+Stowaway-GTASA3.jpg|Carl Johnson about to stowaway onto the plane.
+DefenderMark1-GTASA.png|The "dirty version" of the {{Manhunt|Assault Rifle|Defender Mark 1 Assault Rifle}} from ''Manhunt'' seen during the [[Cutscenes|cutscene]].
+Stowaway-Wasted-GTASA.png|An alternate [[wasted]] scene, where Carl hits the roof of an [[Admiral (3D Universe)|Admiral]] and dies on impact; this cutscene plays if he jumps out of the Andromada without a [[parachute]].
+</gallery>
+
+==Oversights==
+*If the player enters the [[Bobcat (3D Universe)|Bobcat]] and fails the mission, they will be stuck in the position and if they jump while stuck, Carl will be seen hanging.
+*If the player manages to destroy the Andromada while it takes off (e.g. with a [[minigun]]) the Andromada model may fall into the ground after exploding. The mission will not fail and the objective marker will be stuck in the ground where the Andromada fell through indefinitely.
+
+==Trivia==
+===General===
+*This mission is similar to {{TBOGT}}{{'}}s mission [[Departure Time]] in that CJ and [[Luis Fernando Lopez|Luis]] both ride a motorcycle to catch up to a plane by using a ramp or staircase. It is also similar to {{V}}{{'}}s [[Minor Turbulence]].
+*One of the agents can be seen holding an unobtainable dirty version of the {{Manhunt|Assault Rifle|Defender Mark 1 Assault Rifle}} from ''[[Manhunt]]'' during the [[Cutscenes|cutscene]].
+*While inside the plane, one of the [[Men in Black|agents]] can be heard exclaiming strange phrases such as: "Idiotic mammal!", "Carbon-based buffoon!", "This endangers everything!", "The Great Day will come!" and "You evolved from shrews!" This and their similar appearance to the "{{WP|Men in black}}" is a reference to the fact that some people believe that the men in black are not humans.
+*Toreno's comment about helping the "overseas situation" by financing militaristic dictators in exchange for arms contracts is most likely based on the real world Iran-Contra Affair.
+
+===''Grand Theft Auto: San Andreas''===
+*The camera position during the cutscene where the Bobcats arrive after Carl is "feeling exposed" is lower on the [[PlayStation 2|PS2]] and [[Personal Computer|PC]] versions, while in the mobile and later [[Xbox 360]] and [[PlayStation 3|PS3]] versions, the camera position is placed higher instead.
+*In {{TDE}}, the agents in the back of the Bobcats are crouching, whereas in the other versions they are standing.
+*In ''The Definitive Edition'', the agents outside the Andromada are armed with [[M16|M4]]s instead of [[Micro SMG (3D Universe)|Micro SMGs]] like in other versions.
+*In the cutscene with Mike Toreno and CJ talking behind the crates, the men are loading the landmines into the back of the Bobcats. This is probably due to the fact putting all the landmines in the back of the Andromada would cause an unsuccessful takeoff due to weight issues, as the jet would crash into the pole at the end of the runway.
+*On the PC, [[Xbox 360]] and mobile versions, the Bobcats that appear in the cutscene with the plane approaching the airstrip are black. Then, during Carl's conversation with Toreno, they are white. After the cutscene, when Carl takes the bike to catch the plane, they are black again.
+*When CJ gets close to the Andromada, the screen starts to shake.
+*The Andromada plane that Carl drives into is actually an interior in the [[Interiors in GTA San Andreas|Hidden Interiors Universe]]. The player can see it on the map because the plane does not move when Carl is in it.
+*If the player shoots a weapon at an [[Explosive Barrels|explosive barrel]] or throws any explosives inside the plane, a cutscene showing the plane being destroyed will play, along with the mission failure reason "You were blown up in the plane." Because of the explosion, CJ will be [[wasted]].
+**However, the "Wasted" and "Mission failed" texts do not appear. After the cutscene is played, the player will respawn at the nearest hospital.
+**After the [[parachute]] has been obtained, the player can shoot the plane instead of planting the [[Satchel Charges|satchel charge]]; as long as they jump off right away, the mission will pass as normal. 
+*If the player jumps from the aircraft without obtaining the parachute, an alternate {{URL|http://youtu.be/CqnxL2Ix5BQ|cutscene}} will play; Carl will fall on an [[Admiral (3D Universe)|Admiral]] parked at the [[Astro Drive-In Theatre|drive-in cinema]] in [[Fort Carson (3D Universe)|Fort Carson]] and [[Wasted|die]].
+*Even if the player has a parachute, they still need to get the [[Men in Black|agent's]] one. If that parachute is not obtained, the alternate cutscene of Carl falling on an Admiral and dying will still play.
+*In the mobile and later Xbox 360 and PS3 versions, in the last cutscene when completing the mission, the plane will suddenly disappear when the Mission Passed text appears. This does not happen to other versions, as the plane disappears after the cutscene ends.
+*After parachuting from the plane upon completing the mission, it is possible to pass by the "sky door" – the floating yellow marker above Fort Carson which leads to the Hidden Interiors Universe. This is the only situation where the player can see this door without the use of cheats, modifications, or trainers, since it is normally above the height limit of the game.
+*If the player enters a vehicle after completing the mission and landing, they will receive a Two Wheels bonus of $0 (confirmed on PS2, PC, [[Xbox (console)|Xbox]] and mobile).
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Stowaway]]
+[[es:Stowaway]]
+[[fi:Stowaway]]
+[[pl:Szmugler]]
+[[ru:Stowaway]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

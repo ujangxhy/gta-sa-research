@@ -1,0 +1,117 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] approaches [[Big Smoke's House]] and sees [[Tenpenny]] and [[Pulaski]] leaving the garage near the house.
+}}{{line
+|name=Tenpenny
+|dialogue=Hey, Carl, keeping busy, I hope.
+}}{{line
+|name=CJ
+|dialogue=You know me, Officer Tenpenny.
+}}{{line
+|name=Tenpenny
+|dialogue=Yeah, I know you, Carl. I know everything about you. *Passing by, puts his hand on CJ's shoulder*
+}}{{line
+|name=CJ
+|dialogue=Don't touch me. Get your pig hands off me...
+}}{{line
+|name=Tenpenny
+|dialogue=That's right, Carl, I got my eye on you.
+}}{{line
+|name=CJ
+|dialogue=And? Like I give a fuck.
+}}{{line
+|name=Pulaski
+|dialogue=We're watching you, Carl! *throws his cigar in CJ's direction*
+}}{{line
+|name=CJ
+|dialogue=Motherfucker!
+}}{{line
+|name=[[Big Smoke]]
+|dialogue=*approaches CJ from the back* What was that all about, baby?
+}}{{line
+|name=CJ
+|dialogue=You tell me.
+}}{{line
+|name=Big Smoke
+|dialogue=Aw hell, man, they got their nose in everything. Can't shit without Tenpenny taking an interest. The hell with him.
+}}{{line
+|name=CJ
+|dialogue=Yeah, I guess. What's really up?
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, thinking of taking a little ride. Three deep mentioned a little something that might put us deeper in game.
+}}{{line
+|name=CJ
+|dialogue=A'ight, I'm down.
+}}{{line
+|background=CJ and Big Smoke are sitting in Big Smoke's [[Glendale (3D Universe)|Glendale]].
+}}{{line
+|name=CJ
+|dialogue=Where to, Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=[[Unity Station]].
+}}{{line
+|background=CJ drives Big Smoke to parking lot near Unity Station.
+}}{{line
+|name=CJ
+|dialogue=What we looking for, Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=Some [[Los Santos Vagos (3D Universe)|Vagos]] cats meeting some [[San Fierro Rifa]], cutting some kind of deal.
+}}{{line
+|name=CJ
+|dialogue=San Fierro? I thought Northern Mexicans don't mix with Los Santos esses.
+}}{{line
+|name=Big Smoke
+|dialogue=Shit, you got me.
+}}{{line
+|name=CJ
+|dialogue=*They notice some Vagos members above the tunnel* That look like them!
+}}{{line
+|name=Big Smoke
+|dialogue=*Vagos jump on the roof of the train* Motherfuckers clocked us! We got to get those fools!
+}}{{line
+|background=CJ and Big Smoke jump on nearby [[Sanchez]] and chase the train.
+}}{{line
+|name=Big Smoke
+|dialogue=Follow that train! Get me close, CJ. I'm about to pop these fools. Roll up on them CJ, so I can get a shot! Oh fuck! An on-coming train! Take the high road on the right, CJ! Look the fuck out, CJ! The train! Move this shit, man I'm gonna ice these fools, man. 
+}}{{line
+|background=Big Smoke kills all Vagos members on the top of the train.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, let's get outta here before cops show, man.
+}}{{line
+|name=CJ
+|dialogue=Was it always like this?
+}}{{line
+|name=Big Smoke
+|dialogue=Was what always like this?
+}}{{line
+|name=CJ
+|dialogue=Always fucked up around here. Or is it because of the drugs?
+}}{{line
+|name=Big Smoke
+|dialogue=What you think, man?
+}}{{line
+|name=CJ
+|dialogue=I don't know. That's why I'm asking you.
+}}{{line
+|name=Big Smoke
+|dialogue=Yo, eh eh, don't ask a wise man, friend. Ask a fool.
+}}{{line
+|name=CJ
+|dialogue=That's what I was doing.
+}}{{line
+|name=Big Smoke
+|dialogue=Well, if you're going to make this thing personal, I ain't speaking on it no more.
+}}{{line
+|background=CJ drives Big Smoke back to his house.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, you better clear out, CJ. I don't want those C.R.A.S.H. fools trying to pull you into some shit!
+}}{{line
+|name=CJ
+|dialogue=Alright, homie. You be careful with those cats. I'm gonna see you later.
+}}}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

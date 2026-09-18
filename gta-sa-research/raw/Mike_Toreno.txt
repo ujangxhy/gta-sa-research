@@ -1,0 +1,123 @@
+{{Disambiglink|For the mission, see [[Mike Toreno (mission)]]}}
+{{infobox character
+|name           = Mike Toreno
+|image          = MikeToreno-GTASA.jpg
+|games          = {{Games|SA=y}}
+|gender         = M
+|status         = Alive
+|home           = [[Mike Toreno's Ranch|Ranch]], [[Tierra Robada]], [[State of San Andreas (3D Universe)|San Andreas]]
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*Unknown government agency
+*[[Carl Johnson]] <small>(until [[Home Coming]])</small>
+*[[Sweet Johnson]] <small>(until [[Home Coming]])</small>
+*[[Loco Syndicate]] <small>(Leader; Formerly)</small>
+*[[Ryder]] <small>(Formerly)</small> {{Status|D1=y}}
+*[[Big Smoke]] <small>(Formerly)</small> {{Status|D1=y}}
+*[[T-Bone Mendez]] <small>(Formerly)</small> {{Status|D1=y}}
+*[[Jizzy B.]] <small>(Formerly)</small> {{Status|D1=y}}
+|vehicles       = 
+*"{{H:title|License plate|<code>OMEGA</code>}}" [[Washington]]
+*[[Maverick (3D Universe)|Maverick]] <small>([[Toreno's Last Flight|destroyed]])</small>
+*[[Monster (3D Universe)|Monster]] ([[Monster (mission)|given]] to CJ)
+*[[Squalo (3D Universe)|Squalo]] ([[Vertical Bird|given]] to CJ)
+*[[PCJ-600]] ([[Highjack|given]] to CJ and Cesar)
+*[[BF Injection]]
+*[[Sanchez]]
+*[[Bandito]]
+*[[Quad]]
+|businesses     = 
+*Government agent
+*Drug dealing <small>(formerly)</small>
+|voice          = [[James Woods]]
+|weapons        = 
+*[[Pistol (3D Universe)|Pistol]]
+*[[Micro SMG (3D Universe)|Micro SMG]]
+}}
+{{Quote|You just don't understand, do you, kid? It's all white knights and heroes. We have to make decisions, kid. You know, I try to set bad people on other bad people. And sometimes, I let good guys die.|Mike Toreno to [[Carl Johnson]] in [[Interdiction]].|sound=MikeToreno-GTASA-Quote.ogg}}
+'''Mike Toreno''' is a main character and false [[antagonist]] in {{SA}}.
+
+He is voiced by [[James Woods]].
+
+==History==
+===Background ===
+Little is known about Toreno's background, other than the fact he is an undercover agent from an unknown government agency who disguises himself as a drug supplier for and leader of the [[Loco Syndicate]]. He was involved in battling threats in Latin America by any means necessary. He used the money and connections from the [[Loco Syndicate]] to deal with the overseas interest.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+[[Carl Johnson]] first encounters Toreno when he and [[Cesar Vialpando|Cesar]] do some [[Photo Opportunity|snooping]] with a [[Ballas (3D Universe)|Ballas]] drug van apparently headed for [[Angel Pine]]. When Carl and Cesar arrive at the rendezvous, they witness a meeting between Carl's former friend [[Ryder]] and the leading members of a drug cartel known as the Loco Syndicate, [[Jizzy B.]], [[T-Bone Mendez]] and Toreno himself.
+
+The first time Carl personally meets Toreno is during Carl's brief tenure as Jizzy's hitman, after Toreno is abducted by a gang of [[Da Nang Boys]] who are stealing one of the syndicate's [[Burrito (3D Universe)|drug vans]] with the agent inside. CJ and T-Bone [[Mike Toreno (mission)|locate the vehicle]] at the [[Easter Bay Airport]], and free Toreno. The agent is immediately suspicious of Carl and pulls a gun on him, but T-Bone convinces Toreno not to shoot him. All three then destroy the van, with the cocaine still inside, in order to eliminate any evidence.
+
+Following the [[Ice Cold Killa|death]] of Jizzy B., the [[San Fierro Triads|Triads]] plan to [[Pier 69 (mission)|ambush]] the Syndicate's drug purchase at [[Pier 69]]. Carl assists them with a [[Sniper Rifle|sniper rifle]], but Toreno, who arrived by [[Maverick (3D Universe)|helicopter]], notices Carl's victims on top of the pier buildings and aborts his landing. Carl later tracks the helicopter to another location and [[Toreno's Last Flight|destroys]] it with a [[Rocket Launcher (3D Universe)|Rocket Launcher]], seemingly killing Toreno.
+
+Toreno, however, was never on the helicopter. After the [[Loco Syndicate Crack Factory]] is [[Yay Ka-Boom-Boom|destroyed]] in San Fierro, Toreno goes incognito and, using a digitally-distorted voice, calls Carl to invite him to a [[Mike Toreno's Ranch|ranch]] in [[Tierra Robada]]. Carl is shocked by Toreno's survival, and curses him as a mere drug dealer but Toreno reveals that he is in fact a government agent, and explains that he was distributing the cocaine to raise funds for overseas dictators and "useful" drug suppliers.
+
+Toreno makes Carl an offer: if Carl works for him, taking down enemy agents and sabotaging rival agencies, no harm will come to Carl's now-incarcerated brother, [[Sweet Johnson|Sean]]. If Carl does enough work for Toreno, Sweet will be granted an early release.
+
+Toreno's assignments, which include [[Highjack|commandeering a rival agency's truck]] and [[Interdiction|shooting down rival agency choppers]] from a [[Arco del Oeste|plateau]], strike Carl as almost impossible.
+
+Later, Toreno sends Carl to [[Verdant Meadows (mission)|purchase]] the [[Verdant Meadows Airfield]], a derelict landing strip in [[Bone County (3D Universe)|Bone County]], and use the facility to have Carl [[Pilot School|trained as a pilot]]. Afterwards, he immediately assigns Carl with jobs involving what he had learned from training. One time, he tasks Carl to [[N.O.E.|deliver]] a package halfway across [[State of San Andreas (3D Universe)|the state]] using a [[Rustler|plane]]. At one point, a [[Andromada|container jet]] lands without warning at the airstrip, and [[Men in Black|men in black suits and sunglasses]] empty out of it. Toreno instructs Carl to sneak on board, [[Stowaway|bomb the plane]] and [[parachute]] back onto land safely.
+
+While Toreno initially dismisses Carl as street trash, and uses Sweet as a bargaining chip to ensure Carl's obedience, his attitude changes as Carl proves his ability to get seemingly impossible jobs done, and he begins to display a level of trust with Carl, despite still thinking nothing of sending him on dangerous errands. After a lengthy hiatus, Toreno eventually returns and gives Carl one last job. He personally drives Carl to a bay just outside [[Blueberry]] in [[Red County (3D Universe)|Red County]], and sends him to infiltrate an LHD and [[Vertical Bird|steal]] a [[Hydra|V/STOL fighter jet]] from the [[Easter Basin Naval Station]]. Carl successfully takes the jet, shoots down enemy planes and takes out several boats at the [[Sherman Reservoir]]. Carl is then exasperated with the danger he has been exposed to, and his rage only increases when Toreno leaves him to deal with the burden of the stolen jet.
+
+Toreno shows up unannounced yet again in the mission [[Home Coming]], and tells Carl that he has one more mission. Carl snaps and holds a gun to Toreno's face, but Toreno is unperturbed and tells him he should be getting a call. At that point, Carl receives a phone call from Sweet, who has been released from prison – true to his word, Toreno has secured Sweet's release. Carl asks Toreno about the "job", which Toreno explains is to pick up Sweet. Carl leaves to pick up his brother and Toreno's later fate is unknown afterwards.
+
+==Character==
+===Personality===
+Philosophically, Toreno is a highly cynical [[United States of America|American]] imperialist. He primarily uses Carl as a courier, saboteur, and assassin. Though he knows of [[Frank Tenpenny]] and [[Eddie Pulaski]]'s corrupt natures, Toreno does not use his power to stop them. He tells Carl in one mission, ''"we have to make decisions, kid. You know, I try to set bad people on other bad people. And sometimes, I let good guys die."'' Toreno, like Tenpenny, seems to have gravitated toward committing heinous acts in the name of a greater good, but unlike Tenpenny, Toreno is not corrupted by his power. He equates maintenance of the American socioeconomic system with the continued survival of the free world.
+
+Due to a combination of his moral apathy, his "no-nonsense" attitude, as well as him giving various dangerous assignments without giving context, Toreno is greatly despised by Carl, who makes it clear on multiple occasions that he only does his biddings for Sweet's sake. However, unlike many other bosses Carl works for, Toreno appears to be a man of his word, as he fulfills his promise to Carl and secures his brother's early release from prison.
+
+===Appearance===
+Toreno appears as a middle aged man with dark, slicked back hair and blue eyes. He wears a navy blue blazer, a light blue dress shirt, a red regimental necktie, gray slacks, and black dress shoes.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[Photo Opportunity]]
+*[[Jizzy (mission)|Jizzy]] <small>(Photo)</small>
+*[[Mike Toreno (mission)|Mike Toreno]]
+*[[Outrider]]
+*[[Pier 69 (mission)|Pier 69]]{{Ref|name=appearance|type=screenshot|image=MikeToreno-GTASA-Pier69Appearance.png|imagesize=200px|caption=Mike Toreno inside the [[Maverick (3D Universe)|Maverick]] in Pier 69. He can be seen briefly in-game during the helicopter scene.}}
+*[[Yay Ka-Boom-Boom]] <small>(Post-mission phone call)</small>
+*[[Monster (mission)|Monster]] <small>(Voice/Boss) </small>
+*[[Highjack]] <small>(Boss) </small>
+*[[Interdiction]] <small>(Boss) </small>
+*[[Verdant Meadows (mission)|Verdant Meadows]] <small>(Boss)</small>
+*[[Learning to Fly]] <small>(Voice/Boss) </small>
+*[[N.O.E.]] <small>(Boss) </small>
+*[[Stowaway]] <small>(Boss) </small>
+*[[Vertical Bird]] <small>(Boss) </small>
+*[[Home Coming]] <small>(Boss) </small>
+
+==Gallery==
+<gallery spacing="small" position="center" widths="270px">
+MikeToreno-GTASA-Gameplay.jpg|'''Mike Toreno''' in {{SA}}.
+MikeToreno-GTASAde-HomeComing.png|'''Mike Toreno''' in {{TDE}} of ''Grand Theft Auto: San Andreas''.
+</gallery>
+
+==Trivia==
+*During missions, the number plate on Toreno's [[Washington]] reads "OMEGA" (outside of missions, the Washington encountered at his [[Mike Toreno's Ranch|ranch]] bears a standard plate). "OMEGA" could be a reference to the Omega Sector portrayed in the movie ''{{WP|True Lies}}'', something which Toreno is adamant about.
+*Due to Toreno's involvement in {{WP|Latin America}}n politics and [[cocaine]] trafficking, it is likely that the agency he works for is the [[Central Intelligence Agency|CIA]] (or a similar agency), which has often been suspected of involvement in drug trafficking, especially during the {{WP|CIA and Contras cocaine trafficking in the US|Nicaraguan Contra Wars}}. Other indications towards this are Toreno's involvement in the [[Loco Syndicate]], an organisation involved in drug trafficking, and during [[N.O.E.]], when Toreno mentions the agencies watching him, he does not mention the CIA.
+**Additionally, [[Barbara Schternvart]] claims during a date with Carl Johnson that the whole desert is "crawling with CIA", and Toreno has a ranch in the area.
+*Toreno has many similarities with the [[United Liberty Paper contact]] in {{IV}}. Both have the same personality, both force the [[Protagonists|main characters]] of their stories to do dirty and dangerous jobs for them ([[Carl Johnson]] was forced by Toreno, while [[Niko Bellic|Niko]] was forced by the U.L. Paper Contact) and they both hint towards working for the CIA (although the U.L. Paper Contact has been confirmed to work for the [[International Affairs Agency|IAA]], the {{HD}} equivalent of the CIA). Near the end of the storyline, each character receives what he wanted ([[Sweet Johnson|Sweet]]'s release from prison for Carl and [[Darko Brevic]] for Niko), to thank the protagonist for their cooperation.
+*His model files are named ''torino.txd'' and ''torino.dff''. Whether this is a beta name or a spelling mistake is unknown.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navbox gtasa characters|state=collapsed}}
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Mission givers]]
+[[Category:Special agents]]
+
+[[ar:مايك تورينو]]
+[[de:Mike Toreno]]
+[[es:Mike Toreno]]
+[[fi:Mike Toreno]]
+[[pl:Mike Toreno]]
+[[pt:Mike Toreno]]
+[[ru:Майк Торено]]
+[[tr:Mike Toreno]]

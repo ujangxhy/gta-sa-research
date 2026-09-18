@@ -1,0 +1,238 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] goes to [[Big Smoke's House]] to find [[Big Smoke]] and [[Sweet Johnson]] leaving out of the side entrance to go and pick up [[OG Loc (3D Universe)|OG Loc]].
+}}{{line
+|name=Sweet
+|dialogue=Hey, you know Jeffrey's been somebody's bitch for the past 3 weeks, right?
+}}{{line
+|name=Big Smoke
+|dialogue=(Laughs) I know.
+}}{{line
+|name=CJ
+|dialogue=Hey!
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, CJ!
+}}{{line
+|name=Sweet
+|dialogue=Hey, what's up, CJ?
+}}{{line
+|name=CJ
+|dialogue=Wassup?
+}}{{line
+|name=Big Smoke
+|dialogue=Wassup, man? Wanna go to prison?
+}}{{line
+|name=CJ
+|dialogue=What?
+}}{{line
+|name=Sweet
+|dialogue=Nah, to pick up Jeffrey, he's touching down today. You wanna roll?
+}}{{line
+|name=CJ
+|dialogue=Yeah, for sure. What Jeffrey doing locked up anyway?
+}}{{line
+|name=Big Smoke
+|dialogue=We'll talk about that later, man. Let's roll, we late.
+}}{{line
+|background=CJ, Big Smoke and Sweet get into Big Smoke's [[Glendale (3D Universe)|Glendale]] and head to the [[Los Santos Police Headquarters]].
+}}{{line
+|name=Sweet
+|dialogue=Good to hang with you, brother. I'm sorry I can get a little tense.
+}}{{line
+|name=CJ
+|dialogue=Don't worry about it.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, it ain't Jeffrey no more. It's OG Loc.
+}}{{line
+|name=CJ
+|dialogue=OG Loc?
+}}{{line
+|name=Sweet
+|dialogue=Oh yeah, he's a real gangsta now.
+}}{{line
+|name=CJ
+|dialogue=I see. And what'd he do?
+}}{{line
+|name=Big Smoke
+|dialogue=Anything he could to get thrown in jail for. For his career. Joyriding, parking fines or some other bullshit.
+}}{{line
+|background=CJ, Big Smoke and Sweet are sitting in car, waiting near Los Santos Police Headquarters entrance.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, there that fool go.
+}}{{line
+|name=CJ
+|dialogue=Look at this fool, man. Perpetrating like he banging.
+}}{{line
+|name=Big Smoke
+|dialogue=Think he hard. I know that fool can't be serious.
+}}{{line
+|name=CJ
+|dialogue=Hey, what's happening with you, Jeffrey?
+}}{{line
+|name=OG Loc
+|dialogue=Hey man, it's OG Loc, homie, OG Loc!
+}}{{line
+|name=CJ
+|dialogue=Ah, ah, my bad. How was it though, homie?
+}}{{line
+|name=OG Loc
+|dialogue=Man, what you think, how was it?
+}}{{line
+|name=Big Smoke
+|dialogue=Ey, chill out dude. So what'chu wanna do now?
+}}{{line
+|name=OG Loc
+|dialogue=Man, I gotta kill some [[Cholos|Cholo]] motherfucker, he was dissing me, man!
+}}{{line
+|name=Big Smoke
+|dialogue=Hey Jeffrey, I thought you were going to, uh, college...(laughter)
+}}{{line
+|name=OG Loc
+|dialogue=Man, fuck you! Motherfucker done stole my rhymes! He's at East Flores. Ey, give me a strap.
+}}{{line
+|name=Sweet
+|dialogue=Man, why don't you stall us out with that shit and get in the car, fool.
+}}{{line
+|background=CJ, Smoke, Sweet and OG Loc head to [[Freddy (GTA San Andreas)|Freddy's]] house to confront him.
+}}{{line
+|name=CJ
+|dialogue=What's your plan, big gangsta? Now you a free man and all.
+}}{{line
+|name=OG Loc
+|dialogue=Man, I ain't free, my parole officer lined me up with a job!
+}}{{line
+|name=Big Smoke
+|dialogue=Motherfucker always trying to keep a player down.
+}}{{line
+|name=OG Loc
+|dialogue=You got that right! Still, ain't so bad, I'm gonna be a 'hygiene technician'.
+}}{{line
+|name=Sweet
+|dialogue=Coming up in the world, huh?
+}}{{line
+|name=OG Loc
+|dialogue=Just a stepping-stone to greatness.
+}}{{line
+|background=CJ, Smoke, Sweet and OG Loc stop near Freddy's house to confront him.
+}}{{line
+|name=OG Loc
+|dialogue=Man, this is the spot!
+}}{{line
+|name=CJ
+|dialogue=Ain't this a Vagos' 'hood?
+}}{{line
+|name=OG Loc
+|dialogue=Man, I don't give a shit, I'm gangsta!
+}}{{line
+|name=Big Smoke
+|dialogue=C'mon, let's leave Loc to deal with Casanova.
+}}{{line
+|name=CJ
+|dialogue=Hey, I'll stick with Jeff... I mean, Loc!
+}}{{line
+|name=Sweet
+|dialogue=OK, cool. I'll see you guys back on the set.
+}}{{line
+|background= Big Smoke and Sweet drive away. OG Loc and CJ go to Freddy's front door. Carl rings the bell.
+}}{{line
+|name=OG Loc
+|dialogue=Freddy, I've come for you, you motherfucker!
+}}{{line
+|name=CJ
+|dialogue=Hey, Loc, hold up!
+}}{{line
+|name=Freddy
+|dialogue=Jeffrey! You got the wrong idea, man! That was just a prison thing! I got plenty of muchachas on the outside, I don't need your scrawny ass!
+}}{{line
+|name=OG Loc
+|dialogue=Man, ignore him, CJ, I don't know what he talking about. Hey, yo, give me back my rhymes you thief! I'm gangsta!
+}}{{line
+|name=Freddy
+|dialogue=You dropped the soap, sugar! I don't know nothing about any rhymes. 
+}}{{line
+|name=OG Loc
+|dialogue=*Freddy escapes through back door and gets on a bike* Hey, hey, motherfucker's making a run for it!
+}}{{line
+|name=CJ
+|dialogue=Hey Loc, get back here, ni**a you crazy!
+}}{{line
+|name=OG Loc
+|dialogue=Eh yo, back off me CJ, I gotta protect my rep.*CJ and OG Loc get on another bike*
+}}{{line
+|background=CJ and OG Loc chase Freddy on a [[PCJ-600]] around [[Los Santos (3D Universe)|Los Santos]].
+}}{{line
+|name=Freddy
+|dialogue=Ooo! Chase me! Chase me! C'mon, honey, I'm losing my patience! I like the fast ass, not the slow ass! I thought you were keen, cute buns! Catch me if you caaAAAaan! Yoohoo! Over here! Coowee, Jeffrey! You know I love the thrill of the chase! Hey baby, move those sweet cheeks! Try to show a little bit more enthusiasm, darling!
+}}{{line
+|background=Freddy stops at basketball court in East Los Santos, where he and three Vagos members are trying to kill CJ and OG Loc.
+}}{{line
+|name=Freddy
+|dialogue=He's broken my heart! Get him, boys!
+}}{{line
+|name=OG Loc
+|dialogue=Yo, I'm gonna kill that loud mouthed motherfucker! Your ass is mine! Oh, no no no, I didn't mean it like ''that!'' CJ, help me out here!
+}}{{line
+|background=OG Loc and CJ kill Freddy.
+}}{{line
+|name=OG Loc
+|dialogue=Don't you say a thing, CJ!
+}}{{line
+|name=CJ
+|dialogue=(laughs) Was you lonely, Loc? Ey, I like a nice mustache myself.
+}}{{line
+|name=OG Loc
+|dialogue=I keep it real! Unlike you fake ass motherfuckers!
+}}{{line
+|name=CJ
+|dialogue=Come on, gangsta, let's get back to the Grove.
+}}{{line
+|name=OG Loc
+|dialogue=Nah, I can't. I gotta go and sign for this damn job.
+}}{{line
+|name=CJ
+|dialogue=Whatever you want, you want a ride, anyway?
+}}{{line
+|name=OG Loc
+|dialogue=Sure thing, let's roll.
+}}{{line
+|background=CJ takes OG Loc back to the [[Burger Shot (3D Universe)|Burger Shot]].
+}}{{line
+|name=OG Loc
+|dialogue=Hey, take me to the Burger Shot at Verona Beach.
+}}{{line
+|name=CJ
+|dialogue=You're the boss.
+}}{{line
+|name=OG Loc
+|dialogue=Coz i'm keen, With the hygiene, on a mission, like a super technician, baby.
+}}{{line
+|name=CJ
+|dialogue=Get on with this shit man. Look at you, all muscley and shit.
+}}{{line
+|name=OG Loc
+|dialogue=Man, I got 17s on the hang.
+}}{{line
+|name=CJ
+|dialogue=You coulda did that out here.
+}}{{line
+|name=OG Loc
+|dialogue=Because I did in the joint, it's real now.
+}}{{line
+|name=CJ
+|dialogue=Yeah, I guess it is, gangsta.
+}}{{line
+|background=CJ and OG Loc stop near Burger Shot.
+}}{{line
+|name=OG Loc
+|dialogue=Thanks for the ride, CJ. Don't be a stranger, fool.
+}}{{line
+|name=CJ
+|dialogue=Yeah, for sure. I'll see you around.
+}}{{line
+|name=OG Loc
+|dialogue=Like a quater pound! Later.
+}}}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

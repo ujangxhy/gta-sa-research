@@ -1,0 +1,73 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] and [[Kent Paul]] are listening to [[Madd Dogg (3D Universe)|Madd Dogg]] rapping in the recording studio of [[Madd Dogg's Crib|his crib]], while [[Maccer]] pleasures himself.}}
+{{line|name=Maccer|dialogue=(grunts) Go on, go on, come on, come on, go on...}}
+{{line|name=Paul|dialogue=Will you ''please'' leave yourself alone?!}}
+{{line|name=CJ|dialogue=(cheering at Dogg - not in subtitles) Yeah!}}
+{{line|name=Maccer|dialogue=Oh, fuck!}}
+{{line|name=Paul|dialogue=Oh, you manky mongrel!}}
+{{line|name=Maccer|dialogue=Ooh, sorry geez...}}
+{{line|name=Paul|dialogue=You shouldn't be choking the gecko in the first place! Remember what happened at that gig in Hamburg?!}}
+{{line|name=CJ|dialogue=(not in subtitles) That's my Dogg!}}
+{{line|name=Maccer|dialogue=That groupie loved it!}}
+{{line|name=Paul|dialogue=That wasn't a groupie, that was a ''roadie!''}}
+{{line|name=Maccer|dialogue=But she had great tits.}}
+{{line|name=Paul|dialogue='''Man''' tits! They were MAN TITS!}}
+{{line|background=Suddenly, the music cuts off.}}
+{{line|name=CJ|dialogue=Hey, what happened? Hey, where the sounds at?}}
+{{line|name=Paul|dialogue=I dunno, bruv, it all just went!}}
+{{line|name=Maccer|dialogue=You're fucking shite you are, P.}}
+{{line|name=Paul|dialogue=I can't be held responsible for dodgy gear, alright?}}
+{{line|name=CJ|dialogue=C'mon, keep it together, man - we can't fuck with his flow.}}
+{{line|name=[[Mike Toreno|Toreno]]<br><small>(Voice only)</small>|dialogue=Finally! I thought I'd never get through to you.}}
+{{line|name=CJ|dialogue=What the f-}}
+{{line|name=Paul|dialogue=(not in subtitles) What's this?}}
+{{line|name=CJ|dialogue=Toreno? Is that you?}}
+{{line|name=Paul|dialogue=What's happenin' here?}}
+{{line|name=CJ|dialogue=Toreno?}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=Listen; you gotta pull one last string for me, OK?}}
+{{line|name=Paul|dialogue=(to Dogg - not in subtitles) Hold up, right, look, hold up, one second...}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=Communists at the gate, Carl.}}
+{{line|name=CJ|dialogue=I'm tired of this, Toreno.}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=I'm outside. Let's take a ride.}}
+{{line|name=Maccer|dialogue=Now I'm hearing things - fuck me!}}
+{{line|background=The music resumes playing.}}
+{{line|name=CJ|dialogue=Hey, I gotta get outta here, you got this? (to Dogg) Hey, Dogg, I gotta go hit a marketing meeting, I'm gonna catch you later!}}
+{{line|background=Dogg continues rapping.}}
+{{line|name=Paul|dialogue=Right, mind you go, sunshine. Yeah, sweet as... Come on. You having that, Maccer, you having that?}}
+{{line|background=CJ leaves the crib to see Mike Toreno.}}
+{{line|name=Toreno|dialogue=Well, no invite to the housewarming, huh, kid?}}
+{{line|name=CJ|dialogue=I knew you'd come anyway.}}
+{{line|name=Toreno|dialogue=Yeah, well, that's not important right now. I'll bring you up to speed on the way, get in.}}
+{{line|background=CJ and Toreno get into the latter's [[Washington]], as Toreno takes him to [[the Panopticon]].}}
+{{line|name=CJ|dialogue=How long's this gonna take? I got my own shit to worry about.}}
+{{line|name=Toreno|dialogue=Would you like to see your brother this week?}}
+{{line|name=CJ|dialogue=Yeah. What can I do?}}
+{{line|name=Toreno|dialogue=You just gotta steal a military jet off an amphibious assault ship and use it to destroy a flotilla of spy ships, nothing big.}}
+{{line|name=CJ|dialogue=Oh, man, you shittin' me.}}
+{{line|name=Toreno|dialogue=Would I shit you, Carl? There's a boat. All the gear you need is on board. I'll keep you briefed as you go.}}
+{{line|name=CJ|dialogue=I ain't coming back from this one, am I?}}
+{{line|name=Toreno|dialogue=Yes you are, don't be ridic--here, take this earpiece. Trust me, do as I say, you'll be home for a blowjob and a bologna sandwich.}}
+{{line|background=CJ gets out of Toreno's car and heads to a nearby [[Squalo (3D Universe)|Squalo]], which contains a [[knife]] and a [[Silenced 9mm]] on board.}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=OK, Carl, the ship is moored in the Easter Basin Naval base.}}
+{{line|background=CJ sails to [[LHD-069|the ship]] located near the [[Easter Basin Naval Station]].}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=Sneak in the back without being seen. Once you're on the inside, I ''cannot'' help you.}}
+{{line|name=CJ|dialogue=Well, can you help me now?}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=Uh, well, no. Actually, no.}}
+{{line|background=CJ sneaks to the back of the ship and goes to disable the [[Surface-to-Air Missile]] system on the ship, then goes to steal a [[Hydra]], either by doing it quietly, or risking alerting the [[Military (3D Universe)|military]] personnel and triggering an alarm. Once CJ steals the Hydra, he flies away from the ship.}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=You see? You see? What did I tell you, it was a snap!}}
+{{line|background=Three enemy Hydras are deployed to shoot down CJ.}}
+{{line|name=Navy Pilot|dialogue=Stolen aircraft, prepare to be vaporized!}}
+{{line|name=CJ|dialogue=Did you hear that?}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue="Prepare to be vaporized", what a bunch of bullshit, ignore them. They shoot at you and it's an international incident. You're not a British tank, you should be fine.}}
+{{line|name=CJ|dialogue=For real?}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=Yeah, well, probably. Now make your way to the flotilla and sink the fuckers!}}
+{{line|background=CJ destroys the three [[Tropic|spy boats]] located at the [[Sherman Reservoir]], while making sure to take out the chasing military jets along the way.}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=You see? Child's play!}}
+{{line|name=CJ|dialogue=''Fuck you, Toreno!'' I never want to go through this again! I think I'm gonna hurl...}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=Ooh, what a big whiner, you want some cheese with that wine? Hey, you were spectacular. You know what, I'm beginning to think my little Carl is a double agent, oooh.}}
+{{line|name=CJ|dialogue=Shut up, Toreno! Where do you want this thing?!}}
+{{line|name=Toreno<br><small>(Voice only)</small>|dialogue=What thing? I don't know what you're talking about - you stole it. Got nothing to do with me, I don't know what you're talking about. See ya 'round.}}
+{{line|name=CJ|dialogue=Toreno? '''TORENO!''' Shit!}}
+{{line|background=CJ is left with no choice but to take the Hydra for himself to the [[Verdant Meadows Airfield]].}}
+}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

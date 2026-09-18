@@ -1,0 +1,67 @@
+{{Infobox_location
+|image =RedsandsWest-GTASA.png
+|games = {{Games|SA=y}}
+|location = [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+RedsandsWest-GTASA-Map.jpg|Redsands West
+RedsandsWest-GTASA-LasVenturasMap.jpg|Las Venturas
+RedsandsWest-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|neighborhood = y
+|pscanner       = PoliceScanner-GTASA-RedsandsWest.ogg
+}}'''Redsands West''' is a district in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]]. It is bordered by the districts of [[Whitewood Estates]] to the west, [[Prickle Pine]] to the north and [[Redsands East]] to the east.
+
+==Description==
+Redsands West provides great access to other places, because the district is nearby numerous means of transportation; Las Venturas' two main freeways, the [[Harry Gold Parkway]] and the [[Julius Thruway]] service the area. The [[Pilson Intersection]] is northwest of the district, although it does not really service Redsands West. Also, to the immediate south of the district, is the [[Las Venturas Airport]], providing flights from Las Venturas to either [[Los Santos (3D Universe)|Los Santos]] and [[San Fierro (3D Universe)|San Fierro]], and vice versa.
+
+Redsands West can be described as a residential, industrial and commercial district. The area is diverse and has a large hispanic population. It houses an abattoir, some businesses, fire station, single family homes, apartments, and a casino and a baseball stadium for recreation.
+
+==Influence==
+The district appears to be inspired by {{WP|North Las Vegas, Nevada|North Las Vegas}} and {{WP|West Las Vegas}} in {{WP|Nevada}}.
+
+==Homes==
+[[Image:RedsandsWestSafehouse-GTASA-Exterior.jpg|thumb|200px|right|The exterior of the [[Redsands West Safehouse]].]]
+*[[Redsands West Safehouse]]
+
+==Residents==
+*[[Carl Johnson]] (if the Redsands West Safehouse is purchased)
+
+==Places of Interest==
+[[Image:LasVenturasBanditsStadium-GTASA-exterior.jpg|thumb|200px|right|A view of the [[Las Venturas Bandits Stadium]] in Redsands West.]]
+
+*[[Casino Floor]]
+*[[Las Venturas Bandits Stadium]]
+*[[Las Venturas Fire Station]]
+*[[The Well Stacked Pizza Co. (3D Universe)|The Well Stacked Pizza Co.]] (closed)
+*[[Xoomer|Xoomer Gas Station]]
+
+==Stationary Vehicles==
+*[[Kart]] {{nd}} In an open garage near Redsands West Safehouse (after completing [[Cut Throat Business]])
+
+==Weapons==
+*[[AK47]] {{nd}} In a big lot surrounded by houses
+*[[Baseball Bat]] {{nd}} In the southwestern part of the stadium, near home plate
+*[[Flowers]] {{nd}} In the front yard of a home near the Redsands West Safehouse
+*[[Micro Uzi]] {{nd}} Behind a trash container also near the safehouse
+*[[Sawn-off Shotgun]] {{nd}} Behind a trash can in a lot across the Xoomer Gas Station and the Las Venturas Bandits Stadium
+*[[Shovel]] {{nd}} Near the east dugout of the stadium
+
+==Pickups==
+*One [[Police Bribes|Police Bribe]] {{nd}} In an alley with an entrance of a low wooden fence
+
+==Other==
+*Two [[Horseshoes]]
+*Two [[Unique Stunt Jumps in GTA San Andreas|unique stunt jumps]]
+
+==Navigation==
+{{Gtasa neighborhoods|state=collapsed}}
+
+[[de:Redsands West]]
+[[es:Redsands West]]
+[[pl:Redsands West]]
+[[ru:Рэдсэндс-Уэст]]
+[[Category:Neighborhoods]]
+[[Category:Locations in GTA San Andreas in Las Venturas]]
+[[Category:Zones]]

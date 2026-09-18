@@ -1,0 +1,180 @@
+{{Infobox mission
+|name           = Vertical Bird
+|image          = VerticalBird-GTASA-Mission.png
+|caption        = [[Carl Johnson]] dogfighting [[Hydra|military jets]] after stealing one from the [[Easter Basin Naval Station]] [[LHD-069|aircraft carrier]].
+|game           = {{Games|SA=y}}
+|type           = SA
+|for            = {{For|game=SA|cj}}
+|location       = [[Madd Dogg's Crib]], [[Mulholland]], [[Los Santos (3D Universe)|Los Santos]]
+|target         = [[Tropic]] spy ships
+|fail           = 
+*[[Wasted]]
+*[[Busted]]
+*[[Hydra]] destroyed
+*All jets on the carrier destroyed before stealing one
+*Failing to get on the carrier before the ramp closes
+*Jumping off the carrier before stealing a Hydra
+|reward         = 
+*[[Money|$]]50,000
+*[[Respect]]
+*[[Hydra]] at [[Verdant Meadows Airfield|Verdant Meadows]]
+*Weapons at [[Mike Toreno's Ranch]]
+|unlocks        = [[Home Coming]]
+|unlockedby     = [[A Home in the Hills]]
+|todo_toomuch   = 
+*There's a silenced pistol and a knife in the '''<span style="color:#484576">speedboat</span>'''.
+*Head for the '''<span style="color:#D1BC86">ship</span>'''.
+*Get inside the '''<span style="color:#D1BC86">ship</span>''' before the rear door closes. Swimming will help avoid detection by the guards.
+*Find the '''<span style="color:#D1BC86">control room</span>''' to switch off the SAM sites.
+*Steal one of the military jets.
+*Try not to alert the '''<span style="color:#AB3736">guards</span>'''.
+*You have been detected by a mechanic. He is running to trigger the alarm. {{Small|(if a mechanic sees the player standing near them or a guard gets killed in front of them by the player)}}
+*You've been detected by the '''<span style="color:#AB3736">guards</span>'''. The aircraft carrier is now on alert. {{Small|(if the player gets spotted by the guards)}}
+*Steal one of the military jets.
+*The SAM sites are still active. {{Small|(if the player steals one of the military jets but does not disable the SAM sites)}}
+*There are '''<span style="color:#AB3736">military jets</span>''' on your tail. Take them out! {{Small|(if there are two or three Hydra jets chasing after the player)}}
+*There is a '''<span style="color:#AB3736">military jet</span>''' on your tail. Take it out! {{Small|(if there is one Hydra jet chasing after the player)}}
+*Enemy jet destroyed. 2 still active.
+*Enemy jet destroyed. 1 still active.
+*All enemy jets destroyed. Now destroy the '''<span style="color:#D1BC86">spy ships</span>'''. {{Small|(if the player destroys all the Hydra jets first)}}
+*Spy ship destroyed. 3 ships remain.
+*Spy ship destroyed. 2 ships remain.
+*Spy ship destroyed. 1 ship remains.
+*All spy ships destroyed. Now take out the remaining '''<span style="color:#AB3736">jets</span>'''. {{Small|(if the player destroys all the spy ships first)}}
+*Take the jet to the desert airfield and land anywhere on the '''<span style="color:#D1BC86">landing strip</span>'''.
+*Guide the plane into the Hangar.
+*The Hydra will now always be available in this hangar.
+}}
+{{Dialogue|p1=Toreno|d1=Would you like to see your brother this week?|p2=Carl|d2=Yeah! What can I do?|p3=Toreno|d3=You just gotta steal a military jet off an amphibious assault ship and use it to destroy a flotilla of spy ships. Nothing big.|quotedetail=Mike Toreno gives Carl Johnson instructions.}}
+'''Vertical Bird''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by government agent [[Mike Toreno]] from [[Madd Dogg's Crib]] in [[Mulholland]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+After [[A Home in the Hills|reclaiming]] [[Madd Dogg (3D Universe)|Madd Dogg's]] mansion from the [[Los Santos Vagos (3D Universe)|Vagos]], Carl returns to the mansion, where he listens to Madd Dogg performing in his recording studio with [[Kent Paul]] and [[Maccer]]. All of a sudden, the audio is cut off and Toreno's voice is heard on the speakers, requesting that Carl meet him outside the mansion. Carl leaves Paul, Maccer and Dogg in the studio and enters Toreno's [[Washington]] outside.
+
+Toreno drives Carl to the northern shore of [[Red County (3D Universe)|Red County]]. Requesting another job to be performed for him in exchange for [[Sweet Johnson|Sweet]]'s release from prison, Toreno demands that Carl sneak inside an [[LHD-069|amphibious assault ship]] in the [[Easter Basin Naval Station]] to steal a [[Hydra]] VTOL jet to destroy a flotilla of spy ships. Carl hops in a [[Squalo (3D Universe)|Squalo]] speedboat containing a [[knife]] and a [[Silenced 9mm|silenced pistol]], and heads for the naval base. Carl enters the ship through the rear, where he has the option to either blast his way in, or sneak inside the ship using his equipment. Regardless, Carl disables the ship's [[Surface-to-Air Missile|S.A.M.]] sites and steals one of the Hydras.
+
+Shortly afterwards, a group of Hydras are dispatched to shoot down Carl's aircraft. Toreno tells Carl not to worry about it, stating that a shootdown would cause an international incident. Carl destroys the pursuing aircraft and flies towards the [[Sherman Reservoir]] where he uses the Hydra's weaponry to destroy the [[Tropic]] spy ships, as Toreno requested. With his task completed, an infuriated Carl now asks Toreno what to do with the jet, but Toreno tells Carl that it is his problem. Carl flies the aircraft back to the [[Verdant Meadows Airfield|Verdant Meadows airfield]], where he taxis the jet into one of the hangars, completing the mission.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*There's a silenced pistol and a knife in the '''<span style="color:#484576">speedboat</span>'''.
+*Head for the '''<span style="color:#D1BC86">ship</span>'''.
+*Get inside the '''<span style="color:#D1BC86">ship</span>''' before the rear door closes. Swimming will help avoid detection by the guards.
+*Find the '''<span style="color:#D1BC86">control room</span>''' to switch off the SAM sites.
+*Steal one of the military jets.
+*Try not to alert the '''<span style="color:#AB3736">guards</span>'''.
+*You have been detected by a mechanic. He is running to trigger the alarm. {{Small|(if a mechanic sees the player standing near them or a guard gets killed in front of them by the player)}}
+*You've been detected by the '''<span style="color:#AB3736">guards</span>'''. The aircraft carrier is now on alert. {{Small|(if the player gets spotted by the guards)}}
+*Steal one of the military jets.
+*There are '''<span style="color:#AB3736">military jets</span>''' on your tail. Take them out!
+*Enemy jet destroyed. 2 still active.
+*Enemy jet destroyed. 1 still active.
+*All enemy jets destroyed. Now destroy the '''<span style="color:#D1BC86">spy ships</span>'''.
+*Spy ship destroyed. 3 ships remain.
+*Spy ship destroyed. 2 ships remain.
+*Spy ship destroyed. 1 ship remains.
+*Take the jet to the desert airfield and land anywhere on the '''<span style="color:#D1BC86">landing strip</span>'''.
+*Guide the plane into the Hangar.
+*The Hydra will now always be available in this hangar.
+
+==Deaths==
+*Most of the guards and mechanics aboard the [[LHD-069]] (possibly) {{nd}} Killed by [[Carl Johnson]] in order to steal a [[Hydra]] VTOL jet.
+*Pilots of enemy Hydra VTOL jet(s) {{nd}} Killed by Carl Johnson for attempting to kill him for stealing one of the Hydras.
+*Unknown personnel aboard the [[Tropic]] spy ships {{nd}} Killed by Carl Johnson with a Hydra jet under the orders of [[Mike Toreno]].
+
+==Rewards==
+*[[Money|$]]50,000
+*[[Respect]] increase.
+*Next mission [[Home Coming]] is unlocked.
+*[[Hydra]] permanently spawns in the westernmost hangar of [[Verdant Meadows Airfield|Verdant Meadows]].
+*Heavy weapons spawn at Toreno's [[Mike Toreno's Ranch|ranch]], including a [[minigun]], both versions of the [[Rocket Launcher (3D Universe)|rocket]] [[Heat-Seeking Rocket Launcher|launcher]], and the [[flamethrower]]. All of them give the player more ammunition than a regular pick-up (e.g. the Minigun here has 500 ammo here, whereas other locations give 200 ammo).
+
+==Aftermath==
+A [[West Coast Talk Radio (3D Universe)|WCTR]] news bulletin announces that several eyewitnesses witnessed the Hydra being stolen from the naval base. However, this is denied by the authorities.
+
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px">
+VerticalBird-GTASA-SS1.png|In the [[Madd Dogg's Crib|mansion's]] recording studio, [[Madd Dogg (3D Universe)|Madd Dogg]] performs with [[Kent Paul]]'s support.
+VerticalBird-GTASA-SS2.png|[[Carl Johnson|Carl]] listens to his performing.
+VerticalBird-GTASA-SS3.png|The audio is cut off, Madd Dogg being confused.
+VerticalBird-GTASA-SS4.png|The others are confused as well.
+VerticalBird-GTASA-SS5.png|The men hear [[Mike Toreno|Toreno's]] voice asking Carl to meet him outside the crib.
+VerticalBird-GTASA-SS6.png|Carl exits the studio, leaving Paul, [[Maccer]], and Dogg inside...
+VerticalBird-GTASA-SS7.png|...and enters Toreno's [[Washington|car]] outside.
+VerticalBird-GTASA-SS8.png|Carl is taken to the northern part of [[Red County (3D Universe)|Red County]] by Toreno.
+VerticalBird-GTASA-SS9.png|In exchange for [[Sweet Johnson|Sweet's]] release from prison, Carl is given another job.
+VerticalBird-GTASA-SS10.png|The player going to the [[Squalo (3D Universe)|Squalo]] speedboat, where a [[knife]] and a [[Silenced 9mm|silenced pistol]] are stashed.
+VerticalBird-GTASA-SS11.png|There's a silenced pistol and a knife in the '''<span style="color:#484576">speedboat</span>'''.
+VerticalBird-GTASA-SS12.png|Head for the '''<span style="color:#D1BC86">ship</span>'''.
+VerticalBird-GTASA-SS13.png|A [[Launch]] is seen entering the rear of the ship.
+VerticalBird-GTASA-SS14.png|Get inside the '''<span style="color:#D1BC86">ship</span>''' before the rear door closes. Swimming will help avoid detection by the guards.
+VerticalBird-GTASA-SS15.png|Find the '''<span style="color:#D1BC86">control room</span>''' to switch off the SAM sites.
+VerticalBird-GTASA-SS16.png|Steal one of the military jets.
+VerticalBird-GTASA-SS17.png|Try not to alert the '''<span style="color:#AB3736">guards</span>'''.
+VerticalBird-GTASA-SS18.png|You have been detected by a mechanic. He is running to trigger the alarm.
+VerticalBird-GTASA-SS19.png|You've been detected by the '''<span style="color:#AB3736">guards</span>'''. The Aircraft Carrier is now on alert.
+VerticalBird-GTASA-SS20.png|In the control room, Carl turns off the [[Surface-to-Air Missile|S.A.M.]] sites.
+VerticalBird-GTASA-SS21.png|An S.A.M. site being turned off.
+VerticalBird-GTASA-SS22.png|Steal one of the military jets.
+VerticalBird-GTASA-SS23.png|The player taking a [[Hydra]].
+VerticalBird-GTASA-SS24.png|"''Prepare to be vaporized!''"
+VerticalBird-GTASA-SS25.png|There are '''<span style="color:#AB3736">military jets</span>''' on your tail. Take them out!
+VerticalBird-GTASA-SS26.png|The player destroys the first enemy jet.
+VerticalBird-GTASA-SS27.png|Enemy jet destroyed. 2 still active.
+VerticalBird-GTASA-SS28.png|The player taking out the second enemy jet.
+VerticalBird-GTASA-SS29.png|Enemy jet destroyed. 1 still active.
+VerticalBird-GTASA-SS30.png|The player taking out the last enemy jet.
+VerticalBird-GTASA-SS31.png|All enemy jets destroyed. Now destroy the '''<span style="color:#D1BC86">spy ships</span>'''.
+VerticalBird-GTASA-SS32.png|Spy ship destroyed. 3 ships remain.
+VerticalBird-GTASA-SS33.png|Spy ship destroyed. 2 ships remain.
+VerticalBird-GTASA-SS34.png|Spy ship destroyed. 1 ship remains.
+VerticalBird-GTASA-SS35.png|Take the jet to the desert airfield and land anywhere on the '''<span style="color:#D1BC86">landing strip</span>'''.
+VerticalBird-GTASA-SS36.png|Guide the plane into the hangar.
+VerticalBird-GTASA-SS37.png|The player guides the plane into the hangar.
+VerticalBird-GTASA-SS38.png|Mission passed. The Hydra will now always be available in this hangar, [[Money|$]]50,000 reward.
+</gallery>
+
+===Video Walkthroughs===
+{{Videogallery
+|{{#ev:youtube|ZOo0rEaWSIc|275px|center}}
+|{{#ev:youtube|dzd9fzFUJ28|275px|center}}
+|{{#ev:youtube|ml6XB8Toyr4|275px|center}}
+}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+VerticalBird-GTASA-Fails.png|Reasons to fail the mission. Notice the first two.
+</gallery>
+
+==Trivia==
+===General===
+*[[Mike Toreno|Toreno]] reassuring [[Carl Johnson|CJ]] that he should be fine because he is not a [[United Kingdom|British]] tank is likely a reference to one particular friendly fire incident during the 1990–1991 {{WP|Gulf War}}, when two British {{WP|FV510 Warrior}} tracked armoured vehicles, mistaken for [[Iraq]]i {{WP|T-54/T-55|T-55 tanks}}, were destroyed by {{WP|AGM-65 Maverick}} missiles launched from two [[United States of America|American]] {{WP|Fairchild Republic A-10 Thunderbolt II|A-10 Thunderbolt II}} ground attack aircraft.
+
+===''Grand Theft Auto: San Andreas''===
+*This is the only storyline mission that takes place across each of the three major areas in the [[State of San Andreas (3D Universe)|State of San Andreas]]. It starts at [[Madd Dogg's Crib]] ([[Los Santos (3D Universe)|Los Santos]]), Carl steals the [[Hydra]] from the [[Easter Basin Naval Station]] ([[San Fierro (3D Universe)|San Fierro]]), destroys [[Tropic|spy ships]] in [[Tierra Robada]] and lands the jet at [[Verdant Meadows Airfield|Verdant Meadows]] (near [[Las Venturas (3D Universe)|Las Venturas]]).
+**The only mission that covers more distance is the second [[Beat the Cock!]] triathlon. It starts in [[Palomino Creek]], traverses the countryside and requires the player to enter San Fierro, [[Bayside]] and Las Venturas properly, the latter two requiring a passage through the desert.
+*The default radio station of the [[Washington]] is [[West Coast Talk Radio (3D Universe)|WCTR]], but when Carl and Toreno enter Toreno's car, [[K-Rose]] is playing.
+*In the beta, Carl would have to drive all the way to the [[Squalo (3D Universe)|boat]], as depicted by unused mission failure messages (i.e. "Toreno's car is destroyed!").
+*The mission is scripted to take place at night and have stormy [[weather]].
+*If the [[Launch|patrol boat]] that enters the carrier is destroyed from afar (with a [[minigun]] or an [[Rocket Launcher (3D Universe)|RPG]]), the game will crash as soon as the player sneaks aboard.
+*On the aircraft carrier, three jets can be found initially. A fourth one lands later on, while one of the initial three departs. Destroying one of the remaining jets will lead to two Hydras pursuing CJ after stealing a Hydra, while destroying two will lead to just one Hydra pursuing CJ.
+*The [[Surface-to-Air Missile|S.A.M.]] sites on the aircraft carrier are mission-exclusive, and will remain inactive out of the mission, regardless of whether they were deactivated or not by the player during the mission.
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Vertical Bird]]
+[[es:Vertical Bird]]
+[[fi:Vertical Bird]]
+[[pl:Pionowzlot]]
+[[ru:Vertical Bird]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

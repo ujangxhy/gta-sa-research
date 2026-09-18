@@ -1,0 +1,125 @@
+{{Disambiglink|For the mission, see [[Wu Zi Mu (mission)]].}}
+{{Spoilers}}
+{{Infobox character
+|name           = Wu Zi Mu
+|image          = Woozie-GTASA-HD.jpg
+|games          = {{Games|SA=y}}
+|voice          = [[James Yaegashi]]
+|gender         = M
+|aka            = 
+*Woozie
+*The Lucky Mole
+|status         = Alive
+|home           = 
+*[[Wu Zi Mu's Apartment|Apartment]], [[Chinatown (GTA San Andreas)|Chinatown]], [[San Fierro (3D Universe)|San Fierro]]
+*[[The Four Dragons Casino]], [[Las Venturas (3D Universe)|Las Venturas]]
+|nationality    = {{Country|adj=y|CN|US}}
+|affiliations   = 
+*[[Mountain Cloud Boys]] <small>(Leader)</small>
+*[[San Fierro Triads]] <small>(Co-leader)</small>
+*[[Carl Johnson]]
+*[[Ran Fa Li]]
+*[[Cesar Vialpando]]
+*[[Kendl Johnson]]
+*[[Su Xi Mu]]
+*[[Triad Assistant 1|First unnamed assistant]]
+*[[Triad Assistant 2|Second unnamed assistant]]
+*[[Little Lion]] {{Status|D1=y}}
+*[[Zero]]
+*[[Janitor]]
+|vehicles       = 
+*Pink [[Fortune]]
+*Pink [[Elegy]]
+*[[Feltzer]]
+*[[Rancher (3D Universe)|Rancher]]
+*[[Bravura]]
+|businesses     = 
+*[[The Four Dragons Casino]]
+*[[Wu Zi Mu's Betting Shop]]
+|weapons        = 
+*[[Micro SMG (3D Universe)|Micro SMG]]
+*[[SMG (3D Universe)|SMG]]
+}}
+{{Dialogue|p1=Carl|d1=Uh, one last thing. You do know that I'm black, right? And not Chinese.|p2=Woozie|d2=I'm blind, Carl, not stupid.|quotedetail=Wu Zi Mu's response to [[Carl Johnson]] in [[Amphibious Assault]].|sound=WuZiMu-GTASA-Quote.ogg}}
+'''Wu Zi Mu''' (Traditional Chinese: '''穆伍茲''', Simplified Chinese: '''穆吴梓''', Pinyin: '''''Mù Wǔ Zī'''''), also known to his friends as "'''Woozie'''" is a main character in {{SA}}.
+
+He is voiced by [[James Yaegashi]].
+
+==History==
+===Background===
+Woozie is the blind leader of the [[San Fierro Triads|Mountain Cloud Boys]] Triads and a close friend of [[Carl Johnson]] based in [[San Fierro (3D Universe)|San Fierro]]'s [[Chinatown (GTA San Andreas)|Chinatown]] and in [[Las Venturas (3D Universe)|Las Venturas]], where he owns the newly opened [[The Four Dragons Casino|Four Dragons Casino]].
+
+===Events of ''Grand Theft Auto: San Andreas''===
+Wu Zi Mu and his triads have spread across [[State of San Andreas (3D Universe)|San Andreas]]. In Las Venturas, Woozie aids Carl to plot a [[Breaking the Bank at Caligula's|robbery]] at [[Caligula's Palace]], as well as participating in the [[heist]] himself.
+
+Woozie is nicknamed "The Lucky Mole" because he is blessed with good fortune, most notably from his capability to compete in a car race and beating Carl in a round of video games, all despite his blindness. There are, however, humorous occasions when he runs into walls, as well as indications that his cohorts manipulate the outcome of games played with Woozie so that he would always win. For example, in one game he plays against Carl, Woozie keeps asking for cards until he finally stands with a 47 (later calling Carl "bad luck"). Another time, while practicing putting, his henchmen move the target cup into the path of Woozie's ball and out of the path of CJ's. Woozie is also incapable of [[swimming]], since his other working senses are ineffective underwater.
+
+Though Woozie can be just as brutal and foul-mouthed as a [[Grove Street Families]] gang member when angered, he is by all accounts a peaceful and, within the realm of criminals, an honorable man. He is one whom power has not tainted, and as such, Woozie remains a faithful and trustworthy friend, accomplice, and informant to Carl to the end of the game.
+
+[[1998|Six years]] later in {{LCS}}, it is indicated that Woozie's ventures in Las Venturas are a huge success and by that time, The Four Dragons Casino is the location of many entertainment venues, concerts and important events.
+
+Woozie isn't seen again, but it can certainly be seen that Woozie is still alive and well by the end of the story arc, continuing with the running of the Triads in San Fierro and the Four Dragons Casino in Las Venturas, as [[Kendl Johnson|Kendl]] recommends they go to Las Venturas and "Roll some dice with Woozie" during their celebration of [[Madd Dogg (3D Universe)|Madd Dogg]]'s first gold record with CJ as manager and victory over [[Frank Tenpenny|Tenpenny]]'s death.
+
+==Prominent Appearances in Gameplay==
+*[[Wu Zi Mu (mission)|Wu Zi Mu]]
+*[[Farewell, My Love...]] <small>(Oversight)</small>
+*[[Jizzy (mission)|Jizzy]]
+*[[Mountain Cloud Boys (mission)|Mountain Cloud Boys]] <small>(Boss)</small>
+*[[Ran Fa Li (mission)|Ran Fa Li]] <small>(Boss)</small>
+*[[Lure (GTA San Andreas)|Lure]] <small>(Boss)</small>
+*[[Amphibious Assault]] <small>(Boss)</small>
+*[[The Da Nang Thang]] <small>(Boss)</small>
+*[[Toreno's Last Flight]] <small>(Voice/Boss)</small>
+*[[Yay Ka-Boom-Boom]] <small>(Boss)</small>
+*[[Learning to Fly]] <small>(Post-mission phone call)</small>
+*[[Fender Ketchup]] <small>(Boss)</small>
+*[[Explosive Situation]] <small>(Boss)</small>
+*[[You've Had Your Chips]] <small>(Boss)</small>
+*[[Don Peyote]] <small>(Post-mission phone call/Unheard)</small>
+*[[Fish in a Barrel]] <small>(Boss)</small>
+*[[Architectural Espionage]] <small>(Boss)</small>
+*[[Key to Her Heart]] <small>(Boss)</small>
+*[[Dam and Blast]] <small>(Boss)</small>
+*[[Cop Wheels]] <small>(Boss)</small>
+*[[Up, Up and Away!]] <small>(Boss)</small>
+*[[Saint Mark's Bistro]] <small>(Post-mission phone call)</small>
+*[[Breaking the Bank at Caligula's]] <small>(Boss)</small>
+*[[A Home in the Hills]] <small>(Boss)</small>
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="270px">
+Artwork-WuZiMu-GTASA.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''Woozie''' with another Triad.
+WuZiMu-GTASAde.png|'''Wu Zi Mu''' in {{TDE}} of {{SA}}.
+TheFourDragonsCasino-GTASA-Day.jpg|The Four Dragons Casino.
+</gallery>
+
+==Trivia==
+*In {{IV}}, a [[pedestrian]] in [[Chinatown (GTA IV)|Chinatown]] may sometimes be heard saying, "My cousin owns a casino in [[Las Venturas (HD Universe)|Las Venturas]]. Maybe we should go sometimes." This may be a reference to Woozie and his casino.
+*Despite Woozie being blind, he seems to be an experienced driver and shooter.
+**He is also shown to be experienced in video gaming, as shown in [[Amphibious Assault]] (only if the player has low lung capacity level).
+*During the closure cutscene of the mission [[Wu Zi Mu]], the two girls around Woozie often tend to hold his shoulder. This could be because blind people use shoulder contact when being assisted with walking, as it allows them to know in which direction they should walk or when to expect to descend or ascend as they follow the assistant, though it could just be a coincidence with development.
+*During the mission [[Farewell, My Love...]] (or [[Badlands B]] race), the passenger in the pink [[Elegy]] is [[Catalina]] while the driver is Woozie. However, it is implied in the introductory [[cutscene]] that it is supposed to be [[Claude]] who drives the Elegy with Catalina.
+*His favorite radio station seems to be [[Master Sounds 98.3]], as this station is the default station in Woozie's cars.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families|state=collapsed}}
+{{Navbox gtasa characters|state=collapsed}}
+}}
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Gangsters]]
+[[Category:Gang leaders]]
+[[Category:Mission givers]]
+[[Category:San Fierro Triads members]]
+
+[[de:Wu Zi Mu]]
+[[es:Woozie]]
+[[fi:Wu Zi Mu]]
+[[pl:Wu Zi Mu]]
+[[pt:Wu Zi Mu]]
+[[ru:Ву Зи Му]]
+[[uk:У Цзи Му]]

@@ -1,0 +1,131 @@
+{{Infobox location
+|name  = Pillbox Hill
+|image = PillboxHill-GTAV.png
+|caption = Overview of Pillbox Hill.
+|games = {{Games|V=y|O=y}}
+|type = neighborhood
+|location = [[Downtown Los Santos (HD Universe)|Downtown]], [[Los Santos (HD Universe)|Los Santos]], [[State of San Andreas (HD Universe)|San Andreas]]
+|pscanner       = PoliceScanner-GTAV-Neighborhood-PillboxHill.ogg
+|map           = <gallery>
+PillboxHill-IngameGPS-GTAV-Map.png|Pillbox Hill
+PillboxHill-IngameGPS-GTAV-LosSantosMap.png|Los Santos
+</gallery>
+|map_caption   = Location on the map (in-game GPS).
+}}'''Pillbox Hill''' is the largest neighborhood in [[Downtown Los Santos (HD Universe)|Downtown Los Santos]], [[State of San Andreas (HD Universe)|San Andreas]] in ''[[Grand Theft Auto V]]'' and ''[[Grand Theft Auto Online]]''. Pillbox Hill is based on the real-life neighborhood of {{WP|Bunker Hill, Los Angeles}}.
+
+==Description==
+Pillbox Hill borders [[Strawberry]] and [[Chamberlain Hills]] to the south, [[Little Seoul]] to the west, [[Burton]] and [[Alta]] to the north and [[Textile City]] and [[Legion Square]] to the east.
+
+Pillbox Hill is Los Santos' commercial and financial center. The district contains most of the city's major skyscrapers and associated financial institutions. Pillbox Hill is home to the main headquarters of companies like [[Maze Bank]], [[Schlongberg Sachs]], [[Union Depository]], [[Lombank]], [[Tinkle]], [[GoPostal]] or [[Penris]], among others. It occupies approximately the western half of [[Downtown Los Santos (HD Universe)|Downtown Los Santos]].
+
+==Notable Residents==
+*[[GTA Online Protagonist|''GTA Online'' Protagonist]] <small>(determinant).</small>
+
+==Transport==
+The neighbourhood is served by [[Los Santos Transit]] buses. It has two stations (only one station is operational) on the [[Los Santos (HD Universe)|Los Santos]] light rail system - [[Pillbox South Station]] and [[Pillbox North Station]], which is closed and under construction.
+
+==Roads and Streets==
+*[[Adam's Apple Boulevard]]
+*[[Alta Street]]
+*[[Elgin Avenue]]
+*[[Integrity Way]]
+*[[Low Power Street]]
+*[[Peaceful Street]]
+*[[Power Street]]
+*[[San Andreas Avenue]]
+*[[Strawberry Ave]]nue
+*[[Swiss Street]]
+*[[Vespucci Boulevard]]
+
+==Places of Interest==
+*[[3 Alta Street]]
+*[[707 Vespucci]]
+*[[FIB Headquarters]]
+*[[IAA Headquarters]]
+*[[Integrity Tower]]
+*[[Lombank Building (GTA V)|Lombank Building]]
+*[[Maze Bank Tower]]
+*[[Pillbox Hill Garage]]
+*[[Pillbox Hill Medical Center]]
+*[[Quik House]]
+
+==Businesses==
+*[[Ammu-Nation (HD Universe)|Ammu-Nation]]
+*[[Bite!]]
+*[[Brawls]]
+*[[Caesars Auto Parking]]
+*[[Café Redemption]]
+*[[The Celtica Hotel]]
+*Cheap Shot Coffee
+*[[Crucial Fix]]
+*[[Digital Den]]
+*Downtown Liquor Deli
+*[[The Emissary|The Emissary Hotel]]
+*[[Escapism Travel]]
+*[[Fleeca|Fleeca Bank]]
+*[[Ground & Pound Café]]
+*[[Happy Shark]]
+*[[Hookah Palace]]
+*[[Hotel Wisdahl]]
+*[[Paper Clips]]
+*[[Post OP|Post OP Couriers]]
+*[[Premium Deluxe Motorsport]]
+*[[Slaughter, Slaughter & Slaughter]]
+*[[Union Depository]]
+*[[Wolfs International Realty]]
+
+==Collectibles==
+===''Grand Theft Auto V''===
+====[[Letter Scraps]]====
+*At the [[Mile High Club]] construction site, on top of the crane.
+
+====[[Spaceship Parts]]====
+*On the roof of the [[Penris Building]].
+*Inside the underground [[Pillbox North Station]] under construction.
+====[[Stunt Jumps in GTA V|Stunt Jumps]]====
+*On top of the parking garage on [[Peaceful Street]].
+*At the west entrance of the [[Pillbox Hill Medical Center]].
+*On an overpass above [[San Andreas Avenue]].
+====[[Health]] Packs====
+*At the underground of Union Depository
+*At Pillbox Hill Medical Center
+
+===''Grand Theft Auto Online''===
+====Stunt Jumps====
+*On top of the parking garage on Peaceful Street.
+*At the west entrance of the Pillbox Hill Medical Center.
+*On an overpass above San Andreas Avenue.
+====[[Action Figures]]====
+*In the closed Pillbox North station via the maintenance tunnels, near the train tracks.
+*On the navigational arrow sculpture at the Arcadius Business Center.
+====[[Playing Cards]]====
+*On a bench at the fountain plaza of the FIB Headquarters.
+*On a table at the back of the Ammu-Nation.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+PillboxHill-GTAV-GroundView.png|'''Pillbox Hill''' from [[Little Seoul]].
+DowntownLosSantos-Night-GTAV.png|'''Pillbox Hill''' at night.
+</gallery>
+
+==See also==
+*[[Downtown Los Santos (3D Universe)|Downtown Los Santos]] {{nd}} [[3D Universe]] equivalent of Pillbox Hill that appears in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtav neighborhoods|state=collapsed}}
+}}
+
+[[Category:Locations in GTA Online in Los Santos]]
+[[Category:Locations in GTA V in Los Santos]]
+[[Category:Neighborhoods]]
+
+[[de:Pillbox Hill]]
+[[es:Pillbox Hill]]
+[[fr:Pillbox Hill]]
+[[pl:Pillbox Hill]]
+[[pt:Pillbox Hill]]
+[[ru:Пиллбокс-Хилл]]
+[[Category:Zones]]

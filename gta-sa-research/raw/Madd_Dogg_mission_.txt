@@ -1,0 +1,82 @@
+{{DISPLAYTITLE:Madd Dogg}}
+{{Disambiglink|For the character, see [[Madd Dogg (3D Universe)|Madd Dogg]].}}
+{{Infobox mission
+|name       = Madd Dogg
+|image      = MaddDogg-GTASA-Mission.png
+|caption    = [[Madd Dogg (3D Universe)|Madd Dogg]] on the casino rooftop, before jumping.
+|game       = {{Games|SA=y}}
+|type       = SA
+|for        = {{For|game=SA|dogg}}
+|location   = [[Royal Casino]], [[The Strip]], [[Las Venturas (3D Universe)|Las Venturas]]
+|target     = Save [[Madd Dogg (3D Universe)|Madd Dogg]]
+|fail       = 
+*[[Wasted]]
+*[[Busted]]
+*[[Madd Dogg (3D Universe)|Madd Dogg]] dies
+*[[Walton]] destroyed
+|reward     = [[Respect]]
+|unlocks    = [[Saint Mark's Bistro]] {{Small|(if [[Green Goo]] and [[High Noon]] are completed first)}}
+|unlockedby = [[The Meat Business]]
+|todo       =
+*Find a way to save Madd Dogg before he jumps!
+*Use the '''<span style="color:#484576">pickup truck</span>''' around the corner to rescue Madd Dogg!
+*Catch '''<span style="color:#484576">Madd Dogg</span>''' when he jumps.
+*Drive Madd Dogg to '''<span style="color:#D1BC86">hospital</span>''' CAREFULLY. Each bump reduces his chance of survival.
+}}
+{{Quote|Stay the fuck away - stay the fuck away!! I'm the best rapper in the universe! I'll jump! I'll jump!|Madd Dogg|sound=MaddDoggMission-GTASA-Quote.ogg}}
+'''Madd Dogg''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by rapper [[Madd Dogg (3D Universe)|Madd Dogg]] from the [[Royal Casino]], a casino located along [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Carl walks over to the south side of the casino, encountering [[Hecklers|two men]] encouraging someone on the casino roof to jump. One of them tells Carl that the person on the roof is Madd Dogg, a formerly successful rapper. Carl tells Madd Dogg not to jump, but Madd Dogg says his life doesn't mean anything anymore. He has lost everything, from his money to his fame, after his rhyme book was [[Madd Dogg's Rhymes|stolen]] and his [[Alan Crawford|manager]] was [[Management Issues|killed]]. Carl once again tries to make him reconsider jumping, but Madd Dogg ignores him. Two croupiers attempt to prevent Madd Dogg from jumping, but he tells them to stay away.
+
+Carl, in an attempt to save Madd Dogg from suicide, steals a nearby [[Walton]] and parks near the casino. Madd Dogg jumps from the roof in a drunken state, landing on a pile of boxes. Carl then takes Madd Dogg to a [[Ivory Towers Drive-Thru Mental Clinic|rehabilitation center]]. On the way, Madd Dogg tells Carl that he is going to get a new manager once he is clean, and might consider Carl. Carl agrees. Carl arrives at the rehabilitation center, where two [[paramedics]] check Madd Dogg in. Carl drives off and the mission ends.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Use the pickup truck around the corner to rescue Madd Dogg
+*Catch Madd Dogg when he jumps
+*Drive Madd Dogg to the hospital CAREFULLY. Each bump reduces his chance of survival
+
+==Reward==
+*The reward for this mission is an increase in [[respect]]. The mission [[Saint Mark's Bistro]] is unlocked, but only if the missions [[Green Goo]] and [[High Noon]] are done.
+
+==Post-Mission Phone Call==
+Note: This call only happens if [[Green Goo]] and [[High Noon]] are completed first.
+*'''Carl Johnson''': He-ello?
+*'''[[Ken Rosenberg]]''': You've hung us out to dry, I know it!
+*'''Carl Johnson''': Rosenberg?
+*'''Ken Rosenberg''': Yeah. Soon to be wearing concrete shoes in a shallow grave in the desert, Rosenberg! I'm surprised you remember!
+*'''Carl Johnson''': Look, I haven't forgotten you guys, just hang in there.
+*'''Ken Rosenberg''': Easy for you to say, this [[Salvatore Leone|Salvatore]] guy might whack me at any moment.
+
+==Transcript==
+{{/Transcript}}
+
+==Video Walkthroughs==
+{{#ev:youtube|t4bkUcsKy1c|275px|center}}
+{{#ev:youtube|0S0-gOKMXpY|275px|center}}
+{{#ev:youtube|WgdgAZQo3Hk|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+MaddDoggmission-GTASA2.jpg|[[Madd Dogg (3D Universe)|Madd Dogg]] shortly before jumping off the ledge.
+Hecklers-GTASA.png|The [[Hecklers|two bystanders]] who encourage Madd Dogg to jump.
+</gallery>
+
+==Oversights==
+*If the player uses the "pedestrians attack each other" [[Cheats in GTA San Andreas|cheat]] before this mission, Madd Dogg will immediately jump after the opening cutscene, making this mission impossible to complete. If it happens, the only way to fix it is by using a save game editor such as the one on {{URL|https://gtasnp.com/|GTASNP}} to remove the hate relationship between the [[pedestrians]] and the player, or to start a new game (Note: Do not use cheats that affect the gameplay up to this mission). This is one of a few missions to not work correctly if too many cheats are used, the others being [[Burning Desire]], [[Tanker Commander]], [[555 We Tip]] and, in some cases, [[Photo Opportunity]]. Although, players have reported that they suffered this glitch without using any cheats.
+
+==Trivia==
+*The [[Walton]] used has a unique white paintjob and is bullet-proof and melee-proof. It can be easily kept after completing the mission.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[pl:Madd Dogg (misja 2)]]
+[[ru:Madd Dogg]]
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

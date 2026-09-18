@@ -1,0 +1,101 @@
+{{Spoiler}}
+{{Infobox character
+|name           = Unknown
+|image          = Zero-GTASA-HD.jpg
+|games          = {{Games|SA=y}}
+|aka            = 
+*Zero
+*Zee
+|gender         = M
+|dob            = {{Circa}} [[1964]]{{Ref|name=age|ref=In [[Supply Lines...]], Zero states that he is 28 years old.}}
+|pob            = [[State of San Andreas (3D Universe)|San Andreas]]
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*[[The Truth]]
+*[[Carl Johnson]]
+*[[Wu Zi Mu]]
+*[[San Fierro Triads]]
+|businesses     = 
+*[[Zero's RC Shop]]
+*Electronics Expert
+|voice          = [[David Cross]]
+|status         = Alive
+|vehicles       = [[Alpha (3D Universe)|Alpha]]
+|home           = [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|weapons        = 
+*[[Minigun]] {{Small|(during the mission [[Air Raid]], it is used by CJ)}}
+*[[Fire Extinguisher]]
+}}
+{{Quote|As usual, the forces of darkness have triumphed over good. Life is nothing but misery, briefly interspersed with agony.|Zero during [[Air Raid]].|sound=Zero-GTASA-Quote.ogg}}
+'''Zero''' is a main character appearing in {{SA}}.
+
+He is voiced by [[David Cross]].
+
+==History==
+===Background===
+Zero was born in [[1964]] in [[State of San Andreas (3D Universe)|San Andreas]]. Zero is a nerdy electronics expert and hobbyist who owns [[Zero RC]] in [[San Fierro (3D Universe)|San Fierro]].
+
+His business is in trouble and losing [[money]], and this is due to his rival and arch-enemy [[Berkley]], who owns a similar company. Zero and Berkley's rivalry began at a science fair, where Zero beat him, which led to Berkley swearing revenge on Zero.
+
+According to dialogue in the mission "Air Raid", Zero suffers from high blood pressure. 
+
+===Events of ''Grand Theft Auto: San Andreas''===
+====Meeting Carl====
+Zero is [[Wear Flowers in Your Hair|first introduced]] to [[Carl Johnson]] by [[The Truth]]; he sits outside of his RC Shop. He is introduced as an electronics expert, who could help Carl Johnson and his [[Doherty Garage|garage]].
+
+====War against Berkley====
+Zero later phones Carl in desperation, explaining that the landlord is selling his shop and he may go out of business. Carl buys the shop, and then begins to help Zero against Berkley, with [[Air Raid|shooting down remote control aeroplanes]], [[Supply Lines...|destroying delivery vans and killing delivery boys]], and finally [[New Model Army|defeating Berkley in a miniature war game]]. Winning the war game finally forces Berkley to leave San Fierro, allowing both Zero and Carl to return the shop to profit.
+
+====Casino Heist====
+Zero later helps Carl and [[Cesar Vialpando]] steal cars for the [[Wang Cars (GTA San Andreas)|Wang Cars]] business in [[Doherty (3D Universe)|Doherty]], San Fierro. This includes [[Zeroing In|fitting a tracking device in a car]], which Carl then follows and steals.
+
+Zero then lends his expertise to Carl Johnson and [[Wu Zi Mu]] as they plan to pull off a [[Breaking the Bank at Caligula's|heist]] at [[Caligula's Palace]] in [[Las Venturas (3D Universe)|Las Venturas]]. This includes creating devices to cut the power from [[Sherman Dam]], stealing four [[HPV1000]] police motorcycles and stealing a [[Leviathan]].
+
+Zero also participates in the heist itself, directing Carl, Woozie and the others around Caligula's Palace. However, prior to the heist, he inadvertently told Berkley about it, putting the whole heist at risk. Carl punches him in the face at the [[Verdant Meadows Airfield|Verdant Meadows]] airstrip, knocking him to the ground. He makes no further appearances or association with Carl following the heist.
+
+Zero also makes an {{URL|https://youtu.be/b-mzGsFFq9k&t{{=}}249|appearance}} on the second episode of [[Lonely Hearts]], saying that he "doesn't want to be a virgin all his life". Host [[Christy MacIntyre]] says that she cannot help him and "wouldn't even suggest him to a [[Prostitutes|hooker]]".
+
+==Prominent Appearances in Gameplay==
+*[[Wear Flowers in Your Hair]]
+*[[Air Raid]] {{Small|(Boss)}}
+*[[Supply Lines...]] {{Small|(Boss)}}
+*[[New Model Army]] {{Small|(Boss)}}
+*[[Zeroing In]]
+*[[Dam and Blast]]
+*[[Cop Wheels]]
+*[[Up, Up and Away!]]
+*[[Breaking the Bank at Caligula's]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+Zero-GTASA-RemoteControl.png|'''Zero''' controlling an [[RC Raider]].
+Zero-GTASAde.png|'''Zero''' in {{TDE}}.
+</gallery>
+
+==Trivia==
+*In the mission [[Wear Flowers in Your Hair]], Zero will drop remote control charges if killed. The remote control charges are intended to represent the remote control for the [[RC Raider]] he was controlling at the time.
+*Zero and his infamously difficult mission [[Supply Lines...]] are referenced on the [[Kult FM]] radio station in {{O}}. [[David Cross]], Zero's voice actor, also voices one of the station's DJs, [[Zachary]].
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{Navbox gtasa characters|state=collapsed}}
+}}
+
+[[ar:زيرو]]
+[[de:Zero]]
+[[es:Zero]]
+[[fi:Zero]]
+[[hu:Zero]]
+[[it:Zero]]
+[[pl:Zero]]
+[[pt:Zero]]
+[[ru:Зиро]]
+
+[[Category:Characters in GTA San Andreas|Zero]]
+[[Category:Mission givers|Zero]]
+[[Category:Male characters]]

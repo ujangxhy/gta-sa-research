@@ -1,0 +1,220 @@
+{{DISPLAYTITLE:OG Loc}}
+{{Disambiglink|For the character, see [[OG Loc (3D Universe)|OG Loc]]. For other subjects also using the "OG" abbreviation, see [[OG (disambiguation)]].}}
+{{Infobox mission
+|name = OG Loc
+|image = OGLoc-GTASA-Mission.png
+|caption = The [[Grove Street Families]] members picking up [[OG Loc (3D Universe)|Jeffrey Cross]] a.k.a. "OG Loc" after being released from prison.
+|game           = {{Games|SA=y}}
+|type           = SA
+|for = {{For|game=SA|smoke}}
+|target = [[Freddy (GTA San Andreas)|Freddy]]
+|location = [[Big Smoke's House]], [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]]
+|fail = *[[Wasted]]
+*[[Busted]]
+*[[Sweet]], [[Big Smoke]], or [[OG Loc (3D Universe)|OG Loc]] dies
+*[[Freddy (GTA San Andreas)|Freddy]] escapes
+*[[Glendale (3D Universe)|Glendale]] destroyed
+*[[PCJ-600]] destroyed
+|reward = [[Respect]]
+|unlocks = *[[Running Dog]]
+*[[Life's a Beach]]
+|unlockedby = [[Nines and AK's]]
+|todo =
+*Pick up OG Loc from the <font color=#D1BC86>'''police station'''</font>.
+*Drive to <font color=#D1BC86>'''Freddy's house'''</font>.
+*Go and ring the <font color=#D1BC86>'''doorbell'''</font>.
+*Catch and kill <font color=#AB3736>'''Freddy'''</font>!
+*Get on the <font color=#484576>'''bike'''</font>.<small>{{H:title|If the player leaves the bike.|[?]}}</small>
+*You have left <font color=#484576>'''OG Loc'''</font> behind. <small>{{H:title|If the player gets too far away from OG Loc.|[?]}}</small>
+*Take OG Loc to the employees' door at the back of the <font color=#D1BC86>'''Burger Shot'''</font>.
+}}
+{{Quote|Man, I gotta kill some cholo motherfucker! He was dissing me, man!|[[OG Loc (3D Universe)|OG Loc]]|sound=OGLoc(Mission)-GTASA-Quote.ogg}}
+'''OG Loc''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[Grove Street Families]] member [[Big Smoke|Melvin "Big Smoke" Harris]] from his [[Big Smoke's House|home]] in [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Carl goes to visit Big Smoke at his house in Idlewood, but there is no answer at the door. Just then, [[Sweet Johnson|Sweet]] and Big Smoke are seen walking down the driveway and greet Carl. Sweet and Smoke tell Carl that they have to go to the [[Los Santos Police Headquarters|police station]] in [[Pershing Square]] to pick up their friend [[OG Loc (3D Universe)|Jeffrey]], who was imprisoned for joyriding and parking fines. On the way to the police station, Smoke tells Carl that Jeffrey is now called "OG Loc".
+
+When they arrive at the police station, Loc is waiting outside at the front of the building. Carl calls Loc by his real name Jeffrey, which annoys him. Sweet and Smoke then mock him for not going to college. Loc then tells them they have to go see a "Cholo motherfucker" named [[Freddy (GTA San Andreas)|Freddy]] in [[East Los Santos (3D Universe)|East Los Santos]], who apparently stole Loc's rhymes book. Freddy will say "you dropped the soap, sugar" and "it was just a prison thing", indirectly revealing he was sexually abused while in prison, much to Carl's amusement.
+
+In the car, en route to East Los Santos, Loc tells the others he got a job at [[Burger Shot (3D Universe)|Burger Shot]], courtesy of his parole officer. They soon arrive at the [[Los Santos Vagos (3D Universe)|Vagos]] member's house. Sweet and Smoke leave while Carl stays with Loc. Carl and Loc confront Freddy at [[Freddy's House|his house]], who simply says that it was "a prison thing" and then escapes outside via the back door onto a [[PCJ-600|motorbike]]. Carl and Loc quickly jump onto another motorbike and give chase to Freddy throughout the streets, alleyways and freeways of [[Los Santos (3D Universe)|Los Santos]]. Freddy soon takes off down the railway tracks and stops at a [[Basketball|basketball court]] where more Vagos members are awaiting Carl and Loc's arrival. Carl and Loc get into a small shootout with the Vagos members, who are killed along with Freddy. Loc then asks Carl to give him a lift to the [[Burger Shot (3D Universe)|Burger Shot]] in [[Marina (3D Universe)|Marina]]. Carl agrees and drives Loc to the fast-food joint. Loc tells Carl that he will see him around and heads inside while Carl leaves.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Pick up OG Loc from the <font color="#D1BC86">'''police station'''</font>.
+*Drive to <font color="#D1BC86">'''Freddy's house'''</font>.
+*Go and ring the <font color="#D1BC86">'''doorbell'''</font>.
+*Catch and kill <font color="#AB3736">'''Freddy'''</font>!
+*Get on the <font color="#484576">'''bike'''</font>.<small>{{H:title|If the player leaves the bike.|[?]}}</small>
+*You have left <font color="#484576">'''OG Loc'''</font> behind. <small>{{H:title|If the player gets too far away from OG Loc.|[?]}}</small>
+*Take OG Loc to the employees' door at the back of the <font color="#D1BC86">'''Burger Shot'''</font>.
+
+==Deaths==
+*[[Freddy (GTA San Andreas)|Freddy]] - Killed by either OG Loc or Carl Johnson for embarrassing Loc in prison.
+*[[Los Santos Vagos (3D Universe)|Vagos]] members (optional) - Can be killed if Freddy joins them after the chase.
+
+==Reward==
+The reward for this mission is an increase in [[respect]]. The missions [[Running Dog]] and [[Life's a Beach]] are unlocked.
+
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px" bordersize="small">
+OGLoc-GTASA-SS1.png|CJ comes to see Smoke at his house in Idlewood.
+OGLoc-GTASA-SS2.png|CJ knocks on the door, but nobody answers.
+OGLoc-GTASA-SS3.png|Suddenly, Smoke and Sweet appear walking out from behind the house, talking about Jeffrey.
+OGLoc-GTASA-SS4.png|As they walk forward, they notice CJ on the porch and greet him.
+OGLoc-GTASA-SS5.png|Smoke jokingly asks CJ if he wants to go to prison.
+OGLoc-GTASA-SS6.png|This question confuses CJ.
+OGLoc-GTASA-SS7.png|Sweet tells CJ that Smoke meant going to the LSPD HQ in Pershing Square to pick up Jeffrey who has just been released from prison.
+OGLoc-GTASA-SS8.png|CJ agrees and asks Sweet and Smoke what Jeffrey was imprisoned for.
+OGLoc-GTASA-SS9.png|Smoke tells CJ that they can discuss this later.
+OGLoc-GTASA-SS10.png|CJ, Sweet and Smoke getting into Smoke's [[Glendale (3D Universe)|Glendale]].
+OGLoc-GTASA-SS11.png|On their way to the LSPD HQ, Sweet tells CJ that it's good hanging out with him and apologizes for being harsh to him before.
+OGLoc-GTASA-SS12.png|CJ tells Sweet that he forgives him.
+OGLoc-GTASA-SS13.png|Smoke changes the subject and tells CJ that Jeffrey has given himself a nickname - OG Loc.
+OGLoc-GTASA-SS14.png|CJ finds this name cheesy.
+OGLoc-GTASA-SS15.png|Sweet sarcastically calls Jeffrey a 'real gangster' for getting himself locked up.
+OGLoc-GTASA-SS16.png|CJ once again asks Sweet and Smoke what he got locked up for.
+OGLoc-GTASA-SS17.png|Smoke says that Jeffrey did anything he could to get thrown into jail to help his rapping career.
+OGLoc-GTASA-SS18.png|Smoke gives some examples of Jeffrey's misdeeds; all petty crimes.
+OGLoc-GTASA-SS19.png|The trio heading to the LSPD HQ.
+OGLoc-GTASA-SS20.png|The trio arriving at the LSPD HQ in Pershing Square.
+OGLoc-GTASA-SS21.png|The trio waiting for Jeffrey by the stairs to the HQ.
+OGLoc-GTASA-SS22.png|After a minute of waiting, Smoke notices Jeffrey.
+OGLoc-GTASA-SS23.png|CJ can't believe Jeffrey's behaviour and looks.
+OGLoc-GTASA-SS24.png|Jeffrey is standing on the stairs to the HQ, dressed like a gangbanger and in a pose.
+OGLoc-GTASA-SS25.png|The trio gets out of the car and walks up to Jeffrey. CJ greets him and addresses him by his real name.
+OGLoc-GTASA-SS26.png|Jeffrey is quick to correct CJ and tells him that his name is now OG Loc.
+OGLoc-GTASA-SS27.png|CJ apologizes for his mistake and asks Loc how it was being locked up.
+OGLoc-GTASA-SS28.png|Loc gets angry at this question and asks CJ what he thinks it was like.
+OGLoc-GTASA-SS29.png|Smoke tells Loc to calm down and asks him what he wants to do now that he's a free man.
+OGLoc-GTASA-SS30.png|Loc says that he intends to kill a [[Mexico|Mexican]] gangbanger for speaking ill of him.
+OGLoc-GTASA-SS31.png|Smoke tells Loc that he thought he intended to go to college, not kill gangsters, before laughing out loudly.
+OGLoc-GTASA-SS32.png|Loc doesn't find his intentions funny and tells Smoke off.
+OGLoc-GTASA-SS33.png|Loc claims that the Mexican gangbanger stole some rap lyrics he wrote down.
+OGLoc-GTASA-SS34.png|Loc tells the trio that the Mexican gangbanger lives in East Los Santos and asks the trio for a gun.
+OGLoc-GTASA-SS35.png|Sweet tells Loc to calm himself and to get into the car.
+OGLoc-GTASA-SS36.png|CJ must now drive Loc to the gangbanger's house.
+OGLoc-GTASA-SS37.png|On the way to East Los Santos, CJ asks Loc what's he planning to do after killing this Mexican gangster since he's a free man now.
+OGLoc-GTASA-SS38.png|Loc says that he's not free, as his parole officer forced him into a job.
+OGLoc-GTASA-SS39.png|Smoke remarks about how people are always trying to keep a 'player' down.
+OGLoc-GTASA-SS40.png|Loc agrees.
+OGLoc-GTASA-SS41.png|Loc says his new job is a 'hygiene technician'.
+OGLoc-GTASA-SS42.png|Sweet makes a remark about Loc's new job.
+OGLoc-GTASA-SS43.png|Loc says that this low-level job is only a stepping-stone to greatness.
+OGLoc-GTASA-SS44.png|The quartet heading to the gangbanger's [[Freddy's House|house]].
+OGLoc-GTASA-SS45.png|The quartet arriving at the gangbanger's house.
+OGLoc-GTASA-SS46.png|Upon arriving, CJ notices that the gangbanger lives in a neighborhood controlled by Los Santos Vagos.
+OGLoc-GTASA-SS47.png|Loc says that he doesn't care even if it is, since he's a gangster himself.
+OGLoc-GTASA-SS48.png|Smoke tells CJ and Sweet that they should leave Loc to deal with the 'Casanova' himself.
+OGLoc-GTASA-SS49.png|CJ tells Smoke and Sweet that he'll stay with Loc, just in case.
+OGLoc-GTASA-SS50.png|Sweet accepts CJ's decision.
+OGLoc-GTASA-SS51.png|CJ, Sweet and Smoke say their goodbyes to each other.
+OGLoc-GTASA-SS52.png|CJ and Loc get out of Smoke's Glendale.
+OGLoc-GTASA-SS53.png|At the doorsteps leading up to the gangbanger's home.
+OGLoc-GTASA-SS54.png|CJ, about to ring the doorbell to the gangbanger's house.
+OGLoc-GTASA-SS55.png|CJ ringing the doorbell.
+OGLoc-GTASA-SS56.png|Before the gangbanger can answer, Loc yells at the house and tells the gangbanger – Freddy – that he's 'come for him'.
+OGLoc-GTASA-SS57.png|CJ tells Loc to slow down and not to start any conflicts yet.
+OGLoc-GTASA-SS58.png|Freddy thinks Loc came for other reasons than to kill him and tells him that he's confused and that what they went through was just a 'prison thing'.
+OGLoc-GTASA-SS59.png|Freddy tells Loc that he's got a lot of boyfriends outside of prison and that he doesn't want Loc as one of them.
+OGLoc-GTASA-SS60.png|Loc is embarrassed to admit that he was raped by Freddy whilst imprisoned in front of CJ and tells him to ignore Freddy's dialogue.
+OGLoc-GTASA-SS61.png|Loc yells at Freddy to give back the rap lyrics he stole from Loc.
+OGLoc-GTASA-SS62.png|Freddy tells Loc that he didn't steal any rap lyrics and knows nothing about them.
+OGLoc-GTASA-SS63.png|Loc then notices that Freddy ran out of his house, got on a motorcycle and is trying to escape.
+OGLoc-GTASA-SS64.png|Loc tells CJ that he must chase down Freddy to protect his reputation.
+OGLoc-GTASA-SS65.png|CJ must now chase Freddy while Loc shoots and tries to kill him.
+OGLoc-GTASA-SS66.png|As CJ begins chasing Freddy, he taunts both CJ and Loc.
+OGLoc-GTASA-SS67.png|CJ and Loc chasing Freddy.
+OGLoc-GTASA-SS68.png|After a few minutes of the chase go by, Freddy is still taunting CJ and Loc.
+OGLoc-GTASA-SS69.png|The chase eventually leads CJ and Loc onto the [[Los Santos Freeway (3D Universe)|Los Santos Freeway]].
+OGLoc-GTASA-SS70.png|CJ and Loc chasing Freddy on the highway.
+OGLoc-GTASA-SS71.png|Eventually, CJ and Loc chase Freddy off the highway.
+OGLoc-GTASA-SS72.png|CJ and Loc chasing Freddy through a cafe in the city.
+OGLoc-GTASA-SS73.png|CJ and Loc chasing Freddy through the [[Glen Park Skate Park]].
+OGLoc-GTASA-SS74.png|As CJ and Loc chase Freddy, the chase leads them back onto the highway.
+OGLoc-GTASA-SS75.png|CJ and Loc chasing Freddy back into East Los Santos.
+OGLoc-GTASA-SS76.png|CJ and Loc chasing Freddy in [[Jefferson (neighborhood)|Jefferson]].
+OGLoc-GTASA-SS77.png|Eventually, Freddy stops near the stairs of some [[basketball]] courts in East Los Santos, where three Vagos members are waiting for him.
+OGLoc-GTASA-SS78.png|Freddy tells the gangsters that Loc has 'broken his heart' and the Vagos gangbangers start shooting at CJ and Loc.
+OGLoc-GTASA-SS79.png|Loc threatens Freddy as the shootout begins.
+OGLoc-GTASA-SS80.png|CJ and Loc shooting out with the four Vagos gangsters.
+OGLoc-GTASA-SS81.png|CJ and Loc kill Freddy.
+OGLoc-GTASA-SS82.png|As Loc finishes off the Vagos members, he asks CJ not to talk about the embarrassment Loc experienced from Freddy's words.
+OGLoc-GTASA-SS83.png|CJ laughs at Loc having sex with Freddy while he was imprisoned and teasingly asks him if he was 'feeling lonely'.
+OGLoc-GTASA-SS84.png|To make Loc feel less bad, CJ jokingly says that he likes a nice moustache, too.
+OGLoc-GTASA-SS85.png|Loc says that he keeps life real and violent and tells CJ not to laugh at him.
+OGLoc-GTASA-SS86.png|CJ tells Loc that they should head back to [[Grove Street (3D Universe)|Grove Street]] now.
+OGLoc-GTASA-SS87.png|Loc tells CJ that he can't go to Grove Street, as he needs to check in at the job his parole officer got him.
+OGLoc-GTASA-SS88.png|CJ asks Loc if he wants a ride to his job.
+OGLoc-GTASA-SS89.png|Loc accepts the offer.
+OGLoc-GTASA-SS90.png|As CJ goes looking for a vehicle, Loc breaks out rapping.
+OGLoc-GTASA-SS91.png|Loc raps about his job as a hygiene technician.
+OGLoc-GTASA-SS92.png|As CJ and Loc begin driving to Loc's new workplace, CJ tells Loc that he can't believe Loc's looks after he got imprisoned.
+OGLoc-GTASA-SS93.png|Loc tells CJ that his hang-ups record is 17.
+OGLoc-GTASA-SS94.png|CJ tells Loc that he could've not gotten himself arrested and did what he did in jail out in the world.
+OGLoc-GTASA-SS95.png|Loc says that he could've, but since he spent time in jail it's now 'real'.
+OGLoc-GTASA-SS96.png|CJ responds and calls Loc a 'gangsta'.
+OGLoc-GTASA-SS97.png|CJ must drive Loc to his new workplace - Burger Shot.
+OGLoc-GTASA-SS98.png|CJ and Loc on their way to Burger Shot.
+OGLoc-GTASA-SS99.png|CJ and Loc arriving at the parking lot by Burger Shot in Marina.
+OGLoc-GTASA-SS100.png|Upon their arrival, Loc thanks CJ for the ride.
+OGLoc-GTASA-SS101.png|CJ says goodbye to Loc.
+OGLoc-GTASA-SS102.png|Loc tells CJ to come and see him again later at his new workplace.
+OGLoc-GTASA-SS103.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|cTRK2yz_nwg|275px|center}}
+{{#ev:youtube|u1A24cg-lpk|275px|center}}
+{{#ev:youtube|E0_kJw6WOUM|275px|center}}
+
+==Notes==
+*Freddy's [[PCJ 600|PCJ-600]] is a [[Special Vehicles in GTA San Andreas|special variant]] that is impervious to bullets, fire, explosions, melee attacks, and collisions. The player can acquire it towards the end of the mission: Carl must get off the motorbike used to pursue Freddy and then go to where Freddy is waiting. Once Freddy starts firing at CJ, the player needs to kill OG Loc all the while Freddy is kept in sight. Killing OG Loc fails the mission, after which Freddy will try to escape with the PCJ-600, which is when the player can knock him off and obtain the bike.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+OG Loc.jpg|Obtaining the PCJ-600 after killing Freddy.
+</gallery>
+
+==Trivia==
+*This is the first mission that uses the [[Trip Skip]] feature if the player has failed the mission beforehand.
+*In the [[cutscene]] when picking up Jeffrey, Big Smoke's car will sometimes be white, instead of the usual blue color. When the cutscene ends, the Glendale is back to being blue again. This is due to the typo error in the <code>carcols.dat</code> file. It can be fixed on the [[PC]] version of the game by replacing the period with a comma<ref>{{URL|https://youtu.be/J2Mljm9E8-w?t{{=}}400|5 Things You Didn't Know in GTA San Andreas}}</ref>. This is fixed in the remastered versions.
+*After Carl and OG Loc are dropped off at Freddy's house, as Big Smoke drives away, he may sometimes accidentally run over OG Loc, depending on how the player initially parked the car.
+*When aiming at OG Loc as he is at Freddy's door, he will start attacking Carl.
+*After getting on the bike and entering the first alley, a dead person Freddy killed will always be seen next to an onlooker.
+*After the cutscene, Big Smoke and Sweet will head back to the hood. They can be killed with guns, the Rocket Launcher or the "[[Cheats in GTA San Andreas|Blow up all cars]]" cheat, but this will fail the mission.
+*During the chase, Freddy is immune to gunshots until he moves.
+*If the player manages to pull Freddy off his bike while on foot without killing him, the game will crash.
+*During this mission, Freddy drives his PCJ-600 alone, while still able to shoot in any direction. This feature is neither available to CJ in the game (CJ can only shoot ahead or to the side, while driving the bike), nor ever done by any other character.
+*It is possible to lose OG Loc by crashing the PCJ-600. Carl will then be on his own to kill Freddy. However, even if this happens and Carl kills Freddy before he reaches the basketball court, the cutscene where OG Loc points a gun at him after his death will appear.
+*Freddy can also be shot at by Vagos or Ballas gang members while cruising on the motorcycle attracting attention by shooting. He can also be killed by other gang members (especially Ballas) when he dismounts his bike and becomes accompanied by the Vagos members.
+*Failing this mission at any time without being [[wasted]] or [[busted]] in the progress will allow Carl to enter nearby houses that normally are accessible only in Burglary missions, but once he exits the house he will not be allowed to enter again. If doing this at Freddy's house, Carl will have a chance to enter it, or nearby houses. (Confirmed in the early PC version, patched in later PC, mobile and re-mastered versions)
+*At the beginning of the chase, Freddy will stay still until the player gets close enough. During that time, Freddy cannot be killed and the PCJ-600 he drives is completely indestructible. These effects lasts for several seconds after he starts driving (where he does his 2nd turn after he drives through the alley).
+**However, in the remastered versions, both Freddy and his bike are invincible all the time so the player cannot do a quick finish during the chase and can only be killed once he leaves his PCJ-600 at the basketball court.
+*At the end, when OG Loc says "like a quarter pounder" he may be referencing {{WP|McDonald's}} {{wP|Quarter Pounder}}.
+*CJ has an unused line for this mission for when he and OG Loc pursue Freddy, expressing his worry about OG Loc potentially getting caught violating his parole<ref>{{URL|https://tcrf.net/Grand_Theft_Auto:_San_Andreas/Unused_Mission_Related_Text_and_Audio/Los_Santos#OG_Loc|The Cutting Room Floor}}</ref>.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[ar:أو جي لوك (مهمة)]]
+[[de:OG Loc (Mission)]]
+[[es:OG Loc (misión)]]
+[[fi:OG Loc (tehtävä)]]
+[[fr:OG Loc (mission)]]
+[[pl:OG Loc (misja)]]
+[[pt:OG Loc (missão)]]
+[[ru:OG Loc (миссия)]]
+[[zh:OG Loc (任务)]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

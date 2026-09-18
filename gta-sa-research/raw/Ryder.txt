@@ -1,0 +1,214 @@
+{{Disambiglink|This article is about the character. For the mission, see [[Ryder (mission)]].}}
+{{Spoiler}}
+{{infobox character
+|name           = Lance Wilson
+|image          = LanceWilson-GTASA.png
+|games          = {{Games|SA=y}}
+|aka            = Ryder
+|gender         = M
+|status         = [[Pier 69 (mission)|Deceased]]
+|pob            = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|dod            = [[1992]]
+|pod            = [[San Fierro Bay]], [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|cod            = Gunned down by [[Carl Johnson]] before or during a [[Speeder (boat)|Speeder]] boat chase
+|home           = [[Ryder's House|House]] in [[Grove Street (3D Universe)|Grove Street]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]]
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*[[Grove Street Families]] {{Small|(formerly)}}
+*[[Big Smoke's Grove Street Families Faction]]
+*[[Big Smoke]] {{Status|D1=y}}
+*[[Sweet Johnson]] {{Small|(formerly)}}
+*[[Carl Johnson]] {{Small|(formerly)}}
+*[[LB]]
+*[[Ballas (3D Universe)|Ballas]]
+*[[Loco Syndicate]]
+*[[C.R.A.S.H.]]
+*[[Frank Tenpenny]] {{Status|D1=y}}
+*[[Big Bear]] {{Small|(formerly)}}
+*[[B Dup]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+*[[Russian Mafia (3D Universe)|Russian Mafia]]
+*[[San Fierro Rifa]]
+|vehicles       = 
+*Brown "<code>{{H:title|License plate|SHERM}}</code>" [[Picador]]
+*[[Speeder (boat)|Speeder]] {{Small|([[Pier 69 (mission)|stolen; destroyed]])}}
+|weapons        = 
+*[[Micro SMG (3D Universe)|Micro SMG]]
+*[[Tec-9]]
+*[[AK47]]
+*[[Pistol (3D Universe)|Pistol]]
+*[[Baseball Bat]]
+*[[Tear Gas]]
+|occupation    = 
+*Drug dealing
+*Robbery
+*Arms dealing
+*Arms smuggling
+|voice          = [[MC Eiht]]
+|family         = Unnamed father}}
+{{Dialogue|p1=Ryder|d1=Hey, CJ, tell me why I didn't finish high school.|p2=CJ|d2=Because you been dealing drugs, man, since the age of ten!|p3=Ryder|d3=No, that ain't it.|p4=CJ|d4=(laughs) Because you went and put hands on that teacher for wearing Ballas colors!|p5=Ryder|d5=(laughs) No, that ain't it either. It's 'cause I'm too intelligent for this shit, man. I am the real deal, fool. Oh yeah. A genius.|quotedetail=Ryder to [[Carl Johnson|CJ]] in [[Robbing Uncle Sam]].|sound=LanceWilson-GTASA-Quote.ogg}}
+'''Lance Wilson'''{{Ref
+|name = Ryder's full name
+|type = undefined
+|date = 12/11/2024
+|filepath   = \TEXT\american.gxt
+|filedata   = [CRED283] Lance "Ryder" Wilson - MC Eiht
+|ref        = Full name revealed in the in-game credits, official manual and promotional material.<br>[[File:GroveStreetFamilies-GTASA-MostWanted.png|200px]]
+}}, more commonly known as '''Ryder''', is the tertiary [[antagonist]] in {{SA}}.
+
+He is voiced by [[MC Eiht]].
+
+==History==
+Ryder is a high-ranking member of the [[Grove Street Families]] who later joined forces with the [[Ballas (3D Universe)|Ballas]], [[Los Santos Vagos (3D Universe)|Vagos]] and [[C.R.A.S.H.]]
+
+Ryder is a drug user, something known by both Sweet and Carl, and he can usually be seen with or searching for his 'water', which is in fact {{WP|Phencyclidine|PCP}} mixed with [[Weed|cannabis]]. During the mission [[Home Invasion]] he can be seen frantically searching for it in his garden, having already dug numerous holes with a [[shovel]].
+
+Ryder's short stature is often commented on by many characters, with [[Kendl Johnson]], [[Cesar Vialpando]], [[Frank Tenpenny]], and the [[Pizza Clerk]] calling Ryder a 'midget'.
+
+===Background===
+====Early Life====
+Ryder was born in [[Los Santos (3D Universe)|Los Santos]], most likely in [[Ganton]] due to his close relationship with [[Sweet Johnson|Sweet]] and [[Carl Johnson]]. Ryder was expelled from high school for assaulting a teacher who was wearing [[Ballas (3D Universe)|Ballas]] colors, although Ryder claims he was 'too intelligent' for school. It is also revealed that Ryder has been a drug dealer since the age of ten.
+
+At an unknown point in time, Ryder joined the [[Grove Street Families]] street gang, eventually rising through the ranks of the gang until becoming one of Sweet's closest allies, being helped by the departure of [[Carl Johnson]] in [[1987]] following his [[Brian Johnson|brother's]] death. The Grove Street Families, however, began to lose influence, power and [[money]] to their arch rivals, the Ballas, due to their stance against the sale of drugs, which was fueling the Ballas rise to prominence.
+
+[[Big Smoke]] attempted to convince Sweet about the benefits of selling drugs but failed, later meeting Ryder in his [[Ryder's House|house]] where he convinces him to join his newly formed alliance with the Ballas. The alliance is later expanded to include the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]] and [[Russian Mafia (3D Universe)|Russian Mafia]], while another was established with the [[Loco Syndicate]], who began supplying the new alliance with drugs from their base in [[San Fierro (3D Universe)|San Fierro]], although they do not realise that an [[Mike Toreno|undercover government agent]] is involved in the operation.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+====Carl Johnson's Return====
+{{Dialogue|p1=Ryder|d1=Hey, man, what you want?|p2=CJ|d2=Seeing my homie. What's up with you?|p3=Ryder|d3=Yeah, homie, yeah yeah. It's good to see you back.|quotedetail=Ryder and Carl, during "[[Ryder (mission)|Ryder's first mission]]".}}
+The death of [[Beverly Johnson]] brings her son, Carl Johnson, back to Los Santos from [[Liberty City (3D Universe)|Liberty City]]. Johnson meets Ryder again shortly after the [[Sweet & Kendl|funeral]] where they are attacked by a group of Ballas in a [[Drive-By Shooting|drive-by shooting]], destroying Smoke's [[Perennial|car]]. Carl, Sweet, Smoke and Ryder flee the area on [[BMX (3D Universe)|BMX bicycles]]. The four cycle to [[Mulholland Intersection]] where Sweet breaks away from the group, distracting the Ballas vehicle, allowing Carl, Smoke and Ryder to escape. The three are briefly followed again by a Ballas [[Voodoo (3D Universe)|car]], although the Ballas do not aim their guns at Smoke and Ryder due to their clandestine alliance, a fact missed by the Johnson brothers. Smoke also refuses to shoot at a Ballas car performing a [[Drive-Thru|drive-by shooting]], claiming he did not wish to waste the food they had just ordered, although Ryder does start shooting at the Ballas.
+
+Ryder continues his life as normal with the Grove Street Families, often being seen with Sweet and Carl. He begins to hire Carl to do various tasks, the first being to drive to [[The Well Stacked Pizza Co. (3D Universe)|The Well Stacked Pizza Co.]] fast-food restaurant in [[Idlewood]], where [[Ryder (mission)|Ryder attempted to rob the store]] but was thwarted by the manager, using a [[Shotgun (3D Universe)|shotgun]] in self-defense. Ryder later assists Carl to [[Cleaning the Hood|kill a drug dealer]] and then a number of Ballas gangsters who were associated with the dealer in a [[Crack Den|home]] in Idlewood. Ryder also hires Carl to help him [[Home Invasion|steal weapons]] from the home of [[Colonel Fuhrberger]] in [[East Beach]], [[Catalyst|steal a weapons shipment]] from a [[Brown Streak Railroad|train]] coming from [[Las Venturas (3D Universe)|Las Venturas]] and to [[Robbing Uncle Sam|steal weapons]] from the [[Los Santos National Guard Depot|National Guard Depot]] in [[Ocean Docks]].
+
+Ryder later accompanies Carl, Sweet and Smoke to the [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] fast-food restaurant in [[Willowfield]], where they see a group Ballas attempt a drive-by shooting. The four survive and destroy the Ballas car. Ryder is again seen when the four [[Nines and AK's|discuss the gang's weapons]] and later performs a number of drive-by shootings with the three in [[East Los Santos (3D Universe)|East Los Santos]] and [[Jefferson (neighborhood)|Jefferson]]. He also attended a [[House Party|party]] thrown by [[OG Loc (3D Universe)|OG Loc]] on [[Grove Street (3D Universe)|Grove Street]].
+
+Sweet later arranges a [[Reuniting the Families|meeting]] at the [[Jefferson Motel (3D Universe)|Jefferson Motel]] between the various subdivisions of the Grove Street Families, in an attempt to bring the factions back together to fight against the Ballas.
+
+Ryder, upon arriving with Sweet, Carl and Smoke, criticises the non-Grove Street gangsters, which Carl and Sweet do not realize is an attack on the gang rather than the subdivisions. Sweet enters the motel on his own and, when the [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] ambush the meeting, Ryder and Smoke flee the scene in Sweet's [[Greenwood (3D Universe)|Greenwood]]. The two, however, later reappear at the side of the motel and escape with Carl and Sweet from the pursuing police, driving the car through a [[Sprunk (3D Universe)|Sprunk]] billboard. The car explodes upon landing on the road below while the four, who had bailed out of the car, decide to go back home seperately.
+
+====Betrayal====
+{{quote|And there's that snake, Ryder. Look at that fool, hangin' out with the Ballas like they was life long pals.|[[Carl Johnson]] overseeing Ryder's deal with the [[Loco Syndicate]].}}
+
+[[File:TheGreenSabre-GTASA2.png|right|thumb|200px|Ryder and [[Big Smoke]] with [[Frank Tenpenny]] and [[Eddie Pulaski]], driving the green [[Sabre]].]]
+
+After [[Sweet Johnson|Sweet]] explains to CJ that he is going to go to the [[Mulholland Intersection]] to ambush some [[Ballas (3D Universe)|Ballas]] members, [[Cesar Vialpando]], the boyfriend of Sweet and Carl's sister [[Kendl Johnson|Kendl]] and also a friend of Carl's, phones Carl and tells him that he must urgently come to an alleyway in [[Verdant Bluffs]]. Carl meets Cesar in the alleyway, where the duo witness Smoke and Ryder, along with [[C.R.A.S.H.]] officers [[Frank Tenpenny]] and [[Eddie Pulaski]], and also some more Ballas members with the [[Sabre|car]] used in the killing of Carl's mother. Deeply shocked, Carl finally realises the true colours of Smoke and Ryder and how they are complicit in his [[Beverly Johnson|mother]]'s [[The Introduction|death]], but he is unable to confront the alliance between the game's three antagonistic groups ([[C.R.A.S.H.]], [[Ballas (3D Universe)|Ballas]], [[Smoke|Big Smoke]]/Ryder) and is forced to go to [[Mulholland Intersection]] to save his brother from a Ballas ambush during a shootout. Sweet is injured during the shootout, but Carl continues fighting the Ballas. The police arrive and the duo are arrested and kidnapped, with Sweet taken to a prison hospital 'upstate' and Carl to [[Angel Pine]] in [[Whetstone]] by Tenpenny, Pulaski and [[Jimmy Hernandez]].
+
+In the absence of both Sweet and Carl, Smoke and Ryder take control of the Grove Street Families and add them to their alliance. Tenpenny orders Carl to stay out of Los Santos or else Sweet will be put in danger. With both their leaders out of Los Santos, the Grove Street Families turf is taken over by the Ballas, with Families members now working for Smoke and Ryder by taking drug shipments from the [[Loco Syndicate]] [[Loco Syndicate Crack Factory|drug manufacturing plant]] in [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]] back to Los Santos. Cesar Vialpando, however, later discovers this and informs Carl, who stops a number of the shipments from reaching Los Santos. Carl later moves to San Fierro, but with Cesar's help, later photographs Ryder and the other Loco Syndicate members doing business in the mission [[Photo Opportunity]].
+
+====Death====
+[[File:Pier69mission-GTASA4.jpg|thumb|200px|Ryder with [[T-Bone Mendez]] on [[Pier 69]], shortly before their deaths.]]
+
+{{Dialogue|p1=CJ|d1=You sold us out, Ryder. You fucked with us all!|p2=Ryder|d2=I'm a motherfucking genius!|quotedetail=Carl and Ryder, before the latter's death.}}
+
+After obtaining the photographs, Carl returns to San Fierro and has them developed. He meets with [[Wu Zi Mu]], a leading member of the [[San Fierro Triads|Triads]] in San Fierro and his [[Triad Assistant 1|assistant]], who identifies the three leaders as [[Jizzy B.]], a [[The Pleasure Domes Club|nightclub owner]], [[T-Bone Mendez]], the leader of the [[San Fierro Rifa]], and the gang's [[Mike Toreno|leader]], although they are unaware that he is an undercover government agent.
+
+In the mission [[Pier 69 (mission)|Pier 69]], Ryder and Mendez are in a deal—after using Wu Zi Mu's Triad army to help subdue the gangs, Cesar and Carl kill Mendez. Ryder will then attempt to flee in a boat; Carl kills him by either sniping him whilst he swims to it, or by chasing and shooting him down whilst seaborne.
+
+Following Ryder's death, Cesar tells Carl that Ryder once tried to have sex with Kendl. Although Carl responded as a protective brother would, he still seemed to regret having to kill his lifelong friend.
+
+==Character==
+===Personality===
+Ryder is depicted as loud, wild, and unpredictable. He is known to go into rampages and always attempt the impossible. Ryder has a peerless mean streak and an extremely short temper, making him the loose cannon of the [[Grove Street Families]]. He also has delusions of grandeur and a possible {{WP|Napoleon complex}}, stemming from his short stature. He sees himself as a "genius" and thinks he is too intelligent for school. He has a habit of boasting about mediocre accomplishments, such as claiming that he showed the Ballas in the Mission "Sweet and Kendl" how bad he was despite never actually confronting them (ignoring the fact that they are secretly allies). Furthermore, Ryder is also very brusque, as he rudely states his terse opinions of CJ since the latter's return to Los Santos and has the tendency to belittle him. Though Ryder is very passionate of the Grove Street Families, he is also easily convinced by Big Smoke to make a little cash despite the fact that it means turning on his own gang. Ryder's impulsive and wild attitude is possibly due to his drug addiction, for he is almost always seen holding a joint in each [[cutscene]] he appears in. Though his history is unknown, it is implied that he was once a rebellious and belligerent child due to CJ saying in the mission [[Robbing Uncle Sam]] that he once beat up a teacher just for wearing purple, which is a color used by the [[Ballas (3D Universe)|Ballas]].
+
+Despite turning on his own gang and CJ, in the whole series of events, including the deadly hunt on him by CJ, Ryder never shows any attempt to kill or harm CJ (unless in the mission Pier 69 if CJ destroys the boats near the island and swims to it, he will engage CJ with his fists), even when the latter finally kills him in the mission Pier 69. During the aforementioned mission, he can be seen wielding an [[AK47]] before the meet with T-Bone, although he never attempts to fight against CJ during the mission. This along with several other instances throughout the game, shows that Ryder while having a high opinion of himself is actually a coward hiding behind a tough facade. Examples of this include abandoning CJ during "Home Invasion" if the mission is failed by alerting the Colonel before enough guns are secured. Ryder also flees when trying to rob the Pizza Stack Co. in his self-titled mission after the employee threatens him and CJ with a shotgun, despite being armed himself. This shows Ryder to be something of a hypocrite as well as he frequently accuses CJ of a 'Busta' (faker) despite being no more determined himself. The only occasions where Ryder displays a degree of bravery is when he has considerable backup or is particularly high on his 'water'. 
+
+He commonly says ''"{{URL|http://www.urbandictionary.com/define.php?term{{=}}Jeah|jeah}}/{{URL|http://www.urbandictionary.com/define.php?term{{=}}Geah|geah}}"'', which is a term commonly used by his voice actor [[MC Eiht]] instead of saying ''"yeah"''.
+
+===Appearance===
+Ryder has young adult man with short, dark, bushy hair and a mustache. He wears a black cap that reads "San Andreas" and black sunglasses. Moreover, he wears a dark green jacket, similar to the Grn (Green) Windbreaker from [[Sub Urban (3D Universe)|Sub Urban]]. He also has blue jeans with black and white sneakers.
+
+===Vehicle===
+[[File:Ryder-GTASA-PicadorNumberPlate.jpg|thumb|right|96px|SHERM]]
+Ryder owns a brown [[Picador]] with a number plate which spells out ''SHERM'', referring to his addiction to sherm (as Carl also calls him a "sherm head" in [[Photo Opportunity]]), a cigarette with marijuana mixed into the tobacco that has been immersed in PCP. In many [[Beta Content|pre-release]] screenshots, Ryder's vehicle was a brown [[Sadler]].
+
+==Development==
+In the beta stage(s) of ''Grand Theft Auto: San Andreas'', Ryder's appearance was different, much like that of CJ, Sweet, and Big Smoke. Originally, he wore no hat and no glasses. Instead of curly, bushy hair, he had cornrows. He wore a black hoodie with the same pants as  in the final version, but wore black sneakers similar to the Black Hi-Tops from Sub Urban. This iteration of Ryder's appearance may have resembled the rapper and music producer {{WP|Snoop Dogg}}, before his final version resembled {{WP|Eazy-E}}.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[Sweet & Kendl]]
+*[[Ryder (mission)|Ryder]] <small>(Boss)</small>
+*[[Cleaning the Hood]]
+*[[Drive-Thru]]
+*[[Nines and AK's]]
+*[[Drive-By]]
+*[[Home Invasion]] <small>(Boss)</small>
+*[[Catalyst]] <small>(Boss)</small>
+*[[Robbing Uncle Sam]] <small>(Boss)</small>
+*[[House Party]]
+*[[Reuniting the Families]]
+*[[The Green Sabre]] <small>(Betrayal)</small>
+*[[Photo Opportunity]]
+*[[Pier 69 (mission)|Pier 69]] <small>(Killed)</small>
+
+==Gallery==
+===Artworks===
+<gallery position="center" spacing="small" widths="250px">
+Sweet.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''Ryder''' and [[Sweet]].
+Artwork-GSF-GTASA.jpg|Artwork of '''Ryder''', [[Big Smoke]] and Sweet.
+Artwork-GroveStreetFamily-GTASA.jpg|Artwork of '''Ryder''', [[Carl Johnson|CJ]] and Sweet.
+GSFVSBALLAS.jpg|Arwork of '''Ryder''', Sweet and Big Smoke doing a [[Drive-By Shooting|drive-by shooting]].
+GSF with Ballas.png|'''Ryder''', Sweet and Big Smoke doing a drive-by shooting against the [[Ballas (3D Universe)|Ballas]].
+</gallery>
+
+===In-Game===
+<gallery position="center" spacing="small" widths="250px">
+Ryder-GTASA-Appearance.jpg|'''Ryder'''.
+Ryder-GTASA-WithoutHat.jpg|'''Ryder''' with a mask and no hat, only seen in the mission [[Ryder (mission)|Ryder]].
+Ryder-GTASA-Mission.png|'''Ryder''' and CJ in the mission Ryder.
+Rydermission-GTASA2.jpg|'''Ryder''' robbing a [[The Well Stacked Pizza Co. (3D Universe)|Well Stacked Pizza Co.]] store.
+Ryder'sHouse-GTASA-exterior.jpg|'''Ryder's''' [[Ryder's House|house]].
+Ryder'sHouse-GTASA-LivingRoom.jpg|'''Ryder's''' living room.
+DriveThru-GTASA-Mission.png|'''Ryder''' along with CJ, Sweet and Big Smoke in a drive thru at [[Cluckin' Bell (3D Universe)|Cluckin' Bell]].
+Pier69mission-GTASA6.jpg|Carl about to kill '''Ryder'''.
+Ryder-GTASA-RudeGesture.jpg|'''Ryder''' doing the bras d'honneur to CJ before jumping in the [[water]].
+Ryder-GTASA-BetaAppearance.png|'''Ryder's''' [[Beta Content in GTA San Andreas|beta]] model (furthest on the left).
+LanceWilson-GTASADE.png|'''Ryder''' in {{TDE}}.
+Ryder-GTASAde.png|'''Ryder''' in ''The Definitive Edition''.
+</gallery>
+
+==Trivia==
+*Due to the fact that the default radio station in Ryder's [[Picador]] is [[Radio Los Santos (3D Universe)|Radio Los Santos]] and because it plays in the intro [[cutscenes]] of the missions [[Home Invasion]] and [[Robbing Uncle Sam]], it could be implied that this is Ryder's favorite radio station.
+*In the mission [[Los Sepulcros]], if the players kills one of directed [[Grove Street Families|Grove Street]] members, [[Sweet Johnson|Sweet]] might shout "''CJ, you been hitting Ryder's wet stick?''"
+*Ryder's appearance is based on that of the late rapper {{WP|Eazy-E}}, founder of the iconic rap group {{WP|N.W.A}}, who was famous during the late-1980s and early-1990s, and died of {{WP|HIV/AIDS|AIDS}} complications in [[1995]].
+*Ryder has 3 in-game models in <code>gta3.img</code>, two being his original models used in-game, while the last one is used when Ryder attempts to rob a [[The Well Stacked Pizza Co. (3D Universe)|Pizza Stack]].
+*In an [[Secrets and Easter Eggs in GTA V|Easter egg]] from {{V}}, three men resembling [[Carl Johnson|Carl]], Ryder, and Sweet can be seen riding bikes down [[Grove Street (HD Universe)|Grove Street]] in the mission [[Hood Safari]]. This is an obvious reference to the [[Sweet & Kendl|first mission]] of {{SA}}.
+*Despite being the subject of various comments about his height, Ryder is actually taller than Carl and [[Cesar Vialpando|Cesar]], who refers to Ryder as a "midget" during [[Yay Ka-Boom-Boom]].
+*In the [[Beta Content in GTA San Andreas|beta]] for ''Grand Theft Auto: San Andreas'', Ryder was supposed to die on the pier and Carl would chase and shoot down [[T-Bone Mendez]]. However, in the final version of the game, their deaths are reversed.
+*It's possible that Ryder's voice lines (more specifically whenever he calls people ''"Buster"'' or says, ''"You can't see me!")'' were inspired by Lil' Chris in ''{{WP|Friday (1995 film)|Friday}}''.
+*Unused dialogue from the beta version of [[Photo Opportunity]] reveals that Ryder's betrayal originally wasn't meant to be revealed until that mission, which is why it's never referred to in dialogue up to that point in the final game.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtasa characters|state=collapsed}}
+{{Grove Street Families|state=collapsed}}
+{{Ballas|state=collapsed}}
+{{Los Santos Vagos|state=collapsed}}
+}}
+
+[[ar:رايدر]]
+[[de:Lance Wilson]]
+[[es:Ryder]]
+[[fr:Ryder]]
+[[it:Ryder]]
+[[hu:Ryder]]
+[[nl:Ryder]]
+[[pl:Lance Wilson]]
+[[pt:Ryder]]
+[[ru:Райдер]]
+[[fi:Ryder]]
+[[tr:Lance Wilson]]
+[[vi:Ryder]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Deceased characters]]
+[[Category:Male characters]]
+[[Category:Antagonists]]
+[[Category:Gangsters]]
+[[Category:Mission givers]]
+[[Category:Killed by Carl Johnson]]

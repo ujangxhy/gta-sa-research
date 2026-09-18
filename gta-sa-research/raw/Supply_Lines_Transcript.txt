@@ -1,0 +1,122 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=[[Carl Johnson|Carl]] arrives at [[Zero RC|Zero's shop]] and finds [[Zero]] absent.
+}}{{Line
+|name=CJ
+|dialogue=Hey, Zee, where you at?
+}}{{Line
+|name=Zero
+|dialogue=Go away, Carl. I'm, I'm very, very busy back here. Top..top secret stuff. Not for your eyes. Too sensitive...
+}}{{Line
+|name=CJ
+|dialogue=Come on, homie, where are you?
+}}{{Line
+|name=Zero
+|dialogue=I said go away, Carl. I don't need any friends today, thank you.
+}}{{Line
+|background=CJ opens a cupboard and finds Zero hung up by his underwear. CJ then laughs at Zero's expense.
+}}{{Line
+|name=CJ
+|dialogue=Man, them some pretty strong drawers!
+}}{{Line
+|background=CJ releases him from the cupboard.
+}}{{Line
+|name=Zero
+|dialogue=Yes, my hero. Carl, he came back and humiliated me! I shall probably turn to prostitution now, where I will be found dead, and broken. I am a 28 year old man, whose landlord just helped him down from a hook, from which I had been hanging from my underwear, contemplating my inadequacy, for nearly two hours. Ow! Ooh, my crack...
+}}{{Line
+|name=CJ
+|dialogue=Look, you gotta get even, homie. What kind of weapons you got?
+}}{{Line
+|name=Zero
+|dialogue=Uhh... I've got a prototype of a miniature plane.
+}}{{Line
+|name=CJ
+|dialogue=Well with that plane, we gonna go humiliate Berkley.
+}}{{Line
+|name=Zero
+|dialogue=OK, cool!
+}}{{Line
+|name=CJ
+|dialogue=Man, this is ridiculous.
+}}{{Line
+|name=Zero
+|dialogue=That went right up my crack...
+}}{{Line
+|background=Zero tells about [[Berkley|Berkley's]] delivery plan.
+}}{{Line
+|name=Zero
+|dialogue=Berkley has his sycophantic lackeys do all his deliveries. Well, we shall hit him where it hurts the most! Bring his mail order model business to its knees!
+}}{{Line
+|background=CJ controls Zero's [[RC Baron]].
+}}{{Line
+|name=Zero
+|dialogue=Launch the Red Baron!
+}}{{Line
+|background=CJ finds one of Berkley's couriers.
+}}{{Line
+|name=Zero
+|dialogue=Don't let him get away, punish him for his war crimes!
+}}{{Line
+|background=CJ destroys the courier.
+}}{{Line
+|name=Zero
+|dialogue=One down, four to go!
+}}{{Line
+|background=CJ finds and destroys the second courier.
+}}{{Line
+|name=Zero
+|dialogue=Ha ha, only three delivery boys left!
+}}{{Line
+|background=CJ finds the third courier.
+}}{{Line
+|name=Zero
+|dialogue=He's armed his lieutenants, be careful, Carl!
+}}{{Line
+|background=(If the RC Baron is successfully destroyed by the courier resulting in mission failure.
+}}{{Line
+|name=Zero
+|dialogue=NOOOOOOOOOOOOO!!!!)
+}}{{Line
+|background=CJ destroys the third one.
+}}{{Line
+|name=Zero
+|dialogue=Only two left now, Carl - HUNT THEM DOWN!
+}}{{Line
+|background=CJ finds the fourth courier.
+}}{{Line
+|name=Zero
+|dialogue=Fight or die Carl, it's the only choice we have.
+}}{{Line
+|background=CJ destroys the fourth one.
+}}{{Line
+|name=Zero
+|dialogue=Just one more and Berkley's mail order department is finished!
+}}{{Line
+|background=CJ finds and destroys the final courier.
+}}{{Line
+|name=Zero
+|dialogue=Now get her back home in one piece, before she runs out of fuel!
+}}{{Line
+|background=(If the RC Baron reaches half the fuel remaining.
+}}{{Line
+|name=Zero
+|dialogue=Watch the fuel carl, only half the tank left.)
+}}{{Line
+|background=(When the RC Baron has nearly run out of fuel.
+}}{{Line
+|name=Zero
+|dialogue= You're nearly out of fuel! Hurry up!)
+}}{{Line
+|background=(If the RC Baron has run out of fuel resulting in mission failure.
+}}{{Line
+|name=Zero
+|dialogue=My humiliation... is complete.)
+}}{{Line
+|background=CJ lands the plane back on Zero's roof.
+}}{{Line
+|name=Zero
+|dialogue=The smell, you know that ozone smell, smells like... victory!
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

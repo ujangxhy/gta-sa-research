@@ -1,0 +1,56 @@
+{{Infobox location
+|Name Change   = CASINO
+|image         = <gallery>
+RoyalCasino-GTASA-Day.jpg|Day
+RoyalCasino-GTASA-Night.png|Night
+</gallery>
+|type          = Casino
+|games         = {{Games|SA=y}}
+|location      = [[The Strip]], [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+RoyalCasino-GTASA-Map.jpg|Royal Casino
+RoyalCasino-GTASA-LasVenturasMap.jpg|Las Venturas
+RoyalCasino-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner       = PoliceScanner-GTASA-RoyalCasino.ogg
+}}The '''Royal Casino''' is a [[casino]] located along [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]] that appears in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+Located beside the casino are [[The Camel's Toe]] and [[Caligula's Palace]]. It is not accessible, but it has the [[Multiplayer]] icon underneath the roof in [[PlayStation 2|PS2]] and [[Xbox (console)|Xbox]] versions.
+
+==Influence==
+The casino is based on {{WP|Casino Royale & Hotel}}, which is now known as the Best Western Plus Casino Royale in {{WP|Las Vegas, Nevada}}.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+In the [[Madd Dogg (mission)|mission Madd Dogg]], this is the casino where [[Carl Johnson|Carl]] saves [[Madd Dogg (3D Universe)|Madd Dogg]] from falling to his death.
+
+==Stationary Vehicles==
+*[[Super GT]]
+
+==Collectibles==
+*One [[Horseshoes|Horseshoe]]
+*[[Flowers]] {{nd}} Hidden in array of flowers in the middle alley of the casino.
+*One [[Police Bribes|Police Bribe]] (only accessible by [[Stunting|stunt jumping]])
+
+==Other==
+*[[The Cherry Popper Ice Cream Company (3D Universe)|Cherry Popper]] [[Vendors|vendor]] X2
+*[[Chilli Dogs|Chilli Dog]] vendor
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+RoyalCasino-GTASAde-Logo.png|The '''Royal Casino''' logo.
+</gallery>
+
+==Navigation==
+{{3D casinos}}
+
+[[de:Royal Casino]]
+[[es:Casino Royale]]
+[[pl:Kasyno Royal]]
+[[ru:Royal Casino]]
+
+[[Category:Buildings in GTA San Andreas in Las Venturas]]
+[[Category:Casinos]]
+[[Category:Building zones]]

@@ -1,0 +1,55 @@
+{{scriptbox|style=gtasa|
+{{line|background=Two men witness a drunk [[Madd Dogg (3D Universe)|Madd Dogg]] on the roof of the [[Royal Casino]] and dare him to jump. [[Carl Johnson]] soon walks over to them.}}
+{{line|name=Heckler #1|dialogue=JUMP! Go on, jump! Oh, shit - Jesus...}}
+{{line|name=Heckler #2|dialogue=Jump! Come on, man, jump! You got it.}}
+{{line|name=CJ|dialogue=Hey, what's happening, who's the idiot?}}
+{{line|name=Heckler #1|dialogue=Ah, some washed-up rapper.}}
+{{line|name=Heckler #2|dialogue=It's Madd Dogg! Used to be a real chart-topping cat, real playa!}}
+{{line|name=CJ|dialogue=''Madd Dogg?'' Aw, man...}}
+{{line|name=Heckler #2|dialogue=Jump! Come on!}}
+{{line|name=Heckler #1|dialogue=He lost all his money in the casino and went batso!}}
+{{line|name=CJ|dialogue=Hey, Madd Dogg! Whatchoo doing up there, fool?}}
+{{line|name=Heckler #1|dialogue=(not in subtitles) Come on, go on, jump already!}}
+{{line|name=Heckler #2|dialogue=(not in subtitles) Come on already! Don't be a wuss!}}
+{{line|name=Madd Dogg|dialogue=Do I know you? I don't think so, so shut the fuck up! This is the end! It's over! Wuh - woah!}}
+{{line|name=Heckler #2|dialogue=Oh shit oh shit oh shit he's gonna go over he's gonna go over!}}
+{{line|name=CJ|dialogue=No, Dogg, get a grip, dude! Get a grip - you still got it, you still gangsta!}}
+{{line|name=Madd Dogg|dialogue=I don't give a fuck no more! My manager got killed, some asshole stole my rhyme book, shit is rough. All the kids like this "Loc OG" or whatever the fuck his name is, some fake ass gangsta rapper bullshit. Liquor's my only friend. Whoa, shit!}}
+{{line|name=CJ|dialogue=Come on, Dogg! You just need a new manager, baby, you're looking at him!}}
+{{line|name=Madd Dogg|dialogue=I hate y'all.}}
+{{line|name=CJ|dialogue=Just come in off that ledge, man!}}
+{{line|name=Heckler #1|dialogue=Hey, don't talk him out of jumping, we got good money on this!}}
+{{line|name=Heckler #2|dialogue=Yeah, good odds, too!}}
+{{line|background=At this point, two croupiers attempt to stop Madd Dogg from jumping.}}
+{{line|name=CJ|dialogue=Damn, this town is cold...}}
+{{line|name=Heckler #1|dialogue=Man, jump!}}
+{{line|name=Madd Dogg|dialogue=Stay the fuck away - stay the fuck away!! I'm the best rapper in the universe! I'll jump! I'll jump!}}
+{{line|background=Madd Dogg struggles to hold his balance.}}
+{{line|name=CJ|dialogue=Oh, ''hell no!'' I gotta catch this fool.}}
+{{line|background=CJ goes to steal a [[Walton]] from a nearby worker in a parking lot to soften Madd Dogg's fall.}}
+{{line|name=Worker|dialogue=What the fuck you doing?!}}
+{{line|background=CJ drives the pickup truck over to where Madd Dogg will fall.}}
+{{line|name=Madd Dogg|dialogue=I warn y'all, I'll jump!}}
+{{line|background=CJ aligns the truck with Madd Dogg on the roof while the people below heckle him.}}
+{{line|name=Heckler #3|dialogue=Jump! Look what dying did for my career!}}
+{{line|name=Heckler #4|dialogue=The show must go on!}}
+{{line|name=Heckler #5|dialogue=JUMP, you fool!}}
+{{line|name=Heckler #6|dialogue=A little more action!}}
+{{line|name=Heckler #7|dialogue=Can I get your sneakers?}}
+{{line|name=Madd Dogg|dialogue=This is it, this the end, I'm out!}}
+{{line|background=Madd Dogg jumps off the building and lands on the boxes in the back of the truck, which broke his fall.}}
+{{line|name=CJ|dialogue=Time to take your sorry ass to rehab, you drunken idiot.}}
+{{line|name=Madd Dogg|dialogue=Am I still the top rapper, dude?}}
+{{line|name=CJ|dialogue=Best there ever was. Second to nobody else, homeboy. And the name's Carl.}}
+{{line|name=Madd Dogg|dialogue=Thanks, Carl... (throws up)}}
+{{line|background=CJ takes Madd Dogg to the [[Ivory Towers Drive-Thru Mental Clinic]]. Upon arrival, two medics come out to tend to Madd Dogg upon seeing his condition.}}
+{{line|name=CJ|dialogue=Hey, get yourself straightened out, then we can get you back in the studio.}}
+{{line|name=Madd Dogg|dialogue=Carl.}}
+{{line|name=CJ|dialogue=What?}}
+{{line|name=Madd Dogg|dialogue=When I get clean, I'm gonna need a new manager, thought I might look you up.}}
+{{line|name=CJ|dialogue=Yeah, you do that, homie.}}
+{{line|background=CJ drives off, leaving Madd Dogg to be tended to by the medics.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

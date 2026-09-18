@@ -1,0 +1,67 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=[[Carl Johnson]] arrives at his [[Doherty Garage|garage]] and meets [[Jethro]].
+}}{{Line
+|name=Jethro
+|dialogue=Hey, CJ, wassup?
+}}{{Line
+|name=CJ
+|dialogue=Hey wassup, Jethro?
+}}{{Line
+|name=Jethro
+|dialogue=Some cops are lookin' for you in the office, man.
+}}{{Line
+|background=CJ finds out the cops are none other than [[C.R.A.S.H.]] officers [[Frank Tenpenny]] and [[Eddie Pulaski]].
+}}{{Line
+|name=CJ
+|dialogue=Tenpenny. Alright, man, I got it.
+}}{{Line
+|background=CJ goes and meets them.
+}}{{Line
+|name=CJ
+|dialogue=Nice to see y'all kicking back.
+}}{{Line
+|name=Tenpenny
+|dialogue=(wakes up) Hmmmm?
+}}{{Line
+|name=Pulaski
+|dialogue=I wonder how your brother's sleeping, curled up next to his shower daddy while you live comfortably on the outside?
+}}{{Line
+|name=CJ
+|dialogue=Man, what you all want this time?
+}}{{Line
+|name=Tenpenny
+|dialogue=Well, what we want is to get on with our jobs in peace, without some damn bleeding heart liberal poking his nose into affairs he won't even understand.
+}}{{Line
+|name=CJ
+|dialogue=The press onto y'all?
+}}{{Line
+|name=Pulaski
+|dialogue=What the hell would you know about it, boy?
+}}{{Line
+|name=Tenpenny
+|dialogue=Woah, easy there, Eddie, let's not get ahead of ourselves. Some young journalist out there is trying to get a name for himself.
+}}{{Line
+|name=Pulaski
+|dialogue=He doesn't know how the streets work - that he's supposed to report what he's supposed to report.
+}}{{Line
+|name=Tenpenny
+|dialogue=Yeah, anyway, we need you to shut him up for us.
+}}{{Line
+|name=Pulaski
+|dialogue=And that stoolie - shut him up too!
+}}{{Line
+|name=Tenpenny
+|dialogue=Yeah, there's some reporter who's digging up dirt on Pulaski, we don't know who's talking, but we know that the reporter's meeting him today.
+}}{{Line
+|name=Pulaski
+|dialogue=Take care of him.
+}}{{Line
+|name=Tenpenny
+|dialogue=(while leaving) Oh - this is a nice place... Carl.
+}}{{Line
+|background=CJ leaves the garage and finds a [[Sniper Rifle]] hidden by Tenpenny in the construction site before going to [[Cranberry Station]], where [[The Reporter]] boards a [[Brown Streak|train]]. CJ follows the train until it arrives at the [[Market Station]] in [[Los Santos (3D Universe)|Los Santos]]. From there, the Reporter hails a [[Taxi (3D Universe)|taxi]] and rides to the [[Yacht Harbor]] at [[Santa Maria Beach]]. CJ follows the taxi while keeping his distance until the Reporter arrives at his destination and meets [[The Journalist]]. CJ kills them both.
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

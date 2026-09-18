@@ -1,0 +1,82 @@
+{{Infobox character
+|name           = Omega
+|image          = Omega_GTAVpc_Portrait.png
+|size           = 
+|games          = {{Games|V=y|O={{EEEV}}{{DLC|mpsum2}} {{Small|(Phone messages)}}}}
+|status         = Alive
+|gender         = M
+|home           = [[Senora Desert Trailer Park]], [[Blaine County]], [[State of San Andreas (HD Universe)|San Andreas]]
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*[[Hippies]]
+*[[Franklin Clinton]]
+*{{GTAOP}}
+|voice          = [[Alex Bilu]]
+|mocap          = Alex Bilu
+|vehicles       = [[Space Docker]]
+|phone      = 3465550162
+}}{{Quote|They came to me last week. There was a brilliant joy, and a terrible confusion, and they were laughing and screaming and crying all at once, and some said, "Omega, we come in peace!" and others said, "We have come to enslave you! We are an infinitely intelligent race of super cosmic beings, and out of the six billion people on this planet we have chosen you for no good reason." And just then they were about to abduct me and do experiments on me, when their ship crashed.|Omega, describing his Extraterrestrial encounter to [[Franklin Clinton|Franklin]].}}
+'''Omega''' is a character appearing as a [[Strangers and Freaks|stranger/freak]] in {{V}}  and an unseen character in {{O}}.
+
+He is portrayed by [[Alex Bilu]].
+
+==History==
+===Background===
+Omega is a paranoid and eccentric hippie, who believes in extraterrestrial life, and claims that he was visited by the [[Military (HD Universe)|U.S. Military]] as he is seen wearing dog tags in the mission [[Far Out]].
+
+===Events of ''Grand Theft Auto V''===
+Omega is first seen near a trailer in the middle of the [[Grand Senora Desert]], during the mission [[Far Out]]. He will be looking for aliens using a special [[Extra Terrestrial Detector|device]] and talking to himself. When [[Franklin Clinton|Franklin]] approaches him, Omega will talk about a group of aliens who was in contact with him a couple of days before. He says that a spaceship fell from the sky in [[State of San Andreas (HD Universe)|San Andreas]], scattering parts across the state. When Franklin doesn't believe him and tries to walk away, Omega shows a photo of one of the [[Spaceship Parts|pieces]] of the spaceship in his phone. He says that if Franklin finds any of the pieces, he should collect it and send to him. Franklin leaves the area, saying that Omega is a "freak".
+
+After the player finds all the 50 spaceship parts, Omega will send a text message to Franklin, asking to meet him in his trailer at the [[Senora Desert Trailer Park]]. There, Omega takes Franklin to his garage where he keeps his [[Space Docker]] and all the 50 spaceship parts that Franklin sent to him. Omega shows a little round object (resembling a [[UFO]]), that suddenly starts to fly like an alien spaceship. Omega then leaves the garage, saying "see you on the other side!". Franklin then can take the Space Docker as a reward for collecting all the spaceship parts.
+
+===Events of ''Grand Theft Auto Online''===
+====Los Santos Summer Special====
+In late October [[2020]], a downed "[[Fort Zancudo Stealth Aircraft|UFO]]" has been hauled off to [[Fort Zancudo]] for testing, where [[Merryweather]] is now guarding it. When the player arrives, they are [[Business Battles#UFO Battle|instructed]] to collect [[Spaceship Parts]] and deliver them to [[Omega]]'s trailer in the [[Senora Desert Trailer Park]].{{Ref|name=Battle|ref={{Quote|Meanwhile, there are whispers that a downed unidentified flying object has been hauled off to Fort Zancudo for testing. Most of the information is redacted, but the basics are simple: work together in this new Business Battle to take out the Merryweather agents and then haul whatever extraterrestrial gear you can grab to Omega’s shack, ASAP.|{{URL|https://socialclub.rockstargames.com/events/7DDrauJZ/2x-gta-rp-on-all-alien-survivals/1|Special UFO Business Battle Available}} - Rockstar Games Social Club}}}}
+
+====The Criminal Enterprises====
+{{Quote|Confirmation! This is confirmation, CBL! The super cosmic beings have returned!!|Omega to the {{GTAOP}} via phone message.}}
+In October [[2022]], "[[Project Skylark|UFOs]]" were spotted by locals flying over certain locations around Southern San Andreas. During the [[Sightseeing]] event (first introduced as a mission in [[GTA Online: The Criminal Enterprises|The Criminal Enterprises]] during the [[Halloween 2022 (Week 2)]] event), players can send photos of a UFO and send it to Omega to earn [[Money|$]]15.000 and [[Reputation|RP]].
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto V''===
+*[[Far Out]] <small>(Boss)</small>
+*[[The Final Frontier]] <small>(Boss)</small>
+
+===''Grand Theft Auto Online''===
+*[[Business Battles#UFO Battle|Business Battle - UFO Battle]] <small>(Boss/Unseen)</small>
+*[[Sightseeing]] <small>(Boss/Phone message)</small>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+OmegaTrailer-GTAV.png|'''Omega'''{{'}}s trailer.
+Omega Garage GTAV.png|'''Omega'''{{'}}s garage interior.
+</gallery>
+
+==Trivia==
+*He bears some similarities to [[The Truth]] from {{SA}}. Both are eccentric hippies and conspiracy theorists with a deep distrust towards the government. However, Omega is much younger than The Truth.
+*His mission could be a reference to the missions of {{Bully|The Hobo}} in ''[[Bully]]'', in which he tells the protagonist {{Bully|Jimmy Hopkins}} to find six {{Bully|transistors}}, which he later allegedly uses to make contact with aliens.
+*Omega is named after a letter in the Greek alphabet, {{WP|Omega}} (Ω). The letter Omega is the last letter in the Greek alphabet, and it is commonly used to describe the end or the ultimate limit of something. Theologically, it is used to describe the end of the world, or mankind's ultimate destiny.
+*He carries a [[Digiscanner|device]] identical to the scanner used by the [[Epsilon Program (HD Universe)|Epsilon Program]] member and actor [[Jimmy Boston]].
+*His favorite radio station is [[Blue Ark]].
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtav characters|state=collapsed}}
+{{Navbox gtao characters|state=collapsed}}
+}}
+
+[[de:Omega]]
+[[es:Omega]]
+[[pl:Omega]]
+[[ru:Омега]]
+
+[[Category:Characters in GTA V]]
+[[Category:Characters in GTA Online: The Criminal Enterprises]]
+[[Category:Random characters]]
+[[Category:Mission givers]]
+[[Category:Male characters]]

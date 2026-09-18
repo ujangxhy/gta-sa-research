@@ -1,0 +1,97 @@
+{{Scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] receives a phone call from [[Cesar Vialpando|Cesar]].
+}}{{line
+|name=Cesar<br><small>(Voice only)</small>
+|dialogue=CJ.
+}}{{line
+|name=CJ
+|dialogue=You got it.
+}}{{line
+|name=Cesar<br><small>(Voice only)</small>
+|dialogue=Hey, my cousin just called me. He gave me a tip about a Balla car going to San Fierro to score yay.
+}}{{line
+|name=CJ
+|dialogue=Shit, we gotta find out who's supplyin' those cats.
+}}{{line
+|name=Cesar<br><small>(Voice only)</small>
+|dialogue=Read your mind, holmes, I picked them up at the Mulholland Intersection and I'm trailing them now.
+}}{{line
+|name=CJ
+|dialogue=OK, I'm coming to meet you.
+}}{{line
+|name=Cesar<br><small>(Voice only)</small>
+|dialogue=Better make it fast, holmes, these boys aren't hanging around!
+}}{{line
+|background=CJ meets Cesar at [[Red County (3D Universe)|Red County]] near [[Blueberry]].
+}}{{line
+|name=Cesar
+|dialogue=Hop in, holmes!
+}}{{line
+|background=CJ gets in Cesar's [[Savanna|car]].
+}}{{line
+|name=CJ
+|dialogue=Where we goin'?
+}}{{line
+|name=Cesar
+|dialogue=They were headed over Angel Pine way. Follow the road and maybe we can pick them up!
+}}{{line
+|background=After reaching [[Angel Pine]], they get on the rooftop of a building to take the photos. As CJ looks over with the camera, a brown [[Picador]] arrives.
+}}{{line
+|name=Cesar
+|dialogue=There it is, holmes!
+}}{{line
+|background=CJ takes the photo of a [[Ballas (3D Universe)|Balla]] coming out of that car, revealed to be CJ's former ally, [[Ryder]].
+}}{{line
+|name=CJ
+|dialogue=Ryder, you sherm-head!
+}}{{line
+|name=Cesar
+|dialogue=This business is bigger than any gang, ese.
+}}{{line
+|name=CJ
+|dialogue=Ryder, little bitch!
+}}{{line
+|background=A [[ZR-350]] arrives and CJ photographs a [[T-Bone Mendez|guy]] leaving said car.
+}}{{line
+|name=CJ
+|dialogue=This guy takes himself real serious!
+}}{{line
+|name=Cesar
+|dialogue=That's T-Bone Mendez.
+}}{{line
+|name=CJ
+|dialogue=What now? Was that it?
+}}{{line
+|background=A [[Washington]] arrives and CJ photographs that [[Mike Toreno|guy]].
+}}{{line
+|name=Cesar
+|dialogue=Hey, who's the gringo?
+}}{{line
+|name=CJ
+|dialogue=I don't like the look of that guy. This more than a few thugs pushing a product. This is a serious organization.
+}}{{line
+|background=The final car, a [[Broadway]], arrives and CJ photographs the [[Jizzy B.|guy]] leaving the car.
+}}{{line
+|name=Cesar
+|dialogue=How many these clowns are there?
+}}{{line
+|name=CJ
+|dialogue=I know a pimp when I see one! They're being clever about this. There ain't no exchange or nothin' incriminating.
+}}{{line
+|background=CJ and Cesar leave the place and drive to a gas station. CJ soon gets out of the car.
+}}{{line
+|name=CJ
+|dialogue=That was some heavy shit!
+}}{{line
+|name=Cesar
+|dialogue=We better split up and get outta here. I'll meet you back at the garage!
+}}{{line
+|name=CJ
+|dialogue=Coolio. We got what we came for anyway.
+}}{{line
+|background=Cesar drives away.
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

@@ -1,0 +1,107 @@
+{{Infobox safehouse
+|name = Madd Dogg's Crib
+|image = MaddDogg'sCrib-GTASA-Exterior.jpg
+|caption = Madd Dogg's Crib as seen in ''[[Grand Theft Auto: San Andreas]]''.
+|aka = Madd Dogg's Mansion
+The Crib
+|game = SA
+|style = Mansion
+|occupants = 
+*[[Madd Dogg (3D Universe)|Madd Dogg]]
+*[[Carl Johnson]]
+*[[Big Poppa]] <small>(formerly)</small> 
+|unlocked = [[A Home in the Hills]]
+|location =[[Mulholland]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+}}
+'''Madd Dogg's Crib '''or''' Madd Dogg's Mansion''' is a mansion in ''[[Grand Theft Auto: San Andreas]]'', located in [[Mulholland]], [[Los Santos (3D Universe)|Los Santos]], which becomes a [[Save Points in GTA San Andreas|save point]] for the [[Carl Johnson|player]] later during the game's storyline.
+
+==Description==
+Initially the home of the famous rapper [[Madd Dogg (3D Universe)|Madd Dogg]] (which [[Kendl Johnson]] claims is a place of sex and drugs), the mansion is a large two-story home with a terraced design, featuring wide spaces, a large number of rooms (the mansion is stated by Madd Dogg to have 19 bedrooms), lavish decors, and numerous other facilities.
+
+The mansion is first featured in "[[Madd Dogg's Rhymes]]", when [[Carl Johnson|the player]] is required to sneak into the mansion and steal Madd Dogg's rhyme book on behalf of [[OG Loc (3D Universe)|OG Loc]]. As Madd Dogg's career waned, the mansion was repossessed by [[Big Poppa]], a [[Los Santos Vagos (3D Universe)|Los Santos Vagos]] gangster, until the player reclaims it for Madd Dogg during "[[A Home in the Hills]]", from which point the mansion becomes a save point. Until completion of "A Home in the Hills", the mansion remains inaccessible outside "Madd Dogg's Rhymes".
+
+The mansion may have been inspired by {{WP|MC Hammer|MC Hammer's}} large former mansion in Northern California. It also has very similar decor to a mansion [[Ice-T]] displayed on MTV Cribs (Madd Dogg being voiced by Ice-T and likely a parody of him as well).
+
+==Amenities and Pickups==
+Besides serving as a save point (the save icon is located on the uppermost end of the mansion's interior), Madd Dogg's Crib's boasts a large variety of facilities, interactive or otherwise, upon completion of "[[A Home in the Hills]]".
+
+The interior of the mansion features:
+
+*An indoor [[Swimming|swimming pool]] and a private [[Gyms|gym]] (complete with a [[Basketball|basketball court]]) are located at the lower end of the mansion's interior. The gym features all the exercise equipment featured in the other gyms in San Andreas;
+*A lounge/living room, complete with a large bar on the western half and an entertainment system on the eastern half (with a [[Thermal Vision|thermal vision goggles]] pickup and a [[CJD 500]] game console that allows the player to play "[[They Crawled from Uranus]]");
+*Madd Dogg's recording studio and records room;
+*A private office/study room;
+*A second lounge;
+*A dining room;
+*A main hall, where a [[Night Vision|night vision goggles]] pickup and two arcade machines ("[[Duality]]" and "[[Let's Get Ready to Bumble]]") are located;
+*A kitchen (connected to the main hall), where a [[health|health pickup]] is available;
+*A second living/study room (connected to the main hall); and
+*Five bedrooms (contrary to Madd Dogg's claim that it has 19) and a music/study room on the upper floor; the second room to the east spawns [[Body Armor|armor]].
+
+Outside, the mansion also sports a helipad where a [[Sparrow (3D Universe)|Sparrow]] may spawn after reclamation of the mansion, and features a second outdoor swimming pool on the second terrace (where an [[Oysters|oyster]] can be found); a [[Kart]] will also spawn at the lower entrance after "[[Cut Throat Business]]".
+
+Despite featuring three garage doors, the player cannot save vehicles at the mansion, although a random vehicle will sometimes spawn in front of the garage doors. Also, there is no [[wardrobe]] found in the mansion. Fortunately, the [[Mulholland Safehouse]], with both these amenities, is nearby.
+
+During the "Madd Dogg's Rhymes" mission, it's possible to safely explore the upper levels of the mansion, although not all of the amenities/pick-ups are active. The only pickup available in the area beyond the music studio is a silenced pistol in the records room (the pistol is not available when the mansion is reclaimed). The two video games in the main hall can also be activated. As can the gymnasium equipment closer to the front door, however the gym is near the area patrolled by the guards.
+
+==Collectibles==
+*1 [[Oysters|oyster]] (in the outdoor swimming pool).
+
+==Oversights==
+Several glitches have been noted with the Crib, although these do not happen with all users, or with every version of the game:
+*Upon saving, a bug may render the basketball courts found throughout the state to be unusable. This is because saving here will remove the basketballs from the courts.
+*Saving here may also prevent the player from working out at [[gyms]]. When trying to use equipment, it will say that the player has worked out enough even if one hasn't worked out for a long time. Although this can be fixed by saving at another save point numerous times (surpassing 5 or more in-game days).
+*Exiting after saving here may also cause the player to end up at the other door, trapping the player in the mansion.
+
+As these glitches do not always occur, it's advisable to, after completing the "A Home in the Hills" mission, first save at a different safehouse (the [[Mulholland Safehouse]] is the closest). Next, return to the Crib and save, but use a different save slot than that used for the Mulholland save. Reload the game and examine the effect. If none are noted, then the player is free to use Madd Dogg's Crib as a save point. If the glitch is noted, then avoid saving games here and instead use the Mulholland Safehouse or one of the other save points in the vicinity.
+
+==Gallery==
+<gallery position="center" spacing="small">
+MaddDogg'sCrib-GTASA-indoorpool.jpg|Indoor swimming pool.
+MaddDogg'sCrib-GTASA-gym.jpg|[[Gyms|Gym]] (with [[basketball]] court) .
+MaddDogg'sCrib-GTASA-lounge.jpg|Lounge/bar.
+MaddDogg'sCrib-GTASA-entertainmentcenter.jpg|Entertainment center/living room.
+MaddDogg'sCrib-GTASA-musicstudio.jpg|Music studio.
+MaddDogg'sCrib-GTASA-office.jpg|Office.
+MaddDogg'sCrib-GTASA-groundfloorhallway.jpg|Main ground floor hallway to the central hallway.
+MaddDogg'sCrib-GTASA-livingroom.jpg|Second entertainment center/living room.
+MaddDogg'sCrib-GTASA-diningroom.jpg|Dining room.
+MaddDogg'sCrib-GTASA-studyroom.jpg|Study room.
+MaddDogg'sCrib-GTASA-kitchen.jpg|Kitchen.
+MaddDogg'sCrib-GTASA-upperfloorhallway.jpg|Second floor hallway to bedrooms, the music room, and the uppermost exit.
+</gallery>
+
+==Vehicles==
+*A [[Kart]] spawns at the eastern exit. (after completing [[Cut Throat Business]])
+*A random vehicle (etc. [[Perennial]], [[Blista Compact (3D Universe)|Blista Compact]], [[Mesa Grande]], [[Bravura]], [[Elegant]], [[PCJ 600|PCJ-600]]) spawns at the garage next to the pool. It is depended on the nearby traffic.
+*A [[Sparrow (3D Universe)|Sparrow]] usually spawns on the top of the house.
+*A [[Huntley]] (spawns only at the mission [[Madd Dogg's Rhymes]], sometimes spawns as a random vehicle).
+*A [[Stafford]] (spawns only at the mission Madd Dogg's Rhymes, rarely spawns as a random vehicle).
+*A [[Mountain Bike]] (spawns only at the mission [[Madd Dogg's Rhymes]]).
+*A [[Windsor]] (spawns only at the mission [[A Home in the Hills]]).
+*A [[Phoenix (3D Universe)|Phoenix]] (spawns only at the mission [[A Home in the Hills]]).
+*A [[Washington]] (owned by [[Mike Toreno]]; Toreno's Washington spawns only at the mission [[Vertical Bird]]; may appear as a random vehicle outside missions).
+*A [[BF Injection]] (spawns only at the mission [[Cut Throat Business]])
+*A [[Vincent]] (spawns only at the mission [[Home Coming]], occasionally spawns as a random vehicle).
+*[[The Truth|The Truth's]] [[Camper (3D Universe)|Mothership]] (spawns only at the mission [[Riot (GTA San Andreas)|Riot]]).
+*[[Cesar Vialpando|Cesar's]] [[Savanna]] (spawns only at the mission [[Riot (GTA San Andreas)|Riot]]).
+*[[Sweet Johnson|Sweet's]] [[Greenwood (3D Universe)|Greenwood]] (spawns only at the mission [[Riot (GTA San Andreas)|Riot]]).
+
+==Trivia==
+*On the walls, a 'blurred' picture of a yellow [[Virgo (3D Universe)|Virgo]] from the [[Beta Content in GTA Vice City|Beta]] of ''[[Grand Theft Auto: Vice City]]'' can be seen.
+*Unlike other safehouses, if the player attains a high wanted level, pursuing police officers can follow inside when the player enters the mansion.
+*The kitchen of the mansion is the only place in the entire game with a fixed spawn point for the [[Health|health pickup]] (only after completion of the mission [[A Home in the Hills]]).
+
+==Navigation==
+{{Gtasa safehouses}}
+[[de:Madd Doggs Bude]]
+[[es:Mansión de Madd Dogg]]
+[[pl:Dom Madd Dogga]]
+[[pt:Madd Dogg's Crib]]
+[[ru:Дом Мэдд Догга]]
+
+[[Category:Buildings in GTA San Andreas in Los Santos]]
+[[Category:Mansions]]
+[[Category:Homes]]
+[[Category:Save Points in GTA San Andreas]]
+[[Category:Safehouses in Los Santos]]

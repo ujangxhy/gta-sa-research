@@ -1,0 +1,68 @@
+{{Scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] and [[Catalina]] arrive at the [[Palomino Creek Bank|bank]] in [[Palomino Creek]]. They both enter the bank armed with [[Shotgun (3D Universe)|Shotguns]].}}
+{{line|name=Catalina|dialogue=You're on crowd control, so don't take any shit!}}
+{{line|name=CJ|dialogue=(sarcastically) Yes'm, Miss Catalina, miss! (pointing his gun at the guard) Don't even think about doing anything, motherfucker!}}
+{{line|name=Catalina|dialogue=Hand over every last dollar, NOW, BITCH!}}
+{{line|background=CJ lines up all of the bank's employees while Catalina empties the safe.}}
+{{line|name=Catalina|dialogue=I'm going to empty the safe. Keep these idiots covered!}}
+{{line|name=CJ|dialogue=A'ight, you heard the lady, no heroic shit!}}
+{{line|background=CJ attempts to control the crowd to no avail, as the bank's alarm goes off as soon as one of the employees' hands go down.}}
+{{line|name=CJ|dialogue=Oh, shit!}}
+{{line|name=Catalina|dialogue=Shit! I give you one simple job! ¡Idiota!}}
+{{line|background=Meanwhile, two [[San Andreas Sheriff|sheriff's deputies]] are eating donuts, when they hear a report from the dispatch.}}
+{{line|name=[[San Andreas Police Department (3D Universe)|SAPD]] Dispatch|dialogue=Attention all units - some psychos are robbing the bank at Palomino Creek!}}
+{{line|name=Cop #1|dialogue=Shit, I just bought another donut! Don't criminals have ''any'' consideration?!}}
+{{line|name=Cop #2|dialogue=We can collect that bribe later. Might as well go and take a look.}}
+{{line|background=The cops enter their [[Ranger|police SUV]] and head to the bank's entrance, surrounded by other cops on their [[HPV1000|bikes]].}}
+{{line|name=Cop #2|dialogue=We know you're in there! The game's up, come on out! Come out real peaceable, like!}}
+{{line|name=Catalina|dialogue=Smash the ATMs and get as much cash as possible!}}
+{{line|name=Cop #1|dialogue=Give up, you're surrounded!}}
+{{line|name=Catalina|dialogue=Quick, we haven't much time!}}
+{{line|background=CJ shoots the ATMs and gets the money.}}
+{{line|name=Catalina|dialogue=Better take the back door. Follow me!}}
+{{line|background=Catalina shoots the back door, only to find more cops waiting for them.}}
+{{line|name=Catalina|dialogue=Cops! Take cover!}}
+{{line|name=Cop #2|dialogue=Thought you might try the back way! We were waiting for yer!}}
+{{line|name=Catalina|dialogue=Cover me!}}
+{{line|background=CJ and Catalina shoot at every cop that gets in their way. As they reach the other side of the alley, two cops on their police bikes attempt to take them down.}}
+{{line|name=Cop #3|dialogue=You two, FREEZE!}}
+{{line|background=CJ and Catalina kill the cops.}}
+{{line|name=Catalina|dialogue=Grab a bike and follow me! You think you can keep up with a real woman?}}
+{{line|background=CJ follows Catalina as two other bikes give chase. They attempt to lose the cops by jumping across the broken bridge.}}
+{{line|name=Catalina|dialogue=What's keeping you? You slow bastard! Are you afraid of speed, Carl? Stop getting lost!}}
+{{line|background=Catalina drives off-road until she encounters a police roadblock in [[Montgomery (3D Universe)|Montgomery]], causing her to bail from the bike. CJ soon picks her up.}}
+{{line|background=If done during "[[First Base]]"...}}
+{{line|name=CJ|dialogue=You're a fucking psycho!}}
+{{line|name=Catalina|dialogue=All you little men are scared of strong women! If we're passionate, you say we're crazy. If you're upset, you say we're hysterical. We sleep with men, we're sluts. If we don't put out, we're frigid bitches.}}
+{{line|name=CJ|dialogue=Who you calling little men? You went berserk back there!}}
+{{line|name=Catalina|dialogue=That? That was just another day at the office! You can't stand the heat, go put your tiny balls in the freezer!}}
+{{line|name=CJ|dialogue=''Tiny balls?!'' Now just wait a minute...}}
+{{line|name=Catalina|dialogue=Enough! Just shut up and drive, I'm counting the fucking money!}}
+{{line|background=If done during "[[Gone Courting]]"...}}
+{{line|name=Catalina|dialogue=Take me home, Carl.}}
+{{line|name=CJ|dialogue=Okay, look, but we gotta talk about something.}}
+{{line|name=Catalina|dialogue=What? What do I have to say to you?}}
+{{line|name=CJ|dialogue=You're a great girl and all, but you gotta calm down. I know some cold-blooded cats wouldn't act like you.}}
+{{line|name=Catalina|dialogue=Oh, you get given a lioness and you want a pussycat? Wimp!}}
+{{line|name=CJ|dialogue=No, I just want...}}
+{{line|name=Catalina|dialogue=You know why I act like this.}}
+{{line|name=CJ|dialogue=No.}}
+{{line|name=Catalina|dialogue=I'm in love, Carl. A woman's heart is a tempestous place, and you will break my heart. Sometimes, I want to kill us both!}}
+{{line|name=CJ|dialogue=Please, don't do that. Just relax a little.}}
+{{line|background=If done during "[[Made in Heaven]]"...}}
+{{line|name=Catalina|dialogue=Take me home now, big man.}}
+{{line|name=CJ|dialogue=How we do?}}
+{{line|name=Catalina|dialogue=Is that all you care about? Money?}}
+{{line|name=CJ|dialogue=No, but I really need the paper...}}
+{{line|name=Catalina|dialogue=You revolt me. You make my skin crawl.}}
+{{line|name=CJ|dialogue=Well, I ain't crazy about you, either!}}
+{{line|name=Catalina|dialogue=That's just it - how little you know. Don't talk, let us enjoy the peace and quiet.}}
+{{line|background=CJ and Catalina head back to her hideout in [[Fern Ridge]].}}
+{{line|name=Catalina|dialogue=There you go.}}
+{{line|name=CJ|dialogue=Thanks.}}
+{{line|name=Catalina|dialogue=One day, Carl Johnson, you will realize. She, she truly loved me, and your heart will break in two. But you are more like the spiny lizard than a man. Goodbye!}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

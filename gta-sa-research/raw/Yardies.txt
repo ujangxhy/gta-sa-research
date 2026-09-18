@@ -1,0 +1,215 @@
+{{Disambiglink|For the similarly named gang in [[Grand Theft Auto III|GTA III]] and [[Grand Theft Auto: Liberty City Stories|GTA Liberty City Stories]], also known as Yardies, see [[Uptown Yardies]].}}
+{{Infobox organization
+|name          = Yardies
+|image         = Yardies_GTAIV_Homebrew_Cafe.png
+|caption       = Members of the Yardies.
+|games         = {{Games|IV=y|EFLC=y|CW=y}}
+|type          = gang
+|gang_type     = Jamaican Posses 
+|aka           =
+*Jamaicans
+*Hillside Posse
+|locations     =
+*[[Schottler]], [[Broker]]
+*[[Beechwood City]], Broker
+*[[Willis]], [[Dukes]]
+|leader        =
+*[[Real Badman]]
+*[[Little Jacob]]
+|enemies       =
+*[[Faustin Mafiya|Rascalov Mafiya]]
+*[[Bulgarin Crime Syndicate]]
+*[[The Lost MC]]
+*[[Northwood Dominican Drug Dealers]]
+*[[Albanian Mob]]
+*[[Lee Family]]
+*[[Ming Family]]
+*[[Liberty City Triads (HD Universe)|Liberty City Triads]]
+*[[Hustlers]]
+*[[Angels of Death]]
+|affiliations  =
+*[[Irish American Killers]]
+*[[Spanish Lords]]
+*[[Elizabeta Torres]]
+*[[Petrovic Mafiya]]
+*[[Skinheads]]
+*[[Niko Bellic]]
+*[[McReary Crime Family]] {{Small|(Formerly)}}
+|colors        = 
+*Green
+*Yellow
+|vehicles      =
+*Beater [[Emperor (rusted)|Emperor]] {{Small|([[Drug Delivery|Drug Deliveries]])}}
+*Beater [[Vigero#Grand Theft Auto IV 3|Vigero]] {{Small|(Drug Deliveries)}}
+*Beater [[Sabre (beater)|Sabre]] {{Small|(Drug Deliveries)}}
+*Jamaican [[Voodoo (HD Universe)|Voodoo]]
+*Jamaican [[Huntley Sport]]
+*[[Comet]] {{Small|(''TLAD''; [[Gang Wars in TLAD|Gang Wars]])}}
+*[[Super Diamond]] {{Small|(''TBOGT''; [[Drug Wars]])}}
+*[[Buffalo (HD Universe)|Buffalo]] {{Small|(''TBOGT''; Drug Wars)}}
+*[[Manana]] {{Small|(''GTA Chinatown Wars'')}}
+*[[Burrito (HD Universe)|Burrito]] {{Small|(''GTA Chinatown Wars'')}}
+|weapons       =
+*[[Pistol (HD Universe)|Pistol]]
+*[[Pump Shotgun|Shotgun]]
+*[[Micro SMG (HD Universe)|Micro SMG]]
+*[[Combat MG|Advanced MG]] {{Small|(Drug Wars)}}
+*[[Sawn-off Shotgun]] {{Small|(Gang Wars)}}
+*[[Flamethrower]] {{Small|([[Factory Fun]])}}
+*[[Molotov Cocktails]] {{Small|(Gang Wars)}}
+*[[Grenades]] {{Small|(Gang wars and Factory Fun)}}
+|nationality   = {{Country|JM|adj=y}}
+|businesses    =
+*Drug trade
+*Arms trade
+*Prostitution
+*Armed robbery
+|fronts        =
+*[[Homebrew Café]]
+*[[South Slopes Drug Factory]]
+|members       =
+*[[Real Badman]]
+*[[Little Jacob]]
+*[[Freddy Paparo]] 
+*[[Leo Brodell]] 
+*[[Rodrigo Stavnes]] 
+*[[Winston]]
+*[[Bone]]
+*[[Jamal]]
+*[[Yardies Drug Factory Boss|Factory Boss]] 
+|status        = active
+}}
+{{Infobox tradestats
+|color = TradeStats
+|gang  = Jamaicans
+|sells = {{cwdrug|weed=y}}
+|buys  = {{cwdrug|downers=y}}
+|turf  = 
+*[[Schottler]]
+*[[Beechwood City]]
+|map   = TradeStats-GTACW-TurfMap-Jamaicans.png
+}}
+'''Yardies''', also known as '''Jamaicans''' are a loose coalition of Jamaican posses that operate out of the [[Beechwood City]]/[[Schottler]] area of [[Broker]] and the [[Willis]] area of [[Dukes]], [[Liberty City (HD Universe)|Liberty City]]. They play a minor role in {{IV}}, and are featured in {{TLAD}}, {{TBOGT}} and {{CW}}.
+
+One of the posses is led by [[Real Badman]] and his underboss and best friend, [[Little Jacob]]. They are one of the major ally groups in ''GTA IV'', as Jacob is a close friend to the game's [[protagonist]] [[Niko Bellic]].
+
+==History==
+===Background===
+The exact year when Jamaican gangs made their appearance in Liberty City is unknown, but their earliest presence in the city could have occurred in the 1970s or 1980s just like their real-life counterparts. The only convicted Jamaican criminals in the [[Liberty City Police Department (HD Universe)|LCPD]] [[Liberty City Police Department (HD Universe)/Database|database]] are [[Real Badman]] and [[Little Jacob]], both known Jamaican gangsters among the Yardies. In [[2001]] the duo were convicted for armed robbery at aged 21 and 20 respectively. In [[2002]] Real Badman was arrested for selling cocaine, hinting his future career as a drug dealer, and Little Jacob was arrested for burglary. The LCPD suspects them in several high profile armed robberies and hijackings, implying their methods were usually ruthless and not business-oriented.
+
+By [[2008]], Real Badman became the head of a marijuana and cocaine distribution network based in East Liberty City, with Little Jacob appearing as his right-hand man. According to the events of ''GTA IV'', Badman and Jacob still had enemies and competitors among the other Jamaican posses, despite their strong positions as major drug dealers. Little Jacob sees cocaine trade as the main reasons of fights within the gang, since this business is too ruthless and bloody for Rasta culture, which point is chilling and smoking herb together. Frequent conflicts, as well as constant drug use, led Badman to growing paranoia. His methods of doing business became more bloody and radical and he rarely left his home without being heavily armed.
+
+===Events of ''Grand Theft Auto IV''===
+By 2008, Real Badman gets into a fierce rivalry with another Jamaican posse crew after a fight broke out between them. Jacob wants to make peace with the gang, and both agreed to meet up in an alleyway off [[Dillion Street]] in [[Schottler]]. Jacob with the help of Niko shows up to the meeting spot and wait for the meeting to take place. [[Jamaican Heat|Only one gang member is expected meet up with Jacob]] but a group of three gang members show up and open fire on Jacob. Niko kills the gang members before they could kill Jacob and shortly after kills another member who appears on a roof. 
+
+After dealing with the rival crew in Schottler, Badman's crew are looking to [[Concrete Jungle|buy product from a new supplier]] so they can sell it around their territory. Badman sends Jacob to buy the product from the new suppliers; however, Jacob doesn't trust them and describes them as "harbor sharks" which is a Jamaican slang for someone who's greedy. Niko drives Jacob to [[Saratoga Avenue]] where the deal is taking place and upon arriving, tells Niko to cover for him in a back alley nearby in case the dealers try to run off with the product. The deal goes sour as the dealers don't even have the product; Instead, they try to steal the money off of Jacob but failed and attempt to escape through the back of the building but are killed by Niko. Jacob and Niko drive to the dealers' [[Savannah Avenue Townhouse|apartment]] to get revenge on them for setting up the deal. After arriving, the duo break into the apartment and kills all of the gangsters inside.
+
+After Niko helped [[Dimitri Rascalov|Dimitri]] out in [[Do You Have Protection?|collecting protection money]], Jacob sends a text to Niko which says he's relaxing with his boss Real Badman and asks to come see him at his apartment in [[Schottler]] for more work. Upon entering the apartment, Niko gets pinned down by Badman and threatens him with a box cutter. Jacob hears what's going on and assures to Badman that Niko is a friend of his. Badman helps Niko off the floor and takes him to Jacob, who is lying on a couch watching TV. Badman tells Niko, that a drug dealing crew in [[South Bohan]] are selling drugs on his corner and aren't sharing their profits with him. In his usual ruthless way, Badman wants Niko to [[Shadow|track down]] the dealer to his suppliers and wipe them out.
+
+Niko successfully completes the task and earns Badman's trust, whose paranoia continues to grow. [[Little Jacob]] becomes a close friend of Niko and offers him a job as a [[Drug Delivery|drug courier]] for the Yardies. He leaves drug packages for Niko in old beaten cars near [[Homebrew Cafe]]. Deliveries usually end in ambushes by [[Liberty City Triads (HD Universe)|Triads]], [[Albanian Mob|Albanian mobsters]] or the police. Deliveries only go smooth when they are set up with paranoid buyers, who will wait for the package only for a limited time. Deals that are ambushed by the police, are set up with the [[McReary Crime Family|Irish Mob]].
+
+After nine successful deliveries, [[Real Badman]] and [[Little Jacob]] will hide the package inside a Jamaican colored [[Huntley Sport]] instead of a [[Beaters|beater]]. When Niko makes the tenth delivery, Jacob will text him, telling him that he can keep the car as a present. He also reveals that there will be no more drug deliveries for him, due to the police investigating their activity closely.
+
+At some point after killing the dealer and his suppliers in South Bohan, Niko [[Random Characters in GTA IV/Real Badman - Unique Encounter|runs into]] Real Badman in [[East Island City]] who is sitting on a bench with a Pump shotgun. Badman explains to Niko about his new problem, which is another conflict over territories; this time with Russian gang members. He explains how the Russians started to "test" him; by telling him what to do and making him pay debts, which he sees as acts of disrespect. After explaining the situation to Niko, they both team up to kill the Russians, who are doing a deal in an alley in [[Carrollton Street]]. In oppose to Badman's previous bloodthirsty decisions, this one was suggested by Niko. After killing the Russians together, Badman pays Niko [[Money|$]]500 for his troubles and the duo part ways.
+
+===Events of ''Episodes from Liberty City''===
+Sometimes during the [[Gang Wars in TLAD|gang wars]], [[The Lost MC]] attacks Jamaican gangsters in order to kill them or destroy their goods. [[Armando Torres]] and [[Henrique Bardas]] also see Yardies as their possible victims and assault them during [[Drug Wars|drug wars]].
+
+===Events of ''Grand Theft Auto: Chinatown Wars''===
+In [[2009]], the Yardies drug dealers are targeted by the [[Liberty City Triads (HD Universe)|Liberty City Triads]] leader [[Hsin Jaoming]], after messing with their businesses. Hsin plans to blow up their "stash cars". However, Hsin's most trusted ally [[Zhou Ming]] wants to steal the cars and the drugs inside them, so he asks [[Huang Lee]] behind Hsin's back to accomplish this. In compensation for going against Hsin's orders, Zhou kills several Yardies using a [[Minigun]] in the streets of [[Beechwood City]] in order to impress his boss.
+
+During the PSP exclusive missions for documentary filmmaker [[Melanie Mallard]], the Yardies attack the Triads in an attempt to steal their drug shipment, but they are stopped by Huang. Soon after, Huang and Melanie raid the Yardies' [[South Slopes Drug Factory|drug factory]] in [[South Slopes]]. During the shootout, several Yardies are killed, including the [[Yardies Drug Factory Boss|factory boss]] and [[Weazel]] reporter [[Natalie Vanet]], who was working undercover in the Yardies drug factory.
+
+An unnamed Yardie member is briefly seen being killed in a jetty in [[Steinway]] during the mission [[Missed the Boat?]]
+
+There are also three interactive Jamaican [[Drug Dealers|drug dealers]] available for Huang Lee: [[Winston]], [[Bone]] and [[Jamal]].
+
+===Events of ''Grand Theft Auto V''===
+Yardies don't appear in ''Grand Theft Auto V'', but [[Tavell Clinton]] on his [[Lifeinvader]] page, reveals that he lives in an apartment in [[Schottler]] with two Jamaicans and a Senegalese student and that they cannot understand one another. 
+
+==Description==
+Jamaican immigrants make up the majority of the Yardies and appear to be Rastafarians, despite the strong denial of violence and heavy drugs within the religion. Little Jacob mentions these differences, judging cocaine trade from inside the gang and blaming it for fights between Rastas and changes in Badman's character. Yardies speak iyaric as well as patois, frequently smoke marijuana, and wear their hair in dreadlocks. They can be seen wearing brightly colored suits or army fatigues, and some wear Rasta {{WP|Tam (cap)|tams}}, which is a sign of rudeboys style. Some can even be seen wearing gold African continent pendants. They are well-armed, with members on the streets carrying [[Pistol (HD Universe)|pistols]], [[Micro SMG (HD Universe)|Micro Uzis]] and [[Pump Shotgun|Pump Shotguns]]. They drive around in [[Voodoo (HD Universe)|Voodoo]]s and [[Huntley Sport|Huntleys]] painted in the colors of the Jamaican flag: green, black, and gold. They can mainly be found in the [[Beechwood City]] region, particularly the Homebrew Café, and have a smaller presence in [[Schottler]] and [[Willis]] as well.
+
+Due to [[Niko]] being close friends with [[Little Jacob]], the Yardies welcome him to their turf. If [[Niko]] is engaged in a fight or is attacked by a [[Pedestrian|pedestrian]], the Yardies will defend him by all means but this will only happen after [[Shadow]]. Before that mission, Jamaicans will be hostile if you attack them. They may use pistols or Micro Uzis to attack the player.
+
+Their favorite radio stations are [[Tuff Gong Radio]], [[Massive B Soundsystem 96.9]], [[RamJam FM]] and [[Ticklah]].
+
+==Members and Associates==
+===Members===
+*[[Real Badman]] - Leader of his own posse.
+*[[Little Jacob]] - Right-hand man of Badman.
+*[[Rodrigo Stavnes]] {{nd}} [[Most Wanted]] criminal in [[Steinway]], [[Dukes]], convicted for racketeering.
+*[[Freddy Paparo]] {{nd}} Most Wanted criminal in [[Steinway]], [[Dukes]], convicted for grand theft auto.
+*[[Leo Brodell]] {{nd}} Most Wanted criminal in [[East Holland]], [[Algonquin]], convicted for drug trafficking.
+*[[Yardies Drug Factory Boss|Unnamed factory boss]] {{nd}} Manager of the gang's [[South Slopes Drug Factory|drug factory]] in South Slopes.
+
+===Associates===
+*[[Winston]] {{nd}} Drug dealer in [[Beechwood City]], [[Dukes]].
+*[[Bone]] {{nd}} Drug dealer in [[Beechwood City]], [[Dukes]].
+*[[Jamal]] {{nd}} Drug dealer in [[Schottler]], [[Broker]].
+*[[Niko Bellic]] {{nd}} Hired gun, drug courier and close friend of Little Jacob.
+*[[Roman Bellic]] {{nd}} Friend of Little Jacob.
+*[[Marty Boldenow]] {{nd}} Ally, has Jamaican protection. Most Wanted criminal in [[Westdyke]], [[State of Alderney|Alderney]], convicted for gang related violence.
+*[[Juan Haimo]] {{nd}} Ally, has Jamaican protection. Most Wanted criminal in [[Star Junction]], [[Algonquin]], convicted for burglary.
+*[[Mervin Eskuchen]] {{nd}} Ally, has Jamaican protection. Most Wanted criminal in [[Berchem]], Algonquin, convicted for drug trafficking.
+*[[Frederick Harrison]] {{nd}} Ally, has Jamaican protection. Most Wanted criminal in [[Tudor]], Alderney, convicted for grand theft auto.
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto IV''===
+*[[First Date (GTA IV)|First Date]]
+*[[Jamaican Heat]]
+*[[Concrete Jungle]]
+*[[Shadow]]
+*[[Russian Revolution]]
+*[[The Snow Storm]]
+*[[Paper Trail]]
+*[[Mr. & Mrs. Bellic]]
+*[[Out of Commission]]
+*[[A Revenger's Tragedy]]
+
+===''The Lost and Damned''===
+*[[Gang Wars in TLAD|Gang Wars]]
+
+===''The Ballad of Gay Tony''===
+*[[Drug Wars]]
+
+===''Grand Theft Auto: Chinatown Wars''===
+*[[Bomb Disposal]]
+*[[Driven to Destruction]]
+*[[Missed the Boat?]] {{Small|(a member is killed when going through the [[Steinway]] port)}}
+*[[Dock'u'mental]]
+*[[Factory Fun]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Yardies-GTAIV-Montage.jpg|Montage of the '''Yardies''', their clothes, and the cars they drive.
+JamaicanPosse-GTAIV-Artwork.jpg|Artwork of [[Jamaica]]n criminals in {{IV}}.
+Voodoo-GTA4-Jamaican-front.jpg|Jamaican [[Voodoo (HD Universe)|Voodoo]] in ''Grand Theft Auto IV''.
+HuntleySport-GTA4-Jamaican-front.jpg|Jamaican [[Huntley Sport]] in ''Grand Theft Auto IV''.
+Manana-GTACW-front.jpg|Jamaican [[Manana]] in {{CW}}.
+YardieBurrito-GTACW-front.jpg|Jamaican [[Burrito (HD Universe)|Burrito]] used as a [[Drug Vans|drug van]] in ''Grand Theft Auto: Chinatown Wars''.
+RealBadman-GTAIV.png|[[Real Badman]], the major druglord.
+LittleJacob-GTAIV-Closeup.png|[[Little Jacob]], most notable member.
+DrugDealers-GTACW-Yardies-Portrait.png|A Jamaican drug dealer in ''Grand Theft Auto: Chinatown Wars''.
+YardiesDrugFactoryBoss-GTACW.png|The '''Yardies'''' [[Yardies Drug Factory Boss|drug factory boss]] in ''Grand Theft Auto: Chinatown Wars''.
+</gallery>
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtaiv gangs|state=collapsed}}
+}}
+
+[[de:Hillside Posse]]
+[[es:Jamaican Posse]]
+[[fi:Hillside Posse]]
+[[fr:Hillside Posse]]
+[[ru:Ярди]]
+
+[[Category:Organizations in GTA Chinatown Wars]]
+[[Category:Organizations in TBOGT]]
+[[Category:Organizations in TLAD]]
+[[Category:Organizations in GTA IV]]
+[[Category:Jamaican Gangs]]
+[[Category:Afro-descendant organizations]]

@@ -1,0 +1,251 @@
+{{Disambiglink|For the mission in [[Grand Theft Auto V]], see [[Reuniting the Family]]}}
+{{Infobox mission
+|name = Reuniting the Families
+|image = ReunitingTheFamilies-GTASA-Mission.png
+
+|caption = [[Carl Johnson]], [[Big Smoke]], [[Sean Johnson|Sweet]] and [[Ryder]] escaping the pursuing [[Los Santos Police Department (3D Universe)|LSPD]] cops after the failed meeting of the [[Grove Street Families|Families]] at the [[Jefferson Motel (3D Universe)|Jefferson Motel]].
+|game           = {{games|SA=y}}
+|type           = SA
+|for ={{For|game=SA|sweet}}
+|location = [[Sweet's House]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]]
+|fail = *[[Wasted]]
+*[[Sweet]], [[Big Smoke]] or [[Ryder]] dies
+*[[Greenwood (3D Universe)|Greenwood]] destroyed
+|reward = [[Respect]]
+|unlocks = [[The Green Sabre]]
+|unlockedby = *[[Los Sepulcros]]
+*[[Robbing Uncle Sam]]
+*[[House Party]]
+*[[Just Business]]
+*[[High Stakes, Low-Rider]]
+*[[Gray Imports]]
+|todo =
+*Get in the '''<span style="color:#484576">car</span>''' and drive the crew to the meet at the motel.
+*Drive the crew to the meet at the '''<span style="color:#D1BC86">motel</span>'''.
+*Go inside the '''<span style="color:#D1BC86">motel</span>''' and get Sweet out of there safely!
+*Protect '''<span style="color:#484576">Sweet</span>''' and destroy the '''<span style="color:#AB3736">SWAT helicopter</span>'''.
+*Follow '''<span style="color:#484576">Sweet</span>'''.
+}}
+{{Quote|We're gonna unite the Families once more, because the Ballas have been pumpin' our guys full of base for too long while we argue among ourselves.|[[Sweet Johnson]]|sound=ReunitingtheFamilies-GTASA-Quote.ogg}}
+'''Reuniting the Families''' is a mission in ''[[Grand Theft Auto: San Andreas]]'' given to [[protagonist]] [[Carl Johnson]] by [[Grove Street Families]] leader [[Sweet Johnson|Sean "Sweet" Johnson]] from his [[Sweet's House|home]] in [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Carl goes to Sweet's house and finds him with their close friends [[Ryder]] and [[Big Smoke]]. Once he arrives, Sweet informs them about reuniting all the Grove Street sets once again because the [[Seville Boulevard Families|Seville Boulevard]] and [[Temple Drive Families|Temple Drive]] Families have split from the gang and the [[Ballas (3D Universe)|Ballas]] have been pushing drugs for too long. All the sets are supposed to meet at the [[Jefferson Motel (3D Universe)|Jefferson Motel]].
+
+The four get into Sweet's [[Greenwood (3D Universe)|Greenwood]] outside and make their way to the motel. Upon arriving, Sweet goes inside the motel by himself, and after a while a [[Los Santos Police Department (3D Universe)|LSPD]] [[Police Maverick (3D Universe)|Police Maverick]], callsign "Buzzard 1", appears. They interrupt the meeting and a shootout begins. Big Smoke and Ryder escape in Sweet's car just before the SWAT team arrives in their [[Enforcer (3D Universe)|Enforcers]], but Carl enters the motel to rescue Sweet. He makes his way through the hotel and eventually finds Sweet. When they arrive on the roof, Buzzard 1 reappears; Carl shoots down the helicopter, and follows Sweet. Just as they reach the street, Big Smoke and Ryder come to pick them up. Ryder hands Carl an [[AK47]] with unlimited ammo as many [[Police Car|police cars]] and [[HPV1000|bikes]] pursue them. Smoke drives around to escape, while Carl fends off the police, but the AK47 eventually gets jammed and the car, after narrowly escaping a low-flying [[San Andreas Police Department (3D Universe)|SAPD]] helicopter, crashes through a billboard advertising [[Sprunk (3D Universe)|Sprunk]]. The four bail out of the car as it plunges onto the freeway into a [[Xoomer]] fuel [[Tanker|tanker]] truck, causing a massive explosion. Believing the quartet have been killed in the explosion, the police call off the search and the mission is completed.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Get in the '''<span style="color:#484576">car</span>''' and drive the crew to the meet at the motel.
+*Drive the crew to the meet at the '''<span style="color:#D1BC86">motel</span>'''.
+*Go inside the '''<span style="color:#D1BC86">motel</span>''' and get Sweet out of there safely!
+*Protect '''<span style="color:#484576">Sweet</span>''' and destroy the '''<span style="color:#AB3736">SWAT helicopter</span>'''.
+*Follow '''<span style="color:#484576">Sweet</span>'''.
+*Protect the car from the police.
+
+==Reward==
+The reward for completing this mission is an increase in [[respect]]. The next mission, [[The Green Sabre]], is also unlocked.
+
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px" bordersize="small">
+ReunitingTheFamilies-GTASA-SS1.png|[[Ryder]], [[Sweet Johnson|Sweet]] and [[Big Smoke|Smoke]] are relaxing in Sweet's [[Sweet's House|house]].
+ReunitingTheFamilies-GTASA-SS2.png|Smoke appreciates the actress in the porno they're watching.
+ReunitingTheFamilies-GTASA-SS3.png|[[Carl Johnson|CJ]] comes around and greets everyone.
+ReunitingTheFamilies-GTASA-SS4.png|Sweet tells CJ to turn off the TV and then tells everyone to listen up.
+ReunitingTheFamilies-GTASA-SS5.png|Sweet says that their plan to get drugs off the streets will come to fruition tonight.
+ReunitingTheFamilies-GTASA-SS6.png|Sweet announces that he plans to reunite the Families once more.
+ReunitingTheFamilies-GTASA-SS7.png|Sweet says that he's tired of the [[Ballas (3D Universe)|Ballas]] selling drugs on his turf.
+ReunitingTheFamilies-GTASA-SS8.png|Because of this, the Families will meet at [[Jefferson Motel (3D Universe)|Jefferson Motel]] and discuss their plans to stop the Ballas.
+ReunitingTheFamilies-GTASA-SS9.png|Sweet says that they should go down to the Motel and make their presence known.
+ReunitingTheFamilies-GTASA-SS10.png|Sweet says that the drugs on their streets shall be gone.
+ReunitingTheFamilies-GTASA-SS11.png|Sweet suggests himself to represent [[Grove Street Families]] on this meeting.
+ReunitingTheFamilies-GTASA-SS12.png|Smoke agrees to Sweet's suggestion.
+ReunitingTheFamilies-GTASA-SS13.png|Smoke says that if Sweet thinks he can do it, then he'll do it.
+ReunitingTheFamilies-GTASA-SS14.png|Sweet says that they should go now.
+ReunitingTheFamilies-GTASA-SS15.png|Grove Street Families OGs heading out to reunite the Families...
+ReunitingTheFamilies-GTASA-SS16.png|CJ must get into Sweet's [[Greenwood (3D Universe)|Greenwood]].
+ReunitingTheFamilies-GTASA-SS17.png|CJ must drive himself and his homies to the Jefferson Motel.
+ReunitingTheFamilies-GTASA-SS18.png|As the OGs head out of Grove Street, Ryder asks CJ if he's planning on crashing the car again.
+ReunitingTheFamilies-GTASA-SS19.png|CJ finally has enough of Ryder and tells him off.
+ReunitingTheFamilies-GTASA-SS20.png|Sweet tells Ryder to give CJ a break, as he's done so much for Grove Street.
+ReunitingTheFamilies-GTASA-SS21.png|Ryder says he was just joking.
+ReunitingTheFamilies-GTASA-SS22.png|CJ insults Ryder.
+ReunitingTheFamilies-GTASA-SS23.png|Ryder says CJ's insult isn't true.
+ReunitingTheFamilies-GTASA-SS24.png|Smoke tells Ryder to calm down.
+ReunitingTheFamilies-GTASA-SS25.png|Sweet tells Ryder that they're reuniting the Families, so they must keep together.
+ReunitingTheFamilies-GTASA-SS26.png|He reminds Ryder to stay cool.
+ReunitingTheFamilies-GTASA-SS27.png|Ryder says he's "as cool as a Shaolin monk".
+ReunitingTheFamilies-GTASA-SS28.png|Sweet says that Ryder is the one who should follow his instructions the closest.
+ReunitingTheFamilies-GTASA-SS29.png|Ryder says he's offended at Sweet implying he's not cool.
+ReunitingTheFamilies-GTASA-SS30.png|Smoke calms Ryder down and says that what Sweet's trying to say is that Ryder is a natural killer.
+ReunitingTheFamilies-GTASA-SS31.png|Smoke tells Ryder to stay calm.
+ReunitingTheFamilies-GTASA-SS32.png|Ryder says he understood what Sweet was trying to say, but didn't agree with it.
+ReunitingTheFamilies-GTASA-SS33.png|Smoke says he doesn't mind this.
+ReunitingTheFamilies-GTASA-SS34.png|Grove Street Families OGs arriving at the Jefferson Motel.
+ReunitingTheFamilies-GTASA-SS35.png|CJ pulls up into the parking lot.
+ReunitingTheFamilies-GTASA-SS36.png|When the GSF OGs arrive, some members of [[Seville Boulevard Families]] or [[Temple Drive Families]] are already there, chatting.
+ReunitingTheFamilies-GTASA-SS37.png|Sweet says that the meeting strictly has only one representative per set, so CJ, Ryder and Smoke will have to wait in the car.
+ReunitingTheFamilies-GTASA-SS38.png|CJ says that they'll keep watch outside.
+ReunitingTheFamilies-GTASA-SS39.png|Sweet says that he appreciates it, but that everything's alright.
+ReunitingTheFamilies-GTASA-SS40.png|Sweet gets out of the car and walks into the motel.
+ReunitingTheFamilies-GTASA-SS41.png|Ryder says he doesn't trust the other Families' sets.
+ReunitingTheFamilies-GTASA-SS42.png|CJ tells Ryder to relax, as the other sets are not doing anything to harm them just yet. He then asks for Smoke's opinion.
+ReunitingTheFamilies-GTASA-SS43.png|Smoke says that he's feeling a little exposed, but otherwise he's perfectly okay.
+ReunitingTheFamilies-GTASA-SS44.png|Suddenly, a [[Los Santos Police Department (3D Universe)|LSPD]] [[Police Maverick (3D Universe)|Ghetto Bird]] flies over to the motel.
+ReunitingTheFamilies-GTASA-SS45.png|The officers on-board the Ghetto Bird tell everyone to stay where they are.
+ReunitingTheFamilies-GTASA-SS46.png|CJ quickly gets out of the car.
+ReunitingTheFamilies-GTASA-SS47.png|[[Special Weapons and Tactics (3D Universe)|S.W.A.T.]] officers drop down from the Ghetto Bird.
+ReunitingTheFamilies-GTASA-SS48.png|Smoke and Ryder ask CJ what he's doing getting out of the car.
+ReunitingTheFamilies-GTASA-SS49.png|Smoke tells CJ to get back in and get away from the motel.
+ReunitingTheFamilies-GTASA-SS50.png|CJ says that he's going to go and save Sweet.
+ReunitingTheFamilies-GTASA-SS51.png|Ryder says that it's every man for himself now.
+ReunitingTheFamilies-GTASA-SS52.png|Smoke and Ryder get into the front seats and drive away.
+ReunitingTheFamilies-GTASA-SS53.png|CJ must now get into the hotel and save Sweet from the S.W.A.T. forces.
+ReunitingTheFamilies-GTASA-SS54.png|CJ enters the motel and the first thing he sees is a dead Families member.
+ReunitingTheFamilies-GTASA-SS55.png|CJ walks up to another dying Families member and asks him where the OGs were meeting.
+ReunitingTheFamilies-GTASA-SS56.png|The Families member tells CJ to look for the OGs in the back.
+ReunitingTheFamilies-GTASA-SS57.png|As CJ walks to the corridor leading to the rooms, he is met by a S.W.A.T. officer.
+ReunitingTheFamilies-GTASA-SS58.png|CJ fighting through the corridors of the motel.
+ReunitingTheFamilies-GTASA-SS59.png|As CJ fights through the motel, he comes across several Families members shooting out with officers, as a skylight above them breaks and S.W.A.T. officers drop in.
+ReunitingTheFamilies-GTASA-SS60.png|CJ fighting through the corridors of the motel.
+ReunitingTheFamilies-GTASA-SS61.png|Finally, CJ finds Sweet in one of the motel rooms near the back of the motel.
+ReunitingTheFamilies-GTASA-SS62.png|Sweet asks CJ what took him and then asks where Ryder and Smoke went.
+ReunitingTheFamilies-GTASA-SS63.png|CJ tells Sweet that they left them.
+ReunitingTheFamilies-GTASA-SS64.png|Sweet says that it doesn't matter right now and that they need to get out of the motel.
+ReunitingTheFamilies-GTASA-SS65.png|CJ and Sweet go out to find the exit.
+ReunitingTheFamilies-GTASA-SS66.png|After a few minutes, CJ and Sweet manage to get to an exit on the roof.
+ReunitingTheFamilies-GTASA-SS67.png|The Ghetto Bird from earlier flies by the roof and the officers tell them to halt.
+ReunitingTheFamilies-GTASA-SS68.png|As CJ and Sweet take cover, Sweet tells CJ to take out the chopper.
+ReunitingTheFamilies-GTASA-SS69.png|CJ must defend Sweet and himself from the S.W.A.T. officers on-board the Ghetto Bird.
+ReunitingTheFamilies-GTASA-SS70.png|CJ and Sweet shooting out with the Ghetto Bird.
+ReunitingTheFamilies-GTASA-SS71.png|After the S.W.A.T. officers on-board have been killed, the Maverick flies off and Sweet tells CJ that they have to run now.
+ReunitingTheFamilies-GTASA-SS72.png|CJ and Sweet escaping the roof of the motel.
+ReunitingTheFamilies-GTASA-SS73.png|After a minute, CJ and Sweet find some stairs to the side of the motel.
+ReunitingTheFamilies-GTASA-SS74.png|CJ and Sweet escaping from the motel territory.
+ReunitingTheFamilies-GTASA-SS75.png|After escaping from the motel, Sweet and CJ find themselves on an open street.
+ReunitingTheFamilies-GTASA-SS76.png|The two ponder what they should do now.
+ReunitingTheFamilies-GTASA-SS77.png|Miraculously, Ryder and Smoke return to them in Sweet's Greenwood.
+ReunitingTheFamilies-GTASA-SS78.png|Smoke pulls up next to CJ and Sweet and Ryder tells them to get in.
+ReunitingTheFamilies-GTASA-SS79.png|CJ and Sweet tell Smoke to hurry up and get them out of there.
+ReunitingTheFamilies-GTASA-SS80.png|Grove Street OGs drive off, followed by LSPD [[Police Car|patrol vehicles]].
+ReunitingTheFamilies-GTASA-SS81.png|CJ says that he's running low on ammo, so Ryder gives him his own [[AK47]].
+ReunitingTheFamilies-GTASA-SS82.png|CJ immediately notices that the gun Ryder gave him is incredibly outdated.
+ReunitingTheFamilies-GTASA-SS83.png|Ryder says that [[Emmet]] isn't exactly the {{WP|Pentagon}}, so they took what they could get their hands on.
+ReunitingTheFamilies-GTASA-SS84.png|CJ says that Emmet is the worst place they could've gotten a gun from.
+ReunitingTheFamilies-GTASA-SS85.png|CJ is told to cover the car's rear.
+ReunitingTheFamilies-GTASA-SS86.png|As the Grove Street OGs drive through a rail track, they almost get hit by an upcoming [[Brown Streak]] that does, however, manage to hit a patrol car.
+ReunitingTheFamilies-GTASA-SS87.png|After this Ryder says that it's getting real intense.
+ReunitingTheFamilies-GTASA-SS88.png|Ryder likens the intensity of what's going on now to World War VIII.
+ReunitingTheFamilies-GTASA-SS89.png|As the OGs continue escaping the cops, Ryder tells CJ to watch the left of the car.
+ReunitingTheFamilies-GTASA-SS90.png|CJ gets confused.
+ReunitingTheFamilies-GTASA-SS91.png|Ryder tells CJ to just shoot everyone he sees.
+ReunitingTheFamilies-GTASA-SS92.png|As the chase continues, the Ghetto Bird catches up to the OGs.
+ReunitingTheFamilies-GTASA-SS93.png|Smoke tells CJ to clear out some of the officers chasing them.
+ReunitingTheFamilies-GTASA-SS94.png|While the OGs escape the cops, two motorcycle cops in [[East Los Santos (3D Universe)|East Los Santos]] hear about what's going on.
+ReunitingTheFamilies-GTASA-SS95.png|They drop the doughnuts they were eating and head out to catch the OGs.
+ReunitingTheFamilies-GTASA-SS96.png|As the OGs attempt escaping their pursuers, one of the motorcycle cops jump onto their Greenwood and tries punching CJ.
+ReunitingTheFamilies-GTASA-SS97.png|Smoke says he regrets coming with CJ, Ryder and Sweet.
+ReunitingTheFamilies-GTASA-SS98.png|After a short while, CJ manages to get the officer off of the Greenwood.
+ReunitingTheFamilies-GTASA-SS99.png|As the OGs continue their escape, Smoke tells them to put their windows up.
+ReunitingTheFamilies-GTASA-SS100.png|Sweet asks Smoke what he's doing.
+ReunitingTheFamilies-GTASA-SS101.png|Smoke drives through a car wash to escape the cops.
+ReunitingTheFamilies-GTASA-SS102.png|CJ calls Smoke insane after getting soap in his eyes from the carwash.
+ReunitingTheFamilies-GTASA-SS103.png|Smoke tries to justify his actions by saying he likes things clean.
+ReunitingTheFamilies-GTASA-SS104.png|As the OGs continue their attempt to escape, they notice that Smoke's driving around in circles.
+ReunitingTheFamilies-GTASA-SS105.png|Smoke says he goes wherever he can to escape the cops.
+ReunitingTheFamilies-GTASA-SS106.png|Smoke suggests CJ to talk to the officers and maybe they can go away scott-free.
+ReunitingTheFamilies-GTASA-SS107.png|The second motorcycle cop jumps on their Greenwood and tries punching CJ.
+ReunitingTheFamilies-GTASA-SS108.png|Ryder tells Smoke that they have a cop on the car again.
+ReunitingTheFamilies-GTASA-SS109.png|Ryder yells at the others to shoot him.
+ReunitingTheFamilies-GTASA-SS110.png|CJ manages to get the cop off of the Greenwood.
+ReunitingTheFamilies-GTASA-SS111.png|Grove Street OGs escaping the army of cops chasing them.
+ReunitingTheFamilies-GTASA-SS112.png|After a while, CJ manages to shoot the pursuing cars enough to set them on fire.
+ReunitingTheFamilies-GTASA-SS113.png|As things finally seem to look up for the OGs, they come across a roadblock.
+ReunitingTheFamilies-GTASA-SS114.png|CJ tries to shoot the cops on the roadblock, but Emmet's outdated AK has jammed.
+ReunitingTheFamilies-GTASA-SS115.png|Smoke says that he'll go through the roadblock and one of the cops jumps onto the car hood.
+ReunitingTheFamilies-GTASA-SS116.png|As Smoke pulls up into an alleyway to their right, they notice that the Ghetto Bird is onto them again.
+ReunitingTheFamilies-GTASA-SS117.png|A cop on-board tries to tell the OGs not to move, but the pilot starts flying lower and lower, scaring the cop on the microphone.
+ReunitingTheFamilies-GTASA-SS118.png|The OGs try telling Smoke to back up.
+ReunitingTheFamilies-GTASA-SS119.png|Smoke says that he'll go through the helicopter's blades.
+ReunitingTheFamilies-GTASA-SS120.png|The OGs get scared and cry out that they're going to die.
+ReunitingTheFamilies-GTASA-SS121.png|As the Greenwood approaches the blades, the OGs brace for impact.
+ReunitingTheFamilies-GTASA-SS122.png|The helicopter's blades violently cut up the officer that was on the car's hood, but Smoke doesn't stop and the OGs get through successfully.
+ReunitingTheFamilies-GTASA-SS123.png|Smoke says that the brakes are jammed.
+ReunitingTheFamilies-GTASA-SS124.png|The Greenwood crashes through the [[Sprunk (3D Universe)|Sprunk]] billboard ahead...
+ReunitingTheFamilies-GTASA-SS125.png|...And falls down onto the freeway below.
+ReunitingTheFamilies-GTASA-SS126.png|The Greenwood crashes into a [[Tanker]] carrying a [[Petrol Truck|trailer]] and the Greenwood, as well as the trailer, go up in flames.
+ReunitingTheFamilies-GTASA-SS127.png|After a few minutes of burning, the Greenwood explodes.
+ReunitingTheFamilies-GTASA-SS128.png|Smoke says that the way they just escaped from certain death will be a hell of a story to tell.
+ReunitingTheFamilies-GTASA-SS129.png|The other OGs who bailed from the Greenwood stand up and say that what they just went through was insane.
+ReunitingTheFamilies-GTASA-SS130.png|Ryder says that they need to get away from there.
+ReunitingTheFamilies-GTASA-SS131.png|Sweet agrees and Ryder and tells everyone to split up.
+ReunitingTheFamilies-GTASA-SS132.png|After the insane police chase they went through, the four Grove Street OGs split up...
+ReunitingTheFamilies-GTASA-SS133.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|q5gz81wYoHI|275px|center}}
+{{#ev:youtube|pRPA19Sprps|275px|center}}
+{{#ev:youtube|cOz3y9nFtRA|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small">
+ReunitingtheFamilies-GTASA2.jpg|The [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] storming the [[Jefferson Motel (3D Universe)|Jefferson Motel]] using a [[Police Maverick (3D Universe)|Police Maverick]].
+ReunitingtheFamilies-GTASA3.jpg|The LSPD storming the Jefferson Motel and police officers shooting at members of the [[Grove Street Families]].
+ReunitingtheFamilies-GTASA4.jpg|[[Sweet Johnson|Sweet]]'s car crashing through a [[Sprunk (3D Universe)|Sprunk]] advertisement.
+ReunitingtheFamilies-GTASA5.jpg|A [[Tanker]] exploding after [[Sweet]]'s car crashes into it.
+</gallery>
+
+==Trivia==
+*No matter what weapons CJ may have in his inventory, he is automatically equipped with a [[Shotgun (3D Universe)|Shotgun]] when he enters the motel. If the player has either the [[Sawed-Off Shotgun|Sawn-off Shotgun]] or the [[Combat Shotgun]] in their inventory before this mission, it will be replaced by the regular pump action Shotgun.
+**Also, upon completion of the mission, the player loses all their ammo for the [[Assault Rifles|Assault Rifle]] class regardless of which type they were using during the mission.
+*Upon the police helicopter's arrival and before entering the motel, CJ is free of police attention, which means he can explore other islands and restricted areas without any repercussions. 
+**However, this can be deactivated by turning on and then turning off the "Lock Wanted Level" cheat, where it is possible to regain a wanted level. This is also the same for [[End of the Line]].
+*In this mission, the [[Special Weapons and Tactics (3D Universe)|SWAT]] officers use [[SMG (3D Universe)|SMGs]] instead of [[Micro SMG (3D Universe)|Micro SMGs]].
+*In this mission, the Police Maverick uses a scripted spotlight instead of the usual one. It is located in the middle instead of the front, and is narrower.
+*If the player shoots down the helicopter while the SWAT are descending, the officers will be swung about and disappear when the helicopter crashes.
+*When Carl and Sweet get in the Greenwood to escape, the radio will be tuned to [[Radio Los Santos (3D Universe)|Radio Los Santos]] and play a predetermined song.
+*The police officers who jump onto and hang from the back of the car may be a reference to ''{{WP|Terminator 2: Judgment Day}}'', in which a {{WP|T-1000}} disguised as a police officer jumps and hangs from the back of a car during a chase scene.
+**The introduction of these aforementioned motor officers is a recreation of a [https://scontent.fbom1-1.fna.fbcdn.net/hphotos-xap1/t31.0-8/12493693_170733769958195_5605679172881802897_o.jpg shot] from the 1997 movie ''{{WP|Con Air}}''. The difference is, only the officer on the right drops a doughnut in the movie, opposed to both officers dropping a doughnut each in this mission. The shot occurs at around 1 hour, 41 minutes and 17 seconds into the movie.
+*In the motel, there are 3 GSF members that can be seen fighting with the police. If the player comes close, the member carrying an SMG will be shot in the head immediately and one of the remaining members dies soon after.
+*In the motel, there will be a SWAT officer hanging from a vent and firing at Carl. If the player crouches and stays still, the officer will not be able to hit Carl (and even if he does, his shots do little damage, as he mostly fires above Carl's head). However, if Carl walks under him, he will take more damage.
+**The SWAT officer in the vent has his MP5's muzzle flash taken from the Police Maverick, instead of its normal flash. Also, when fired, it makes the sound of the [[M16|M4]].
+*If the player does not follow Sweet after shooting down the police helicopter, the surrounding streets will be completely empty.
+*The time in this mission is predetermined. For example, if the player is picked up by Smoke and Ryder in the morning, it will change to night when Carl enters the car.
+*The music heard on the TV in the opening of the cutscene can also be heard in the [[w:c:maxpayne:Max Heat|Max Heat]] TV commercial in ''[[w:c:maxpayne:Max Payne 2: The Fall of Max Payne|Max Payne 2]]''.
+*If Carl aims a gun at the GSF members at the entrance to the motel, they will attack him.
+* Inside the motel, the bullets of the NPCs (SWAT Officers, Groves, and Sweet) do not damage each other, but can damage Carl.
+* If the player looks carefully, the second motor officer changes into the beta motor officer model after being killed by the Police Maverick.
+*If the player fails the mission during the part where they shoot the police during the chase, Carl will jump out of the [[Greenwood (3D Universe)|Greenwood]] but the others will not.
+*This mission is similar to the actual Watts Truce in Los Angeles in 1992, which had some "sets" of the Crips, which were having issues "set tripping" just like the factions which unite in this mission, and they draft a peace treaty settling the differences around the time of the Rodney King riots.
+*Carl apparently fires the AK47 from the [[Greenwood (3D Universe)|Greenwood]]'s roof, even though the car has no sunroof. 
+**This can especially be seen by using the [[replay]] function on PC.
+* The police helicopter which appears near the end of the mission has a pilot who appears as a normal police officer.
+*In the PC, PS2, and Xbox versions, the SWAT officer's lines "''Get some suppressing fire in there!''", "''Unit down, repeat, unit down! Gimme some fucking covering fire!''", "''This is Buzzard 1, we're taking ground fire!''", and "''Four bangers in blue 4-door heading back into South Central.''", in addition to "''Surprise, homeboy!''" and "''Heads up, brother!''" from the motorcycle cops appear in the "Brief" section of the pause menu, but subtitles don't appear in-game, even with subtitles enabled. This was fixed in the mobile version.
+*Before the [[Greenwood (3D Universe)|Greenwood]] crashes through the billboard in the final cutscene, it reads "A taste of things to come.". After that, it is left with 'A taste of _________ come', referring to 'cum' (semen). This is another example of the game's crude humor.
+*In the mobile version, the opening cutscene cannot be skipped.
+*In the PC version, if the player manages to destroy the police car that is scripted to be hit by the [[Brown Streak]] before it manages to be hit by the train, no dialogue will play until the cutscene where the two motorcycle officers join in the chase plays.
+
+==Video Walkthroughs==
+<gallery hideaddbutton="true" position="center">
+File:GTA San Andreas - Walkthrough - Mission 26 - Reuniting the Families (HD)|Original Version
+File:GTA San Andreas - iPad_Walkthrough - Mission 26 - Reuniting the Families (HD)|Mobile Version
+File:GTA San Andreas Remastered - Mission 26 - Reuniting the Families (Xbox 360 PS3)|Remastered Version
+</gallery>
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+[[de:Reuniting the Families]]
+[[es:Reuniting the Families]]
+[[fi:Reuniting the Families]]
+[[pl:Jednoczenie Rodzin]]
+[[ru:Reuniting the Families]]
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

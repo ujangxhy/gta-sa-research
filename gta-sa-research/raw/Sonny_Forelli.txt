@@ -1,0 +1,184 @@
+{{infobox character
+|name           = Sonny Forelli
+|image          = SonnyForelli-GTAVC.jpg
+|games          = {{Games|VC=y}}
+|mentioned      = {{Games|SA={{UN|unseen}}|LCS={{UN|unseen}}}}
+|gender         = M
+|status         = [[Keep Your Friends Close...|Deceased]]
+|dod            = [[1986]]
+|pod            = [[Vercetti Estate]], [[Starfish Island]], [[Vice City (3D Universe)|Vice City]], [[State of Florida|Florida]]
+|cod            = Killed by [[Tommy Vercetti]] {{Small|(player-chosen method)}}
+|home           = [[Liberty City (3D Universe)|Liberty City]]
+|nationality    = {{Country|adj=y|IT|US}}
+|family         = 
+*[[Franco Forelli]] {{Small|(unknown relation)}} {{Status|U=y}}
+*[[Marco Forelli]] {{Small|(unknown relation)}} {{Status|D1=y}}
+*[[Mike Forelli]] {{Small|(unknown relation)}} {{Status|D1=y}}
+*[[Giorgio Forelli]] {{Small|(cousin)}}
+|affiliations   = 
+*[[Forelli Crime Family]] {{Small|([[Gang Leaders|Don]]; until his death)}}
+*[[Tommy Vercetti]] {{Small|(Formerly)}}
+*[[Ken Rosenberg]] {{Small|(Formerly)}}
+*[[Lance Vance]] {{Status|D1=y}}
+|vehicles       = White [[Stretch]]
+|businesses     = 
+*Drug dealing
+*Gunrunning
+*Racketeering
+*[[Marco's Bistro]]
+|voice          = [[Tom Sizemore]]
+|weapons        = [[Ruger]]
+}}
+{{Quote|Times are changing. The families can't keep their backs turned while our enemies reap the rewards. So, we send someone down to do the dirty work for us and cut ourselves a nice quiet slice. OK?|Sonny Forelli|sound=SonnyForelli-GTAVC-Quote.ogg}}
+'''Sonny Forelli''' is the main [[antagonist]] of {{VC}}. He is also mentioned in [[The Introduction]], a prequel for {{SA}} and referenced in {{LCS}}.
+
+He was voiced by the late [[Tom Sizemore]].
+
+==History==
+===Background===
+Sonny Forelli is an Italian-American mobster and the [[Gang Leaders|Don]] of the [[Liberty City (3D Universe)|Liberty City]]-based [[Forelli Crime Family]] as of [[1986]]. A friend and the boss of ''GTA Vice City'' [[protagonist]] [[Tommy Vercetti]], Sonny sends Vercetti to [[Vice City (3D Universe)|Vice City]], wishing to establish drug trade businesses there.
+
+Sonny was born into the Liberty City-based [[Forelli Crime Family]], an Italian-American mob. Sonny joined the family's ranks, eventually rising to power at a young age. Under Sonny's reign, the Forellis became the most powerful crime organization in Liberty City, with Sonny having a major influence in the business of racketeering, gambling, union trouble, corruption and [[Prostitutes|prostitution]] in the area.
+
+Prior to the 1970s, Sonny became a friend and the boss of fellow mobster Tommy Vercetti, employing Tommy as his hitman. However, due to Tommy's rising reputation and power in Liberty City's underworld, the Forelli Don became disdainful towards Tommy.
+
+In [[1971]], Sonny sent Tommy to [[Harwood]] to assassinate a key mobster. However, when Tommy arrived, he found himself surrounded by eleven hitmen. Despite being outnumbered, Tommy managed to kill all the hitmen, but was [[Busted|arrested]] and convicted of eleven counts of murder. It is speculated that the [[Harwood Incident|eleven-man ambush]] was ordered by Sonny himself, though this was never confirmed. Tommy was spared the death penalty, instead being sentenced to fifteen years in prison.
+
+===Events of ''Grand Theft Auto: Vice City''===
+====Drug deal====
+{{Quote|[[Vice City (3D Universe)|Vice City]] is twenty-four carat gold these days. The [[Colombia]]ns, the [[Mexico|Mexicans]]. Hell, even those [[Cuba]]n refugees are cutting themselves a piece of some nice action.|Sonny, regarding Vice City, [[In The Beginning...]].}}
+
+[[File:InTheBeginning-GTAVC-ForelliMeeting.png|thumb|left|265px|'''Sonny''' discussing with fellow Forelli mobsters in [[Marco's Bistro]].]]
+
+By [[1986]], the Forellis are still the most powerful organization in Liberty City, with Sonny wishing to enter the family into the drug dealing business. Due to Tommy being released from prison the same year, Sonny decides to send him to Vice City, wishing to have Tommy establish a drug trading business in the city while also keeping him far away from Liberty City, believing his presence in the city would hamper the family's business.
+
+[[Ken Rosenberg]], a Vice City-based lawyer who works for the Forellis, organizes a drug deal between the Forellis and [[Lance Vance|Lance]] and [[Victor Vance]], with the assistance of retired colonel [[Juan Cortez]]. Sonny sends Tommy and two Forelli associates, [[Harry]] and [[Lee]], to conduct the deal in [[Viceport]]. However, the deal is ambushed by some [[Ricardo Diaz's Hitmen|hitmen]] hiding in a nearby [[Phil's Depot|compound]] who open fire on the group. Harry, Lee and Victor are killed, while Lance, Tommy and Ken flee, abandoning the [[cocaine]] and the money.
+
+[[File:AnOldFriend-GTAVC-AngrySonnyOnPhone.png|thumb|right|265px|'''Sonny''' yelling at Tommy over the phone, after the drug deal.]]
+
+Shortly afterwards, Tommy [[An Old Friend|contacts]] Sonny from the [[Ocean View Hotel (3D Universe)|Ocean View Hotel]] and informs him of the botched deal. Sonny is furious as Tommy also lost the money, but Tommy promises to find and punish the people responsible for the ambush. Sonny agrees to let Tommy find out who was responsible, but warns Tommy not to make a fool of him.
+
+====Supervision over Tommy====
+{{quote|Where's the goddamn money!? Where's the goddamn stuff!? And where's my cut of your new action!? You are making an idiot out of me, Tommy, and I'm not laughing yet.|Sonny, in his third phone call to Tommy.}}
+
+While Tommy continues searching for the suspects related to the drug deal, Sonny remains in contact with him. Throughout Tommy's time in Vice City, Sonny contacts him three times. In his first call, after Tommy has [[Jury Fury|intimidated]] jurors who were on Sonny's cousin [[Giorgio Forelli|Giorgio's]] case, Sonny merely reminds Tommy to find the stolen money, while also warning him about being a potentially unreliable person.
+
+Tommy eventually finds out that drug baron [[Ricardo Diaz]] was the man who ordered the hit on the drug deal, and [[Rub Out|kills]] him, slowly becoming the new crime lord in Vice City. After hearing about Tommy's latest actions while the latter didn't inform him of finding out and killing the man responsible, Sonny calls him again, warning him not to forget about the Forellis.
+
+Irritated at Tommy for ignoring the Forellis, not giving them a cut from his businesses, and not even repaying his debt, Sonny calls Tommy again, furiously questioning him over his actions and lack of contact with the family. Sonny also threatens to have Ken's family killed.
+
+====Arrival in Vice City and death====
+{{Dialogue
+|p1=Tommy
+|d1=You took fifteen years from me Sonny... And now I'm gonna make you pay!
+|p2=Sonny
+|d2=You still don't get it do you! I own you, Tommy. Those fifteen years were mine to spend! Get him boys, he never understood a thing.
+|quotedetail=Tommy and Sonny shortly before their final showdown, [[Keep Your Friends Close...]]}}
+
+Tired of waiting for Tommy to pay him from his cuts, Sonny sends his men over to Vice City to collect taxes from various [[Assets in GTA Vice City|assets]] and businesses owned by Tommy, beginning with the [[Print Works]] managed by Tommy's associate [[Earnest Kelly]]. However, Tommy learns of the Forellis' actions shortly afterwards, and [[Cap the Collector|eliminates Sonny's men]], finally openly revealing his unwillingness to pay the Forellis, while also proclaiming that Vice City is his, not Sonny's.
+
+Around this time, Tommy's associate Lance Vance, who has become very disillusioned with Tommy due to receiving little to no credit from him, is contacted by Sonny, who manages to have Lance turn his back on Tommy.
+
+[[File:KeepYourFriendsClose...-GTAVC2.png|thumb|left|265px|Tommy confronting '''Sonny''' and Lance Vance before their gunfight.]]
+
+Anticipating Sonny's arrival in Vice City, Tommy prints counterfeit cash which he aims to give to Sonny. Upon Sonny's arrival at the [[Vercetti Estate]] and after a somewhat hostile exchange of words between Tommy and Sonny over their ruined friendship and business, Lance reveals his alliance with Sonny, and the location of Tommy's real money in the safe in the mansion's office.
+
+A massive gunfight begins between Sonny's men and Tommy, although Sonny chooses to stay out of it initially. After killing Lance on the estate's roof, Tommy confronts Sonny at his mansion's entrance. He accuses Sonny of having orchestrated the ambush in Harwood; Sonny replies that he owns Tommy and that the fifteen years of incarceration were Sonny's to spend. Tommy engages in a final shootout with the Forelli Don and his men, concluding in Sonny's death.
+
+===Post-''Vice City''===
+{{Quote|Ever since Sonny Forelli got himself pasted all over Florida, you think you run things in this town.|[[Salvatore Leone]] to [[Johnny Sindacco]].}}
+
+[[File:SonnyForelliATrueStory-GTALCS-poster.jpg|thumb|right|100px|A poster of ''[[Sonny Forelli: A Real Story]]'', circa [[1998]].]]
+
+Sonny's demise marks the beginning of the Forelli crime family's downfall. His death is noted by [[Leone Crime Family|Leone Family]] Don and fellow mobster [[Salvatore Leone]] to have dealt a severe blow to the Forellis, enough to let the [[Sindacco Crime Family|Sindacco Family]] gain power in Liberty City by the 1990s. By [[1998]], a film titled ''[[Sonny Forelli: A Real Story]]'' is advertised in Liberty City.
+
+{{Clear}}
+==Character==
+===Personality===
+Sonny is shown to be a power-hungry, impulsive, ruthless and short-tempered man, becoming furious when things don't go in his way or get delayed, as shown through his phone calls with Tommy, where he eventually lost his temper and yelled at Tommy as his patience began to slowly decline.
+
+He is willing to do anything to obtain more power, influence and money for himself and his organization, going as far as planning to enter the drug trade business, despite it traditionally being a no-go area for the Liberty City mafia families. He also had no qualms about betraying his friend and ally Tommy in 1971, simply out of jealousy and possible paranoia over the latter's rapid rise in reputation.
+
+Despite his greed, Sonny appears to be a strong, charismatic and manipulative leader, and during his reign as a Don, the Forelli crime family was the most powerful crime organization in Liberty City, while his successors never achieved the same power or influence as he had. His charisma and manipulation also helped him in converting Lance Vance to his side, after the latter felt he was unappreciated by Tommy.
+
+===Appearance===
+{{Quote|Notoriously poor taste in clothes.|The [[Vice City Police Department (3D Universe)|Vice City Police Department]], regarding Sonny's apparel.}}
+
+Sonny is a man of average size, who appears to be a bit overweight. His skin tone is fair, while his eyes are teal and his hair is dark brown, short and combed backwards. He wears a dark blue sport coat, animal print shirt, white dress pants and black shoes. In his official [[Grand Theft Auto: Vice City/Artwork|artwork]], Sonny is seen wearing a pink business suit, and sunglasses.
+
+===VCBI Crime Tree Record===
+{{VCBI
+|name     = SONNY FORELLI
+|data     = Head of Forelli Crime Family. Major crime family in Liberty City. Believed to have major influence in racketerring, gambling, union trouble, corruption and prostitution
+|filedata = 
+*Head of Forelli Crime Family. 
+*Major crime family in Liberty City. 
+*Believed to have major influence in racketerring, gambling, union trouble, corruption and prostitution.
+*Came to power young.
+*Thought to have ordered several mob killings, including Harwood incident.
+*Only minor charges have ever stuck. Thought to be interested in entering narcotics trade, traditionally a no go area for Liberty City mob.
+*Phone records reveal calls to home address of Ken Rosenberg.
+*Notoriously poor taste in clothes.
+|image1   = SonnyForelli-GTAVC-VCBIPic1.png
+|image2   = SonnyForelli-GTAVC-VCBIPic2.png
+|image3   = SonnyForelli-GTAVC-VCBIScreenshot.jpg
+}}
+
+==Prominent Appearances in Gameplay==
+*[[In The Beginning...]] {{Small|(Boss)}}
+*[[An Old Friend]] {{Small|(Boss)}}
+*[[Jury Fury]] {{Small|(Post-mission phone call)}}
+*[[Rub Out]] {{Small|(Post-mission phone call)}}
+*[[Recruitment Drive (GTA Vice City)|Recruitment Drive]] or [[Spilling the Beans]] {{Small|(Post-mission phone call)}}
+*[[Keep Your Friends Close...]] {{Small|(Killed)}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+SonnyForelli-Artwork.png|Concept [[Grand Theft Auto: Vice City/Artwork|artwork]] of '''Sonny Forelli'''.
+SonnyForelli-GTAVCxbox.png|'''Sonny Forelli''' on the [[Xbox (console)|Xbox]] version.
+SonnyForelli-GTAVCde.png|'''Sonny Forelli''' in {{TDE}}.
+</gallery>
+
+==Trivia==
+===Influence===
+*Sonny Forelli is similar to {{WP|Sonny Corleone}} from the 1972 film ''{{WP|The Godfather}}''. Both of them act as bosses for their family, and both have the same ruthless and short-tempered personality.
+*Sonny Forelli is also similar to {{WP|Alejandro Sosa}} from the 1983 film ''{{WP|Scarface (1983 film)|Scarface}}''. Both of them are drug dealers that betrayed the main character.
+*Sonny shares his first name with {{WP|Sonny Crockett}}, one of the main characters in another of the game's influences, ''{{WP|Miami Vice}}''.
+
+===''Grand Theft Auto: Vice City''===
+*Sonny makes the second fewest physical appearances in-game of all the main [[antagonist]]s in the {{3D}}, with only three physical appearances (although he gives [[Tommy Vercetti|Tommy]] a phone call after three missions). The antagonist with the fewest appearances is [[Massimo Torini]] from {{LCS}}, with only two mission appearances. 
+*According to [[Dan Houser]] in an {{WP|IGN}} interview, Sonny and Tommy were friends since childhood. In the same interview, Houser explained that Tommy never told anyone that Sonny was the one who sent him to kill the key mobster, and by extension his henchmen, because he believed in a mafia code and sense of honor amongst thieves.{{Ref|name=interview|type=website|ref={{URL|https://www.ign.com/articles/2002/09/17/introducing-tommy-vercetti|INTRODUCING TOMMY VERCETTI}} at {{URL|https://www.ign.com|IGN}}}}
+
+===''Grand Theft Auto: Liberty City Stories''===
+*It is possible to see a poster for a movie about Sonny Forelli, titled ''[[Sonny Forelli: A Real Story]]'', around the borders of [[Pike Creek]] and [[Francis International Airport (3D Universe)|Francis International Airport]]. Although the movie is about Sonny, the poster strangely shows members of the [[Russian Mafia (3D Universe)|Russian Mafia]] as they appeared in {{SA}}.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtavc characters|state=collapsed}}
+{{Forelli Family|state=collapsed}}
+}}
+
+[[ar:سوني فوريلي]]
+[[de:Sonny Forelli]]
+[[es:Sonny Forelli]]
+[[fi:Sonny Forelli]]
+[[hu:Sonny Forelli]]
+[[it:Sonny Forelli]]
+[[nl:Sonny Forelli]]
+[[pl:Sonny Forelli]]
+[[pt:Sonny Forelli]]
+[[ru:Сонни Форелли]]
+
+[[Category:Characters in GTA Vice City]]
+[[Category:Male characters]]
+[[Category:Gangsters]]
+[[Category:Gang leaders]]
+[[Category:Forelli crime family members]]
+[[Category:Antagonists]]
+[[Category:Mission givers]]
+[[Category:Deceased characters]]

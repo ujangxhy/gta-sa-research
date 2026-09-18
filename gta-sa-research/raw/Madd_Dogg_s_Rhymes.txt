@@ -1,0 +1,180 @@
+{{Infobox mission
+|name = Madd Dogg's Rhymes
+|image = MaddDogg'sRhymes-GTASA-Mission.png
+|caption = [[Carl Johnson]] agrees to steal [[Madd Dogg (3D Universe)|Madd Dogg]]'s rhyme book for [[OG Loc (3D Universe)|OG Loc]] after hearing enough of his awful rhymes.
+|game           = {{games|SA=y}}
+|type           = SA
+|for = {{For|game=SA|loc}}
+|location = [[Burger Shot (3D Universe)|Burger Shot]], [[Marina (3D Universe)|Marina]], [[Los Santos (3D Universe)|Los Santos]]
+|fail = *[[Wasted]]
+*[[Busted]]
+|reward = [[Respect]]
+|unlockedby = [[Life's a Beach]]
+|unlocks = *[[Management Issues]]
+*[[Burning Desire]]
+|todo =
+*Go to '''<span style="color:#D1BC86">Madd Dogg's mansion</span>'''.
+*The '''<span style="color:#D1BC86">main door</span>''' is around the back of the mansion.
+*The '''<span style="color:#4C5C41">rhyme book</span>''' is in Madd Dogg's recording studio.
+*'''<span style="color:#AB3736">Madd Dogg's personal security</span>''' are patrolling the mansion. Do not use any guns on your way to the rhyme book - you will alert them. Use stealth to steal the rhyme book.
+*The first '''<span style="color:#AB3736">guard</span>''' cannot see you. This means you can sneak up behind him with a melee weapon and perform a stealth kill.
+*The patrolling '''<span style="color:#AB3736">guards</span>''' are shown on the radar by the red blips which point in the direction the security guards are facing.
+*A '''<span style="color:#AB3736">guard</span>''' is patrolling the swimming pool area. Observing his route will allow you to work out how to get past him undetected.
+*There are lots of shadows in this area to hide in. Hiding in shadows makes it difficult for a '''<span style="color:#AB3736">guard</span>''' to spot you.
+*A '''<span style="color:#AB3736">guard</span>''' is coming.
+*Find a suitable place to hide before he spots you. Look for an area with shadows.
+*If the white blip on the radar that represents your position turns blue it indicates that you are in the shadows and are hidden from patrolling guards.
+*If you walk straight past the '''<span style="color:#AB3736">guard</span>''' here he will see you. Try crouching and walking past the bar to remain out of his line of sight.
+*To stay hidden you have to stay crouched and walk past the bar.
+*'''<span style="color:#D1BC86">Exit</span>''' the mansion and get the rhyme book back to OG Loc. It's safe to use your weapons now, although it may be less risky if you use stealth to get past any '''<span style="color:#AB3736">guards</span>''' on patrol.
+*The '''<span style="color:#AB3736">guards</span>''' are using silenced guns. If you manage to obtain one it will allow you to fire a gun without being heard by nearby guards.
+*You need to take the rhyme book back to OG Loc. He is at '''<span style="color:#D1BC86">Burger Shot</span>'''.
+|target=[[Madd Dogg (3D Universe)|Madd Dogg]]'s rhyme book}}{{Quote|How 'bout I get somebody to write something for me, only they didn't know about it?|[[OG Loc (3D Universe)|OG Loc]] to [[Carl Johnson]]|sound=MaddDoggRhymes-GTASA-Quote.ogg}}
+'''Madd Dogg's Rhymes''' is a mission in ''[[Grand Theft Auto: San Andreas]]'' given to [[protagonist]] [[Carl Johnson]] by [[Grove Street Families]] affiliate and aspiring rapper [[OG Loc (3D Universe)|Jeffrey "OG Loc" Cross]] from the [[Burger Shot (3D Universe)|Burger Shot]] he works at in the [[Marina (3D Universe)|Marina]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+The mission introduces the player to the ability of stealth kills.
+
+==Mission==
+Carl recently [[Life's a Beach|stole a load of music equipment]] for OG Loc's album release party, but it seems that Loc can't rhyme if he doesn't have them to read off. Loc asks CJ to assist him in "borrowing" rhymes from famous rapper [[Madd Dogg (3D Universe)|Madd Dogg]].
+
+Carl heads for [[Madd Dogg's Crib]] in [[Mulholland]]. He gains access, discovering that the home is heavily guarded by [[Madd Dogg's Security Team|Madd Dogg's security]]. Nonetheless, Carl, unable to use his weapons apart from a [[knife]], continues the infiltration and uses his stealth to make his way to the studio room, stealing the rhyme book. He exits the mansion in the safest way possible, and heads back to [[Burger Shot (3D Universe)|Burger Shot]]. Carl then meets OG Loc outside of the restaurant, giving him the rhyme book.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Go to '''<span style="color:#D1BC86">Madd Dogg's mansion</span>'''.
+*Get to the '''<span style="color:#D1BC86">main door</span>''' is around the back of the mansion.
+*The '''<span style="color:#4C5C41">rhyme book</span>''' is in Madd Dogg's recording studio.
+*'''<span style="color:#AB3736">Madd Dogg's personal security</span>''' are patrolling the mansion. 
+**Do not use any guns on your way to the rhyme book - you will alert them. Use stealth to steal the rhyme book.
+*'''<span style="color:#D1BC86">Exit</span>''' the mansion and get the rhyme book back to OG Loc. 
+**It's safe to use your weapons now, although it may be less risky if you use stealth to get past any '''<span style="color:#AB3736">guards</span>''' on patrol.
+**The '''<span style="color:#AB3736">guards</span>''' are using silenced guns. If you manage to obtain one it will allow you to fire a gun without being heard by nearby guards.
+
+==Help Text==
+{{Help Text|The patrolling guards are shown on the radar by the red blips which point in the direction the security guards are facing.}}
+{{Help Text|If you crouch while you move you will make less noise. Crouch and then target the guard.}}{{Help Text|Perform stealth kill by moving slowly towards the guard while targeting him.}}{{Help Text|If the white blip on the radar that represents your position turns blue it indicates that you are in the shadows and are hidden from patrolling guards.}}{{Help Text|To stay hidden you have to stay crouched and walk past the bar.}}{{Help Text|The guards are using silenced guns. If you manage to obtain one it will allow you to fire a gun without being heard by nearby guards.}}{{Help Text|Pick up the weapon. It will replace any weapon you have of the same type.}}{{Help Text|Stealth can also be used outside of missions. You can sneak up behind people and perform stealth kills or use stealth to evade the police and enemy gang members.}}
+
+==Reward==
+The reward for completing this mission is an increase in [[respect]] and the missions [[Management Issues]] and [[Burning Desire]] (after the phone call from [[Frank Tenpenny|Dr. Tenpenny]]) are unlocked. The player is also allowed to keep the knife and remaining ammo for the [[Silenced 9mm]] from the mission.
+
+==Transcript==
+{{/Transcript}}
+
+==Post-Mission Phone Call==
+*'''Carl Johnson''': What's happening?
+*'''[[Frank Tenpenny|Dr. Frank Tenpenny]]''': Don't try and hit me up with that ghetto babble, boy!
+*'''Carl Johnson''': Officer Tenpenny. How'd you get my number?
+*'''Dr. Frank Tenpenny''': Ways and means, you piece of shit. You have been trying to avoid me?
+*'''Carl Johnson''': No sir, I've just been busy that's all.
+*'''Dr. Frank Tenpenny''': You're not busy unless you're doing something for us, you understand?
+*'''Carl Johnson''': Yeah. Loud and clear.
+*'''Dr. Frank Tenpenny''': Nice to hear it, Carl. Call into the [[Jim's Sticky Ring|doughnut place]] in the middle of [[Market (3D Universe)|Market]], we need to talk.
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px" bordersize="small">
+MaddDogg'sRhymes-GTASA-SS1.png|[[OG Loc (3D Universe)|Loc]] is sweeping the toilets at the [[Burger Shot (3D Universe)|Burger Shot]] in [[Marina (3D Universe)|Marina]].
+MaddDogg'sRhymes-GTASA-SS2.png|As he's sweeping, he stops and makes sure the toilet is completely empty.
+MaddDogg'sRhymes-GTASA-SS3.png|Loc breaks down in a freestyle.
+MaddDogg'sRhymes-GTASA-SS4.png|Loc rapping.
+MaddDogg'sRhymes-GTASA-SS5.png|Loc continues his freestyle as a [[Bogman|man]] comes out from one of the stalls.
+MaddDogg'sRhymes-GTASA-SS6.png|The man rudely tells Loc that his rapping skills are terrible before walking off.
+MaddDogg'sRhymes-GTASA-SS7.png|As the man leaves the bathroom, [[Carl Johnson|CJ]] comes to see Loc.
+MaddDogg'sRhymes-GTASA-SS8.png|Loc and CJ greet each other.
+MaddDogg'sRhymes-GTASA-SS9.png|Noticing Loc's poor rapping skills, CJ asks him if he ever thought about getting a writer to help him out.
+MaddDogg'sRhymes-GTASA-SS10.png|Loc says that he has, but couldn't come up with anyone that would help him properly.
+MaddDogg'sRhymes-GTASA-SS11.png|CJ says that he can't help Loc himself, but that they could probably come up with someone.
+MaddDogg'sRhymes-GTASA-SS12.png|Loc then suggests getting a writer that would help Loc out without knowing about it.
+MaddDogg'sRhymes-GTASA-SS13.png|CJ is confused by what Loc meant.
+MaddDogg'sRhymes-GTASA-SS14.png|Loc says that he came up with someone who could help him out.
+MaddDogg'sRhymes-GTASA-SS15.png|Loc then breaks down in a freestyle about the success he could reach if CJ would do him a favor now.
+MaddDogg'sRhymes-GTASA-SS16.png|Loc tells CJ that his key to success is [[Madd Dogg (3D Universe)|Madd Dogg's]] rhyme book, which he keeps at his luxurious [[Madd Dogg's Crib|mansion]] in [[Mulholland]].
+MaddDogg'sRhymes-GTASA-SS17.png|CJ thinks that the idea Loc came up with is utterly crazy.
+MaddDogg'sRhymes-GTASA-SS18.png|Loc says that CJ swore to help him, so he should do exactly that.
+MaddDogg'sRhymes-GTASA-SS19.png|Loc, once again, breaks down in a freestyle about the success he could reach if CJ would steal the rhyme book for him.
+MaddDogg'sRhymes-GTASA-SS20.png|CJ quickly shuts Loc up and tells him that he'll do what Loc wants.
+MaddDogg'sRhymes-GTASA-SS21.png|Loc is left hanging by CJ.
+MaddDogg'sRhymes-GTASA-SS22.png|CJ must now go to Madd Dogg's mansion in Mulholland, break in and get the rhyme book that Loc wants.
+MaddDogg'sRhymes-GTASA-SS23.png|CJ driving to Mulholland.
+MaddDogg'sRhymes-GTASA-SS24.png|CJ entering the rich neighborhood of Mulholland.
+MaddDogg'sRhymes-GTASA-SS25.png|CJ arriving at Madd Dogg's mansion.
+MaddDogg'sRhymes-GTASA-SS26.png|CJ entering the mansion.
+MaddDogg'sRhymes-GTASA-SS27.png|The rhyme book that Loc wants CJ to steal is in Madd Dogg's recording studio.
+MaddDogg'sRhymes-GTASA-SS28.png|Unfortunately for CJ, [[Madd Dogg's Security Team|several bodyguards]] are roaming the premises and are in his way. He must use stealth to get past them without alarming them.
+MaddDogg'sRhymes-GTASA-SS29.png|The first bodyguard CJ sees has his back turned to him and is just in the right position for a stealth kill.
+MaddDogg'sRhymes-GTASA-SS30.png|CJ, about to stealth kill the first bodyguard.
+MaddDogg'sRhymes-GTASA-SS31.png|CJ cutting the unaware bodyguard's throat.
+MaddDogg'sRhymes-GTASA-SS32.png|The next bodyguard is patrolling around the pool area, forcing CJ to move through the shadows to catch him off-guard.
+MaddDogg'sRhymes-GTASA-SS33.png|CJ stalking the bodyguard.
+MaddDogg'sRhymes-GTASA-SS34.png|CJ, about to stealth kill the second bodyguard.
+MaddDogg'sRhymes-GTASA-SS35.png|CJ executing the unaware bodyguard.
+MaddDogg'sRhymes-GTASA-SS36.png|The next bodyguard is about to walk into the room.
+MaddDogg'sRhymes-GTASA-SS37.png|CJ quickly needs to find a hiding spot.
+MaddDogg'sRhymes-GTASA-SS38.png|CJ hiding in a small room by the pool area.
+MaddDogg'sRhymes-GTASA-SS39.png|CJ stalking the third guard.
+MaddDogg'sRhymes-GTASA-SS40.png|CJ, about to execute the third guard roaming the mansion.
+MaddDogg'sRhymes-GTASA-SS41.png|CJ cutting the unaware bodyguard's throat.
+MaddDogg'sRhymes-GTASA-SS42.png|As CJ continues silently navigating the mansion, he comes across a large room with a bar, that is occupied by a bodyguard. He must use the bar as cover and sneak past unnoticed.
+MaddDogg'sRhymes-GTASA-SS43.png|CJ can also hear a fifth bodyguard playing video games at the other end of the room.
+MaddDogg'sRhymes-GTASA-SS44.png|The bodyguard is loudly shouting at the protagonist of the video game.
+MaddDogg'sRhymes-GTASA-SS45.png|CJ sneaking past the guard at the bar.
+MaddDogg'sRhymes-GTASA-SS46.png|CJ, about to stealth kill the guard playing video games.
+MaddDogg'sRhymes-GTASA-SS47.png|CJ cutting the unaware guard's throat.
+MaddDogg'sRhymes-GTASA-SS48.png|CJ, about to execute the last bodyguard standing in his way.
+MaddDogg'sRhymes-GTASA-SS49.png|CJ executing the last bodyguard.
+MaddDogg'sRhymes-GTASA-SS50.png|CJ, about to steal Madd Dogg's rhyme book.
+MaddDogg'sRhymes-GTASA-SS51.png|CJ must retrace his steps and escape the mansion safely. Since CJ already has the rhyme book, it doesn't matter if he uses stealth to get out anymore, although it is still the safer option.
+MaddDogg'sRhymes-GTASA-SS52.png|CJ, about to execute a bodyguard standing in his way.
+MaddDogg'sRhymes-GTASA-SS53.png|CJ executing the bodyguard.
+MaddDogg'sRhymes-GTASA-SS54.png|CJ, about to escape the mansion.
+MaddDogg'sRhymes-GTASA-SS55.png|After escaping the mansion successfully, CJ must take the rhyme book back to OG Loc.
+MaddDogg'sRhymes-GTASA-SS56.png|CJ stealing a [[Mountain Bike|bicycle]] left by the door to the mansion.
+MaddDogg'sRhymes-GTASA-SS57.png|CJ cycling to the Burger Shot in Marina.
+MaddDogg'sRhymes-GTASA-SS58.png|CJ returning to the Burger Shot in Marina.
+MaddDogg'sRhymes-GTASA-SS59.png|Loc comes out to meet CJ and CJ tells him that he got the rhyme book.
+MaddDogg'sRhymes-GTASA-SS60.png|Loc compliments CJ's work.
+MaddDogg'sRhymes-GTASA-SS61.png|The two embrace each other and CJ says goodbye.
+MaddDogg'sRhymes-GTASA-SS62.png|Loc says goodbye and the two split up.
+MaddDogg'sRhymes-GTASA-SS63.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|gxYh1w0CFQA|275px|center}}
+{{#ev:youtube|f3fRn1UDLLw|275px|center}}
+{{#ev:youtube|GAzzqylLr48|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small">
+MaddDogg'sRhymes-GTASA2.jpg|Carl Johnson about to steal Madd Dogg's rhyme book.
+MaddDogg'sRhymes-GTASA-DRIV3RReference.jpg|The reference/mockery to ''DRIV3R'', a [[GTA Clone|''GTA'' clone]].
+MaddDogg'sRhymes-GTASA-StealthTakedown.jpg|Carl Johnson performing a melee attack on one of the security guards.
+MaddDogg'sRhymes-GTASA-VideoGameMessage.jpg|The message received if Carl attempts to play the video game.
+</gallery>
+
+==Trivia==
+*The amplifiers in the studio have a [[Rockstar Games]] logo on them.
+*One of the guards playing a video game remarks, "''How could Refractions mess up so bad?''" and "''Tanner, you suck ass!''" These are references to the poor reception of ''DRIV3R'', which is considered a [[GTA Clone]], where the protagonist's name is Tanner, and the game was made by ''Reflections Interactive''.
+*The upstairs levels of Madd Dogg's mansion (beyond the point where the rhyme book is) can be explored safely as there are no guards. A silenced pistol can be found in a room with gold records on the walls (down the hall from the studio), and two playable video games.
+*The male pedestrian in the beginning cutscene of this mission (who says "''Yo! That shit sucks! Damn!''") happens to share the same model as the Ballas member who was smoking in [[The Introduction]]. He can also be seen snorting coke with [[Jizzy B.]] along with his hoes and other associates in [[Ice Cold Killa]]. His name is [[Bogman]], as seen in the files.
+*The BradyGames Official Strategy Guide appears to have been written based upon an early version of the mission, as it indicates that Carl needs to evade police who have been summoned by an alarm being triggered in the mansion. No such event occurs in the final version of the mission.
+*The guard playing the video game looks like he is holding a controller, but is actually holding nothing.
+*According to some internal game files, the [[Skateboard]] was supposed to appear instead of the [[Mountain Bike]].
+*During the opening cutscene both OG Loc and Carl look at themselves in a mirror, even though there is no mirror in the bathroom.
+*The guards killed before Carl obtains the rhyme book will not drop their weapons.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+[[de:Madd Dogg's Rhymes]]
+[[es:Madd Dogg's Rhymes]]
+[[fi:Madd Dogg's Rhymes]]
+[[fr:Madd Dogg's Rhymes]]
+[[pl:Madd Dogg (misja 1)]]
+[[pt:As Rimas do Madd Dogg]]
+[[ru:Madd Dogg's Rhymes]]
+[[uk:Madd Dogg's Rhymes]]
+[[zh:Madd Dogg's Rhymes]]
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

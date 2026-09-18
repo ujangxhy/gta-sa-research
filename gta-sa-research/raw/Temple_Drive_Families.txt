@@ -1,0 +1,104 @@
+{{PageTabber
+|page1 = [[Grove Street Families]]
+|page2 = [[Seville Boulevard Families|SBF set<sup>†</sup>]]
+|page3 = [[Temple Drive Families|TDF set<sup>†</sup>]]
+|page4 = [[Big Smoke's Grove Street Families Faction|Big Smoke's faction<sup>†</sup>]]
+}}
+{{Infobox organization
+|name         = Temple Drive Families
+|image        = TempleDriveFamilies-GTASA.png 
+|caption      = Temple Drive Families in {{SA}}.
+|games        = {{Games|SA=y}}
+|locations    = 
+* [[Temple]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]] {{Small|(Formerly)}}
+* [[Santa Maria Beach]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]] {{Small|(Formerly)}} 
+|businesses   = 
+|affiliations = 
+*[[Ballas (3D Universe)|Ballas]] {{Small|(Suppliers)}}
+|vehicles     = 
+|weapons      = 
+*[[Pistol (3D Universe)|Pistol]]
+*[[Tec-9]]
+|status       = defunct
+|type         = gang
+|gang_type    = Set of the [[Grove Street Families]]
+|nationality  = {{Country|US|adj=y}}
+|leader       = Unknown 
+|established  = Between [[1987]] and [[1992]]
+|members      = 
+|enemies      = 
+*[[Grove Street Families]] {{Small|([[Reuniting the Families|Cease-fire]])}}
+*[[Seville Boulevard Families]] {{Small|([[Reuniting the Families|Cease-fire]])}}
+}}
+{{Dialogue|p1=Carl Johnson|d1=How'd it get so bad? I thought this was Families' turf?|p2=Sweet Johnson|d2=Yeah, it's Temple Drive Families - we don't roll with them no more.|quotedetail=Carl Johnson and Sweet while being attacked by the [[Kilo Tray Ballas]] in Temple Drive Families turf in [[Sweet & Kendl]].}}
+'''Temple Drive Families''' is a former splinter group of [[Grove Street Families]] appearing in {{SA}}.
+
+==Description==
+Temple Drive Families were established as an independent gang at some point between [[1987]] and [[1992]], after the death of [[Brian Johnson]], brother of gang leader [[Sweet Johnson]] from the Grove Street Families.
+
+According to dialogue from [[Big Smoke]] in [[Nines and AKs]] and unused dialogue from [[Big Bear]] in [[Beat Down on B Dup]], the Grove Street Families members running the [[Temple Drive]] territory were the second group to split from the gang, forming the "Temple Drive Families". Both the Temple Drive Families and the Seville Boulevard Families were split due to disagreements with the main Grove Street Families gang, who didn't allow distribution of powerful drugs in their territory through Sweet's leadership (particularly crack cocaine).
+
+Shortly before 1992, Seville Boulevard Families became enemies of the Temple Drive Families, starting a small scale three-way war between the three sets. By 1992, the Grove Street Families are referred to as the "OG Family set" by the members of the original gang after the split, in order to differentiate the main gang from the enemy sets.
+
+Due to bad leadership of both enemy sets, the Ballas gang managed to "take control" of both sets by selling crack cocaine to the members, making them weak and allowing them to use both former Grove Street Families turfs for crack distribution.
+
+There are no known members of the Temple Drive Families, and they don't play any major role in the storyline whatsoever.
+
+==History==
+===Events of ''Grand Theft Auto: San Andreas''===
+In 1992, Sweet's mother [[Beverly Johnson]] is killed in a drive-by shooting by the Ballas, prompting his brother Carl Johnson to return to Los Santos from Liberty City since Brian's death in 1987.
+
+Unaware of the gang split, Carl Johnson briefly visits the former Grove Street Families territory in [[Temple]], now run by the enemy Temple Drive Families set, and realizes the bad situation within the main gang. Sweet explains the situation through a phone call after Beverly's funeral, and begins working to help Grove Street Families get back in the map.
+
+====Motel Ambush====
+{{Quote|I don't like this, man. Look at all them other family hoods - they used to be Grove Streets!|Ryder about the enemy sets during the meeting in [[Reuniting the Families]].}}
+Sweet eventually manages to convince both sets that the Ballas are making them weak and using them to sell crack in their turfs. All three sets agree to make a reunion at the [[Jefferson Motel (3D Universe)|Jefferson Motel]] and put an end to crack distribution in all Families turfs.
+
+Arriving at the Jefferson Motel, the meeting is ambushed by the [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] and their [[Special Weapons and Tactics (3D Universe)|SWAT]] units, leaving several Families members dead during a shootout inside the building.
+
+Carl manages to rescue Sweet and escape the authorities with Big Smoke and Ryder.
+
+====Fate====
+After the mission Reuniting the Families, the outcome of the reunion is left ambiguous and is never specified whether the Temple Drive Families merged back with the original gang or if they were wiped out in the ambush. Both sets are no longer mentioned in the storyline after these events.
+
+Shortly after the failed meeting, Carl Johnson discovers Big Smoke's betrayal, and Sweet Johnson is arrested in a gang shootout. Carl is exiled from Los Santos by the corrupt [[C.R.A.S.H.]] division of the LSPD, allowing time for Big Smoke to build his crack empire in Los Santos, resulting in a major crack cocaine epidemic in the city and the downfall of the Families as a whole.
+
+Eventually, with the help of secret agent [[Mike Toreno]], Sweet and Carl return to Grove Street, only to find the original set turf controlled by the Ballas and infested with drug dealers. The Johnson brothers clear their turf and begin to reclaim territories from enemy gangs shortly after.
+
+Both Temple and Playa del Seville are revealed to be fully controlled by the Ballas at this point, suggesting the crack epidemic completely destroyed the Temple Drive Families and Seville Boulevard Families and that both sets no longer exists.
+
+====Territory Reclaim====
+{{Quote|Temple is ours now!|Carl Johnson wipping out the Ballas in the former Temple Drive Families after [[Home Coming]].|sound=TempleDriveFamilies-GTASA-TerritoryReclaim.wav}}
+Carl Johnson can reclaim both turfs by killing the Ballas controlling the area, reverting both turfs to their original 1987 pre-gang split state, once again controlled by the original Grove Street Families set and officially ending the Temple Drive Families.
+
+==Prominent Appearances in Gameplay==
+*[[Reuniting the Families]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+TempleDriveFamilies-GTASA.jpg|'''Temple Drive Families''' members.
+</gallery>
+
+==Trivia==
+*Outside missions, the Temple Drive Families are simply programmed as regular [[Grove Street Families]] members (including voice lines) spawning in a [[Temple]] gang zone, meaning that the player can recruit them.
+**Additionally, like any regular Grove Street Families member, they will attack any hostile pedestrian or police officer attacking the player during wanted levels.
+**The set's weaponry will also be also upgraded by spraying all [[tags]].
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families|state=collapsed}}
+{{Gtasa gangs|state=collapsed}}
+}}
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Afro-descendant organizations]]
+[[Category:Former organizations]]
+
+[[fi:Temple Drive Families]]
+[[fr:Familles de Temple Drive]]
+[[pl:Rodziny z Temple Drive]]
+[[pt:Temple Drive Families]]
+[[ru:Temple Drive Families]]

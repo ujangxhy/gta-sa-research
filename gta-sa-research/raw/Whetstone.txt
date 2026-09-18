@@ -1,0 +1,118 @@
+{{Infobox location
+|Name Change = COUNTY
+|name = Whetstone
+|image = Whetstone-GTASA-Montage.png
+|caption = From top to bottom, left to right: [[Mount Chiliad (3D Universe)|Mount Chiliad]], overview of [[Angel Pine]] and the [[Angel Pine Mobile Home Park|Mobile Home Park]], a view of [[Shady Creeks]], the [[Oram Bridge]], [[Angel Pine Sheriff's Station]], [[Whetstone Rest Stop]] and an overview of the [[Angel Pine Junkyard]].
+|aka  = Whetstone County
+|games = {{Games|SA=y}}
+|location = [[State of San Andreas (3D Universe)|State of San Andreas]]
+|pscanner    = PoliceScanner-GTASA-Whetstone.ogg
+|unlockedafter = [[The Green Sabre]]
+|map = Whetstone-GTASA.png
+|map_caption = Map of Whetstone.
+}}
+'''Whetstone''', also known as '''Whetstone County'''<ref>Flags for sports teams found in interiors, including [[Katie Zhan's House]].<br/>[[File:SportsTeams-GTASA-Flags-WhetstoneCounty.png|200px]]</ref>, is a region in the southwest of the [[State of San Andreas (3D Universe)|State of San Andreas]] that appears in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+Whetstone is a forested island region of [[State of San Andreas (3D Universe)|San Andreas]] separated from the remaining landmass by a [[Whetstone-Flint County Creek|narrow channel]]. It is home to the small town of [[Angel Pine]] and the massive [[Mount Chiliad (3D Universe)|Mount Chiliad]], the tallest feature in the entire state of San Andreas. Whetstone is one of the most sparsely-populated regions in San Andreas (second only to [[Flint County (3D Universe)|Flint County]]), with the only settlement being Angel Pine, which is located on a flat plain at the base of Mount Chiliad. Whetstone lacks a [[Brown Streak Railroad|railway system]], due to it consisting of heavily forested and uneven terrain. To the north is the city of [[San Fierro (3D Universe)|San Fierro]], and to the east is Flint County.
+
+There is a beach situated to the south of Angel Pine. The rest of the region consists of the forested region of [[Shady Creeks]].
+
+==Events of ''Grand Theft Auto: San Andreas''==
+{{Spoiler}}After a [[The Green Sabre|deadly shoot-out]] with the rival [[Ballas (3D Universe)|Ballas]] gang under the [[Mulholland Intersection]] in [[Los Santos (3D Universe)|Los Santos]], [[Carl Johnson]] is arrested by [[C.R.A.S.H.]] officers [[Frank Tenpenny]] and [[Eddie Pulaski]] and dragged out to the remote town of Angel Pine in Whetstone. Here, Tenpenny and Pulaski use the recent incarceration of Carl's brother [[Sweet Johnson|Sweet]] as leverage to force him to manage their out-of-town dealings, such as murdering witnesses to their extensive corruption. With little time to recuperate from the events in Los Santos, Carl finds himself in a strange new place, with no ammunition, and only a [[camera]] and [[Badlands|orders to kill a man holed up in a cabin]] in nearby Mount Chiliad.
+
+Carl quickly locates the cabin, which is heavily guarded by [[Federal Bureau of Investigation|FBI]] agents, and lures the witness out. As the witness attempts to escape by [[Washington|car]], Carl chases him down the mountain and kills him, making sure to photograph the "evidence" that he will no longer be talking. Carl then returns the evidence to Angel Pine for Tenpenny and Pulaski to pick up.
+
+Later in the story, as Carl is performing tasks for [[Mike Toreno]], a shady government agent with ties to the [[Loco Syndicate]], he is asked to make a [[N.O.E.|clandestine supply delivery flight]] to some of Toreno's men holed up in Angel Pine. Carl uses the [[Rustler]] supplied by Toreno at the [[Verdant Meadows Airfield|abandoned airstrip]] outside [[Las Venturas (3D Universe)|Las Venturas]] to fly below radar detection all the way to Whetstone in order to make the delivery without Toreno being caught in the act by those watching him.
+
+===Influence===
+Whetstone appears to be influenced by the {{WP|Big Sur}} region of rural {{WP|Monterey County, California}} while geographically based on {{WP|San Mateo County, California|San Mateo County}} directly south of San Francisco. {{WP|Mount Diablo}}, which is Chiliad's closest counterpart, is located in Contra Costa County of the East Bay Area.
+
+===Residents===
+*[[Carl Johnson]] (in Angel Pine)
+*[[Cesar Vialpando]] mentions he has some family in Whetstone
+
+==Towns==
+*[[Angel Pine]]
+
+==Locations==
+*[[Mount Chiliad (3D Universe)|Mount Chiliad]]
+*[[Shady Cabin]]
+*[[Shady Creeks]]
+
+==Others==
+===Homes === 
+*[[Angel Pine Save Point]]
+*[[Angel Pine Safehouse]]
+
+===Places===
+*[[Cluckin' Bell (3D Universe)|Cluckin' Bell]] (in Angel Pine)
+*[[Ammu-Nation (3D Universe)|Ammu-Nation]] (in Angel Pine)
+*[[Angel Pine Junkyard]]
+*[[Angel Pine Medical Center]]
+*[[Angel Pine Mobile Home Park]]
+
+===Weapons=== 
+*[[Golf Club]]
+*[[Shovel]]
+*[[Desert Eagle]]
+*[[Micro-SMG]]
+*[[Flamethrower]]
+*[[Fire Extinguisher]]
+*[[Flowers]]
+*[[Parachute]]
+
+===Stationary Vehicles===
+*[[Ambulance (3D Universe)|Ambulance]]
+*[[BF Injection]] (x2)
+*[[Bike]]
+*[[Camper (3D Universe)|Camper]]
+*[[Cement Truck]] (x2)
+*[[DFT-30]]
+*[[Dinghy (3D Universe)|Dinghy]] (x5)
+*[[Dozer]]
+*[[Forklift (3D Universe)|Forklift]]
+*[[Glendale (beater)]]
+*[[Journey]]
+*[[Kart]]
+*[[Mesa Grande|Mesa]] (only when wanted for export)
+*[[Mountain Bike]] (x2)
+*[[Quad]] (x3)
+*[[Roadtrain]]
+*[[Romero]]
+*[[Sadler]]
+*[[Sanchez]] (x3)
+*[[Tow Truck]]
+*[[Walton]] (x2)
+
+===Other===
+*[[Body Armor]] (x2)
+*[[Police Bribes|Police Bribe]] (x2)
+*[[Unique Stunt Jump]] (x3)
+
+==Trivia==
+*A {{WP|Sharpening stone|whetstone}} is a sharpening stone used for knives and other cutting tools.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtasa}}
+{{Navbox gta}}
+{{Gtasa neighborhoods}}
+}}
+
+[[de:Whetstone]]
+[[es:Whetstone]]
+[[pl:Whetstone]]
+[[ru:Уэтстоун]]
+
+[[Category:Locations in GTA San Andreas in Whetstone| ]]
+[[Category:Islands]]
+[[Category:Counties]]
+[[Category:Neighborhoods]]
+[[Category:Unlockable locations]]
+[[Category:Zones]]

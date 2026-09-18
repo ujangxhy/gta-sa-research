@@ -1,0 +1,56 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson|CJ]] goes to see [[Wu Zi Mu|Woozie]] at [[Wu Zi Mu's Apartment|his apartment]] as he's about to leave.}}
+{{line|name=CJ|dialogue=Woozie, my man!}}
+{{line|name=Woozie|dialogue=CJ, you caught me on my way out.}}
+{{line|name=CJ|dialogue=Business?}}
+{{line|name=Woozie|dialogue=This is the big one, this is the one that is going to seal my place in the Red Gecko Tong. But something's come up and I've got to sort things out myself. Excuse me.}}
+{{line|background=Woozie's phone rings.}}
+{{line|name=Woozie|dialogue=Little Lion, what's the news? Damn. Why today, of all days? OK, shit. Uh, take Guppy and go check it out.}}
+{{line|name=CJ|dialogue=Trouble?}}
+{{line|name=Woozie|dialogue=The Da Nang Boys are arriving today on a container ship. Little Lion's gone to check it out. I really gotta go too.}}
+{{line|name=CJ|dialogue=Hey, man, look, don't even trip. I'm gonna handle this for you, alright?}}
+{{line|name=Woozie|dialogue=Thanks, my friend. Your help and friendship has been invaluable to me.}}
+{{line|name=CJ|dialogue=Thanks, man. Where the other guys?}}
+{{line|name=Woozie|dialogue=Oh, they're getting a helicopter to do a couple of flybys of the ship. Look - if everything goes well, I'll call you in a week or so and invite you to my new spot.}}
+{{line|background=CJ heads to the the rooftops to accompany [[Little Lion]], who's about to fly off in a [[Maverick (3D Universe)|Maverick]].}}
+{{line|name=Little Lion|dialogue=Hey, CJ, what are you doing here?}}
+{{line|name=CJ|dialogue=Just bumped into Woozie on his way out. He filled me in, I thought I'd go with you.}}
+{{line|name=Little Lion|dialogue=Well, we ain't rollin', we're ''whirling!'' Strap in and strap up!}}
+{{line|background=Little Lion and CJ fly towards the [[Da Nang Boys]]' [[Da Nang Boys Freighter|freighter]].}}
+{{line|name=CJ|dialogue=Where we headed?}}
+{{line|name=Little Lion|dialogue=To the boat - it's moored out in the bay.}}
+{{line|name=CJ|dialogue=Oh yeah, I see it!}}
+{{line|name=Little Lion|dialogue=You better lock and load, they'll be on their guard.}}
+{{line|name=CJ|dialogue=Locked and loaded!}}
+{{line|background=Little Lion and CJ approach the ship, and the Da Nang Boys start attaking, while CJ fends them off with a [[minigun]].}}
+{{line|name=Little Lion|dialogue=Holy fuck, they're gunning for us already!}}
+{{line|name=CJ|dialogue=I see 'em!}}
+{{line|name=Little Lion|dialogue=They're all over the containers!}}
+{{line|name=CJ|dialogue=I got 'em, man, right in my sight!}}
+{{line|name=Little Lion|dialogue=Hit those Da Nang bastards!}}
+{{line|background=As CJ is shooting at the Da Nang Boys members, one of them comes out with a [[Rocket Launcher (3D Universe)|Rocket Launcher]] and starts firing rockets at the helicopter.}}
+{{line|name=Little Lion|dialogue=RPG! RPG!}}
+{{line|name=CJ|dialogue=Where? Which side?}}
+{{line|background=One of the rockets hits the helicopter, causing it to spiral out of control.}}
+{{line|name=Little Lion|dialogue=We're hit! We're going down, brace for impact!}}
+{{line|background=The helicopter lands into the water, killing Little Lion. CJ came out of the crash alive and well, but lost all of his weapons except for a [[knife]].}}
+{{line|name=CJ|dialogue=Oh, man, that hurt! Damn, lost everything but my blade!}}
+{{line|background=CJ swims to the ladder and climbs aboard the freighter.}}
+{{line|name=Da Nang Boys Member #1|dialogue=You see any survivors?}}
+{{line|name=Da Nang Boys Member #2|dialogue=No. Nobody's getting out of that alive!}}
+{{line|background=After climbing aboard, CJ makes his way to the ship's hull, shooting any Da Nang members that come in his way. Upon making his way to the hull, he hears one of the Da Nang members guarding the container.}}
+{{line|name=Container Guard|dialogue=Keep it down, you want to bring the Snakehead down here?}}
+{{line|name=Da Nang Boys Member #3|dialogue=Not long until we're drinking cola in the free West, eh! Hey, who the fuck are you?!}}
+{{line|background=CJ gets spotted by a Da Nang member and a shootout ensues.}}
+{{line|name=Container Guard|dialogue=(throws a [[Grenades|grenade]]) Stick this up your ass!}}
+{{line|background=After killing the guard, CJ shoots the padlock on the container, revealing several refugees inside.}}
+{{line|name=Refugee|dialogue=Please, the Snakehead tricked us, we're prisoners. Please help us escape! The Snakehead is up on the bridge.}}
+{{line|background=CJ climbs up to the bridge of the freighter and kills more Da Nang guards. He then confronts [[the Snakehead]], who's wielding two [[Katana]] swords and throws one of them to CJ.}}
+{{line|name=The Snakehead|dialogue=Enough! We settle this here!}}
+{{line|background=CJ kills the Snakehead, and then goes back to the refugees, who then lower several [[Dinghy (3D Universe)|Dinghies]] and escape the freighter.}}
+{{line|name=Refugee|dialogue=Thank you for everything!}}
+{{line|background=The refugees sail away from the ship.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

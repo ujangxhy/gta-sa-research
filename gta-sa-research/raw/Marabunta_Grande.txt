@@ -1,0 +1,229 @@
+{{Infobox organization
+|name = Marabunta Grande
+|image = MarabuntaGrande-GTAOe-Members.png
+|caption = Marabunta Grande in {{O}}.
+|games = {{Games|V=y|O=y}}
+|aka =
+*Marabunta
+*{{H:title|Gerald's Last Play (GTA Online: The Diamond Casino Heist)|Salva gang}}
+*{{H:title|The Cluckin' Bell Farm Raid|M7}}
+|locations =
+*The western part of [[Fudge Lane]] and a small area around it, [[El Burro Heights]]
+*The southern part of [[Melanoma Street]], [[Vespucci Beach]] (night)
+*[[Grand Senora Desert]] (business)
+*[[East Vinewood]] Drain Canal (night)
+|leader =
+*[[The Boss (Marabunta Grande)|The Boss]] <small>(?–2020)</small>
+*Unknown <small>(2024)</small>
+|type = gang
+|gang_type = Street Gang
+|enemies =
+*[[Varrios Los Aztecas (HD Universe)|Varrios Los Aztecas]]
+*[[Los Santos Vagos (HD Universe)|Los Santos Vagos]]
+*[[Ballas (HD Universe)|Ballas]]
+*[[Rednecks (GTA V)|Rednecks]]
+*[[Trevor Philips Enterprises]]
+*[[O'Neil Brothers]]
+*[[Motorcycle Clubs]]
+*{{GTAOP}}
+*[[Gerald]]
+*[[Duggan Crime Family]]
+*[[Martin Madrazo]] <small>(''GTA Online'')</small> {{Ref|name=Madrazo|ref=[[Madrazo Hits]]}}
+**[[Madrazo Cartel]] <small>(''GTA Online'')</small>  <small>(probably)</small>
+|affiliations =
+*[[The Lost MC]] {{Fact}}
+*[[Madrazo Cartel]] {{Fact}}
+*[[El Rubio's Private Security]]
+|colors = Blue and white
+|vehicles =
+*[[Phantom]] <small>([[Father/Son]] only)</small>
+*[[Marquis]] <small>(stolen from [[Michael De Santa|Michael]]; don't steer)</small>
+*[[Trailer (boat)|Trailer]] <small>(Father/Son only; used for transporting Michael's yacht)</small>
+*[[Tornado]] ([[Tornado (cabrio)|cabrio]] <small>(''GTA Online'', [[Business Supplies/Steal Missions#Raid Nasty People|Business Supplies Steal Mission: Raid Nasty People]] only)</small>)
+*[[Peyote]]
+*[[Manana]]
+*[[Rebel]]
+*[[Emperor (HD Universe)|Emperor]]
+*[[Virgo Classic Custom]]
+*[[Moonbeam Custom]]
+*[[Sabre Turbo Custom]]
+*[[Faction Custom Donk]]
+*[[Buzzard Attack Chopper|Buzzard]]
+*[[Cuban 800]]
+*[[Technical]]
+*[[Tulip]]
+*[[Impaler LX]]
+|weapons =
+*[[Knife]]
+*[[Crowbar]]
+*[[Pistol (HD Universe)|Pistol]]
+*[[Micro SMG (HD Universe)|Micro SMG]]
+*[[Mini SMG]]
+*[[SMG (HD Universe)|SMG]]
+*[[MG|Machine Gun]]
+*[[Pump Shotgun]]
+*[[Assault Rifle]]
+*[[Minigun]]
+*[[Sniper Rifle]]
+*[[Molotov Cocktails]]
+|businesses =
+*Street robberies / Petty robberies <ref>[[Random Events in GTA V#ATM Robberies|Random Event: ATM Robberies]] (''GTA V'') and [[Nightclubs/Raids#Gang Raid|Nightclub Raid: Gang Raid]] (''GTA Online'').</ref>
+*Drug Trafficking/Manufacturing
+*Weapons Trafficking
+*Other Contraband
+|members = [[Frederico Nathan]]
+|nationality = {{Country|SV|adj=y}}
+|status = active
+}}
+{{Quote|Marabunta para siempre (En: Marabunta forever)|Marabunta Grande member}}
+The '''Marabunta Grande''' is a small [[El Salvador|Salvadoran]] gang featured in {{V}} and {{O}}.
+
+==Description==
+They are heavily involved in the drug trade and are currently at war with the [[Mexico|Mexican]] gang [[Varrios Los Aztecas (HD Universe)|Varrios Los Aztecas]] over the drug and arms trafficking in [[Blaine County]]. [[Weazel News]] also reported that a recent shootout occurred between the two gangs in the [[Grand Senora Desert]].
+
+In [[GTA Online: The Chop Shop|The Chop Shop]] update for ''Grand Theft Auto Online'', updated present-day Marabunta Grande members have been introduced, appearing during [[The Cluckin' Bell Farm Raid]] preparation missions.
+
+==History==
+===Events of ''Grand Theft Auto V''===
+The Marabunta Grande appear for the first time during the mission [[Father/Son]], where [[Jimmy De Santa|Jimmy]] tries to impress [[Michael De Santa|Michael]] by selling his [[Marquis|boat]] to them. The gang members, however, decide to steal the boat instead using a [[Phantom|truck]], with Jimmy still onboard. Michael and [[Franklin Clinton|Franklin]] chase them on the highway, and Franklin jumps onto the boat to get Jimmy out, while Michael shoots the Marabunta Grande members on it. At some point, after Franklin and Jimmy safely return to Michael's [[Sentinel|car]], the car's motor breaks down due to bullet damage, allowing the Marabunta Grande to get away with the boat.
+
+They later appear in the [[Arms Trafficking Air|air arms trafficking]] side mission, where they are bringing weapons by sea and moving them out by rail. [[Oscar Guzman|Oscar]] orders [[Trevor Philips|Trevor]] to destroy their containers and boats. In the [[Arms Trafficking Ground|ground arms trafficking]] side mission, the Marabunta Grande appears twice, and in both instances attempt to steal packages from Trevor.
+
+===Events of ''Grand Theft Auto Online''===
+In ''[[Grand Theft Auto Online]]'', the Marabunta Grande appears in certain gang attacks. Defeating them in five [[Gang Attacks]] within one session will result in a bounty being placed on the [[GTA Online Protagonist|player]]'s head. A threatening text message from [[The Boss (Marabunta Grande)|"The Boss"]] will appear, saying: ''"You're in trouble now. Bitch!"''. They also appear in the mission [[Potshot]], where their van gets stolen by the player. They also appear in resupply missions for the [[Weed Farm|marijuana business]], as they come into conflict with [[Motorcycle Clubs|motorcycle clubs]].
+
+During the mission [[Prison Break - Plane]], [[Agent 14]] says to the [[Velum]] pilot that three custom officers died from spider bites after opening a Marabunta Grande shipment of untaxed cocobolo wood.
+
+In the mission [[Last Play - Bad Companies]], set in [[2020]], the protagonist kills The Boss of the Marabunta Grande at the [[Alta Construction Site|construction site]] in [[Alta]].
+
+In one of [[The Cayo Perico Heist]] setups, the players storm a warehouse owned by the Marabunta Grande and [[Heist Prep: Disrupt Armor|destroy the body armor shipments]] meant for [[Juan Strickler|El Rubio]]'s [[El Rubio's Private Security|guards]].
+
+There is a shootout between the Marabunta Grande and the [[Duggan Crime Family]] in the mission [[ULP - Extraction]], with the [[Los Santos County Sheriff]] present in the area. The player intervines in the shootout to rescue [[Agent Johnson]] of the [[International Affairs Agency|IAA]], who went undercover among the Duggans.
+
+During the setups for [[The Cluckin' Bell Farm Raid]], the Marabunta Grande are one of the gangs the player can steal both [[Concealed Weapons|weapons]] and a [[Hit and Run|getaway vehicle]] from.
+
+==Territory==
+Marabunta Grande members can be found in their territory of [[East Los Santos (HD Universe)|East Los Santos]] specifically [[El Burro Heights]], and have another set in [[Vespucci Beach]]. They can also be found hanging out in the [[Los Santos River (HD Universe)|LS River]], specifically in [[East Vinewood]] near [[Mirror Park]], and in [[La Mesa]], directly east of Northern [[Rancho]] where they conduct street racing. They are mostly active at night, and often seen in groups, standing on the sidewalks or sitting on porches. Marabunta Grande members are very territorial, and will attack if provoked.
+
+==Appearance==
+Members of the Marabunta Grande can be easily identified by their full-face tattoos and bandannas on their heads, faces, necks and wrists. Younger members wear modern urban apparel while the older members dress in more classic cholo-style clothing. Their dominant color is blue.
+
+==Influence==
+The gang appears to be primarily based on the Los Angeles-based [[El Salvador]]an gang {{WP|MS-13|Mara Salvatrucha (MS-13)}}. ''{{WP|Mara (gang)|Marabuntas}}'', often shortened to ''Maras'', refers to gangs originating in the [[United States of America|USA]] which expanded to Central American countries such as El Salvador, [[Honduras]] and [[Guatemala]].
+
+==Mission Appearances==
+===''Grand Theft Auto V''===
+*[[Father/Son]]
+*[[Arms Trafficking Ground#Ground Trafficking 2|Arms Trafficking Ground 2]]
+*[[Arms Trafficking Ground#Ground Trafficking 4|Arms Trafficking Ground 4]]
+*[[Arms Trafficking Air#Air Trafficking 4|Arms Trafficking Air 4]]
+
+===''Grand Theft Auto Online''===
+*[[Potshot]]
+*[[Gang Attacks]] <small>([[Gang Attacks#Removed 2|no longer available]])</small>
+
+====Bikers====
+*[[Business Supplies/Steal Missions|Business Supplies Steal Mission]]: [[Business Supplies/Steal Missions#Raid Nasty People|Raid Nasty People]] <small>(possible enemies)</small>
+
+====After Hours====
+*[[Nightclubs/Raids#Nightclub Raids|Nightclub Raid]]
+
+====Arena War====
+*[[Premium Deluxe Repo Work]]
+**[[Repo - Burn Rate]]
+**[[Repo - Sasquashed]]
+
+====The Diamond Casino Heist====
+*[[Last Play - Bad Companies]]
+
+====The Cayo Perico Heist====
+*[[The Cayo Perico Heist]]
+**[[Heist Prep: Disrupt Armor]]
+*[[Glass Heroes Survival]]
+
+====The Criminal Enterprises====
+*[[Operation Paper Trail]]
+**[[ULP - Extraction]]
+
+====The Chop Shop====
+*[[The Cluckin' Bell Farm Raid]]
+**[[Concealed Weapons]]
+**[[Hit and Run]]
+
+====Bottom Dollar Bounties====
+*[[Madrazo Hits]] <small>(possible enemies)</small>
+
+==Gallery==
+===Original Members===
+Members found in both ''Grand Theft Auto V'' and ''Grand Theft Auto Online''.
+<gallery bordercolor="#323574" spacing="small" orientation="none" position="center">
+MarabuntaGrande-GTAV-Group1.jpg|The Marabunta Grande in ''Grand Theft Auto V''.
+Marabuntamember.jpg|Marabunta Grande gang member.
+MaraBuntagangbanger.jpg|Marabunta Grande gang member.
+MarabuntaMember3-GTAV.jpg|Marabunta Grande gang member.
+marabuntagangsters.jpg|Marabunta Grande gang members in [[El Burro Heights]].
+Marabunta.jpg|Marabunta Grande gang member in  El Burro Heights.
+MarabuntaGrande-GTAV-Member1.jpg|Member at [[Vespucci Beach]].
+MarabuntaGrande-GTAV-Member3.jpg|Marabunta Grande gang member in the sewers near [[Mirror Park]].
+MarabuntaGrande-GTAV-Member2.jpg|Marabunta Grande member in the Mirror Park sewers.
+MarabuntaGrande-GTAV-Member4.jpg|Marabunta Grande gang member in the Mirror Park sewers.
+MarabuntaGrande-GTAV-OGMember1.jpg|Marabunta Grande OG gang member in El Burro Heights.
+MarabuntaGrande-GTAV-OGMember2.jpg|Marabunta Grande OG in El Burro Heights.
+MarabuntaGrande-GTAV-night.jpg|Marabunta Grande gang members.
+MarabuntaMembers2-GTAV.jpg|Marabunta Grande in El Burro Heights.
+MarabuntaMembers3-GTAV.jpg|Marabunta Grande in El Burro Heights.
+MaraBunta2-GTAV.png|Marabunta Grande gang members in [[Vespucci Beach]].
+MarabuntaGrande-GTAV-Group2.jpg|At Vespucci Beach.
+MarabuntaGrande-GTAV-Group3.jpg|Marabunta Grande gang members engaging in combat.
+MarabuntaGrande-GTAV-FamiliesShootout.jpg|Marabunta Grande members attack a [[Families]] member.
+MarabuntaGrande-GTAV-Group4.jpg|Marabunta Grande Gang members in El Burro Heights.
+MarabuntaGrande-GTAV-InElBurroHeights.jpg|Marabunta Grande in El Burro Heights.
+LastPlayBadCompanies-GTAO-HenchmanLocation1.png|Marabunta Grande in Vespucci Beach during Bad Companies.
+LastPlayBadCompanies-GTAO-HenchmanLocation2.png|Marabunta Grande in [[Morningwood]] during Bad Companies.
+LastPlayBadCompanies-GTAO-HenchmanLocation3.png|Marabunta Grande in [[Downtown Vinewood]] during Bad Companies.
+LastPlayBadCompanies-GTAO-HenchmanLocation4.png|Marabunta Grande in [[La Mesa]] during Bad Companies.
+LastPlayBadCompanies-GTAO-GangBossLocation.png|Marabunta Grande at the [[Alta Construction Site]] during Bad Companies.
+GlassHeroesSurvival-GTAO-VirgoClassicCustom.png|One of the Marabunta Grande's modified [[Virgo Classic Custom]]s.
+GlassHeroesSurvival-GTAO-SabreTurboCustom.png|One of the Marabunta Grande's modified [[Sabre Turbo Custom]]s.
+GlassHeroesSurvival-GTAO-FactionCustomDonk.png|One of the Marabunta Grande's modified [[Faction Custom Donk]]s.
+</gallery>
+
+===Added in The Chop Shop update===
+Present-day Marabunta Grande members introduced in ''Grand Theft Auto Online'', appearing during [[The Cluckin' Bell Farm Raid]].
+<gallery spacing="small" position="center">
+MarabuntaGrande-GTAOe-2024Members.png|Marabunta Grande members during The Cluckin' Bell Farm Raid.
+MarabuntaGrande-GTAOe-2024Members-HarmonyGasStation1.png|Marabunta Grande members at the Harmony Gas Station.
+MarabuntaGrande-GTAOe-2024Members-HarmonyGasStation2.png|A heavily tattooed Marabunta Grande member.
+MarabuntaGrande-GTAOe-2024Members-MurrietaHeights.png|Marabunta Grande members at Murrieta Heights.
+MarabuntaGrande-GTAOe-2024Members-Tornado.png|The gang's [[Tornado]].
+MarabuntaGrande-GTAOe-2024Members-Crowbar.png|A Marabunta Grande armed with a [[Crowbar]].
+MarabuntaGrande-GTAOe-2024Members-Driveby.png|A Marabunta Grande member performing a drive-by.
+MarabuntaGrande-GTAOe-2024Members-MiniSMG.png|Marabunta Grande members armed with [[Mini SMG]]s.
+MarabuntaGrande-GTAOe-2024Members-M7Gear.png|The "M7" logo seen on the Marabunta Grande gear.
+MarabuntaGrande-GTAOe-2024Members-M7Hat.png|The "M7" logo seen on a Marabunta Grande member's hat.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtav gangs|state=collapsed}}
+{{Gtao gangs|state=collapsed}}
+}}
+
+[[Category:Organizations in GTA Online]]
+[[Category:Organizations in GTA V]]
+[[Category:Gangs]]
+[[Category:Latino-descendant organizations]]
+
+[[de:Marabunta Grande]]
+[[es:Marabunta Grande]]
+[[fr:Marabunta Grande]]
+[[hu:Marabunta Grande]]
+[[pl:Marabunta Grande]]
+[[pt:Marabunta Grande]]
+[[ru:Marabunta Grande]]
+[[uk:Марабунта Ґранде]]

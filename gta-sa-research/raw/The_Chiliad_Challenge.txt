@@ -1,0 +1,69 @@
+{{Infobox mission
+|name        = The Chiliad Challenge
+|image       = TheChiliadChallange-GTASA.jpg
+|caption     = [[Carl Johnson]] preparing to race.
+|game        = {{Games|SA=y}}
+|type        = SA
+|location    = [[Mount Chiliad (3D Universe)|Mount Chiliad]], [[Whetstone]]
+|target      = Win the bicycle race(s).
+|for         = [[ProLaps (3D Universe)|ProLaps]]
+|fail        = 
+*[[Wasted]]
+*[[Busted]]
+*Killing an opponent {{Small|(except for the situation in which the opponent is killed with a [[Sniper Rifle|sniper rifle]])}}
+*Losing the race(s)
+*Leaving the [[Mountain Bike]] for more than 25 seconds
+|unlockedby  = [[In the Beginning]]
+|sidemission = y
+|cost        = A [[Statistics#Vehicle Skill|cycling skill]] of at least 40%
+|tod         = 07:00 - 18:00
+|reward      = 
+*[[Money|$]]500 {{Small|(for winning the first race)}}
+*$1,000 {{Small|(for winning the second race)}}
+*$2,000 {{Small|(for winning the third race)}}
+}}
+'''The Chiliad Challenge''' is a side mission in {{SA}}. 
+
+==Description==
+The mission is started by entering a parked [[Mountain Bike]] on top of [[Mount Chiliad (3D Universe)|Mount Chiliad]] between 7:00 and 18:00 and having a [[Statistics#Vehicle Skill|cycling skill]] above 40%. The goal of the mission is to be the first to reach the base of the mountain while racing with other mountain bikers down the mountain. There are three courses that need to be completed for [[100% Completion in GTA San Andreas|100% completion]]. All three courses share the same final sector and finish zone. Completing the first course unlocks the second one, and completing the second one unlocks the third and final course.
+
+The opponents seem to utilize rubberband AI, a concept which tries to ensure that neither the player nor [[Pedestrians|NPCs]] can get too far behind or too far ahead without any competition.
+
+Whereas in any other vehicle race, one can shoot at other contestants and get away with it, in this muscle-based race, if [[Carl Johnson]] attempts to shoot opponents, not only will he be disqualified (i.e. fail the mission), but a one-star [[Wanted Level in GTA San Andreas|wanted level]] will also be obtained. Typically though, trying the race again at the top of the mountain will help lose the [[San Andreas Sheriff|cops]]. The player can, however, get off and use the [[Sniper Rifle|sniper rifle]] (no other weapon can be used) to eliminate them without penalty.
+
+There is a safety mechanic that is activated in the event CJ falls off the track with no way to recover. Should this happen, the screen goes black for a second and CJ respawns on the track at the exact spot where he left off, allowing him to resume the race.
+
+==Courses==
+*'''Scotch Bonnet Yellow Route''': This race's route lays mostly in the southwestern face of the mountain; it is the shortest way down to [[Angel Pine]] from the top of the mountain in distance and time, but also the steepest, with very tight corners, most of which are 180º corners. Combined with the reduced grip of the dirt road and the descending factor, cornering here is very tricky. A careful braking and cornering is the key, and it is likewise recommended to sprint sparingly. There are plenty of places where CJ can fall off the track and down the mountain from great heights, but some of them are blocked by fences. This race has 18 checkpoints, and the prize for winning is [[Money|$]]500.
+*'''Birdseye Winder''': This race's route goes through the north face road to descend and then turns along the west side and then south down to Angel Pine. It is longer and less steep downhill overall than the previous race route, but it also has some long and leveled straight sectors where CJ can sprint for a while and take the lead easily. However, side protections are even fewer than in the previous race and there are still some difficult corners. This race has 31 checkpoints, and the prize for winning is $1,000.
+*'''Cobra Run''': This race starts mid-way down on the south side and follows a narrow trail, which is very tricky in the beginning, with an elevated part; after a jump, the second half allows a higher speed as it is wider. During the race, there are only two opponents, as opposed to five in previous courses. This race has 21 checkpoints, and the prize for winning is $2,000.
+
+==Video==
+{{#ev:youtube|Z8dKhKUpM30|300px|center}}
+
+==Oversights==
+*The player can get off the [[Mountain Bike|bike]] and jump off the [[Mount Chiliad (HD Universe)|mountain]], then open a [[parachute]]; the game will return the player to the bike, but the player will still have an open parachute on his back. The parachute then loses all of its function as a parachute. The video can be seen {{URL|http://www.youtube.com/watch?v{{=}}6QfATXhmEVs|here}}. This is patched in v1.01.
+*When the player completes The Chiliad Challenge for the first time, the game [[Statistics in GTA San Andreas|stat]] for the 'Longest 2 wheel distance' will record an unrealistically large value. This glitch occurs only when said stat is set at the value of 0. The only known workaround to prevent this glitch is by actually performing the two-wheel stunt before attempting The Chiliad Challenge.
+
+==Trivia==
+===General===
+*Each course is named after {{WP|chili pepper}}s.
+*The Cobra Run course features wooden ramps that did not exist in the early '90s when the game is set, but grew in popularity in the world of mountain biking in the mid '90s and onward.
+
+===''Grand Theft Auto: San Andreas''===
+*When starting a course, [[Carl Johnson|CJ]] automatically changes his pants to Ball Shorts from [[Clothing in GTA San Andreas/ProLaps|ProLaps]]. These pants are also used during the [[Beat the Cock!]] triathlon events. They will be available in the [[wardrobe]] after completing the course.
+*Unlike most optional challenges necessary for [[100% Completion in GTA San Andreas|100% game completion]], the best race times do not appear in the stats.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Racing game modes]]
+[[Category:Challenges]]
+
+[[de:Chiliad-Challenge]]
+[[pl:Próba góry Chiliad]]
+[[ru:The Chiliad Challenge]]

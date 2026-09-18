@@ -1,0 +1,70 @@
+{{Disambiglink|For the mission, see [[Ran Fa Li (mission)]].}}
+{{Infobox character
+|name           = Ran Fa Li
+|image          = RanFaLi-GTASA.jpg
+|games          = {{Games|SA=y}}
+|aka            = Farlie
+|gender         = M
+|status         = Alive
+|pob            = [[China]]
+|nationality    = {{Country|adj=y|CN}}
+|affiliations   = 
+*[[Wu Zi Mu]]
+*[[San Fierro Triads]] {{Small|(Co-leader)}}
+*[[Carl Johnson]]
+*[[Su Xi Mu]]
+|businesses     = [[Four Dragons Casino]]
+|voice          = [[Hunter Platin]]
+|vehicles       = 
+*[[Manana]]
+*[[Rancher (3D Universe)|Rancher]]
+}}
+{{Quote|Hmmm...|Ran Fa Li in [[Ran Fa Li (mission)|Ran Fa Li]], and literally every time when he gives a response.|sound=RanFaLi-GTASA-Quote.ogg}}
+'''Ran Fa Li''' (Traditional Chinese: '''李然發''', Simplified Chinese: '''李然发''', Pinyin: '''''Lǐ Rán Fā'''''), also known as '''Farlie''', is a supporting character in {{SA}}.
+
+He is voiced by [[Hunter Platin]].
+
+==History==
+===Background===
+Ran Fa Li is the leader of the Red Gecko Tong [[San Fierro Triads|Triads]] in [[San Fierro (3D Universe)|San Fierro]]. [[Wu Zi Mu]] goes to great lengths to impress Ran Fa Li, presumably due to Ran Fa Li's higher ranking in the Triads.
+
+He has no speaking lines throughout the game, instead communicating through some grunts that have to be interpreted by [[Su Xi Mu|his assistant and translator]].
+
+===Events of ''Grand Theft Auto: San Andreas''===
+[[Carl Johnson]] does a few jobs for Wu Zi Mu on behalf of Ran Fa Li, namely [[Ran Fa Li (mission)|retrieving an important package]] from the [[Easter Bay Airport|airport]] and helping Ran Fa Li leave [[Chinatown (GTA San Andreas)|Chinatown]] safely by driving [[Rancher (3D Universe)|a vehicle]] [[Lure (GTA San Andreas)|out to the countryside as a decoy]] to lure the [[Da Nang Boys]] coming to kill him away from Wu Zi Mu's [[Wu Zi Mu's Apartment|apartment]], in turn earning him the trust of Ran Fa Li.
+
+Ran Fa Li is also the third stakeholder in the [[Four Dragons Casino]], which is located at the southern tip of [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]] (along with Wu Zi Mu and Carl Johnson).
+
+==Prominent Appearances in Gameplay==
+*[[Ran Fa Li (mission)|Ran Fa Li]]
+*[[Lure (GTA San Andreas)|Lure]]
+*[[Fish in a Barrel]]
+
+{{Clear}}
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+Artwork-GTASA-RanFaLi.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''Ran Fa Li'''.
+RanFaLi-GTASAde.png|'''Ran Fa Li''' in {{TDE}} in {{SA}}.
+</gallery>
+
+==Navigation==
+{{Navbox gtasa characters|state=collapsed}}
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Gangsters]]
+[[Category:Gang leaders]]
+[[Category:San Fierro Triads members]]
+
+[[ar:ران فا لي]]
+[[de:Ran Fa Li]]
+[[es:Ran Fa Li]]
+[[fi:Ran Fa Li]]
+[[fr:Ran Fa Li]]
+[[hu:Ran Fa Li]]
+[[it:Ran Fa Li]]
+[[pl:Ran Fa Li]]
+[[pt:Ran Fa Li]]
+[[ru:Ран Фа Ли]]
+[[tr:Ran Fa Li]]
+[[zh:Ran Fa Li]]

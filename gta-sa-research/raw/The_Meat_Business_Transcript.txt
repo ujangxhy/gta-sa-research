@@ -1,0 +1,89 @@
+{{scriptbox|style=gtasa|
+{{line|background=In the [[Caligula's Palace]] office, [[Kent Paul]] and [[Maccer]] watch [[Ken Rosenberg]] snort [[cocaine]].}}
+{{line|name=Ken|dialogue=Oh, (laughs) baby, I'm back! I AM BACK! Let's get this show on the road!}}
+{{line|name=Paul|dialogue=The good doctor has revived the patient! Sweet as, my son, sweet as!}}
+{{line|name=Maccer|dialogue=(not in subtitles) Thank you, thank you, thank you!}}
+{{line|background=[[Carl Johnson]] enters the office.}}
+{{line|name=CJ|dialogue=So everything's straight now?}}
+{{line|name=Ken|dialogue='''No! Absolutely not!''' I'm still screwed! Absolutely screwed, but at least now I'm in the right frame of mind. What the fuck are we gonna do? Any minute now, some Mafia bullet is going to splatter my brains all over the wall! My wall, my beautiful wall...}}
+{{line|name=Maccer|dialogue=Oooh, you missed a bit. I'll have that.}}
+{{line|name=[[Tony]]|dialogue=Forgeddaboudit!}}
+{{line|name=Ken|dialogue=Oh, that's a great idea, Tony, but you know what? It ain't going to work, OK?! Not this time, no way! No way...}}
+{{line|name=CJ|dialogue=Look, man, relax, get a grip...}}
+{{line|name=Ken|dialogue=Yeah, you're right! I need to get a grip!}}
+{{line|name=CJ|dialogue=Take control...}}
+{{line|name=Ken|dialogue=Yes, grab the bull by the horns!}}
+{{line|name=CJ|dialogue=And show everybody who's boss...}}
+{{line|name=Ken|dialogue=I'm the boss! I am the boss!}}
+{{line|name=CJ|dialogue=Alright then!}}
+{{line|name=Ken|dialogue=All right! Let's tear this town up!}}
+{{line|name=CJ|dialogue=That's what I'm sayin'! So, where we going?}}
+{{line|name=Ken|dialogue=Details, details! Let's just get there!}}
+{{line|name=Paul|dialogue=Rack them up, Maccer. What's the matter with you?}}
+{{line|background=CJ and Ken head outside, get a vehicle and drive to the [[Sindacco Abattoir]].}}
+{{line|name=CJ|dialogue=Okay, boss man, where to?}}
+{{line|name=Ken|dialogue=I gotta get out of this game. Shit, my nose is pissing like a race horse. (sniff) That is ''really'' good stuff. Drive faster, would you please? C'mon, c'mon, c'mon, what are you, an old lady?}}
+{{line|name=CJ|dialogue=So you trying to get out?}}
+{{line|name=Ken|dialogue=Yes, God, yes. I want to do something safe and legal and boring, with people that like me. And have a wife and some kids and get divorced and fight for weekend access, like everybody else.}}
+{{line|name=CJ|dialogue=Listen, I'll see what I can do.}}
+{{line|name=Ken|dialogue=Thanks, I'm just so tired of all this life and death bullshit. (sniff) Oh, shit, shit's all down my (sniff) damned shirt, and everything, ah, that's my best shirt too, doesn't this shirt look good on me?}}
+{{line|background=CJ and Ken arrive at the abattoir.}}
+{{line|name=Ken|dialogue=Okay, let's get this over with. I'm the boss, I am the boss! I'm the boss, I am the boss! Yeah, (sniff) yeah...}}
+{{line|background=CJ and Ken enter the abattoir, but CJ hesitates for a moment.}}
+{{line|name=Ken|dialogue=What's going on? You forget something?}}
+{{line|name=CJ|dialogue=No - look, you go on in, I'm gonna wait.}}
+{{line|name=Ken|dialogue=Uh, look, you gotta come with me this once. If I pull this off, I can carry on, I know I can, but please, you gotta come with me - I-I-I'm gonna squirt my ass all over the floor! Just this once, pleasepleasepleaseplease...}}
+{{line|name=CJ|dialogue=Okay, okay, chill! Shit, this can't look good. Listen, everything's gonna be OK. Just remember; you're the boss!}}
+{{line|name=Ken|dialogue=I'm the boss? I'm the boss. I'm the boss. I'm the boss! I am the boss!}}
+{{line|background=CJ and Ken walk up to [[Johnny Sindacco|Johnny]]'s office, guarded by a few [[Sindacco Crime Family|Sindacco]] goons.}}
+{{line|name=Ken|dialogue=Hey, boys. Tell your boss that Ken Rosenberg is here to see him.}}
+{{line|name=Sindacco Member #1|dialogue=Ken who?}}
+{{line|name=Ken|dialogue=K-K-Ken Rosenberg... (sniff) Ken Rosenberg, the guy that runs this town!}}
+{{line|background=A Sindacco member goes to get Johnny.}}
+{{line|name=Ken|dialogue=So, uh, how's Johnny?}}
+{{line|name=Sindacco Member #2|dialogue=He's doing much better, yeah. He ate something this morning.}}
+{{line|name=Johnny|dialogue=Hey, Ken...}}
+{{line|background=Johnny collides into a wall with his wheelchair.}}
+{{line|name=Johnny|dialogue=Ah, Christ, this fucking thing... (chuckles) Ken, como esta, eh, how you doing?}}
+{{line|name=Ken|dialogue=Pretty good. And you?}}
+{{line|name=Johnny|dialogue=Ah, still got a little bit of the night terrors, (chuckles) touch of diarrhea, but I'll get through it.}}
+{{line|name=Ken|dialogue=Huh, diarrhea, cool! Yeah...}}
+{{line|name=Johnny|dialogue=And, uh, who's this?}}
+{{line|name=CJ|dialogue=How you doing, Johnny?}}
+{{line|background=Recognizing CJ from his [[Fender Ketchup|previous encounter]], Johnny panics.}}
+{{line|name=Johnny|dialogue=It's fucking him...''it's him!'' Oh my... Oh God, it's him! (grunts) My heart! (gasp) My heart...}}
+{{line|background=Johnny groans in pain as he has a heart attack and falls off his wheelchair.}}
+{{line|name=CJ|dialogue=Damn, that ni**a's fucked up!}}
+{{line|background=Realizing that CJ killed their boss, the Sindacco members attack him and Ken and attempt to block them by throwing a [[Molotov Cocktails|molotov cocktail]] in the passage.}}
+{{line|name=CJ|dialogue=Shit, they've started a fire to keep us back! There ''must'' be an extinguisher here somewhere, find it!}}
+{{line|name=Ken|dialogue=Carl, leave no witnesses or we're dead meat!}}
+{{line|background=Ken finds a [[Fire Extinguisher|fire extinguisher]].}}
+{{line|name=Ken|dialogue=Got the extinguisher, I got the extinguisher! Take those guys out and I'll put out the flames! I'm gonna start up the meat track! Stand back, I'm gonna blast these flames!}}
+{{line|background=Ken puts out the flames while CJ kills the Sindacco members that get in their way.}}
+{{line|name=Ken|dialogue=Well, what are you waiting for? Screw this, I'm gonna hide in the freezer!}}
+{{line|background=While CJ takes care of the Sindaccos, Ken goes to hide in the freezer. A while later, Ken exits the freezer once the way is clear.}}
+{{line|name=Ken|dialogue=This is so exciting, Tommy! It's like old times!}}
+{{line|name=CJ|dialogue=Who the fuck is Tommy?}}
+{{line|name=Ken|dialogue=Holy fuck, what is it about my luck? I'm screwed!}}
+{{line|name=CJ|dialogue=Okay, it's clear!}}
+{{line|name=Ken|dialogue=Well done, CJ! Shit, this is insane! I'm never doing drugs again, never ever, ever ever!}}
+{{line|background=CJ kills all of the Sindacco witnesses.}}
+{{line|name=Ken|dialogue=The exit's through the stock house.}}
+{{line|background=CJ and Ken leave the abattoir.}}
+{{line|name=Ken|dialogue=Shit, we gotta get the fuck outta here! We need some wheels!}}
+{{line|background=CJ and Ken find a vehicle and drive back to Caligula's Palace.}}
+{{line|name=Ken|dialogue=Get me back to Caligula's!}}
+{{line|name=CJ|dialogue=You calm down, and follow my lead.}}
+{{line|name=Ken|dialogue=Holy fuck, man, we work well as a team together, huh, CJ? You and me, tearing this town up, nobody can stop us, nobody in the world!}}
+{{line|name=CJ|dialogue=Johnny's a done deal, and so is his gang.}}
+{{line|name=Ken|dialogue=Too fucking right they are, dumb pussies! Oh, ''fuck'', I'm screwed, I'm fucking screwed! What the fuck am I gonna do? Shit, shit, '''SHIIIIIT!'''}}
+{{line|name=CJ|dialogue=You just gotta hang in there, play it dumb. I'll figure out a way to get you out of this.}}
+{{line|name=Ken|dialogue=Just drop me at the airport!}}
+{{line|name=CJ|dialogue=Nah, man, they gotta think you dead. I'll think of something, I promise.}}
+{{line|background=CJ and Ken are back at the casino.}}
+{{line|name=CJ|dialogue=Get in there and be cool, like you've just been out for a relaxing drive or something.}}
+{{line|name=Ken|dialogue=Calm, yeah, calm. I'm calm. Real fucking calm! I'm calm, Mr. Calm, Mr. Calm, that's me, Mr. Calm.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

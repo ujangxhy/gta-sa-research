@@ -1,0 +1,154 @@
+{{Infobox business
+|Name Change   = 
+|type          = vehicles
+|name          = Obey
+|sign          = 
+|image         = Obey-Logo-Badge-GTAO.png
+|caption       = 
+|aka           = 
+|games         = {{Games|V=y|O=y|VI=y}}
+|locations     = 
+|business_type = Automotive manufacturer
+|founded       = 
+|founder       = 
+|ceo           = 
+|owner         = 
+|employees     = 
+|products      = [[#Vehicles|Vehicles]]
+|taglines      = "''Redefining Style.''"
+|bawsaq        = 
+|lcn           = 
+|status        = active
+|website       = 
+|bleeter       = 
+|lifeinvader   = 
+|snapmatic     = 
+}}
+'''Obey''' is a [[Germany|German]] luxury automotive manufacturer appearing in the {{HD}} of the {{S}}.
+
+==Description==
+In {{VO}}, Obey is featured on advertisements around [[Los Santos (HD Universe)|Los Santos]], and it is implied that they are direct competitors with [[Übermacht]].
+
+==Influence==
+The company is the in-game counterpart of {{WP|Audi}}. The logo is based on the four interlinked rings of the Audi logo, although modified. The name "Obey" is an obvious play on "Audi", as Audi means the imperative "hear" in Latin, and it has a similar meaning with obey.
+
+{{Clr}}
+==Vehicles==
+{| class="wikitable sortable" width="100%"
+!width="200px"|Image
+!Name
+!Style
+!Influence<!--Main inspiration only-->
+!Notes
+|-
+|[[File:8FDrafter-GTAOee-FrontQuarter.png|thumb|center|200px|An '''8F Drafter''' in {{O}}.]]
+|[[8F Drafter]]
+|2-door coupé
+|{{WP|Audi A5#RS5|Audi RS5 Coupe (8W6)}}
+|Due to appear in {{VI}}.
+|-
+|[[File:9F-GTAVee-FrontQuarter.png|thumb|center|200px|A '''9F''' in {{V}}.]]
+|[[9F]]
+|2-door coupé
+|{{WP|Audi R8 (Type 42)|Audi R8 (Type 42)}}
+|
+|-
+|[[File:9FCabrio-GTAVee-FrontQuarter.png|thumb|center|200px|A '''9F Cabrio''' in {{V}}.]]
+|[[9F Cabrio]]
+|2-door cabriolet
+|{{WP|Audi R8 (Type 42)#R8 Spyder 5.2 FSI quattro (2010–2012)|Audi R8 Spyder (Type 42)}}
+|Based on the [[9F]].
+|-
+|[[File:10F-GTAOee-FrontQuarter.png|thumb|center|200px|A '''10F''' in {{O}}.]]
+|[[10F]]
+|2-door coupé
+|{{WP|Audi R8 (Type 4S)}}
+|
+|-
+|[[File:10FWidebody-GTAOee-FrontQuarter.png|thumb|center|200px|A '''10F Widebody''' in {{O}}.]]
+|[[10F Widebody]]
+|2-door coupé
+|{{WP|Audi R8 (Type 4S)}}
+|Based on the [[10F]].
+|-
+|[[File:IWagen-GTAOe-front.png|thumb|center|200px|An '''I-Wagen''' in {{O}}.]]
+|[[I-Wagen]]
+|4-door SUV
+|{{WP|Audi Q8 e-tron}}
+|
+|-
+|[[File:Omnis-GTAO-front.png|thumb|center|200px|An '''Omnis''' in {{O}}.]]
+|[[Omnis]]
+|2-door coupé
+|{{WP|Audi Quattro#Quattro - A1 and A2 evolutions|Audi Sport Quattro S1}}
+|
+|-
+|[[File:OmnisEGT-GTAOe-front.png|thumb|center|200px|An '''Omnis e-GT''' in {{O}}.]]
+|[[Omnis e-GT]]
+|4-door saloon
+|{{WP|Audi e-tron GT}}
+|
+|-
+|[[File:Rocoto-GTAVe-front.png|thumb|center|200px|A '''Rocoto''' in {{V}}.]]
+|[[Rocoto]]
+|4-door SUV
+|{{WP|Audi Q5#B8|Audi Q5 (8R)}}<br>{{WP|Porsche Cayenne#92A|Porsche Cayenne (92A)}}
+|
+|-
+|[[File:Tailgater-GTAV-front.png|thumb|center|200px|A '''Tailgater''' in {{V}}.]]
+|[[Tailgater]]
+|4-door saloon
+|{{WP|Audi A6#C6|Audi A6 (C6)}}
+|[[Michael De Santa]]'s [[Personal Vehicles|personal vehicle]] in {{V}}. Due to appear in {{VI|l=n}}.
+|-
+|[[File:TailgaterS-GTAO-front.png|thumb|center|200px|A '''Tailgater S''' in {{O}}.]]
+|[[Tailgater S]]
+|4-door saloon
+|{{WP|Audi A3#RS 3 (2015–2020)|Audi RS3 Saloon (8V)}}
+|
+|-
+|[[File:UnnamedObeySaloon-GTAVI-OfficialScreenshot-RealDimez02.png|thumb|center|200px|An '''unnamed Obey saloon''' in {{VI}}.]]
+|[[Unnamed GTA VI Obey saloon|Unnamed ''GTA VI'' Obey saloon]]
+|4-door saloon
+|{{WP|Audi A7#4K8|Audi S7 (4K8)}}
+|Due to appear in {{VI|l=n}}.
+|-
+|}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+German Coupe - GTAV.jpg|An unreleased car resembling an {{WP|Audi A5}} that appears in an artwork, possibly manufactured by Obey.{{vague}}
+Obey-GTAV-Shirt.png|An '''Obey''' branded shirt seen in [[Premium Deluxe Motorsport]].
+</gallery>
+<gallery position="center" caption="Advertising">
+Obey9F-GTAV-Ad.jpg|Billboard advertising the 9F.
+Obey-9F-GTAV-Poster.png|Advertisement for the [[9F]].
+Obey-Poster-ad-GTAV.png|Poster of [[Tailgater]] in [[Grand Theft Auto V]]
+Obey catalog book cropped.png|Obey catalog book showing the [[9F]]
+</gallery>
+
+==See Also==
+*[[:Category:Vehicles manufactured by Obey]]
+*[[Benefactor]] and [[Übermacht]] {{nd}} Other competing [[Germany|German]] luxury automotive manufacturers in the {{HD}}.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox vehicles|state=collapsed}}
+{{Navbox hd vehicle manufacturers|state=collapsed}}
+}}
+
+[[de:Obey]]
+[[es:Obey]]
+[[fr:Obey]]
+[[hu:Obey]]
+[[pl:Obey]]
+[[pt:Obey]]
+[[ru:Obey]]
+[[zh:Obey]]
+
+[[Category:Businesses in GTA V]]
+[[Category:Businesses in GTA Online]]
+[[Category:Businesses in GTA VI]]
+[[Category:Vehicle manufacturers]]

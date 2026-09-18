@@ -1,0 +1,100 @@
+{{Spoiler}}
+{{Infobox character
+|name           = Maccer
+|image          = Maccer-GTASA.jpg
+|games          = {{Games|SA=y}}
+|mentioned      = {{Games|LCS={{UN|unseen}}}}
+|status         = Alive
+|gender         = M
+|nationality    = {{Country|EN|adj=y}}
+|affiliations   = *[[The Gurning Chimps (3D Universe)|The Gurning Chimps]]
+*[[Kent Paul]]
+*[[The Truth]]
+*[[Carl Johnson]]
+*[[Ken Rosenberg]]
+*[[Madd Dogg (3D Universe)|Madd Dogg]]
+*[[Epsilon Program (3D Universe)|Epsilon Program]] <small>(c. 2004)</small>{{Ref|name=website|ref=[[Maccer.net]]}}
+|dob            = [[1965]]{{Ref|name=biography|ref=[[Maccer.net]] {{nd}} Biography}}
+|pob            = [[England|Salford, England]]{{Ref|name=biography}}
+|businesses     = *Lead Singer of [[The Gurning Chimps (3D Universe)|The Gurning Chimps]]
+*[[Maccer.net]]
+|home           = Salford, England
+|email          = maccer@[[maccer.net]]{{Ref|name=email|ref=[[Maccer.net]] {{nd}} "Contact Maccer"}}
+|voice          = [[Shaun Ryder]]
+}}
+{{Quote|I know many ways to relax, but only one that it is guaranteed to work every time.|Maccer, from [[Maccer.net|his website]]}}
+
+{{Quote|Ooh, you fuckin' twat! Right in the fucking happy sack! |Maccer in [[Saint Mark's Bistro]].|sound=Maccer-GTASA-Quote.ogg}}
+
+'''Maccer''' is a main character in {{SA}}. He is also mentioned in {{LCS}} on [[Head Radio (3D Universe)|Head Radio]], by DJ [[Michael Hunt]].
+
+He is voiced by [[Shaun Ryder]], the lead singer of the {{WP|Happy Mondays}}.
+
+==History==
+===Background===
+Maccer is the lead singer of a [[United Kingdom|British]] rock band called [[The Gurning Chimps (3D Universe)|The Gurning Chimps]], and in [[1992]] is on his first tour of the [[United States of America|States]]. 
+
+Maccer was born in {{WP|Salford, Greater Manchester|Salford}} in [[1965]]. At an unknown point in time, Maccer entered the music scene and became lead singer of a band named The Gurning Chimps, and help form a music style known as "EXTREMELY BAGGY". He became notorious for his hard partying lifestyle and breaking musical taboos. These abuses contributed to a stuttering voice and {{WP|hypersexuality}} in the form of compulsive masturbation. In [[Cut Throat Business|one mission]], when Kent Paul is trying to get Maccer to break his vulgar habit, he only ends up making it worse as Maccer does the act whilst fantasizing about {{WP|Margaret Thatcher}}.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+Under the management of [[Kent Paul]], the Chimps left England in [[1992]] for their first tour of America sometime after [[Are You Going to San Fierro?]], as he can be heard arriving from [[Manchester]] on [[West Coast Talk Radio (3D Universe)|West Coast Talk Radio]]. While in [[Bone County (3D Universe)|Bone County]], [[San Andreas]], Kent Paul took Maccer and the rest of the Gurning Chimps on a "peyote safari" supplied by [[The Truth]]. When The Truth woke up the next morning, he was in a bathhouse in [[Los Santos (3D Universe)|Los Santos]] with the Chimps nowhere to be found. He enlisted the help of [[Carl Johnson]], who drove out to the spot in the desert where they'd last been seen, but found only Paul and Maccer, who were in trouble with some local snake farmers. Although CJ helped Paul and Maccer escape, the other members of the Chimps were presumed dead. Paul said that "drummers and keyboardists are ten-a-penny anyway" and showed no concern over them.
+
+Maccer and Paul continued to follow Carl around, and when he ended up getting involved with [[Ken Rosenberg]] and the [[Mafia]], Paul and Maccer were seized by the [[Leone Crime Family]] as bargaining chips under the orders of [[Salvatore Leone]]. Carl eventually managed to smuggle Paul and Maccer, along with Rosenberg, out of Las Venturas and back to Los Santos, where they stayed for some time at [[Madd Dogg's Crib]].
+
+He is last seen in the final mission, gleefully stating to everyone he is getting breast implants as a joke.
+
+===After the events of ''Grand Theft Auto: San Andreas''===
+Five months after the events of ''Grand Theft Auto: San Andreas'', the other members of The Gurning Chimps were found. Kent Paul tried to claim that they'd never been missing and were just "on break". The Gurning Chimps then embarked on a world tour. In [[1998]], [[Head Radio (3D Universe)|Head Radio]] DJ [[Michael Hunt]] mentions Maccer in ''[[Grand Theft Auto: Liberty City Stories]]'', saying that he threw up on his shoes the night before at a backstage party for The Gurning Chimps. 
+
+At some point after 1992, Maccer was banned from [[Australia]]{{Ref|name=Maccerrumors|ref={{cite web | url = http://web.archive.org/web/20160403220737/http://www.maccer.net/ | title = Maccer.net (Rumors tab)| work = [[Rockstar Games]] | accessdate = | accessyear = }} <small>([[Maccer.net|Archived website]])</small>}}, and went into rehab and was brought into the [[Epsilon Program in 3D Universe|Epsilon Program]] by [[Cris Formage (3D Universe)|Cris Formage]].{{Ref|name=Maccerrumors}} After spending time in rehab, a long series of legal battles interrupted his career.{{Ref|name=Maccermusic|ref={{cite web | url = http://web.archive.org/web/20160403220737/http://www.maccer.net/ | title = Maccer.net (Music tab)| work = [[Rockstar Games]] | accessdate = | accessyear = }} <small>([[Maccer.net|Archived website]])</small>}} As of [[2004]], he was planning a comeback tour.{{Ref|name=comebacktour|ref={{cite web | url = http://web.archive.org/web/20160403220737/http://www.maccer.net/ | title = Maccer.net (Come Back Tour tab)| work = [[Rockstar Games]] | accessdate =| accessyear = }} <small>([[Maccer.net|Archived website]])</small>}}
+
+==Character==
+===Influence===
+Maccer's appearance seems to be based on {{WP|Ian Brown}}, the lead singer of {{WP|The Stone Roses}}, whose song "{{WP|Fools Gold (song)|Fools Gold}}" is featured on [[Radio X]], and whose logo is seen on his bucket hat.
+
+He may also be based on The Stone Roses' drummer {{WP|Reni (musician)|Reni}}, whose signature look included a white bucket hat over his eyes.
+
+Maccer's name could be based on the British rock band {{WP|The Beatles}}' member {{WP|Paul McCartney}}, whose nickname was "Macca", the {{WP|Cockney}} British pronunciation of "Maccer".
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto: San Andreas''===
+*[[The Introduction]]
+*[[Don Peyote]]
+*[[Intensive Care]]
+*[[The Meat Business]]
+*[[Freefall]]
+*[[Saint Mark's Bistro]]
+*[[Vertical Bird]]
+*[[Cut Throat Business]]
+*[[Riot (GTA San Andreas)|Riot]]
+*[[End of the Line]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Maccer-GTASA-artwork.jpg|'''Maccer'''{{'}}s [[Grand Theft Auto: San Andreas/Artwork|artwork]] for {{SA}}.
+Maccer-MaccerWebsite.jpg|'''Maccer'''{{'}}s own image on [[Maccer.net|his website]].
+Maccer-GTASA2.png|The censored animation of '''Maccer''' urinating.
+Maccer-GTASAde.png|'''Maccer''' in {{TDE}} of ''Grand Theft Auto: San Andreas''.
+</gallery>
+
+==Trivia==
+*Maccer once maintained an actual website, [[Maccer.net]], which makes references to the events that happened in ''Grand Theft Auto: San Andreas'', and was used as a promotional website for the game. The website was taken down along with many other peripheral websites for various [[Rockstar Games]] when Adobe Flash was discontinued at the end of December 2020.
+**On his website, Maccer claimed that he invented the music style known as 'extremely baggy'. {{WP|Baggy}} is in fact a style of dance-oriented rock music that originated from {{WP|Manchester}} which [[Shaun Ryder]], Maccer's voice actor, and his {{WP|Happy Mondays}} band were key figures of.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navbox gtasa characters|state=collapsed}}
+
+[[ar:ماكير]]
+[[de:Maccer]]
+[[es:Maccer]]
+[[pl:Maccer]]
+[[pt:Maccer]]
+[[ru:Маккер]]
+[[tr:Maccer]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Music artists]]

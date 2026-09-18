@@ -1,0 +1,113 @@
+{{Disambiglink|For the character in [[Grand Theft Auto Online]], see [[Miguel Madrazo]].}}
+{{Infobox character
+|name            = Miguel
+|image           = <gallery>
+Miguel-GTAIII.jpg|2001
+Miguel-GTALCS.jpg|1998
+</gallery>
+|games           = {{Games|III=y|LCS=y}}
+|gender          = M
+|status          = [[Ransom (GTA III)|Deceased]]
+|pob             = [[Colombia]]
+|dod             = [[2001]]
+|pod             = [[Staunton Plaza]], [[Fort Staunton]], [[Staunton Island]], [[Liberty City (3D Universe)|Liberty City]]
+|cod             = Impaled by a rebar caused by [[Catalina]]
+|home            = [[Liberty City (3D Universe)|Liberty City]]
+|nationality     = {{Country|adj=y|CO}}
+|family          = 
+|affiliations    = *[[Catalina]] {{Small|([[Grand Theft Aero|Formerly]])}} {{Status|D1=y}}
+*[[Colombian Cartel]] {{Small|(Co-leader)}}
+|vehicles        = *[[Cartel Cruiser]]
+*Pink [[Patriot]]
+*Black [[Banshee (3D Universe)|Banshee]]
+|weapons         = [[Micro SMG (3D Universe)|Uzi]]
+|businesses      = Drug dealing
+|voice           = *[[Al Espinosa]] {{Small|(''GTA III'')}}
+*[[Jamie Hector]] {{Small|(''GTA Liberty City Stories'')}}
+}}
+{{Quote|I'm sorry about that crazy bitch, man. They're all the same... please? Por favor??|Miguel to [[Claude]] in the mission [[Grand Theft Aero]].|sound=Miguel-GTAIII-Quote.ogg}}
+{{Quote|Heh heh ha! I like you, Toni. You got big balls - like a bull!|Miguel to [[Toni Cipriani]] in the mission [[Contra-Banned]].|sound=Miguel-GTALCS-Quote.ogg}}
+'''Miguel''' is the tertiary [[antagonist]] of {{III}} and a minor character and [[antagonist]] in {{LCS}}.
+
+He is voiced by [[Al Espinosa]] in ''GTA III'' and [[Jamie Hector]] in ''GTA Liberty City Stories''.
+
+==History==
+===Background===
+Miguel is co-leader of the [[Colombian Cartel]] along with [[Catalina]], and is involved in the gang's narcotics trade.
+
+He was born in [[Colombia]] and at some point prior to [[1998]] moved to [[Liberty City (3D Universe)|Liberty City]], where he joined [[Colombian Cartel]] and soon became a prominent member of the gang.
+
+===Events of ''Grand Theft Auto: Liberty City Stories''===
+Miguel frequently sells [[drugs]] from [[Portland Harbor]] to the [[Leone Crime Family|Leone Family]] and [[Contra-Banned|meets]] [[Toni Cipriani]] in a deal in [[1998]], which is ambushed by the [[Liberty City Police Department (3D Universe)|LCPD]] and [[Federal Bureau of Investigation|FBI]]. Toni escapes with the drugs after seemingly killing Miguel, but he manages to survive.
+
+Over the next three years, Miguel continues to climb the ranks of the Cartel and, following the [[Decoy Disaster|death]] of [[Cisco]] in [[2000]], becomes one of the gang's co-leaders.
+
+===Events of ''Grand Theft Auto III''===
+In [[2001]], Miguel meets [[Catalina]] and [[Claude]] as they arrive in the city and helps them [[Introduction (GTA III)|rob a bank]] as their getaway driver. After Catalina shoots Claude and leaves him for dead, Miguel escapes the police with Catalina. Catalina and Miguel then continue leading the Cartel together and increase the gang's influence in the city by stepping up the production of the drug [[SPANK]] from a freighter in Portland Harbor. They also begin to work against the [[Leone Crime Family|Leone Family]], exchanging Leone secrets for SPANK with [[Luigi's Sex Club 7|barman]] [[Curly Bob]]. Their operations, however, are stopped by [[Claude]] who, under orders from [[Gang Leaders|Don]] [[Salvatore Leone]], [[Cutting the Grass|kills]] Curly Bob and then [[Bomb Da Base: Act II|destroys]] the freighter containing the SPANK factory.
+
+Claude later moves to [[Staunton Island]], where he begins to work for [[Donald Love]], first [[Liberator|rescuing]] the [[Old Oriental Gentleman]] from the Cartel. Love later sends Claude to [[A Drop in the Ocean|collect]] a package from an incoming plane at [[Francis International Airport (3D Universe)|Francis International Airport]] and later has him [[Grand Theft Aero|return]] to collect the real package, having previously sent Claude to collect decoy packages. The package, however, has already been collected by Miguel and Catalina. Claude goes to a construction site in [[Fort Staunton]] and confronts Miguel and Catalina. Miguel attempts to reason with Claude and gives him the package, but is then betrayed and shot by angry Catalina, who jumps down into a skip to escape.
+
+====Death====
+[[Asuka Kasen]], enraged following the [[Waka-Gashira Wipeout!|death]] of her brother [[Kenji Kasen|Kenji]] at the hands of a "Cartel assassin" (actually it was Claude disguised as a Cartel member), begins to torture the injured Miguel for information on the Cartel's operations. After extracting information from Miguel, Asuka sends Claude to stop these Cartel operations, which includes [[Bait|killing]] three Cartel hit squads, [[Espresso-2-Go!|destroying]] the Kappa Coffee House stands (which were fronts to sell SPANK) and destroying a [[Dodo (3D Universe)|plane]] and [[S.A.M.|collecting]] the SPANK packages inside. After collecting the SPANK packages, Claude returns to the construction site and [[Ransom (GTA III)|finds Asuka and Miguel dead]], who were both killed by Catalina (or by other Cartel members) in an attempt to stop Claude's attacks on the Cartel. Claude then investigates Miguel's body, in which a piece of rebar is impaled through the back of his upper spine, and finds a note from Catalina attached to it, before leaving.
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto III''===
+*[[Introduction (GTA III)|Introduction]] {{Small|(Betrayal)}}
+*[[Cutting the Grass]]
+*[[Grand Theft Aero]]
+*[[Bait]]
+*[[Espresso-2-Go!]]
+*[[S.A.M.]] {{Small|(Killed off-screen)}}
+*[[Ransom (GTA III)|Ransom]] {{Small|(Corpse)}}
+
+===''Grand Theft Auto: Liberty City Stories''===
+*[[Contra-Banned]] {{Small|(Can be killed)}} ''{{Small|(non-canon death)}}''
+
+==Gallery==
+===''Grand Theft Auto III''===
+<gallery position="center" spacing="small" widths="270px">
+Miguel-Artwork.jpg|[[Grand Theft Auto III/Artwork|Artwork]] of '''Miguel''' in {{III}}.
+Miguel-GTAIII-Banshee.png|'''Miguel''' driving a [[Banshee (3D Universe)|Banshee]] during the [[Introduction (GTA III)|introduction cutscene]].
+Miguel-GTAIIIde.png|'''Miguel''' in {{TDE}}.
+</gallery>
+
+===''Grand Theft Auto: Liberty City Stories''===
+<gallery position="center" spacing="small" widths="250px">
+ContraBanned-GTALCS-SS18.png|'''Miguel''' dealing with [[Toni Cipriani]] during the mission [[Contra-Banned]] in {{LCS}}.
+Miguel-GTALCS.jpg|Close-up of '''Miguel''' in ''Grand Theft Auto: Liberty City Stories''.
+Miguel-GTALCSBeta.jpg|Early version of '''Miguel''' in the ''Grand Theft Auto: Liberty City Stories'', using his original model from ''GTA III''.
+Miguel-Contra-Banned-GTALCS.png|'''Miguel's''' appearance in the mobile version of ''Grand Theft Auto: Liberty City Stories''. {{Small| (Mission: Contra-Banned)}}
+</gallery>
+
+==Trivia==
+*In the [[Beta Content in GTA III/Missions|beta version]] of {{III}}, during the introduction [[Cutscenes|cutscene]], Miguel would say, "Catalina! Move your ass!"{{Ref|name=BetaDialogue|type=gtaforums|url=https://gtaforums.com/topic/528062-beta-script/|date=12/23/2024}}
+*In the [[Beta Content in GTA Liberty City Stories/Characters|beta version]] of {{LCS}}, Miguel looked more like his ''GTA III'' appearance.
+*Miguel was scheduled to appear in {{A}}, but was cut during development. He is listed in a wishlist of character artworks for cutscenes as of the 26 February 2003 revision of the game's Design Document.{{Ref|name = gtaagdd-artrequirements|type = designdoc|date = 12/25/24|ref  = "Art Requirements"; ''GTA Advance: Game Design Document - Version 1.3, 26th February 2003.'' Digital Eclipse. (Page 79)}}  
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtaiii characters|state=collapsed}}
+{{Navbox gtalcs characters|state=collapsed}}
+{{Colombian Cartel|state=collapsed}}
+}}
+
+[[de:Miguel]]
+[[es:Miguel]]
+[[it:Miguel]]
+[[pl:Miguel]]
+[[pt:Miguel]]
+[[ru:Мигель]]
+[[zh:Miguel]]
+
+[[Category:Characters in GTA III]]
+[[Category:Characters in GTA Liberty City Stories]]
+[[Category:Deceased characters]]
+[[Category:Male characters]]
+[[Category:Antagonists]]
+[[Category:Gangsters]]
+[[Category:Beta content in GTA Advance]]

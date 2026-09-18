@@ -1,0 +1,156 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=Camera pans across [[Vinewood Cemetery]]. [[Big Smoke]] and [[Carl Johnson]] walk up to Carl's [[Kendl Johnson|sib]][[Sweet Johnson|lings]] and [[Ryder]], who have just finished the funeral.
+}}{{line
+|name=[[Big Smoke]]
+|dialogue=I've missed you these five years, man - they onna be real happy to see you. Hey, what's up, y'all? Look who I found hanging around.
+}}{{line
+|name=[[Kendl Johnson|Kendl]]
+|dialogue=Carl, hey, good to see you.
+}}{{line
+|background=Kendl hugs CJ.
+}}{{line
+|name=[[Carl Johnson|CJ]]
+|dialogue=I can't believe she's gone, man.
+}}{{line
+|name=[[Sweet Johnson|Sweet]]
+|dialogue=That's another funeral you ran away from, fool. Just like Brian's.
+}}{{line
+|name=CJ
+|dialogue=Hey, she was ''my'' Momma too.
+}}{{line
+|name=Sweet
+|dialogue=Not for the past 5 years she wasn't, ni**a!
+}}{{line
+|background=Kendl starts walking away.
+}}{{line
+|name=Sweet
+|dialogue=And where the fuck you think you're going?
+}}{{line
+|name=Kendl
+|dialogue=What? Get out my face. I'm going to see Cesar.
+}}{{line
+|name=Sweet
+|dialogue=The hell you are, girl! You ain't messin' with them eses, you know we beefing - they ain't nothin' but a bunch of low lives.
+}}{{line
+|name=Kendl
+|dialogue=Look, I love him! And what the fuck are you?
+}}{{line
+|name=Sweet
+|dialogue=At least I got principles.
+}}{{line
+|name=Kendl
+|dialogue=Oh, and I guess that makes you an upstanding American. Carl, tell him!
+}}{{line
+|name=Sweet
+|dialogue=Carl won't tell me shit, bitch.
+}}{{line
+|name=CJ
+|dialogue=As long as he treats her right. Disrespect you, and he's dead.
+}}{{line
+|name=Sweet
+|dialogue=How the hell you gonna say that? Like it's any business of yours.
+}}{{line
+|name=Kendl
+|dialogue=Fuck you, Sweet. 
+}}{{line
+|name=CJ
+|dialogue=Oh, shit - here we go again.
+}}{{line
+|name=Kendl
+|dialogue=(not in subtitles) Fucking asshole.
+}}{{line
+|name=Sweet
+|dialogue=This shit's real fucked up. Everything!
+}}{{line
+|name=CJ
+|dialogue=What you mean?
+}}{{line
+|name=Sweet
+|dialogue=What, apart from your mother being dead? Things are going real bad. Here, let me show you, running man. Tony's buried over there, Little Devil over there, and Big Devil over there! Man, it's just crazy - everybody just blast on fools first, then ask questions second.
+}}{{line
+|background=CJ, Sweet, Big Smoke and [[Ryder]] walk towards Big Smoke's [[Perennial]]. Suddenly, some [[Ballas (3D Universe)|Ballas]] speed around the corner in a pink [[Voodoo (3D Universe)|Voodoo]].
+}}{{line
+|name=Ryder
+|dialogue=Ballas! Drive-by, incoming!
+}}{{line
+|background= Ballas perform a [[Drive-By Shooting]] as Ryder and CJ dive out of harm's way while Sweet and Big Smoke return fire at the Ballas. Big Smoke's [[Perennial]] is blown up by the Ballas before they drive away.
+}}{{line
+|name=Big Smoke
+|dialogue=Awww, motherfucker, my car!!
+}}{{line
+|background=CJ, Sweet, Smoke and Ryder jump onto some [[BMX (3D Universe)|bikes]] parked across the street from the cemetery.
+}}{{line
+|name=Sweet
+|dialogue=We gotta get back to the hood, man, it's too crazy around here! Grab a bike and pedal. Even you ain't forgotten that. Follow my lead!
+}}{{line
+|background=CJ, Sweet, Big Smoke and Ryder ride their bikes back to [[Grove Street (3D Universe)|Grove Street]] whilst being chased by the Ballas in the Voodoo.
+}}{{line
+|name=Sweet
+|dialogue=Takes you back some, huh, CJ? Yeah!
+}}{{line
+|name=CJ
+|dialogue=Things has changed around here!
+}}{{line
+|name=Sweet
+|dialogue=CJ, watch your back 'round here, man.
+}}{{line
+|name=CJ
+|dialogue=How'd it get so bad? I thought this was Families' Turf?
+}}{{line
+|name=Sweet
+|dialogue=Yeah, it's Temple Drive Families - we don't roll with them no more.
+}}{{line
+|background=CJ, Sweet, Big Smoke and Ryder get to the parking lot under the [[Mulholland Intersection]].
+}}{{line
+|name=Sweet
+|dialogue=Shit! A Ballas car is onto us! Split up!
+}}{{line
+|background=Sweet separates from the group with the Ballas car chasing after him.
+}}{{line
+|name=Ryder
+|dialogue=Keep up, motherfucker!
+}}{{line
+|background=CJ, Ryder and Big Smoke continue their way to Grove Street.
+}}{{line
+|name=Ryder
+|dialogue=You're just a liability, CJ! Why'd you bother coming back?
+}}{{line
+|name=Big Smoke
+|dialogue=Straight back into the game, right dog? Was it this bad before you left? East Coast got you all thinned out, holmes.
+}}{{line
+|background=CJ, Ryder and Big Smoke return to Groove Street, where Sweet joins them.
+}}{{line
+|name=Ryder
+|dialogue=I got with them motherfuckers though - showed them ni**az who's gangsta. Ryder, ni**a!
+}}{{line
+|name=Sweet
+|dialogue=So when you leaving, Carl?
+}}{{line
+|name=CJ
+|dialogue=I ain't sure. Thought I might stay. Things is fucked up.
+}}{{line
+|name=Sweet
+|dialogue=Well, the last thing we need is your help.
+}}{{line
+|name=CJ
+|dialogue=Aw man, I won't let you down, I swear.
+}}{{line
+|name=Sweet
+|dialogue=Hey, we're gonna call up some hood rats and chill the hell out. You want some?
+}}{{line
+|name=CJ
+|dialogue=Nah, I got a whole lot going on, and I'm tired, I'll catch you later.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey yo, just drop in. We all hangin' out.
+}}{{line
+|name=Ryder
+|dialogue=Yeah, and get yourself some colors, fool. And a haircut - it's embarrassing to be seen with you!
+}}{{line
+|background=Sweet, Big Smoke and Ryder ride away and CJ enters the [[Johnson House]].
+}}}}<noinclude>
+</noinclude><noinclude>
+</noinclude><noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

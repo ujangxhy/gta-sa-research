@@ -1,0 +1,350 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Sweet Johnson|Sweet]], [[Ryder]] and [[Big Smoke]] are sitting and watching a porn movie in [[Sweet's House]].
+}}{{line
+|name=Big Smoke
+|dialogue=Damn, that bitch is bad! Oh, yeah!
+}}{{line
+|background=[[Carl Johnson]] enters the room.
+}}{{line
+|name=CJ
+|dialogue=Wassup, y'all!
+}}{{line
+|name=Big Smoke
+|dialogue=Wassup, playa!
+}}{{line
+|name=Sweet
+|dialogue=Wassup, CJ! Turn that TV off right quick. Listen up, fellas...
+}}{{line
+|background=CJ turns the TV off.
+}}{{line
+|name=Sweet
+|dialogue=Like we were saying, no more base in the streets.
+}}{{line
+|name=CJ
+|dialogue=Finally.
+}}{{line
+|name=Sweet
+|dialogue=Peep this - we're gonna unite the Families once more, because the Ballas have been pumpin' our guys full of base for too long while we argue among ourselves. So all the Families' sets are gonna meet down at the Jefferson Motel. I say it's time we went down there and made it official: keep that shit off our streets! I vote I'm our representative on this one.}}{{line
+|name=CJ
+|dialogue=That's right.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, it's all good. If Sweet thinks he can handle it, I'm down with him, man.
+}}{{line
+|name=Sweet
+|dialogue=Alright, let's roll, homies!
+}}{{line
+|name=CJ
+|dialogue=Let's do this.
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, let's go, man.
+}}{{line
+|background=Sweet, CJ and Big Smoke leave Sweet's House, with Ryder following them after he finishes smoking his blunt. They enter Sweet's [[Greenwood (3D Universe)|Greenwood]] and head to the [[Jefferson Motel (3D Universe)|Jefferson Motel]].
+}}{{line
+|name=Ryder
+|dialogue=Say, CJ, you gonna crash the car again?
+}}{{line
+|name=CJ
+|dialogue=Fuck you, Ryder.
+}}{{line
+|name=Sweet
+|dialogue=Ryder, give CJ a break, man, he's practically turned the Grove around by himself.
+}}{{line
+|name=Ryder
+|dialogue=Man, I was just telling a joke on the little n****.
+}}{{line
+|name=CJ
+|dialogue=Everything you ''do'' is a joke, Ryder.
+}}{{line
+|name=Ryder
+|dialogue=That ain't true!
+}}{{line
+|name=Big Smoke
+|dialogue=Ryder, just chill the fuck out, man!
+}}{{line
+|name=Sweet
+|dialogue=Remember, we're reuniting the Families, so no bullshit. Stay cool.
+}}{{line
+|name=Ryder
+|dialogue=You know me, Sweet: cool as a Shaolin monk!
+}}{{line
+|name=Sweet
+|dialogue=Especially you, Ryder.
+}}{{line
+|name=Ryder
+|dialogue=What you mean? I resent your implication and shit.
+}}{{line
+|name=Big Smoke
+|dialogue=Sweet's just saying you're a natural killer, baby. You gotta check yourself to stay cool.
+}}{{line
+|name=Ryder
+|dialogue=Yeah, well, put it like this: I understand what he's trying to say, but I'm always cool, fool!
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, we're all down with that, baby.
+}}{{line
+|background=CJ, Sweet, Smoke and Ryder arrive at the Jefferson Motel. A few members of [[Grove Street Families|the Families]] are seen outside.
+}}{{line
+|name=Sweet
+|dialogue=OK, it's strictly one rep per set. You guys are gonna have to wait here.
+}}{{line
+|name=CJ
+|dialogue=We'll be there just in case, bro.
+}}{{line
+|name=Sweet
+|dialogue=Thanks, homie, but I'm down with these boys.}}{{line
+|background=Sweet gets out of his Greenwood and goes inside the motel.
+}}{{line
+|name=Ryder
+|dialogue=I don't like this, man. Look at all them other family hoods - they used to be Grove Streets!
+}}{{line
+|name=CJ
+|dialogue=Relax, we straight, they straight. How 'bout you, Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, I'm feeling a little exposed, but I'm good!
+}}{{line
+|background=Suddenly, a [[Los Santos Police Department (3D Universe)|police]] [[Police Maverick (3D Universe)|helicopter]] shows up outside of the motel.
+}}{{line
+|name=LSPD Pilot
+|dialogue=This is the Los Santos Police Department, everybody stay where you are!
+}}{{line
+|background=CJ quickly gets out of the Greenwood.
+}}{{line
+|name=CJ
+|dialogue=Oh, shit!
+}}{{line
+|name=LSPD Pilot
+|dialogue= ''(slo-mo)'' All units rock'n'roll!
+}}{{line
+|background=A [[Special Weapons and Tactics (3D Universe)|SWAT]] team rappels down from the helicopter.
+}}{{line
+|name=Ryder
+|dialogue=Man, what you doin'?!
+}}{{line
+|name=Big Smoke
+|dialogue=Carl, get back in, man, we outta here, baby!
+}}{{line
+|name=CJ
+|dialogue=I ain't leaving my brother, I ain't no buster!
+}}{{line
+|name=Ryder
+|dialogue=Man, it's every motherfucker for himself!
+}}{{line
+|background=Big Smoke and Ryder retreat as Smoke takes the driver's seat and drives away. More SWAT teams arrive in [[Enforcer (3D Universe)|Enforcers]] and surround the entrance. CJ goes inside the motel.
+}}{{line
+|name=CJ
+|dialogue=Where the OG's at? I gotta get my brother, Sweet.
+}}{{line
+|name=Families Member
+|dialogue=They were meeting at the back of the motel someplace.
+}}{{line
+|background=CJ goes through the motel shooting all of the SWAT members that get in his way.
+}}{{line
+|name=SWAT Team
+|dialogue=Go, go, go!
+}}{{line
+|name=CJ
+|dialogue=Families! Cops comin' in from behind!
+}}{{line
+|name=SWAT Team
+|dialogue=Get into position! Get some suppressing fire in there! Unit down, repeat, unit down. Gimme some fucking covering fire!
+}}{{line
+|background=CJ shoots down the last remaining SWAT members until he reaches Sweet.
+}}{{line
+|name=Sweet
+|dialogue=What took you? Where's Smoke and Ryder?
+}}{{line
+|name=CJ
+|dialogue=They shook on us!
+}}{{line
+|name=Sweet
+|dialogue=Fuck it, let's get out of here.}}{{line
+|background=Sweet and CJ head to the roof of the motel, only to see the police helicopter again.
+}}{{line
+|name=LSPD Pilot
+|dialogue=This is the Los Santos Police Department, stay where you are!
+}}{{line
+|name=Sweet
+|dialogue=CJ, that chopper's all over us! Hit it!}}{{line
+|background=Sweet and CJ shoot at the police helicopter.
+}}{{line
+|name=Sweet
+|dialogue=CJ, dump on that helicopter!}}{{line
+|name=LSPD Pilot
+|dialogue=This is Buzzard 1, we're taking ground fire!
+}}{{line
+|background=Sweet and CJ damage the helicopter to critical levels.
+}}{{line
+|name=LSPD Pilot
+|dialogue=Mayday, mayday, Buzzard 1 is going down!
+}}{{line
+|background=The police helicopter explodes.
+}}{{line
+|name=Sweet
+|dialogue=C'mon, CJ, let's go.}}{{line
+|background=Sweet and CJ go down the stairs and go into an open street.
+}}{{line
+|name=Sweet
+|dialogue=Aw, shit, what now?}}{{line
+|name=CJ
+|dialogue=It's Smoke and Ryder!
+}}{{line
+|background=Big Smoke and Ryder pull up next to Sweet and CJ.
+}}{{line
+|name=Big Smoke
+|dialogue=Get in!
+}}{{line
+|background=Sweet and CJ enter the back seats of the Greenwood.}}{{line
+|name=CJ
+|dialogue=Hit the gas!}}{{line
+|background=Big Smoke speeds off as LSPD [[Police (vehicle)|patrol cars]] close in on them.}}{{line
+|name=CJ
+|dialogue=Hey, man, I'm running low.
+}}{{line
+|name=Ryder
+|dialogue=I got a 'K here.
+}}{{line
+|name=CJ
+|dialogue=This fucking ''antique?!''
+}}{{line
+|name=Ryder
+|dialogue=Yeah, well, Emmet ain't the Pentagon!
+}}{{line
+|name=CJ
+|dialogue=You got it off ''Emmet?'' Shit...
+}}{{line
+|name=Big Smoke
+|dialogue=CJ, cover the rear!
+}}{{line
+|background=CJ shoots at the patrol cars as a [[Brown Streak|train]] hits some of the police cars.}}{{line
+|name=Sweet
+|dialogue=Man, they got smoked! Did you see that?}}{{line
+|name=CJ
+|dialogue=Damn! That was close!
+}}{{line
+|name=Ryder
+|dialogue=Man, it's getting intense! It's getting worse out here! It's like World War VIII! Hey, CJ, watch to the left!
+}}{{line
+|name=CJ
+|dialogue=Your left, or my left?
+}}{{line
+|name=Ryder
+|dialogue=Hell, I don't know, just shoot everybody, motherfucker!
+}}{{line
+|name=LSPD Pilot
+|dialogue=Four bangers in blue 4-door heading back into South Central.
+}}{{line
+|name=Big Smoke
+|dialogue=Trouble up ahead! Carl, they're all over our ass, baby!
+}}{{line
+|name=Sweet
+|dialogue=CJ, watch our right!}}{{line
+|background=Big Smoke heads in the direction of [[Los Flores]]. Meanwhile, two [[Motor Officer|police bikers]] are sitting on their [[HPV1000]] motorcycles and finishing their donuts.}}{{line
+|name=Police Biker
+|dialogue=Waste of good donuts...
+}}{{line
+|background=The bikers see the blue Greenwood being chased by a police car and engage in the pursuit.}}{{line
+|name=Police Biker
+|dialogue=Let's roll!
+}}{{line
+|name=Big Smoke
+|dialogue=Eyes front, CJ!
+}}{{line
+|background=A police car flips over, while a police biker appears in an alley and hops on the Greenwood's hood. CJ shoots him off.}}{{line
+|name=Police Biker
+|dialogue=Surprise, homeboy!
+}}{{line
+|name=CJ
+|dialogue=Holy shit! Look at that!
+}}{{line
+|name=Big Smoke
+|dialogue=I wish I'd stayed home and watched the fucking game! Carl, behind us! Behind us! Put up your windows!
+}}{{line
+|name=Sweet
+|dialogue=Smoke, what the ''fuck'' are you doing?}}{{line
+|background=Big Smoke drives through a car wash.}}{{line
+|name=CJ
+|dialogue=Dammit, Smoke, I got soap in my eyes! Smoke, you're insane!
+}}{{line
+|name=Big Smoke
+|dialogue=I like things clean!
+}}{{line
+|background=Big Smoke drives back to Jefferson.}}{{line
+|name=Ryder
+|dialogue=Hey, CJ, watch to the left!
+}}{{line
+|name=CJ
+|dialogue=Hey, ain't we been here before?
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, I'm taking what options I have, alright?! Maybe if you have a nice word with these officers, they'll let us on our way!
+}}{{line
+|background=Another police biker shows up and hops on the Greenwood's trunk, proceeding to punch Carl in the face.}}{{line
+|name=Police Biker
+|dialogue=Heads up, brother!
+}}{{line
+|name=Ryder
+|dialogue=Hey, man, some idiot's hanging off the back of the car. Somebody shoot him!
+}}{{line
+|background=CJ shoots the police biker.}}{{line
+|name=Big Smoke
+|dialogue=Oh, shit, all I got in my rearview is bad guys! CJ, cover the rear!
+}}{{line
+|background=CJ fends off the pursuing cop cars as Big Smoke drives through alleyways. Eventually, he encounters a police roadblock.}}{{line
+|name=Big Smoke
+|dialogue=Oh shit! Roadblock up ahead!
+}}{{line
+|background=CJ's [[AK47|rifle]] jams up.}}{{line
+|name=CJ
+|dialogue= The K's jammed!
+}}{{line
+|name=Big Smoke
+|dialogue=Fuck it, I'm going through!
+}}{{line
+|background=Big Smoke runs over two police officers, one of them still on the hood as he drives into a dead end, where another police helicopter is waiting.}}{{line
+|name=Sweet
+|dialogue=CJ, we got the ghetto bird up ahead!
+}}{{line
+|name=LSPD Pilot
+|dialogue=This is LSPD, do not...hey, what the fuck?! '''Too low, you'll kill us all!'''
+}}{{line
+|background=The police helicopter's height is lowered to a near-ground level.}}{{line
+|name=Sweet
+|dialogue=Back up, Smoke, back up!
+}}{{line
+|name=Big Smoke
+|dialogue=Hell no, I'm going through!
+}}{{line
+|name=Ryder
+|dialogue=Oh, man, we're gonna die!
+}}{{line
+|name=CJ
+|dialogue=Oh, '''shit!'''
+}}{{line
+|background=Big Smoke drives through the helicopter's blades and he and his colleagues survive, with the police officer on the hood being chopped into pieces.}}{{line
+|name=Sweet
+|dialogue=Slow down, Smoke, ''slow down!''
+}}{{line
+|name=Big Smoke
+|dialogue=Oh, shit, the brakes is out!
+}}{{line
+|background=The Greenwood smashes through a [[Sprunk (3D Universe)|Sprunk]] billboard and falls into a [[Tanker]] hauling a trailer, which then explodes. Big Smoke, Ryder, Sweet and CJ watch the explosion from above, having bailed out of the car before it hit the billboard.}}{{line
+|name=Big Smoke
+|dialogue=Shit, that's gonna be a hell of a story to tell when we passin' the blunt!
+}}{{line
+|name=Sweet
+|dialogue=Man, that was some serious shit! Woo!
+}}{{line
+|name=Ryder
+|dialogue=Fuck this, we gotta get outta here!
+}}{{line
+|name=Sweet
+|dialogue=Ryder's right, everybody split up, and we'll meet up later.
+}}}}
+
+<noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

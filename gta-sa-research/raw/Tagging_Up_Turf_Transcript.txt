@@ -1,0 +1,129 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Sweet Johnson]] and [[Big Smoke]] are playing [[Basketball]] in the courtyard beside [[Sweet's House]].
+}}{{line
+|name=Sweet
+|dialogue=Come on fat boy, come on fat boy! Fat boy - look at you, look at...
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, yeah, watch out, fool... watch this, watch this...
+}}{{line
+|background=[[Carl Johnson]] enters the courtyard just as Big Smoke scores a slam dunk.
+}}{{line
+|name=Big Smoke
+|dialogue=Ha ha ha, bam!
+}}{{line
+|name=Sweet
+|dialogue=Looks who's here, it's the running man. What, you think you're back on the set?
+}}{{line
+|name=CJ
+|dialogue=I told you that, bro.
+}}{{line
+|name=Sweet
+|dialogue=Your word don't mean ''shit'' around here.
+}}{{line
+|name=CJ
+|dialogue=Come on, man, give me a break.
+}}{{line
+|name=Sweet
+|dialogue=We gotta go hit up the hood.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey CJ.
+}}{{line
+|name=Sweet
+|dialogue=Let 'em know you're back on the set. The Johnson brothers are rolling again.
+}}
+{{line
+|background=Sweet pulls out a [[Spray Can]] and gives it to Carl.
+}}
+{{line
+|name=Sweet
+|dialogue=Take this paint, and go hit shit up. Start with our own set first.
+}}{{line
+|name=Big Smoke
+|dialogue=Later on, we spread out and take the whole hood back.
+}}{{line
+|name=Sweet
+|dialogue=You're already spreading out, fat man. Now let's play. Let's see what you got, porkchop!
+}}{{line
+|background=Some time later, CJ and Sweet leave the courtyard and head to Sweet's [[Greenwood (3D Universe)|Greenwood]].
+}}{{line
+|name=Sweet
+|dialogue=Hey, wait up!
+}}{{line
+|name=CJ
+|dialogue=Ah, thought you'd hang with your brother, huh?
+}}{{line
+|name=Sweet
+|dialogue=What? Ease up, little man. Come on, it's been difficult. You wanna drive?
+}}{{line
+|name=CJ
+|dialogue=Yeah, for sure.
+}}{{line
+|background=CJ and Sweet drive to [[Idlewood]]. Sweet gets out of the car and approaches a [[Ballas (3D Universe)|Ballas]] tag.
+}}{{line
+|background=(If CJ gets out of the Greenwood.
+}}{{line
+|name=Sweet
+|dialogue=<br>*Get in, ni**a! <br>*CJ, for once, don't be a punk!<br>*Don't be a buster, CJ!<br>*CJ, GET IN!)
+}}{{line
+|name=Sweet
+|dialogue=Watch for those rollers as I tag this up.}}
+{{line
+|background=Sweet sprays over the Ballas tag with his own.
+}}{{line
+|name=Sweet
+|dialogue=There's another two Balla tags in the hood. You go get 'em and I'll keep the engine running.
+}}{{line
+|background=CJ proceeds to run around Idlewood searching for the last 2 Ballas tags and sprays over them, then heads back to Sweet's car.
+}}{{line
+|name=Sweet
+|dialogue=C'mon, let's cruise into Ballas territory.
+}}{{line
+|background=CJ and Sweet drive to [[East Los Santos (3D Universe)|East Los Santos]] to spray some more tags.
+}}{{line
+|name=Sweet
+|dialogue=You hit this up here, and I'll go up and do another hood.
+}}{{line
+|background=CJ leaves the car as Sweet drives away. CJ starts spraying more tags. As he moves around the corner, next to [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] are two Ballas talking to each other.
+}}{{line
+|name=Ballas Member
+|dialogue=What the fuck?! Get that fool!
+}}{{line
+|background=CJ kills the two Balla members, sprays the tags, and moves on. CJ comes across the last tag on the roof of a building and sprays it as Sweet pulls up around the corner.
+}}{{line
+|name=Sweet
+|dialogue=Carl, quick, get in!}}{{line
+|background=CJ heads back to Sweet's car and gets in.
+}}{{line
+|name=Sweet
+|dialogue=Get us back to the hood, CJ!
+}}
+{{line
+|background=CJ and Sweet return to [[Grove Street (3D Universe)|Grove Street]].
+}}
+{{line
+|name=Sweet
+|dialogue=Like riding a bike, ain't it, boy?
+}}
+{{line
+|name=CJ
+|dialogue=Yeah, it all comes back.
+}}
+{{line
+|name=Sweet
+|dialogue=How you doin' on the feddy?
+}}
+{{line
+|name=CJ
+|dialogue=I'm kind of short, you know. C.R.A.S.H. took all my paper, man, left me with nothing but small change.
+}}
+{{line
+|name=Sweet
+|dialogue=Here, get yourself a beer or something. I'll catch up with you.
+}}
+}}<noinclude>
+</noinclude><noinclude>
+</noinclude><noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

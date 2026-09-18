@@ -1,0 +1,22 @@
+{{Infobox location
+|neighborhood  = y
+|image         = Redemption-GTA2.png
+|caption       = Overview of Redemption.
+|games         = {{Games|2=y}}
+|location      = [[Residential District]], [[Anywhere City]]
+|pscanner       = PoliceScanner-GTA2-Redemption.ogg
+|map           = Redemption-GTA2-Map.png
+|map_caption   = Location on the map (red).
+}}'''Redemption''' is a neighborhood in the [[Residential District]], [[Anywhere City]] in ''[[Grand Theft Auto 2]]''. It is controlled by the [[Rednecks]].
+
+{{clr}}
+==Navigation==
+{{Gta2 neighborhoods}}
+
+[[de:Redemption]]
+[[pl:Redemption]]
+[[ru:Редемпшен]]
+
+[[Category:Locations in GTA 2 in Residential District]]
+[[Category:Neighborhoods]]
+[[Category:Zones]]

@@ -1,0 +1,25 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=[[Carl Johnson]] gets a phone call from [[Wu Zi Mu|Woozie]].
+}}{{Line
+|name=Woozie
+|dialogue=Carl, it's Woozie, I've got some information for ya.
+}}{{Line
+|name=CJ
+|dialogue=Hey Woozie, what's the business?
+}}{{Line
+|name=Woozie
+|dialogue=My man found that van you were looking for, by the helipad downtown.
+}}{{Line
+|name=CJ
+|dialogue=And Toreno?
+}}{{Line
+|name=Woozie
+|dialogue=Yep, he's there. Apparently, he's about to take some merchandise and cut out by helicopter. They've already started loading boxes.
+}}{{Line
+|name=CJ
+|dialogue=Something about Toreno don't add up. Holler back if you hear something.
+}}{{Line
+|background=CJ heads over to [[Mike Toreno|Toreno]]'s last known location - the helipad at [[San Fierro Police Headquarters]]. Once CJ arrives there and takes care of the guards, the [[Maverick (3D Universe)|helicopter]] takes off. CJ chases down the helicopter and destroys it.
+}}}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

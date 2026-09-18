@@ -1,0 +1,34 @@
+{{Disambiglink|Not to be confused with [[Sweet Johnson]] or [[Carl Johnson]] from the [[3D Universe]]. For other subjects also using the "OG" abbreviation, see [[OG (disambiguation)]].}}
+{{Infobox character
+|name           = Johnson
+|aka            = OG Johnson
+|games          = N/A
+|mentioned      = {{Games|V={{UN|unseen}}}}
+|image          = unknown
+|status         = Unknown
+|home           = [[South Los Santos]], [[State of San Andreas (HD Universe)|San Andreas]]
+|affiliations   = [[Carson Avenue Families]]
+}}
+{{Quote|You know, OG Johnson was gutter as a motherfucker.|[[Carson Avenue Families]] gangster|sound=OGJohnson-GTAV-Quote.ogg}}
+'''OG Johnson''' is an unseen character mentioned in ''[[Grand Theft Auto V]]''.
+
+==History==
+===Background===
+He is an OG (Original Gangster) of the [[Carson Avenue Families]] street gang in [[South Los Santos]], [[State of San Andreas (HD Universe)|San Andreas]].
+
+===Events of ''Grand Theft Auto V''===
+OG Johnson, along with other unseen CAF members, is briefly mentioned by a CAF gangster in South Los Santos when greeting him while playing as [[Franklin Clinton]]. This character is not relevant to the storyline and his whereabouts are unknown.
+
+==Trivia==
+*His name appears to be a reference to the Johnson Brothers ([[Carl Johnson|Carl]] and [[Sweet Johnson|Sweet]]), who led the [[Grove Street Families]] gang from the [[3D Universe]] canon.
+**This is one of the many examples of [[Rockstar Games]] referring to 3D Universe characters as "mythical characters from a bygone era" after the series' reboot with the release of ''[[Grand Theft Auto IV]]''.<ref>{{Quote|...the move to HD created a schism in this fictional universe, rendering CJ, Toni and co, as mythical characters from a bygone era.|Interview with [[Dan Houser]] in [https://www.theguardian.com/technology/gamesblog/2012/nov/12/grand-theft-auto-v-preview-gta-5 The Guardian], about the second reboot of the series.}}</ref>
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{The Families}}
+
+[[Category:Unseen characters]]
+[[Category:Characters with unknown fates]]
+[[Category:Gangsters]]

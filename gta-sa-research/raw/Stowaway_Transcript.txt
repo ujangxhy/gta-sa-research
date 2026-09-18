@@ -1,0 +1,20 @@
+{{Scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] notices some government agents in black [[Bobcat (3D Universe)|Bobcats]] approaching the [[Verdant Meadows Airfield]], along with an [[Andromada]] coming in to land.}}
+{{line|name=CJ|dialogue=Ah, what's Toreno up to now? I'm feeling a little exposed here!}}
+{{line|background=CJ goes to take cover behind crates and notices the agents collecting some supplies. He's soon joined by [[Mike Toreno]].}}
+{{line|name=Toreno|dialogue=What's your take on this?}}
+{{line|name=CJ|dialogue=Damn! I thought they was your people.}}
+{{line|name=Toreno|dialogue=Listen, Carl. We've got a problem. Some traitors from another department think they can help the "overseas situation" by financing militaristic dictators in exchange for arms contracts.}}
+{{line|name=CJ|dialogue=Hey, ain't that exactly what you do?}}
+{{line|name=Toreno|dialogue=Well, kind of, but we get to pick our dictators, degenerates that ''we'' can control. We try to stay away from these guys with principles, cause that just muddies the waters.}}
+{{line|name=CJ|dialogue=Yeah, OK.}}
+{{line|name=Toreno|dialogue=OK, so, of course these idiots have stolen a consignment of land mines and they plan to offload them in the Middle East, and cause a little ruckus, and everybody goes crazy and has a lot of problems... I mean, Carl, do you like maiming people? Just curious.}}
+{{line|name=CJ|dialogue=Maiming? Some people, shit...}}
+{{line|name=Toreno|dialogue=Anyway, the point is - you and me, Carl, we're the same. Now yeah, it's a dirty job, but somebody's got to do it. But if you screw this up, it causes a tinder box situation all over Latin America and the Middle East. Now look, I spoke to the big man. You've got clearance to eliminate these fuckers. How's that, huh?}}
+{{line|name=CJ|dialogue=Man, kill government agents?}}
+{{line|name=Toreno|dialogue=Kill, schmill, come on, don't look at it that way, will you? Think of it as pest control. It works for me. All right, come on, I can't stay here now. I'm too hip, I gotta go. OK? I'm outta here.}}
+{{line|background=While Toreno leaves, CJ grabs a bike and speeds off to reach Andromada's ramp before the plane takes off. CJ is trapped on board the plane high up in the sky, and a barrel comes rolling down. CJ dodges the barrels and CIA agents, and steals a [[parachute]] from one of the agents. CJ then plants a [[Satchel Charges|satchel charge]] and jumps off the plane, freefalling as the plane begins to explode.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

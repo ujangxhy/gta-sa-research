@@ -1,0 +1,357 @@
+{{Disambiglink|"Patrick" redirects here. For other uses of the name, see [[Patrick (disambiguation)]].}}
+{{Spoiler}}
+{{infobox character
+|name           = Patrick McReary
+|image          = 
+<gallery>
+PatrickMcReary-GTAO-2019Portrait.png|2019
+PatrickMcReary-GTAV2.png|2013
+PatrickMcReary-GTAIVpc.jpg|2008
+</gallery>
+|games          = {{Games|IV=y|EFLC=y|V=y|O={{EEEV}}{{DLC|mpheist3}}}}
+|aka            = 
+*Packie
+*P
+*{{H:title|Used by Lester Crest|Pat-meister}}
+*{{H:title|Used by Trevor Philips|Generic goon}}
+|gender         = M
+|status         = {{H:title|Canonically survives the events of ''GTA V'', as he's still alive in 2019 during the events of ''GTA Online'': The Diamond Casino Heist|Alive}}
+|dob            = {{Circa}} [[1979]]
+|pob            = [[Dukes]], [[Liberty City (HD Universe)|Liberty City]], [[State of Liberty (HD Universe)|Liberty]]
+|home           = 
+*[[McReary Residence]], [[Meadows Park]], [[Liberty City (HD Universe)|Liberty City]], [[State of Liberty (HD Universe)|Liberty]] {{Small|(Formerly)}}
+*[[Alta Place]], [[Hawick]], [[Los Santos (HD Universe)|Los Santos]], [[State of San Andreas (HD Universe)|San Andreas]] <sup>{{H:title|Random event in GTA Online|(?)}}</sup>
+|nationality    = {{Country|adj=y|IE|US}}
+|family         = 
+*[[Maureen McReary]] {{Small|(mother)}}
+*[[Mr. McReary]] {{Small|(father)}} {{Status|D1=y}}
+*[[Kate McReary]] {{Small|(sister)}} {{Status|D2=y}}
+*[[Derrick McReary]] {{Small|(brother)}} {{Status|D1=y}}
+*[[Francis McReary]] {{Small|(brother)}} {{Status|D2=y}}
+*[[Gerald McReary]] {{Small|(brother)}} {{Status|I=y}}
+|affiliations   = 
+*[[McReary Crime Family]]
+*[[Pegorino Family]] {{Small|(Associate/Formerly)}}
+*[[Niko Bellic]] {{Small|{{H:title|If Packie is chosen for the Paleto Score, he believes that Niko is dead, appearing that the latter cut off contact|(Formerly)}}}}
+*[[Elizabeta Torres]] {{Small|(Formerly)}} {{Status|I=y}}
+*[[Gordon Sargent]] {{Small|(Formerly)}}
+*[[Michael Keane]] {{Small|(Formerly)}} {{Status|D1=y}}
+*[[Packie's Accomplice|Unnamed accomplice]]
+*[[Lester Crest]] {{Small|(Optional)}}
+*[[Michael De Santa]] {{Small|(Optional)}}
+*[[Franklin Clinton]] {{Small|(Optional)}}
+*[[Trevor Philips]] {{Small|(Optional)}}
+*{{GTAOP}} {{Small|(Optional)}}
+|vehicles       = 
+*Irish [[Oracle XS|Oracle]]
+*[[Presidente]]
+*White [[Schafter]]
+*Red [[Comet]]
+*Green [[Vincent]]
+|occupation     = 
+*Robber
+*Drug dealer
+*Freelance gunman
+|voice          = [[Ryan Johnston]]
+|mocap          = Ryan Johnston {{Small|({{H:title|Motion capture performance for heist crew members in GTA V are generically shared between each other during cutscenes.|''GTA IV''}})}}
+}}
+{{Quote|Well, Niko. That was a whole lot of effort for no fucking reward. Story of my life.|Patrick McReary to [[Niko Bellic]] at the end of the mission [[Diamonds Are a Girl's Best Friend]].|sound=PatrickMcReary-GTAIV-Quote.ogg}}
+'''Patrick "Packie" McReary''' (Irish: '''Pádraig Mac Ruairí''') is a central character and a [[Friendships in GTA IV|friend]] in {{IV}}, a cameo character in {{TLAD}}, a supporting character in {{TBOGT}}, and a minor character in {{V}}. In the latter, he appears in a [[Random Events in GTA V#Getaway Driver|random event]] and based on its outcome, he can become an optional [[Heist Crew Members in GTA V|heist accomplice]]. In the {{O}} update [[GTA Online: The Diamond Casino Heist|The Diamond Casino Heist]], he returns as a [[Heist Crew Members in GTA Online|recruitable member]] for the heist in [[2019]].
+
+Packie is a member of the [[McReary Crime Family]] and the youngest brother of the [[McReary Family|McReary family]] itself.
+
+He is portrayed by [[Ryan Johnston]].
+
+==History==
+===Early Life===
+Packie was born to [[Maureen McReary]] and an [[Mr. McReary|unnamed father]]. His siblings consisted of older brothers [[Derrick McReary|Derrick]], [[Francis McReary|Francis]] and [[Gerald McReary|Gerald]], with [[Kate McReary|Kate]] being born two years after him. Born and raised in [[Dukes]], he had never been outside [[Liberty City (HD Universe)|Liberty City]] {{nd}} except for [[State of Alderney|Alderney State]] {{nd}} until after the events of ''GTA IV''.
+
+Packie's father was a violent, perverted alcoholic whom Packie blames for their mob's loss of influence. He says of his father, "I used to think I loved him, but then I realised I hated him". He eventually admits to Niko that his father used to molest both him and Gerry. He developed a drug habit at the age of fourteen and claims he was constantly staying home from school to roll joints for his father.
+
+Packie became involved in crime at an early age, having chosen Gerry as a role model and began spotting for his brother's scores when he was in middle school. His first conviction was in [[1997]] when he was arrested for stealing a car aged eighteen. The following year, he secured his first felony conviction when he was arrested for grand larceny, but he was (presumably) acquitted. He was arrested again in [[2000]] for hijacking. Packie's last known arrest was in [[2005]] when he was caught with several grams of cocaine in the presence of a known [[Prostitutes|prostitute]]. At some point, his father apparently committed suicide, and Gerry became the head of the McReary crime family, although Packie admits that he initially suspected Gerry of killing their father.
+
+===Events of ''Grand Theft Auto IV'' and ''Episodes from Liberty City''===
+By the time of ''Grand Theft Auto IV'', Packie largely operates independently of the Irish Mob, committing stick-up robberies with his friends [[Michael Keane]] and [[Gordon Sargent]], and working as a hired gun for the [[Pegorino Crime Family]].
+
+Packie was introduced to [[Niko Bellic]] through cocaine dealer [[Elizabeta Torres]]. Packie and Niko quickly befriend each other after escaping from a [[Luck of the Irish|botched cocaine deal together]]. Impressed, Packie called up Niko and introduced him to his family and his gang. They all participated in robbing other criminal gangs (first [[Harboring a Grudge|robbing]] the [[Liberty City Triads (HD Universe)|Triads]] and [[Waste Not Want Knots|then]] the [[Ancelotti Crime Family]]), and eventually the [[Bank of Liberty (Chinatown)|Chinatown branch]] of the [[Bank of Liberty (HD Universe)|Bank of Liberty]] in [[Algonquin]] during a [[Three Leaf Clover|heist]]. Packie purchases a red [[Comet]] with his share of the takings.
+
+After the bank robbery, Packie continued working with Niko, particularly in [[Diamonds Are a Girl's Best Friend|the kidnapping]] of [[Gracie Ancelotti]] for Gerry. Unknown to Packie, Niko [[Blood Brothers|murdered one of his brothers]]. Nonetheless, Niko's assistance in [[Undertaker|suppressing an attack on the funeral of the same brother]] cemented their friendship. Packie trusted Niko enough to encourage him to date Kate, the youngest of the McReary clan. Though he was confident she wouldn't "put out" {{nd}} as he regularly states {{nd}} his bypassing of his protective instinct showed that he held a distinct level of trust in Niko, and a hope that he would treat Kate with respect. That is, if the player doesn't choose the [[Endings in GTA IV#Revenge|Revenge]] ending.
+
+If the player chooses Revenge, it will lead to Kate's [[Mr. & Mrs. Bellic#"Revenge"|death]], and also lead to an immense heartbreak for Packie. He will call the player post-[[Credits in GTA IV|credits]] and express to Niko immense heartbreak and survivor's guilt about his and his brothers' actions, saying tearfully, "It was us McReary men who were the sinners! We're paying for that ourselves, she didn't have to pay too!". He also explains to Niko that he has to stay with his mother, since he is all she has left now with Kate being gone, insinuating to the player that Francis McReary and Derrick McReary, if either one not previously killed by Niko, are either now killed, captured, or cut off completely by Maureen.
+
+In the [[Credits in The Ballad of Gay Tony|credits]] of ''The Ballad of Gay Tony'', Packie is seen leaving a [[Taxi (HD Universe)|taxi]] and entering [[Francis International Airport (HD Universe)|Francis International Airport]] carrying a duffel bag, presumably filled with money. In the following scenes, a plane is seen leaving the runway heading for an unknown destination. By [[2013]], he was living in [[Los Santos (HD Universe)|Los Santos]].
+
+Whether or not the reason(s) of Packie's departure are related to either his mother not wanting him around at that point of time, the possible deaths of his other brothers, and/or even just the guilt of Kate's death is left to speculation. It could be a mix of all these factors, but it is still left ambiguous. Regardless, Packie departs and leaves Liberty City, in pursuit of a new chapter to his life.
+
+===Events of ''Grand Theft Auto V''===
+{{Quote|I knew this guy in Liberty City, he was hardcore, you know? A killer. But sorta confused too. He had these cold eyes, but we connected. Anyway, man. I helped him out. I can help you too, if you let me. My partner's an asshole, but I'm useful, I swear it.|Patrick McReary to [[Trevor Philips]]<!--when approaching the Altruist Cult--> during his [[Random Events in GTA V|random event]].|sound=PatrickMcReary-GTAVe-Quote.wav}}
+
+Packie appears again in ''Grand Theft Auto V'', appearing early in the game as he [[Random Events in GTA V#Getaway Driver|holds up]] a [[Dollar Pills|drug store]] in [[Strawberry]] with an [[Packie's Accomplice|unnamed accomplice]]. Once the player finds him, he requests that they find a getaway car and help them escape. The player may do so, or assist the store owner and kill Packie and his accomplice, although killing them is considered [[Canon|non-canon]]. If they help them instead, Packie will thank the player and become available as a [[Heist Crew Members in GTA V#Gunmen|gunman]] in further [[heists]]. Packie has some of the highest possible skills for a gunman available, but takes 12% percent of the cut.
+
+{{Quote|Thanks for the help. If you've ever got a job coming up, try and find me. The name's Packie McReary of Dukes, Liberty City.|Packie after being aided in escaping the [[Los Santos Police Department (HD Universe)|police]].}}
+Interestingly, if Packie is chosen as a gunman, he mentions his [[Three Leaf Clover|biggest robbery]] during the drive from [[Sandy Shores]] to [[Paleto Bay]] in [[The Paleto Score]]. On the journey to the bank, the gang will talk about their first robberies. Packie mentions that [[Michael Keane|one of the gunmen]] was killed by one of the [[Eugene Reaper|hostages]], and goes into detail regarding how they escaped. He will also mention his brother, Derrick, who was also a gunman in the Bank of Liberty robbery, and reveal that he is now dead. Lastly, he mentions [[Niko Bellic]], the fourth gunman. Packie says that he had lost contact with Niko after leaving Liberty City, and that he doesn't even know what became of him, presuming him to be dead. It's left up to uncertainty and for the player to decide for themselves as to whether or not Packie meant it truthfully that Niko is dead, or is speaking symbolically since he just hasn't contacted him.
+
+{{Dialogue|p1=Lester Crest|d1=McReary? He was a part of a well known Liberty City stickup crew. Small world.|p2=Michael De Santa|d2=I got a good feeling about him.|quotedetail=Lester and Michael about Packie.}}
+
+Packie can be selected in all the heists of the game. In either approach of [[The Jewel Store Job]], he manages to successfully get all the jewels in the glass cabinets, helping the crew reach the maximum possible score of the job. In the loud approach, he also stops the manager of the jewelry store before she screams for help.
+
+In The Paleto Score, Packie survives the heist and provides good assistance against the authorities. Michael even compliments Packie's help by saying that he is glad they chose him for the score.
+
+In [[The Bureau Raid]], he survives the explosion during the escape in the covert approach, while in the roof approach he does a good job with no consequences.
+
+In the subtle approach of [[The Big Score (GTA V)|The Big Score]], if placed as one of the gunmen, he does not drop any gold bars while he is loading them into the [[Gauntlet]]s, preventing the crew from losing any of the final score.
+
+In the obvious approach, if he is selected as either the first or second gunman, there are no consequences to the heist. Previous experience in past heists won't change Packie's performance in any of the scores; he does a good job in all of them even if he is selected for the first time.
+
+===Events of ''Grand Theft Auto Online''===
+Packie is still alive in 2019, thus confirming that the canon option for his random encounter is to help him and his accomplice escape. He appears in [[GTA Online: The Diamond Casino Heist|The Diamond Casino Heist]] update, and has a new [[Random Events in GTA Online#Police Rescue|random encounter]] which sees him locked up in the back of a [[Police Transporter]] with an unnamed accomplice. He will call out for help if the player gets close, whereupon the player can choose to attempt a rescue. If the player successfully stops the van, escapes from the police and drives to a designated remote area, then Packie will be freed. [[Lester Crest]] will send a text message suggesting McReary owes a debt to the player that can be repaid by participating in the heist.
+
+Similarly to his role in the ''Grand Theft Auto V'' heists, Packie is a good option for the casino heist, as he has average skills and an intermediate cut, of only 8%.
+
+In the [[The Diamond Casino Heist/Preparations|preparation]] mission [[Heist Prep: Unmarked Weapons (The Diamond Casino Heist)|Unmarked Weapons]], Packie will provide the following loadouts:
+
+{| class="article-table"
+! width="15%" |Approach
+! width="10%" |Loadouts
+! width="25%" |Primary Weapon
+! width="25%" |Secondary Weapon 
+! width="25%" |Support Weapon 
+|-
+| rowspan="2" |[[Casino Heist - Aggressive]]
+|1
+|[[Heavy Shotgun]]
+*Extended clip
+*Grip
+*Flashlight
+|[[SMG (HD Universe)|SMG]]
+*Extended clip
+*Scope
+*Flashlight
+|[[Sticky Bombs]]
+|-
+| 2
+|[[Combat MG]]
+*Scope
+*Grip
+|SMG
+
+*Extended clip
+*Scope
+*Flashlight
+|Sticky Bombs
+|-
+| rowspan="2" |[[Casino Heist - The Big Con]]
+|1
+|[[Sawed-Off Shotgun]]
+|[[Ceramic Pistol]]
+|N/A
+|-
+|2
+|[[Compact Rifle]]
+*Extended clip
+|Ceramic Pistol
+|N/A
+|-
+| rowspan="2" |[[Casino Heist - Silent & Sneaky]]
+|1
+|[[Combat PDW]]
+* Extended clip
+* Scope
+*Clip
+*Flashlight
+|[[Pistol .50]]
+*Suppressor
+*Flashlight
+|[[Stun Gun]]
+|-
+|2
+|[[Assault Rifle]]
+*Suppressor
+*Scope
+*Grip
+*Flashlight
+|Pistol .50
+
+*Suppressor
+*Flashlight
+|Stun Gun
+
+|}
+
+==Character==
+===Personality===
+On the surface, Packie portrays himself as strong and without feeling. But when drunk or otherwise confiding in Niko, he is shown time and time again to be suppressing deeply painful emotions. For example, he will lament that "the world is ugly and unkind", question what being a man is all about, and contemplates suicide. He has an addictive personality, as shown by his habitual use of cocaine and prostitutes. He doesn't seem to seriously consider immediately and directly killing himself, but does glamorize the idea that he will die young of a drug overdose. Compared to Niko, Packie is equally capable of violence and criminal activity whilst appearing to show little or no remorse. He does, however, still hold certain moral standards; if the player kills too many hostages during the mission [[Three Leaf Clover]], the mission will fail and Packie will say that he doesn't take "bloody money". Also, after the trio manage to find a getaway car, Packie laments Michael Keane's death during the robbery, exclaiming that "he [Packie] could've been nice to him once in his fucking life", showing that Packie cared about his now-late friend/partner-in-crime. 
+
+Packie's cocaine addiction has caused him numerous problems. He claims that he can't look for women without cocaine in his system and when he's with women, he spends his time in the bathroom snorting rails of coke, which lowers his sex drive (he calls this a "catch 22"). Kate claims that Packie is very overprotective of her and he will violently attack anyone who he thinks is looking at her "wrong".
+
+===Appearance===
+====''Grand Theft Auto IV'' and ''Episodes from Liberty City''====
+Packie is slightly shorter and slenderer than Niko. He also has a long scar under his left eye, possibly from a drunken fight. His nose appears to be slightly crooked, hinting that it may have been broken. He wears a white long-sleeved undershirt, green polo shirt, blue jeans and sneakers that look very similar to the ones at the [[Russian Shop]]. He has green eyes with a grey tint, and a buzz cut hairstyle with visible sideburns. He has noticeable skin damage, probably due to cocaine use.
+
+====''Grand Theft Auto V'' and ''Online''====
+Packie appears, but looks very different from his ''Grand Theft Auto IV'' look. He is seen with considerably more scars, light stubble, and looks much older. The mole on the top right corner of his lip is more noticeable and has developed wrinkles around his eyes. His eyes appear as a lighter auburn and are less distressed and bloodshot. His outfits are determined by his appearance in heists; his default appearance consists of a tan flight jacket, jeans, and black sneakers. His nostrils are also more enlarged than they were five years previously in ''GTA IV''. All of these cosmetic changes are likely due to his habitual cocaine use.
+
+===Friendship===
+At some point after completing Three Leaf Clover, Packie calls Niko to do a friend activity with him. After this event is completed, Niko will become friends with him. Packie is one of five friends Niko will make within the game, and is available between 4 PM and 6 AM. He is available for six different activities: [[Bowling]], [[Darts]], [[Drinking]], [[Pool]], Show, and [[Strip Club]]. He is the only friend that cannot be taken out to eat. If the player brings Packie to any restaurant, the yellow arrow corona will not pop up and Niko can enter and purchase food as normal.
+
+When Packie's "Like Stat" rises above 75%, the player will unlock his Special Ability. Packie's Special Ability allows Niko to call Packie and ask him to prepare a [[Car Bomb|car bomb]], which can be used to take down difficult targets. This ability can be useful in certain situations and missions. When the player requests a bomb, Packie will inform Niko of its location. Once Niko has located the bomb, he can detonate it by calling Packie. Receiving Packie's friendship bonus will award the player the "[[Dial B for Bomb]]" [[Achievements and Trophies in GTA IV|trophy/achievement]].
+
+<gallery position="center" spacing="small" widths="270px">
+PackieMcReary-GTAIV-BombSize.jpg|[[Niko Bellic|Niko]] and the [[Car Bomb|car bomb]].
+PackieMcReary-GTAIV-BombView1.jpg|The bomb.
+</gallery>
+
+He likes it when Niko drives fast, saying things such as "If you have somewhere to be then you may as go at pace. I like it!" and "This is the way to do it, Niko." He also enjoys fighting while on friend activities, and {{nd}} as with all friends {{nd}} will assist in any combat during the activity.
+
+===Skills (''GTA V'')===
+Packie's Heist Skills for ''GTA V'':
+*Max Health*
+*Accuracy*
+*Shoot Rate*
+*Weapon Choice*
+
+===Murders Committed===
+*[[Eugene Reaper]] {{nd}} Murdered during a [[Three Leaf Clover|bank]] [[I Luv LC|heist]] by him and Derrick in retaliation for killing [[Michael Keane]].
+
+===LCPD Database Record===
+{{LCPDDB
+|firstname = Patrick "Packie"
+|surname = McReary
+|imagename = PackieMcReary-GTAIV-mugshot.jpg
+|age = 29
+|pob = Dukes, Liberty City
+|affiliations = Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
+|record = 
+1997 - Grand Theft Auto<br>
+1998 - Grand Larceny<br>
+2000 - Hijacking<br>
+2005 - Possession Controlled Substance: Cocaine<br>
+|notes = 
+- Youngest brother and employee of Gerald McReary.<br>
+- Suspected in a number of robberies and hijackings.<br>
+- Arrested with several grams of cocaine in the presence of a known prostitute.<br>
+- Believed to be working as muscle for the Alderney-based Pegorino Crime Syndicate.<br>
+|status = 
+|incar = y
+|wanted = Armed Robbery
+|hangout =
+}}
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto IV''===
+*[[First Date (GTA IV)|First Date]] {{Small|(Cameo)}}
+*[[Luck of the Irish]]
+*[[Have a Heart]] or [[Call and Collect]] {{Small|(Post-mission phone call)}}
+*[[Harboring a Grudge]] {{Small|(Boss)}}
+*[[Waste Not Want Knots]] {{Small|(Boss)}}
+*[[Three Leaf Clover]] {{Small|(Boss)}}
+*[[Tunnel of Death]]
+*[[Undertaker]] {{Small|(Boss)}}
+*[[I'll Take Her]] {{Small|(Phone call)}}
+*[[Ransom (GTA IV)|Ransom]] {{Small|(Boss/Post-mission phone call)}}
+*[[She's a Keeper]]
+*[[Diamonds Are a Girl's Best Friend]]
+*[[Out of Commission]] {{Small|(Post-mission phone call/Revenge)}}
+
+===''The Lost and Damned''===
+*[[End Credits (The Lost and Damned)|End Credits]]
+
+===''The Ballad of Gay Tony''===
+*[[I Luv LC]]
+*[[Ladies' Night]]
+*[[Ladies Half Price]]
+*[[End Credits (The Ballad of Gay Tony)|End Credits]]
+
+===''Grand Theft Auto V''===
+*[[Random Events in GTA V|Getaway Driver]] {{Small|(Can be killed) ''(non-canon death)''}}
+*[[The Jewel Store Job]] {{Small|(Optional)}}
+*[[The Paleto Score]] {{Small|(Optional)}}
+*[[The Bureau Raid]] {{Small|(Optional)}}
+*[[The Big Score (GTA V)|The Big Score]] {{Small|(Optional)}}
+
+===''Grand Theft Auto Online''===
+====The Diamond Casino Heist====
+*[[Random Events in GTA Online#Police Rescue|Police Rescue]]
+*[[Casino Heist]] {{Small|(Optional)}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+PatrickMcReary-GTAIV-Artwork.png|[[Grand Theft Auto IV/Artwork|Artwork]] of '''Patrick'''.
+PatrickMcReary-GTA4-policecomputer.JPG|[[Police Computer|Police computer]] information on '''Packie'''.
+PatrickMcRearyIV.png|'''Packie''' in [[Luck of the Irish]].
+DriveBy-GTA4-NPC.jpg|A pre-release [[Grand Theft Auto IV/Screenshots|screenshot]] featuring '''Packie''' [[Drive-By Shooting|drive-by shooting]] at the [[Liberty City Police Department (HD Universe)|LCPD]].
+PatrickMcReary-GTAIV.jpg|'''Packie''' in [[Three Leaf Clover]].
+PackieWantsumMunney.jpg|'''Packie''', alongside his associates, during [[Three Leaf Clover]].
+DiamondsAreAGirlsBestFriend-GTAIV-meeting.jpg|[[Diamonds Are a Girl's Best Friend|The exchange]] between the [[McReary Crime Family]] and the [[Ancelotti Crime Family|Ancelottis' associates]].
+PackieSittingOnCouch-GTAIV.png|'''Packie''' in {{IV}}.
+Credits-TBOGT-Packie.png|'''Packie''' leaves [[Liberty City (HD Universe)|Liberty City]].
+PatrickMcReary-GTA5.jpg|'''Packie''' in {{V}} {{Small|(original version)}}.
+PatrickMcReary-GTAV.png|'''Packie''' in ''GTA V'' {{Small|([[Grand Theft Auto V: Enhanced Edition|enhanced version]])}}.
+PackieMcRearyHeistSheet-GTAV-StatProgression.jpg|'''Packie's''' [[Heists|heist]] sheet in ''GTA V'' (L-R: Base stats, after one heist and after two or more heists).
+TheJewelStoreJob-GTA5.png|'''Packie''' preparing to rob [[Vangelico]] with [[Michael De Santa|Michael]].
+PackieMcReary-GTAV.jpg|'''Packie''' in [[The Bureau Raid]].
+Director Mode Actors GTAVpc Heists N Packie.png|'''Packie''' in [[Director Mode]].
+PatrickMcReary-GTAO-ArrestedInPoliceTransporter.png|'''Packie''' and another unnamed accomplice arrested in {{O}}.
+PatrickMcReary-GTAO-RescuedPoliceTransporter.png|Rescued in [[Del Perro]] by the {{GTAOP}}.
+</gallery>
+
+==Trivia==
+===General===
+*Not counting [[:Category:Radio DJs|radio characters]] and celebrities with their [[Universes|different reality versions]] (e.g. [[Lazlow Jones]]), Patrick McReary and [[Johnny Klebitz]] are the two characters with the most physical appearances in the series, appearing in five total games. 
+*According to [[Gerald McReary|Gerald]], Packie has a tattoo of his own name on one of his arms, though it is never seen in any game.
+*In {{IV}}, Packie's favorite radio station is [[Liberty Rock Radio]] and he will respond positively if the player switches to this station whilst in a vehicle, claiming he wants it to play at his funeral. In {{V}}, Packie's favorite radio station is [[Los Santos Rock Radio]].
+*He will sometimes refer to [[Niko Bellic|Niko]] as "boyo", which traditionally refers to someone younger than oneself, despite Niko being one year older than Packie. He also calls [[Franklin Clinton|Franklin]], [[Michael De Santa|Michael]], [[Trevor Philips|Trevor]] and the {{GTAOP}} "kid", though only Franklin and [[Character Creator|optionally]] the {{O}} protagonist are younger than him.
+
+===''Grand Theft Auto IV''===
+*If the player positions the camera in such a way that they can see inside Packie's head, they will see a small cube with Packie's balaclava texture from the [[Three Leaf Clover|bank robbery]].
+
+<gallery position="center" spacing="small" widths="270px">
+PatrickMcReary-GTAIV-BrainBox.jpg|'''Packie's''' brain-box.
+PatrickMcReary-GTAIV-BrainBoxAnimation.gif|With animation.
+</gallery> 
+
+*Packie will don a unique helmet when riding with the player on a [[Motorcycles|motorcycle]]. His helmet is dark green, an obvious reference to his [[Ireland|Irish]] heritage.
+*Packie sings "{{WP|Danny Boy}}" during one of the [[drinking]] outings with Niko.
+*Packie dislikes playing [[darts]], as he claims that it is "boring", despite darts being a traditional Irish game and Packie being proud of his Irish roots, as he states himself. However, he only voices his disliking if the player beats him.
+*There are a few hidden carjacking quotes from Packie in ''GTA IV'' when bringing him home from a [[Friendships in GTA IV|friend activity]]. They can only be heard if the player parks in the marker so that the passenger side door is blocked. Packie will punch Niko and can say lines such as: "''This car weren't bought by me but it's mine!''", or "''{{URL|https://www.youtube.com/watch?v{{=}}c93G4VuZtVc|I'm taking this thing back!}}",'' after which he will switch to the driver's seat for a few moments before getting out of the car and disappearing as usual. [[Roman Bellic|Roman]], [[Brucie Kibbutz|Brucie]], [[Little Jacob]], and [[Dwayne Forge|Dwayne]] also have their own hidden carjacking quotes as well, which can be prompted during friend activities.
+*Packie is right-handed, though his [[Grand Theft Auto IV/Artwork|artwork]] shows him fighting from a stance called "{{WP|Southpaw stance|southpaw}}", which is largely used by left-handed people.
+*During a drinking session with Niko, Packie has dialogue which suggests he may have been molested or sexually coerced at a young age. He says to Niko, "Let me think, shut up and let me think, let me be. The whole of me life, no one ever let me be, do this Packie, go there, hit him, touch me there...You're sick, you're all fucking sick, every last one of you." During his very last sober dialogue, he admits to Niko that he and his brother Gerry were indeed molested by [[Mr. McReary|their father]].
+
+===''Grand Theft Auto V'' and ''Online''===
+*If playing as Trevor, the player can take Packie and [[Packie's Accomplice|his friend]] to the [[Altruist Cult]]. If taken to the Altruist Cult, Packie will mention how he used to hate going [[bowling]] and playing darts in [[Liberty City (HD Universe)|Liberty City]], but admits he misses it after spending so much time in [[Los Santos (HD Universe)|Los Santos]]. As they get closer to the [[Altruist Camp]], he will begin to talk about his friendship with Niko Bellic. 
+*Packie seems to have an affinity for {{WP|Reality television|reality TV}}, which he mentions during mission dialogue in ''GTA IV'' and in dialogues during the [[Random Events in GTA V#Getaway Driver|random event]] encounter while driving up to the Altruist Cult as Trevor in ''GTA V''.
+*If assisted in his random encounter in ''GTA V'', Packie states that his fellow accomplice is the only person that he knows in Los Santos. However, if chosen for [[The Jewel Store Job]] (his next possible appearance), he will somewhat contradict this by saying that he has met many people since moving there, speaking of their generally self-centred nature. However, he maybe just doesn't like many people in Los Santos, or has been comparing their attitudes to people from Liberty City.
+*His reappearance in [[2019]] (in {{O}}) clearly confirms all his possible deaths in ''GTA V'' to be [[Canon|non-canon]]. 
+**Additionally, all his voice lines in ''GTA Online'' seem to be reused from ''GTA V'', probably due to [[Ryan Johnston]] being inactive during the production of [[GTA Online: The Diamond Casino Heist|The Diamond Casino Heist]] update.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtaiv characters|state=collapsed}}
+{{Navbox tbogt characters|state=collapsed}}
+{{Navbox gtav characters|state=collapsed}}
+{{Navbox gtao characters|state=collapsed}}
+{{McRearyFamily|state=collapsed}}
+}}
+
+[[de:Patrick McReary]]
+[[es:Patrick McReary]]
+[[hu:Patrick McReary]]
+[[nl:Patrick McReary]]
+[[pl:Patrick McReary]]
+[[pt:Patrick McReary]]
+[[ru:Патрик Макрири]]
+
+[[Category:Characters in GTA Online: The Diamond Casino Heist]]
+[[Category:Characters in GTA V]]
+[[Category:Characters in TBOGT]]
+[[Category:Characters in GTA IV]]
+[[Category:Male characters]]
+[[Category:Gangsters]]
+[[Category:Gang leaders]]
+[[Category:Friends]]
+[[Category:Heist Crew Members]]
+[[Category:Mission givers]]
+[[Category:McReary crime family members]]
+[[Category:Random Encounters]]

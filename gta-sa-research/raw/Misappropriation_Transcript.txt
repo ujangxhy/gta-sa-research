@@ -1,0 +1,26 @@
+{{Scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] visits [[C.R.A.S.H.]] at [[C.R.A.S.H. House|their house]] in [[Prickle Pine]], where he finds [[Frank Tenpenny]] and [[Eddie Pulaski]] preparing a grill.}}
+{{line|name=Tenpenny|dialogue=Hello, Carl. Been a long time, huh?}}
+{{line|name=CJ|dialogue=(sarcastically) Yeah, I was starting to miss you, guys.}}
+{{line|name=Tenpenny|dialogue=Now, why don't I believe you? Get over here!}}
+{{line|background=CJ walks closer to Tenpenny and Pulaski.}}
+{{line|name=Tenpenny|dialogue=Now things have developed since the last time we met. Despite our best efforts, the gig's nearly up.}}
+{{line|name=CJ|dialogue=I'm sure you'll find some way to keep your badge, your kind always do.}}
+{{line|name=Tenpenny|dialogue=You still don't get, do you, Carl? ''This ain't about keeping some fucking badge!''}}
+{{Line|name=Pulaski|dialogue=Hey, listen to the man.}}
+{{line|name=Tenpenny|dialogue=We're all the same, Carl - you, me. We're all trying to pull ourselves out of the hole. Somebody steps on me, I gotta step on you.}}
+{{Line|name=Pulaski|dialogue=Where's Hernandez with that fucking meat? He's been gone too long, Tenpenny.}}
+{{line|name=CJ|dialogue=(laughs) Getting a little edgy, fellas?}}
+{{line|background=Tenpenny punches CJ in the stomach.}}
+{{line|name=Tenpenny|dialogue=How'd you like that, you piece of shit? That give you any idea how edgy I am?}}
+{{line|background=Pulaski fires up the grill with a huge fireball.}}
+{{Line|name=Pulaski|dialogue=Woah! What the fuck?}}
+{{line|name=Tenpenny|dialogue=Get up, bitch!}}
+{{line|background=CJ gets up.}}
+{{line|name=Tenpenny|dialogue=You paying attention? Now, there's a ruined town out west of here, Aldea Malvada. And there's some piece of shit DEA officer meeting with an FBI agent with a dossier. Now you get the dossier and you make both of them disappear.}}
+{{line|background=CJ walks off and heads to [[Aldea Malvada]], where the target is guarded by [[Drug Enforcement Administration|DEA]] and [[Federal Bureau of Investigation|FBI]] agents. He kills the targets and gets the dossier.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

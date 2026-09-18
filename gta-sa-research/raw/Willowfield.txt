@@ -1,0 +1,111 @@
+{{Infobox_location
+|image = Willowfield-GTASA.png
+|games = {{Games|SA=y}}
+|location = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+Willowfield-GTASA-Map.jpg|Willowfield
+Willowfield-GTASA-LosSantosMap.jpg|Los Santos
+Willowfield-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|neighborhood = y
+|pscanner       = PoliceScanner-GTASA-Willowfield.ogg
+}}'''Willowfield''' is a district in southeastern [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]. The districts of [[Idlewood]], [[Ganton]] and [[East Beach]] are located to the north, while the [[Los Santos International Airport (3D Universe)|Los Santos International Airport]] and [[Ocean Docks]] are situated to the south. The district of [[El Corona]] can be found to the west of Willowfield, and [[Playa del Seville]] is located to the east.
+
+==Description==
+Willowfield is a well-known stronghold for the [[Ballas (3D Universe)|Ballas]] gang, particularly the [[Rollin' Heights Ballas|Rollin' Heights]] and [[Kilo Tray Ballas|Kilo Trays]] sets. The history of the area is unknown, although it is likely that the [[Grove Street Families]] (specifically the [[Seville Boulevard Families]] set) controlled the area at one point, as [[Emmet]], a Seville gang member, lives in Willowfield. The area is also very wide, and can be described as a low-income district with a high crime rate, along with run-down single-storey houses and housing projects. The area has a moderately high Hispanic and Latino population, along with some Caucasian and African-American people. The neighborhood also has numerous businesses, including a [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] restaurant. Eastern Willowfield is primarily designated for industries, as there are many industrial structures and places there such as railroad tracks and warehouses.
+
+==Influence==
+Willowfield is based on {{WP|Wilmington, Los Angeles, California|Wilmington}} but takes its name from the {{WP|census-designated place}} of {{WP|Willowbrook, California|Willowbrook}} in {{WP|Los Angeles County, California|Los Angeles County}}, {{WP|California}}. However, the [[Willowfield Homes]] projects are based on {{WP|Nickerson Gardens}} in {{WP|Watts, Los Angeles|Watts}}.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+The Rollin' Heights Ballas and Kilo Tray Ballas, two subsets of the Ballas, use Willowfield as a base from which to attack both Ganton and Playa del Seville, both Grove Street Families and Seville Boulevard Families territories respectively. [[Carl Johnson]] enters Willowfield a few times during the storyline; some instances are [[Nines and AK's|for weapons]], [[Cesar Vialpando (mission)|to modify low riders]], and [[Drive-Thru|to perform drive-by shootings]] on Ballas gang members. Depending on the player's actions, Willowfield can be captured and claimed as a territory of the Grove Street Families.
+
+==Homes==
+*[[Willowfield Safehouse]]
+
+==Residents==
+*[[Carl Johnson]] (after purchasing the Willowfield Safehouse)
+*[[Emmet]]
+
+==Landmarks==
+*[[6th Street Plaza]]
+*[[Electrical Substations]]
+
+==Streets==
+*[[6th Street]]
+
+==Businesses==
+*[[Willowfield Homes]]
+*[[Willowfield Junkyard]]
+*[[1 Hour Photo]] (within 6th Street Plaza)
+*[[24 Hour Motel]]
+*[[98¢ Store]] (various)
+*[[Ammu-Nation (3D Universe)|Ammu-Nation]]
+*[[Beauty on 6th]] (within 6th Street Plaza)
+*[[Body World]] (within 6th Street Plaza)
+*[[Cluckin' Bell (3D Universe)|Cluckin' Bell]]
+*[[Emmet's]]
+*[[Exotic Boutique]]
+*[[Florists]] (within 6th Street Plaza)
+*[[Hong Kong Deli]] (within 6th Street Plaza)
+*[[Launderland Coin Laundry]]
+*[[Lavanderia]]
+*[[Liquor (3D Universe)|Liquor]]
+*[[Liquor Mart]]
+*[[Loco Low Co.]]
+*[[Manchap Bldg.]]
+*[[Pawn Shop]] (various)
+*[[S&O Automatic Trans Specialist]]
+*[[Security Storage]]
+*[[Sushi Man]] (within 6th Street Plaza)
+*[[TG Stages]]
+*[[Tony's Liquor]]
+*[[U.S. Mail]]
+*[[Wholesale Produce]]
+
+==Weapons==
+*[[Chainsaw]] {{nd}} Behind a big trailer in a [[Willowfield Junkyard|junkyard]] with a fossil fuels billboard above the entrance
+*[[Pistol (3D Universe)|Pistol]] {{nd}} At Emmet's after completion of [[Nines and AK's]].
+
+==Pickups==
+*Two [[Body Armor]] pickups
+
+==Collectibles==
+*Six [[Tags|gang tags]]
+
+==Vehicles==
+*[[Sabre]] (sometimes parked in one-way parking lot)
+*[[Primo (3D Universe)|Primo]] (sometimes in parking lot)
+*[[Bravura]] (sometimes in parking lot)
+*[[Savanna]] (parked in the driveway of a house down the street from [[Loco Low Co.]] after completion of the mission [[Cesar Vialpando (mission)|Cesar Vialpando]])
+
+==Other==
+*Snack [[vending machine]] {{nd}} At 6th Street Plaza
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+WillowfieldSafehouse-GTASA-Exterior.jpg|Carl Johnson's safehouse in '''Willowfield'''.
+</gallery>
+
+==Trivia==
+*On the original [[PlayStation 2|PS2]] version of the game, the area containing the flood control east of the safehouse is unnamed on the map.
+*On the official map poster, Willowfield is spelled Willow Field.
+
+==See Also==
+*[[Banning]] {{nd}} {{V}} equivalent of Willowfield.
+
+==Navigation==
+{{Gtasa neighborhoods|state=collapsed}}
+
+[[Category:Neighborhoods]]
+[[Category:Locations in GTA San Andreas in Los Santos]]
+[[Category:Zones]]
+
+[[de:Willowfield]]
+[[es:Willowfield]]
+[[pl:Willowfield]]
+[[pt:Willowfield]]
+[[ru:Уиллоуфилд]]
+[[uk:Вайллоуфілд]]

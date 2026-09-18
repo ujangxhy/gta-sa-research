@@ -1,0 +1,178 @@
+{{Infobox mission
+|name = Running Dog
+|image = RunningDog-GTASA-Mission.png
+
+|caption = [[Big Smoke]] attacking a [[Los Santos Vagos (3D Universe)|Vagos]] gang member.
+|game           = {{games|SA=y}}
+|type           = SA
+|for = {{For|game=SA|smoke}}
+|location = [[Big Smoke's House]], [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]]
+|target = [[Vagos gang members (Running Dog)|Vagos gang member]]
+|reward = [[Respect]]
+|fail = *[[Wasted]]
+*[[Busted]]
+*[[Big Smoke]] dies
+*[[Glendale (3D Universe)|Glendale]] destroyed
+*The [[Los Santos Vagos (3D Universe)|Vago]] [[Carniceria El Pueblo|escapes]] {{H:title|The target escapes or if the player chases him for too long after the latter gets into the car|<small>[?]</small>}}
+|unlocks = [[Wrong Side of the Tracks]]
+|unlockedby = [[OG Loc (mission)|OG Loc]]
+|todo =
+*Get into Big Smoke's <font color=#484576>'''car.'''</font>
+*Drive Big Smoke to the <font color=#D1BC86>'''meet.'''</font> If you need a weapon, go to Emmet's house.
+*Chase down the <font color=#AB3736>'''gang member'''</font>.
+}}{{Dialogue|p1=Big Smoke|d1= Hey - excuso me, José, yo soy El Grando Smokio, and I want that grass? Comprende?|p2=LS Vagos|d2=Eh, fuck you cabrón.|p3=CJ|d3=What?|p4=Big Smoke|d4=Now that ain't nice. Coughio up el weedo, before I blow your brains out all over the patio.|quotedetail=[[Big Smoke]] tries to get [[weed]] from a [[Los Santos Vagos (3D Universe)|Vagos]] member.|sound=RunningDog-GTASA-Quote.ogg}}
+'''Running Dog''' is a mission in ''[[Grand Theft Auto: San Andreas]]'' given to [[protagonist]] [[Carl Johnson]] by [[Grove Street Families]] member [[Big Smoke|Melvin "Big Smoke" Harris]] from his [[Big Smoke's House|home]] in [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Description==
+Carl goes to Smoke's house. Upon arriving there, he finds [[Frank Tenpenny|Dr. Officer Frank Tenpenny]] and [[Eddie Pulaski|Officer Eddie Pulaski]] leaving. Smoke informs Carl that they are attempting to extract information from him. Smoke tells CJ that his cousin Mary is coming to the town from Mexico and he's going to pick her up and get challenged to a cousin by these gangster Vagos.
+
+The two drive to a [[Marble Del Rancho|place]] to meet two [[Los Santos Vagos (3D Universe)|Vagos]] [[Vagos gang members (Running Dog)|gang members]], with Carl realising what they're really there for. After a short mixed Spanish conversation, Smoke knocks one out using a [[Baseball Bat|baseball bat]] while the other runs away. Carl is tasked with chasing down and killing the Vago, who will run between buildings and over fences to try and lose Carl. Two Vagos members outside [[E-W Liquor]] will start shooting at Carl as he gets near. If the escaping Vago is not killed in time, he will enter a [[Sentinel]] as a passenger, and Carl has to get another vehicle and chase him down. The Sentinel starts off driving randomly, but if the mission is still not completed after three minutes, the Vagos will start driving towards [[Las Colinas]], where a short cutscene will play showing the Vago exiting the passenger side of the car and running away on foot, failing the mission.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Get into Big Smoke's <font color=#484576>'''car.'''</font>
+*Drive Big Smoke to the <font color=#D1BC86>'''meet.'''</font> If you need a weapon, go to Emmet's house.
+*Chase down the <font color=#AB3736>'''gang member'''</font>.
+
+==Help Text==
+{{Help Text|You can only use the Super Sprint for a short time before becoming tired.}}
+{{Help Text|The more you sprint, the higher your stamina will become, allowing you to exert yourself for longer.}}
+
+==Deaths==
+*Two [[Vagos gang members (Running Dog)|Vagos members]] - Killed by Big Smoke and Carl Johnson for insulting them.
+
+==Reward==
+The reward for this mission is increased [[respect]]. The mission [[Wrong Side of the Tracks]] is unlocked.
+
+==Transcript==
+{{/Transcript}}
+
+==Post-Mission Phone Call==
+''If mission fail, Smoke calls CJ as fat.''
+*'''[[Big Smoke]]''': Yo, Carl. It's Smoke.
+*'''Carl Johnson''': Hey, Smoke.
+*'''Big Smoke''': Hey, Carl. I don't mean no disrespect, so don't take it like that. Uh, I gotta give you some advice.
+*'''Carl Johnson''': Heh, what?
+*'''Big Smoke''': The Gym, my friend. You letting yourself go.
+*'''Carl Johnson''': That's a bit much, coming from you, huh?
+*'''Big Smoke''': Hey look, Carl. I'm big bone, but I'm still an athlete. You letting yourself go, my friend. And to be honest with you, it's breakng my heart.
+*'''Carl Johnson''': Give me a break. I ain't as fat as you!
+*'''Big Smoke''': I'm trying, I'M TRYING! And I'm trying to help you help yourself, my brother. The Gym, Carl. You hear me?
+*'''Carl Johnson''': Screw you, man.
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="250px" bordersize="small">
+RunningDog-GTASA-SS1.png|[[Carl Johnson|CJ]] comes to see [[Big Smoke|Smoke]] at his [[Big Smoke's House|house]] in [[Idlewood]].
+RunningDog-GTASA-SS2.png|As he approaches the door, the door to the house opens and [[Frank Tenpenny|Dr. Tenpenny]] comes out.
+RunningDog-GTASA-SS3.png|Dr. Tenpenny gets in CJ's face and shouts "boo!".
+RunningDog-GTASA-SS4.png|CJ insults Dr. Tenpenny as he walks down the porch with [[Eddie Pulaski|Pulaski]].
+RunningDog-GTASA-SS5.png|Dr. Tenpenny tells CJ that he'll "see him around".
+RunningDog-GTASA-SS6.png|CJ wonders what [[C.R.A.S.H.]] was doing over at Smoke's house.
+RunningDog-GTASA-SS7.png|Smoke comes out of the house and tells CJ that Dr. Tenpenny and Pulaski keep coming over and bothering him.
+RunningDog-GTASA-SS8.png|Smoke says that Dr. Tenpenny and Pulaski think that he's "Mr. Big".
+RunningDog-GTASA-SS9.png|Though Smoke assures CJ that he doesn't tell C.R.A.S.H. anything about [[Grove Street Families|GSF]] business.
+RunningDog-GTASA-SS10.png|Smoke says that all he cares about is his friends, CJ included.
+RunningDog-GTASA-SS11.png|CJ greets Smoke.
+RunningDog-GTASA-SS12.png|Smoke tells CJ that their gang is really important and that CJ should know it.
+RunningDog-GTASA-SS13.png|Smoke asks CJ if he's down with going and representing GSF in some business.
+RunningDog-GTASA-SS14.png|CJ agrees.
+RunningDog-GTASA-SS15.png|Smoke tells CJ that his cousin is arriving to [[Los Santos (3D Universe)|Los Santos]] from [[Mexico]] and that they should go and pick "her" up.
+RunningDog-GTASA-SS16.png|CJ tells Smoke that they should go.
+RunningDog-GTASA-SS17.png|CJ getting into Smoke's [[Glendale (3D Universe)|Glendale]].
+RunningDog-GTASA-SS18.png|CJ now needs to drive Smoke to the meet with his cousin. He's reminded to visit [[Emmet's]] place if he needs a gun.
+RunningDog-GTASA-SS19.png|On the way to the meet, CJ asks Smoke why he wanted CJ to tag along.
+RunningDog-GTASA-SS20.png|Smoke says that he just wanted more people with him to get onto the carpool lane.
+RunningDog-GTASA-SS21.png|CJ doubts this.
+RunningDog-GTASA-SS22.png|Smoke tells CJ not to worry about it.
+RunningDog-GTASA-SS23.png|CJ asks Smoke if he understood everything correctly.
+RunningDog-GTASA-SS24.png|Smoke affirms CJ's questions and tells him that him and his cousin go "way back".
+RunningDog-GTASA-SS25.png|CJ still doubts Smoke's story of going to meet his cousin.
+RunningDog-GTASA-SS26.png|Smoke asks CJ to not be biased against him.
+RunningDog-GTASA-SS27.png|Smoke says that everybody is his cousin, so no matter what CJ thinks, they are going to see his cousin.
+RunningDog-GTASA-SS28.png|Smoke and CJ heading to the meet.
+RunningDog-GTASA-SS29.png|Smoke and CJ arriving at the meet.
+RunningDog-GTASA-SS30.png|As Smoke and CJ drive down a street in [[East Los Santos (3D Universe)|East Los Santos]], Smoke tells CJ that his cousin is on the street.
+RunningDog-GTASA-SS31.png|Smoke describes his cousin as 'sweet', 'sticky' and 'fresh off the plantation'.
+RunningDog-GTASA-SS32.png|Smoke tells CJ to pull up and let Smoke talk.
+RunningDog-GTASA-SS33.png|CJ says that he should've known Smoke wasn't actually going to see his cousin.
+RunningDog-GTASA-SS34.png|CJ and Smoke pull over by two [[Los Santos Vagos (3D Universe)|Vagos]] gang members.
+RunningDog-GTASA-SS35.png|Smoke starts talking to the two gangbangers in broken [[Spain|Spanish]].
+RunningDog-GTASA-SS36.png|Smoke tells the two gangbangers that he wants the [[Weed|marijuana]] they possess.
+RunningDog-GTASA-SS37.png|One of the gangbangers insults Smoke.
+RunningDog-GTASA-SS38.png|Smoke says that the gangbanger's words are "not nice".
+RunningDog-GTASA-SS39.png|Smoke threatens the gangbangers and tells them to hand over the drugs before he kills them.
+RunningDog-GTASA-SS40.png|The gangbangers insult Smoke again and walk off.
+RunningDog-GTASA-SS41.png|CJ and Smoke are left in defeat.
+RunningDog-GTASA-SS42.png|CJ suggests getting a gun and killing the two gangbangers.
+RunningDog-GTASA-SS43.png|Smoke gets a [[Baseball Bat|baseball bat]] and gets out of the car.
+RunningDog-GTASA-SS44.png|CJ encourages Smoke and tells him to get them.
+RunningDog-GTASA-SS45.png|As Smoke gets near them, he smashes the Vagos member that insulted him twice over the head with a baseball bat and kills him.
+RunningDog-GTASA-SS46.png|Smoke taunts the Vagos member he just killed.
+RunningDog-GTASA-SS47.png|The second Vagos member runs off.
+RunningDog-GTASA-SS48.png|CJ and Smoke give chase to the Vagos member.
+RunningDog-GTASA-SS49.png|CJ chases the Vagos member while Smoke stays behind.
+RunningDog-GTASA-SS50.png|Smoke barely walks down the stairs.
+RunningDog-GTASA-SS51.png|Smoke is out of breath and tells CJ to chase the Vagos member and finish him off.
+RunningDog-GTASA-SS52.png|The Vagos member trying to escape CJ.
+RunningDog-GTASA-SS53.png|CJ must chase the gangbanger down and kill him.
+RunningDog-GTASA-SS54.png|CJ chasing the Vagos gangster.
+RunningDog-GTASA-SS55.png|After catching up to him, CJ kills him.
+RunningDog-GTASA-SS56.png|Vagos gangbanger killed; mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|JKclnwZ0PKE|275px|center}}
+{{#ev:youtube|RKAfUhEzuzg|275px|center}}
+{{#ev:youtube|deYxyb1JKwk|275px|center}}
+
+==Oversights==
+{{Main|Grove Street Games/Errors}}
+In the 2014 release of the Mobile version, the outsourced [[Grove Street Games]] studio (then known as War Drum Studios) purposely disabled the "Super Sprint" feature introduced by this mission for the touchscreen controls.
+
+In the 2021 release of ''[[Grand Theft Auto: The Trilogy - The Definitive Edition|The Definitive Edition]]'' version by Grove Street Games (which is essentially a remastered version of the Mobile version for consoles and PC with Touchscreen UI hidden by default), the "Super Sprint" remains absent from the game. The instruction prompts during the chase will still counterintuitively mention "Super Sprint" despite the player not being able to perform it in this version.
+
+==Trivia==
+===Gameplay===
+*If the Sentinel is destroyed or the driver is killed before the Vago runs to it, he will just flee from the scene with a random NPC scream, giving the player time to kill him.
+*If the running Vago is killed while in sight of the Sentinel, after the mission is completed, the Sentinel driver will drive the vehicle away rapidly.
+*The Sentinel is locked if the driver is waiting for the Vago in it. If the driver is killed by whatever reason, Carl can enter the vehicle and it can be kept after killing the Vago, but it will lock itself if the player simply gets out of the car and fails to leave the door open.
+*After failing the mission, if Carl has over 50% fat, he will receive a phone call from Smoke shortly afterwards, who tells Carl that he is "letting himself go" and needs to visit the Gym, and Carl declines his suggestion. This can be seen [https://www.youtube.com/watch?v=l6ObsxniZOc here].
+*This is the only time the interior of Big Smoke's house is seen (at least part of it). Outside of this cutscene, if managing to go through the building, the interior will be absent, as it is scripted to spawn only in the cutscene.
+*Even though there's no monetary reward for completing the mission, the Vagos member drops a large amount of [[Money|cash]] upon death and a [[Pistol (3D Universe)|pistol]], similarly to [[Crack Dealers|drug dealer]] [[pedestrians]].
+*On some occasions, if the player attempts to shoot the running Vago in the head after he gets into the vehicle, not only will he drop money and a pistol, but also an extra [[Micro SMG (3D Universe)|Micro SMG]] that he has used to perform a drive-by shooting on CJ.
+*The destination of the Vagos ride is the house with the green door in Las Colinas. This can be seen [https://youtu.be/IZv0Mth9NQQ?t=233 here]. Allowing the Vagos to reach the house will result in a mission failure.
+
+===Story===
+*The name of the mission is likely a reference to the pejorative {{WP|Running dog}}, which refers to an unprincipled person who helps someone more powerful than themselves. This is likely a foreshadowing of Smoke's betrayal, describing his relationship with Tenpenny which was visually hinted at in the opening cutscene of the mission.
+*Big Smoke says his cousin is called "Mary", which is a reference to Mary Jane, slang for marijuana.
+*The line the second Vagos member uses roughly translates to, "fuck you, dumbass," and afterwards, "fuck your mother, asshole."
+*In this mission, it is revealed that Big Smoke knows how to speak (some) Spanish.
+*Earlier during the game's development, this mission also required Carl to drive Smoke back home. CJ asked Smoke about Tenpenny's visit at the start of the mission, which Smoke replied that he does not know who Tenpenny is. It is speculated that part was cut because it was strongly foreshadowing Smoke's [[The Green Sabre|betrayal]]. The part can be seen [https://www.youtube.com/watch?v=1hnZysidtkI here].
+*The song in the background during the cutscene of Smoke meeting with the Vagos is "Sidewalk Killer" by I-Roy, which can be heard on [[K-JAH West]].
+
+==Video Walkthroughs==
+<gallery position="center">
+GTA San Andreas - Walkthrough - Mission 14 - Running Dog (HD)|Original Version
+GTA San Andreas - iPad Walkthrough - Mission 14 - Running Dog (HD)|Mobile Version
+GTA San Andreas Remastered - Mission 14 - Running Dog (Xbox 360 PS3)|Remastered Version
+</gallery>
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[ar:الكلب الراكض]]
+[[de:Running Dog]]
+[[es:Running Dog]]
+[[fi:Running Dog]]
+[[fr:Running Dog]]
+[[pl:Łap zająca]]
+[[pt:Cão em Fuga]]
+[[ru:Running Dog]]
+[[zh:Running Dog]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

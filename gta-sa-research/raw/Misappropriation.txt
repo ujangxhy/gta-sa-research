@@ -1,0 +1,85 @@
+{{Infobox mission
+|name       = Misappropriation
+|image      = Misappropriation-GTASA-Mission.png
+|caption    = Tenpenny orders CJ to steal a dossier containing evidence on him from the [[Drug Enforcement Administration|DEA]] and [[Federal Bureau of Investigation|FBI]].
+|game       = {{Games|SA=y}}
+|type       = SA
+|for        = {{For|game=SA|crash}}
+|location   = [[C.R.A.S.H. House]], [[Prickle Pine]], [[Las Venturas (3D Universe)|Las Venturas]]
+|target     = Dossier
+|fail       = 
+*[[Wasted]]
+*[[Busted]]
+*Dossier destroyed or [[The Dossier Carrier|its carrier]] escapes
+|unlocks    = [[High Noon]] {{Small|(if [[Freefall]] is completed first)}}
+|unlockedby = [[Intensive Care]]
+|todo       =
+*Kill the '''<span style="color:#AB3736">target</span>''' and grab the evidence dossier.
+*They have spotted you! The '''<span style="color:#AB3736">target</span>''' will try to escape, don't let him get away. {{Small|(if the player gets spotted by the guards or by the target)}}
+*The '''<span style="color:#AB3736">target</span>''' is escaping in a helicopter.
+*Follow the target using the remaining '''<span style="color:#484576">helicopter</span>'''.
+*The '''<span style="color:#AB3736">target</span>''' has abandoned the helicopter.
+*The target is dead and has dropped the '''<span style="color:#4C5C41">evidence dossier,</span>''' grab it before anyone else does.
+*Congratulations, you have the evidence dossier.
+}}
+{{Quote|Now, there's a ruined town out west of here. Aldea Malvada. And there's some piece of shit DEA officer meeting with an FBI agent with a dossier. Now you get the dossier and you make both of them disappear!|[[Frank Tenpenny]]|sound=Misappropriation-GTASA-Quote.ogg}}
+'''Misappropriation''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[C.R.A.S.H.]] officer [[Frank Tenpenny]] from a [[C.R.A.S.H. House|house]] in [[Prickle Pine]], [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Description==
+Carl visits C.R.A.S.H. at a house in Prickle Pine, Las Venturas and finds Tenpenny and [[Eddie Pulaski|Pulaski]] getting a grill ready and waiting for [[Jimmy Hernandez|Hernandez]] to return with meat for the grill. Things start out normal, but a paranoid Tenpenny reveals that their careers are in jeopardy and Tenpenny needs Carl to get a dossier containing dirt on the duo and kill some [[Drug Enforcement Administration|DEA]] and [[Federal Bureau of Investigation|FBI]] agents. Pulaski is concerned that Hernandez is taking longer than he should. This prompts Carl to snidely remark that he and Tenpenny are getting "edgy'. Tenpenny looses his patience with Carl and punches him. He orders Carl to leave and get the dossier.
+
+Carl heads to [[Aldea Malvada]] and intercepts the meeting, killing the enemies and claiming the dossier. If the [[The Dossier Carrier|carrier]] is not killed immediately, he will enter a [[Maverick (3D Universe)|helicopter]] and fly to Las Venturas, with Carl giving chase. The dossier carrier will then get into a [[Buffalo (3D Universe)|Buffalo]] and lead Carl to the [[Las Venturas Bank]] underground car park in [[Roca Escalante]], where there are more FBI agents ready to attack Carl.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Kill the target and grab the evidence dossier
+*The target is dead and has dropped the evidence dossier, grab it before anyone else does
+
+==Reward==
+Like all missions for Tenpenny, there is no reward. Though the mission [[High Noon]] is unlocked if the mission [[Freefall]] is also completed.
+
+==Post-Mission Phone Call==
+Note: This call only happens if [[Freefall]] is completed first.
+*'''Frank Tenpenny''': Carl! You get that dossier?
+*'''Carl Johnson''': Yeah, I got the files. What you want me to do with 'em?
+*'''Frank Tenpenny''': We need to meet up someplace quiet and take care of things. There's a ghost town, [[Las Brujas]] in the [[El Castillo del Diablo|devil's Castle]], you know it?
+*'''Carl Johnson''': Yeah, I'll find it.
+*'''Frank Tenpenny''': I know you will. I'll see you there. Carl.
+
+==Transcript==
+{{/Transcript}}
+
+==Video Walkthroughs==
+{{#ev:youtube|nwt5NU28sF8|275px|center}}
+{{#ev:youtube|2p0a-rCfcNU|275px|center}}
+{{#ev:youtube|1UEfOD4_-oY|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+AldeaMalvada-GTASA-MisappropriationMission-DEA.jpg|The [[Federal Bureau of Investigation|FBI]] outpost at [[Aldea Malvada]].
+</gallery>
+
+==Trivia==
+*If the player plays the mission on the [[Android OS|Android]] version, the grill can be seen jumping on the right side of the screen. The grill can be hidden on the left side of the CRT (if the player plays the mission on [[PlayStation 2|PS2]]/[[Xbox]]).
+*Despite [[Frank Tenpenny|Tenpenny]] telling [[Carl Johnson|CJ]] to kill both the agents, the player only has to kill the [[The Dossier Carrier|agent carrying the dossier]].
+*Eddie remarks that Hernandez is taking too long to bring back the meat for the barbecue. He was possibly talking with Internal Affairs at the time.
+*The FBI agents carry [[AK47]]s and [[Micro-SMG]]s. However, if the player kills the target before he gets into the helicopter, the agents will revert to using Micro-SMGs.
+*It is crucial to pick up the dossier before anyone else, because unlike most other missions, other FBI agents will pick up the dossier and escape with it should the original carrier be killed, but for Carl, once he obtains the dossier, the mission instantly passes no matter what.
+*The carrier [[Maverick (3D Universe)|heli]] is [[Special Vehicles in GTA San Andreas|all-proof]] and will be locked. It can be obtained by dragging it into the [[Verdant Meadows Airfield|Verdant Meadows]] hangar using a [[Tow Truck]].
+*If the target manages to get in a helicopter and fly away towards [[Las Venturas (3D Universe)|Las Venturas]], they will fly over past [[Area 69 (3D Universe)|Area 69]] where the [[Surface-to-Air Missile|S.A.M. sites]] are disabled during this mission, but the player will still receive a five-star [[Wanted Level in GTA San Andreas|wanted level]] as normal if they trespass. This can be seen {{URL|https://youtu.be/TqVNBh3tZGE|here}}.
+
+{{Clear}}
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Misappropriation]]
+[[es:Misappropriation]]
+[[pl:Defraudacja]]
+[[ru:Misappropriation]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

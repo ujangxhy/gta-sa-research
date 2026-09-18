@@ -1,0 +1,67 @@
+{{Infobox location
+|image = ThePanopticon-GTASA.png
+|caption = Overview of The Panopticon.
+|games = {{Games|SA=y}}
+|location = [[Red County (3D Universe)|Red County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+ThePanopticon-GTASA-Map.jpg|The Panopticon
+ThePanopticon-GTASA-RedCountyMap.jpg|Red County
+ThePanopticon-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|neighborhood = y
+|pscanner       = PoliceScanner-GTASA-ThePanopticon.ogg
+}}
+'''The Panopticon''' is a hill and a logging camp located in north-west [[Red County (3D Universe)|Red County]], [[State of San Andreas (3D Universe)|San Andreas]], featured in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+The Panopticon is a relatively open hilly area with a lot of trees all over the place. The primary human activity in this area is a large logging camp. There are many cabins and felled trees scattered all around the camp, however, bloodstains are seen in some of the cabins, indicating that safety standards at the camp were lax. The camp uses some sort of cables from the [[J Arthur Cable Company]] as evidenced by empty [[wp:Cable reel|cable reels]] found in the area. In addition, old [[wp:Tree stump|tree stumps]] are seen as well, means many of the trees are already felled.
+
+This is one of the most scenic areas of the state as it affords spectacular views of [[San Fierro (3D Universe)|San Fierro]] and its bridges and skyscrapers. Moreover a country road coupled with iconic [[wp:Hairpin turn|hairpin turns]] flows through the hill, further increasing the scenic beauty. On the north there is a small beach. The beach is a popular destination for tourists, as  [[Pedestrians|people]] can be seen coming here along with their ride and enjoying the onshore breeze and the panoramic beauty.
+
+==Stationary Vehicles==
+*[[Vortex]] {{nd}} after finishing [[Cut Throat Business]]).
+*[[Glendale (beater)|Beater Glendale]] {{nd}} only in the [[PlayStation 2|PS2]] version.
+*[[Vehicles in GTA San Andreas|Random vehicle]] {{nd}} only in the PS2 version.
+*[[Hotdog]] {{nd}} only in the PS2 version.
+*[[Dinghy (3D Universe)|Dinghy]] {{nd}} only in the PS2 version.
+
+==Collectibles==
+*[[Chainsaw]] {{nd}} south-west area, in the logging camp
+*[[Police Bribes|Police Bribe]] {{nd}} mid-west area, on a dirty road near the seashore
+*[[Shovel]] {{nd}} south-mid area, in the logging camp, behind a house
+
+==Events of ''Grand Theft Auto: San Andreas''==
+The mission [[Wu Zi Mu (mission)|Wu Zi Mu]] (a street race) has its endpoint at the Panopticon. The mission [[Farewell, My Love...]], essentially the previous race in reverse, has its start here. [[Mike Toreno|Mike Toreno's]] mission [[Vertical Bird]] begins at the base of the hill on which the Panopticon is situated.
+
+==Unique Stunt Jumps==
+The Panopticon is the location of the game's only cross-region [[Unique Stunt Jumps in GTA San Andreas|unique stunt jump]], a jump from near an intersection on the west side of the Panopticon across a body of water onto the [[Easter Bay Airport]] in [[San Fierro (3D Universe)|San Fierro]] (although actually landing on the airport is optional; the jump will also be awarded if one falls slightly short and lands in the water). Attempting the jump before San Fierro is unlocked, however, results in a four star [[Wanted Level in GTA San Andreas|wanted level]] whether the jump is successful or not.
+
+A second, less-risky unique jump can be found on the east side of the Panopticon, near [[Blueberry]].
+
+==Nearby Bridges==
+* [[The Panopticon Arch Bridge]] {{nd}} to the southwest
+
+== Gallery ==
+<gallery position="center" spacing="small" widths="250px">
+ThePanopticon-GTASA-OldSawmill.jpg|The old sawmill in The Panopticon.
+ThePanopticon-GTASA-Bloodstains.jpg|The bloodstains in one of the cabins.
+</gallery>
+
+==Trivia==
+*The term "Panopticon" originally referred to a particular [[wp:Panopticon|style of prison]] developed by British social theorist [[wp:Jeremy_Bentham|Jeremy Bentham]]. The term is also famous for its use by French historian social theorist [[wp:Michel Foucault|Michel Foucault]] as a way to describe how societies seek to control their citizens.
+
+==Navigation==
+{{Gtasa neighborhoods}}
+[[de:Panopticon]]
+[[es:The Panopticon]]
+[[fi:The Panopticon]]
+[[pl:The Panopticon]]
+[[pt:The Panopticon]]
+[[ru:Паноптикум]]
+
+[[Category:Locations in GTA San Andreas in Red County]]
+[[Category:Neighborhoods]]
+[[Category:Beaches in GTA San Andreas]]
+[[Category:Zones]]

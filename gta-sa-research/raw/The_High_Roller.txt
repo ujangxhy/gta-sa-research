@@ -1,0 +1,52 @@
+{{Infobox location
+|name      = The High Roller
+|image     = 
+<gallery>
+TheHighRoller-GTASA-Day.jpg|Day
+TheHighRoller-GTASA-Night.png|Night
+TheHighRoller-GTASA-Logo.png|Logo
+</gallery>
+|type       = casino
+|games      = {{Games|SA=y}}
+|location   = [[The Strip]], [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map        = 
+<gallery>
+TheHighRoller-GTASA-Map.jpg|The High Roller
+TheHighRoller-GTASA-LasVenturasMap.jpg|Las Venturas
+TheHighRoller-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption = Location on the map (red).
+|pscanner    = PoliceScanner-GTASA-TheHighRoller.ogg
+}}
+'''The High Roller''' is a [[casino]] that appears in {{SA}}.
+
+==Description==
+The casino is located along [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]]. The High Roller is situated between [[Pirates in Men's Pants]] and [[The Pink Swan]]. While inaccessible to [[Carl Johnson|CJ]], the casino is unique for having an escalator and a {{WP|moving walkway}}.
+
+==Influence==
+The casino is based on {{WP|Horseshoe Las Vegas|Bally's}} in {{WP|Las Vegas, Nevada}}, which was rebranded to the Horseshoe Las Vegas in 2022.
+
+{{Clear}}
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Image:TheHighRoller-GTASA-entrance.jpg|The entrance, showing the travelators moving towards the main building.
+TheHighRoller-GTASA-MainEntrance.jpg|The main entrance. Note the bridge required to access it.
+TheHighRoller-GTASA-Garden.jpg|The complex as a whole, showing the gardens and main building.
+TheHighRoller-GTASA-TheStripView.jpg|The view from [[The Strip]], showing the casino's billboard.
+</gallery>
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{3D casinos|state=collapsed}}
+}}
+
+[[de:High Roller (Casino)]]
+[[es:The High Roller]]
+[[pl:The High Roller]]
+[[ru:The High Roller]]
+
+[[Category:Buildings in GTA San Andreas in Las Venturas]]
+[[Category:Casinos]]
+[[Category:Building zones]]

@@ -1,0 +1,85 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] enters [[Ryder's House]].}}
+{{line|name=Carl|dialogue=Hey, Ryder! This ni**a's loaded... Ryder!}}{{line|name=Ryder|dialogue= Yeeaahh, CJ... Hey, CJ, tell me why I didn't finish high school.}}{{line|name=Carl|dialogue=Because you been dealing drugs, man, since the age of ten!}}{{line|name=Ryder|dialogue= No, that ain't it.}}{{line|name=Carl|dialogue=Because you went and put hands on that teacher for wearing [[Ballas (3D Universe)|Ballas]] colors!}}{{line|name=Ryder|dialogue=No, that ain't it either. It's 'cause I'm too intelligent for this shit, man. I am the real deal, fool. Oh yeah. A genius.}}{{line|name=Carl|dialogue=Oh, oh yeah...}}{{line|name=Ryder|dialogue=Who has more straps than anybody? Who has all the straps, huh?}}{{line|name=Carl|dialogue=A man with a lot of guns? Shit, I give up.}}{{line|name=Ryder|dialogue=The [[Military (3D Universe)|army]], my ni**a, the army! Let's go.}}{{line|name=Carl|dialogue=Yeah... Yeah!}}{{line|name=Ryder|dialogue=Go hit the wet, ni**a.}}{{line|name=Carl|dialogue=Get that outta my face, man.}}{{line|name=Ryder|dialogue=Go hit the wet!}}{{line|name=Carl|dialogue=You know I don't fuck with that, man. C'mon!}}{{line|name=Ryder|dialogue=Busta!(not actually in subtitles.)}}
+{{line|background=While in the [[Mule|van]].}}
+{{line|name=Ryder|dialogue=You think you can roll this van without killing us both?}}{{line|name=Carl|dialogue=Hey, Ryder, where we going?}}{{line|name=Ryder|dialogue=[[Ocean Docks]].}}{{line|name=Carl|dialogue=How we get this van? It wasn't outside when I came through.}}{{line|name=Ryder|dialogue=My homie LB, he's like a clockwork ninja! Real dependable. Unlike some of you motherfuckers...}}{{line|name=Carl|dialogue=Give it a rest, man! I lost my [[Brian Johnson|little brother]], and now I lost my [[Beverly Johnson|Moms]].}}{{line|name=Carl|dialogue=Don't matter how much shit this city throws at you, CJ, you gotta stick by your homies!}}{{line|name=Carl|dialogue=Yeah, I guess...}}
+{{line|background=They arrive at the destination.}}
+{{line|name=Ryder|dialogue=This is the spot - [[Los Santos National Guard Depot|National Guard Depot]].}}
+{{line
+|name=CJ
+|dialogue=Man, this shit look real serious. Are we up for this?
+}}{{line
+|name=Ryder
+|dialogue=It's National Guard, fool! Weekend soldiers! Ain't no match for Grove Street OG's! Now get in there and open the damn gate!
+}}{{line
+|background=CJ climbs over the wall and opens the gate.
+}}{{line
+|name=Soldier
+|dialogue=Hey, stop where you are!
+}}{{line
+|name=Ryder
+|dialogue=*CJ destroys the switch to open the gate* Nice job, CJ, thought that was a suicide mission for sure! Now open the warehouse and keep these motherfuckers busy!
+}}{{line
+|name=Soldier
+|dialogue=We got an intruder, sound the alarm!
+}}{{line
+|name=CJ
+|dialogue=*Opens warehouse door* Yeah, open for business. Back that van up in here.
+}}{{line
+|name=Ryder
+|dialogue=*Parks Mule in front of warehouse and gets out* I'll watch our backs while you use the forklift to collect the crates. OK, homie, let's load this shit up! 
+}}{{line
+|background=CJ uses [[Forklift (3D Universe)|forklift]] to put crates into Mule, whiel Ryder shoots National Guard soldiers.
+}}{{line
+|name=Ryder
+|dialogue=Shit, CJ, shit! There's too many damned weekend soldiers! *After CJ collects all crates inside warehouse* They got more crates outside, CJ! They're crawling out the woodwork! Punk-ass National Guard!
+}}{{line
+|background=CJ loads six crates into Mule. Ryder jumps to the back of the van and CJ drives them to the lockup at [[Emmet's]] place.
+}}{{line
+|name=Ryder
+|dialogue=C'mon, CJ, we got enough! CJ, get up in front and drive us outta here! They got a storage garage up in [[Willowfield]]! Go! *Two [[Patriot|Patriots]] show up* Damn, man, these idiots just don't give up!
+}}{{line
+|name=CJ
+|dialogue=What's happening back there?
+}}{{line
+|name=Ryder
+|dialogue=These part time soldiers got a chip on their shoulders!
+}}{{line
+|name=CJ
+|dialogue=Nice rhymes, man. Hey, we're real heavy, toss some crates!
+}}{{line
+|name=Ryder
+|dialogue=A'ight, check it out. Sound the horn, I'll throw a crate at 'em.
+}}{{line
+|name=CJ
+|dialogue=I ain't rolling with you no more, man, 'til you off that water, homie. It mess with your mind.
+}}{{line
+|name=Ryder
+|dialogue=Whatever you say, fool. You don't know what's going on.
+}}{{line
+|name=CJ
+|dialogue=And what that mean?
+}}{{line
+|name=Ryder
+|dialogue=I ain't listening to no more of your bullshit. We got the guns. You ain't no gangster, homie. You want it smooth? You don't want no trouble. I keep it real.
+}}{{line
+|name=CJ
+|dialogue=You wouldn't know real if it came and hit you in your cheeks, homie, which it could do, if it gave you a hit first.
+}}{{line
+|name=Ryder
+|dialogue=I ain't listening to you, Carl.
+}}{{line
+|background=CJ and Ryder stop the van at Emmet's place.
+}}{{line
+|name=Ryder
+|dialogue=That shit was tight!
+}}{{line
+|name=CJ
+|dialogue=Tight? Man, that shit was shit.
+}}{{line
+|name=Ryder
+|dialogue=Man, you say you down for the homies, but all you do is complain.
+}}}}<noinclude>
+</noinclude><noinclude>
+</noinclude><noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

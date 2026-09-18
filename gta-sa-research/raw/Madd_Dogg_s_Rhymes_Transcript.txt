@@ -1,0 +1,69 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[OG Loc (3D Universe)|OG Loc]] is cleaning the floor in WC room in [[Burger Shot (3D Universe)|Burger Shot]] and stops by a mirror.
+}}{{line
+|name=OG Loc
+|dialogue=Hey hey hey, It's OG Loc, homie, and I'm gonna kick it a little something like this... Hey yo, when I come through up in the place, You don't want me to call with a gun in your face...I feel it harded, Than anybody in the world could do, Just like a...
+}}{{line
+|background=A stranger comes out from a toilet.
+}}{{line
+|name=Stranger
+|dialogue=Yo! That shit sucks! Damn!
+}}{{line
+|name=OG Loc
+|dialogue=Damn - my shit was whack!
+}}{{line
+|name=[[Carl Johnson|CJ]]
+|dialogue=*enters the room* Hey, what's happening, Loc?
+}}{{line
+|name=OG Loc
+|dialogue=Hey, Carl - what up, man?
+}}{{line
+|name=CJ
+|dialogue=Hey, dude - you ever thought about getting a writer to help you out with this shit?
+}}{{line
+|name=OG Loc
+|dialogue=Yeah, I did. But who, homie, who?
+}}{{line
+|name=CJ
+|dialogue=Shit, I ain't into rap game, you know, that ain't my thing. But we'll have to think about something. Man.
+}}{{line
+|name=OG Loc
+|dialogue=How about if I get somebody to write something for me, only the didn't know about it?
+}}{{line
+|name=CJ
+|dialogue=What?
+}}{{line
+|name=OG Loc
+|dialogue=*laughs* I think I just might have found a ghost writer. I'll become the reciter, all nighter, all righter! Madd Dogg's rhyme book! From his home in the hills!
+}}{{line
+|name=CJ
+|dialogue=Madd Dogg's rhyme book?
+}}{{line
+|name=OG Loc
+|dialogue=Man, you said you'd help, Carl. C'mon, man. I'm hot, Like fire, All nighter, All righter, When I kick it, I feel I hit it...
+}}{{line
+|name=CJ
+|dialogue=Hey hey heyeyeyey. I'll do anything, homie. I swear that. OK?
+}}{{line
+|background=CJ goes to Madd Dogg's Crib and steals rhyme book from recording studio.
+}}{{line
+|name=Guard
+|dialogue=*plays video game* This sucks. I mean, how could Refractions mess up so bad? Tanner, you suck ass!
+}}{{line
+|background=CJ exits the crib and goes back to Burger Shot.
+}}{{line
+|name=CJ
+|dialogue=Hey, Loc,  I got what you wanted.
+}}{{line
+|name=OG Loc
+|dialogue=Holmes, you ice cold, dude!
+}}{{line
+|name=CJ
+|dialogue=Hey, I'll catch you later.
+}}{{line
+|name=OG Loc
+|dialogue=Peace, homie!
+}}}}<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

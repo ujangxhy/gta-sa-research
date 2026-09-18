@@ -1,0 +1,97 @@
+{{Disambiglink|For the series of missions in [[Grand Theft Auto V|GTA V]], see [[The Truth (mission series)|The Truth]].}}
+{{Spoiler}}
+{{Infobox character
+|name            = The Truth
+|image           = TheTruth-GTASA-HD.jpg
+|games           = {{Games|SA=y}}
+|aka             = *The Truth
+*Truth
+*{{H:title|Used by Carl Johnson in the mission Are You Going to San Fierro?|Spacehead}}
+*{{H:title|Used by Carl Johnson in the mission Are You Going to San Fierro?|Mr. San Fierro}}
+|gender          = M
+|nationality     = {{Country|US|adj=y}}
+|status          = Alive
+|home            = *[[Leafy Hollow]], [[Flint County (3D Universe)|Flint County]], [[State of San Andreas (3D Universe)|San Andreas]]
+*[[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|family          = {{H:title|The Truth mentions his mother in Are You Going to San Fierro?|Unnamed mother}}
+|affiliations    = *[[Carl Johnson]]
+*[[Frank Tenpenny]] <small>(Formerly)</small> {{Status|D1=y}}
+*[[Dwaine]]
+*[[Jethro]]
+*[[Zero]]
+*[[Kent Paul]]
+*[[Maccer]]
+|vehicles        = *"{{H:title|License plate|<code>ƎЯƎHTTUO</code>}}" [[Camper (3D Universe)#Variants|Mothership]]
+*[[Emperor (3D Universe)|Emperor]]
+*[[Combine Harvester]]
+*[[Walton]]
+*[[Jetpack]] <small>(during the mission [[Green Goo]])</small>
+|businesses      = Marijuana Dealing
+|voice           = [[Peter Fonda]]
+|weapons         = [[Flamethrower]] <small>(during the mission [[Are You Going to San Fierro?]])</small>
+|pob             = [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+}}
+{{Quote|I mean, far out, man. You know, I mean, you beat the system! I tried for thirty years to cross over but you've managed it, man. I mean, man, you're an icon, man!|The Truth to [[Carl Johnson]] in [[End of the Line]].|sound=TheTruth-GTASA-Quote1.ogg}}
+'''The Truth''' is a main character in {{SA}}.
+
+He was voiced by the late [[Peter Fonda]].
+
+==History==
+===Background===
+The Truth is an elderly hippie who lives in [[Flint County (3D Universe)|Flint County]] and had previously owned a cannabis farm there. As a conspiracy theorist, The Truth is apparently well aware of conspiracies surrounding the government and related organisations (including law enforcement agencies and the [[San Andreas Police Department (3D Universe)|police]]), which causes him to question [[Carl Johnson|Carl]] after doing missions for [[Mike Toreno]]. Despite his strong conspiracy beliefs, he does seem to be wise from his experiences, even causing CJ to admit that some of the things he says aren't all crazy theories.  Truth also owns a [[Camper (3D Universe)|van]] dubbed "[[The Mothership]]", although he claims to travel via his astral goat, [[Herbie]], and is acquainted with mechanics [[Dwaine]] and [[Jethro]], along with electronics expert [[Zero]].
+
+===Events of ''Grand Theft Auto: San Andreas''===
+The Truth and [[Carl Johnson]] became friends while Carl was in exile in the [[Badlands]], with Carl helping Truth in the [[Body Harvest|theft of a combine harvester]] and the [[Are You Going to San Fierro?|destruction of his own farm's crops]] after the police learn about the farm.
+
+After Carl purchases an [[Verdant Meadows Airfield|abandoned airfield]] in [[Bone County (3D Universe)|Bone County]], The Truth once again seeks Carl's help, this time to [[Black Project|steal government property]], including a [[Jetpack]] from the [[Area 69 (3D Universe)|Area 69]] military complex and a containment unit containing unknown "[[Green Goo (artifact)|green goo]]" transported by a heavily guarded train.
+
+{{Quote|I mean, far out, man. You know, I mean, you beat the system! I tried for 30 years to cross over, but you've managed it, man.|Truth to Carl, after [[End of the Line|Tenpenny's death]]}}
+
+Truth later appears after [[Frank Tenpenny]]'s death, claiming that he tried to "beat the system" for [[1962|30 years]], and congratulating Carl for doing so.
+
+On two separate occasions, The Truth calls into the [[West Coast Talk Radio (3D Universe)|WCTR show]] [[Area 53]] and talks about various conspiracy-themed topics. He states on the second time he calls in that he has "held them (aliens) in my own hands." The aliens he may be speaking about may possibly be the substance collected in the mission [[Green Goo]].
+
+==Mission Appearances==
+*[[First Date (GTA San Andreas)|First Date]] <small>(Post-mission phone call)</small>
+*[[Body Harvest]] <small>(Boss)</small>
+*[[Farewell, My Love...]] <small>(Post-mission phone call)</small>
+*[[Are You Going to San Fierro?]] <small>(Boss)</small>
+*[[Wear Flowers in Your Hair]]
+*[[Black Project]] <small>(Boss)</small>
+*[[Green Goo]] <small>(Boss)</small>
+*[[Don Peyote]] <small>(Boss/voice)</small>
+*[[Riot (GTA San Andreas)|Riot]]
+*[[End of the Line]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Artwork-TheTruth-GTASA.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''The Truth'''.
+BodyHarvest-GTASA-Mission.png|'''The Truth's''' first meeting with [[Carl Johnson|Carl]].
+GreenGoo-GTASA-Mission.png|'''The Truth''' holding the [[Green Goo]].
+Riot-GTASA-Mission.png|'''The Truth''' in [[Riot]].
+TheTruth-GTASAde.png|'''The Truth''' in {{TDE}}.
+</gallery>
+
+==Trivia==
+*The Truth's [[Grand Theft Auto: San Andreas/Artwork|artwork]] depicts him as younger than he is in-game, as his hair in his artwork is reddish-brown instead of grey. Also, his eyes in the artwork are blue, whereas in game they are green. This may be because it's from his appearance in [[Beta Content in GTA San Andreas|beta versions]].
+*[[Omega]] bears a strong resemblance to The Truth. Both are conspiracy theorists and hippies, and both believe in extraterrestrials and say that they have seen aliens and Unidentified Flying Objects and they both ask the respective protagonists to find something relating to E.T's. However The Truth is much older than Omega.
+*The Truth's nickname is a play on words for his conspiracy theories, which he believes to be the truth.
+*The Truth may be a reference to country musician {{WP|Willie Nelson}}, given that they both have similar appearance, and both own sizeable marijuana farms.
+
+==Navigation==
+{{Navbox gtasa characters}}
+
+[[ar:ذا تروث]]
+[[de:The Truth]]
+[[es:The Truth]]
+[[fi:The Truth]]
+[[hu:The Truth]]
+[[it:The Truth]]
+[[pl:The Truth]]
+[[pt:The Truth]]
+[[ru:Правда]]
+[[uk:Правда]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Mission givers]]

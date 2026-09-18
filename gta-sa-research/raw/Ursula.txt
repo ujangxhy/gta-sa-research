@@ -1,0 +1,70 @@
+{{Infobox character
+|name           = Ursula
+|image          = Ursula-GTAV-Portrait.png
+|games          = {{Games|V=y}}
+|status         = [[Random Events in GTA V#Hitch Lifts|Determinant]]
+|gender         = F
+|dod            = [[2013]] <small>(player’s choice)</small>
+|home           = [[El Gordo Drive]], [[Blaine County]], [[State of San Andreas (HD Universe)|San Andreas]]
+|affiliations   = 
+*[[Trevor Philips]] <small>(boyfriend/Hook-Up, optional)</small>
+*[[Franklin Clinton]] <small>(ex-boyfriend/Hook-Up, optional)</small>
+|family         = Unnamed mother {{Status|D1=y}}
+|vehicles       = 
+*[[Surfer]] <small>(possibly)</small>
+*[[Tractor]] <small>(possibly)</small>
+|nationality    = {{Country|US|adj=y}}
+|voice          = [[Sarah Sirota]]
+|phone      = 3285550103
+}}
+{{Quote|I don't normally get visitors anymore. There was a gardener, but he got sick and fell off the cliff.|Ursula}}
+'''Ursula''' is a minor character and possible [[Girlfriends|girlfriend]] in ''[[Grand Theft Auto V]]''.
+
+She is voiced by [[Sarah Sirota]].
+
+==History==
+===Background===
+Ursula is a mentally unstable woman, possibly because she had an unhappy childhood. According to her comments about her life, her mother tortured her by locking her in a basement and shaving her hair. Her mother also forced her to dress like a boy.
+
+Her mother later died, with Ursula keeping her hair in her backpack. This, along with her upbringing, caused Ursula to become mentally ill, making comments about her gardener getting sick and falling off a cliff and how the last person to pick her up choked to death on his own hand, implying that she killed all 3 of them.
+
+===Events of ''Grand Theft Auto V''===
+Ursula first appears in [[Random Events in GTA V#Hitch Lifts|Random Event - '''Hitch Lift 2''']], which can be performed by Franklin or Trevor. She can be found along [[North Calafia Way]], south of [[Mount Chiliad (HD Universe)|Mount Chiliad]]. Once the player has found her, she asks the player to take her back to her house in [[El Gordo Drive]]. When playing as Trevor, it is possible to take her to the [[Altruist Cult]] instead and receive $1,000 as a reward.
+
+Along the ride, it becomes quite apparent that Ursula is unstable, and each protagonist makes a different comment about Ursula:
+
+*[[Franklin Clinton|Franklin]] becomes disturbed with Ursula's behaviour and says that "it's official, your ass is crazy".
+*[[Trevor Philips|Trevor]] initially acts disturbed by Ursula's behavior, stating "you're really crazy" while taking her home. However, he begins to warm to Ursula, most likely due to their similarly-unhinged personalities.
+
+Once the player takes her home, she will give them her number and ask them to call her. Also, she will stand behind Trevor or Franklin's vehicle and take a photo of it (whether of the car or of its license plate is unclear). After this, Ursula becomes a [[Booty Call]].
+
+She will always wear her red backpack and will wait for the protagonist at the marina in [[Sandy Shores]] when a booty call is arranged. En route to her house, she will give the protagonist oral sex. Any vehicle parked outside her home will be repaired after the booty call and the weather will change to heavy rain.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Ursula-GTAV-Hitching.png|'''Ursula''' found hitchhiking on [[North Calafia Way]].
+Ursula's_House.jpg|Front view of '''Ursula's''' house.
+UrsulasHouse-GTAV-PCScreenshot.png|'''Ursula's''' house in the PC version.
+Ursula-GTAV-SextA.png|First text.
+Ursula-GTAV-SextB.png|Second text.
+Ursula-GTAV-SextC.png|Third text.
+</gallery>
+
+==Trivia==
+*If the player tries to call her number with any character, even before having her random encounter, it is possible set up a [[Booty Call|booty call]] with her and keep her number in the [[Phone Numbers|phone list]].
+*With the exception of her clothing, Ursula's character model is not unique. It is shared with several pedestrians who can be seen in Los Santos.
+
+==Navigation==
+{{Navbox gtav characters}}
+[[de:Ursula]]
+[[pl:Ursula]]
+[[es:Ursula]]
+[[fr:Ursula]]
+[[ru:Урсула]]
+[[Category:Characters in GTA V]]
+
+[[Category:Characters with determinant fate]]
+[[Category:Random Encounters]]
+[[Category:Booty Call]]
+[[Category:Girlfriends in GTA V]]
+[[Category:Female characters]]

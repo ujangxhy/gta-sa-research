@@ -1,0 +1,132 @@
+{{Infobox mission
+|name = Photo Opportunity
+|image = PhotoOpportunity-GTASA-Mission.png
+|caption = Carl and Cesar at the [[Angel Pine]] gas station after photographing members of the [[Loco Syndicate]].
+|game           = {{Games|SA=y}}
+|type           = SA
+|for = [[File:Radar-TriadsIcon-GTASA.png]] [[Cesar Vialpando]]
+|location = [[Doherty Garage]], [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]]
+|fail = *[[Wasted]]
+*[[Busted]]
+*[[Cesar Vialpando|Cesar]] dies
+*[[Savanna]] destroyed
+*Failing to take pictures of the targets' faces
+|reward = [[Respect]]
+|unlocks = [[Jizzy (mission)|Jizzy]]
+|unlockedby = [[Deconstruction]]
+|todo =
+*Go and pick up '''<span style="color:#484576">Cesar</span>'''.
+*Get in the '''<span style="color:#484576">car</span>'''.
+*Head out to '''<span style="color:#D1BC86">Angel Pine</span>'''.
+*Get up on the '''<span style="color:#D1BC86">roof</span>'''.
+*Photograph the face of each target, but be quick about it and be sure to zoom in!
+*Photograph '''<span style="color:#AB3736">his</span>''' face!
+*Photograph '''<span style="color:#AB3736">his</span>''' face!
+*Photograph '''<span style="color:#AB3736">his</span>''' face!
+*Photograph '''<span style="color:#AB3736">his</span>''' face!
+}}
+{{Dialogue|p1=Cesar Vialpando|d1=CJ! Hey, my cousin just called me. He gave me a tip about a Ballas car going to San Fierro to score yay.|p2=Carl Johnson|d2=Shit! We gotta find out who's supplying those cats!|quotedetail=[[Cesar Vialpando]] informs [[Carl Johnson]] about a Ballas car heading to [[San Fierro (3D Universe)|San Fierro]].}}
+'''Photo Opportunity''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] leader [[Cesar Vialpando]] from the [[Doherty Garage|gas station/garage]] in [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+This mission is the introduction of a [[San Fierro Triads]] mission strand, although they are not introduced until the subsequent mission.
+
+==Mission==
+Carl receives a phone call from Cesar Vialpando. Cesar had been tracking a [[Ballas (3D Universe)|Ballas]] car, most likely travelling to [[San Fierro (3D Universe)|San Fierro]] to acquire cocaine. Cesar wants Carl to come with him, so he makes his way to Cesar's location near [[Blueberry]] in [[Red County (3D Universe)|Red County]]. The pair get in Cesar's [[Savanna]] and travel towards [[Angel Pine]], where the car was last seen.
+
+After entering Angel Pine, Carl and Cesar position themselves on a rooftop overlooking a [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] restaurant. Carl whips out a [[camera]] and plans to take photographs, believing this to be a secret meeting. Soon afterwards, a brown [[Picador]] pulls up. Carl's former ally [[Ryder]], along with a Ballas member step out of the vehicle. Another man arrives in a [[ZR-350]]. Cesar identifies him as [[T-Bone Mendez]] from the [[San Fierro Rifa]]. Shortly followed thereafter, is [[Mike Toreno|a mysterious man in a suit]], arriving in a [[Washington]]. Then finally, [[Jizzy B.|a fourth man]] arrives in a [[Broadway]], joining the others. He is identified as a pimp by Carl, but neither Cesar or Carl recognise him. After taking photos of all four men, Cesar and Carl leave Angel Pine, stopping by a filling station. Cesar drops Carl off, saying he'll meet him back at San Fierro.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Go and pick up '''<span style="color:#484576">Cesar</span>'''.
+*Get in the '''<span style="color:#484576">car</span>'''.
+*Head out to '''<span style="color:#D1BC86">Angel Pine</span>'''.
+*Get up on the '''<span style="color:#D1BC86">roof</span>'''.
+*Photograph the face of each target, but be quick about it and be sure to zoom in!
+
+==Reward==
+The reward for this mission is an increase in [[respect]]. The mission [[Jizzy (mission)|Jizzy]] is unlocked. After the mission, the game will inform the player of the availability of [[Snapshots]] located around San Fierro.
+
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="250px" bordersize="small">
+PhotoOpportunity-GTASA-SS1.png|While hanging around his [[Doherty Garage|garage]], [[Carl Johnson|Carl]] gets a call from [[Cesar Vialpando|Cesar]].
+PhotoOpportunity-GTASA-SS2.png|Cesar tells Carl that he just spoke to his cousin and heard that he spotted a [[Ballas (3D Universe)|Ballas]] squad driving out to [[San Fierro (3D Universe)|San Fierro]] to buy [[drugs]].
+PhotoOpportunity-GTASA-SS3.png|Carl says that they must find out where the Ballas are getting the drugs from.
+PhotoOpportunity-GTASA-SS4.png|Cesar says that he managed to catch up to them and is following them.
+PhotoOpportunity-GTASA-SS5.png|Carl tells Cesar that he'll go over and meet him.
+PhotoOpportunity-GTASA-SS6.png|Cesar tells Carl to hurry up.
+PhotoOpportunity-GTASA-SS7.png|Carl must go to [[Mulholland Intersection]] and pick up Cesar.
+PhotoOpportunity-GTASA-SS8.png|Carl driving to Cesar's location.
+PhotoOpportunity-GTASA-SS9.png|Carl reaching Cesar.
+PhotoOpportunity-GTASA-SS10.png|Cesar tells Carl that they should continue the trip in Cesar's [[Savanna|car]].
+PhotoOpportunity-GTASA-SS11.png|Cesar tells Carl that the Ballas were going in [[Angel Pine|Angel Pine's]] direction.
+PhotoOpportunity-GTASA-SS12.png|Carl and Cesar must drive out to Angel Pine and catch up to the Ballas.
+PhotoOpportunity-GTASA-SS13.png|Carl and Cesar travelling to Angel Pine.
+PhotoOpportunity-GTASA-SS14.png|Upon arriving in Angel Pine, Carl and Cesar stop by [[Lovin' A Loan]].
+PhotoOpportunity-GTASA-SS15.png|Carl and Cesar decide to get a better look of the area by climbing to the roof of the store.
+PhotoOpportunity-GTASA-SS16.png|Carl and Cesar navigate the rooftops and stop by an area overlooking the parking lot of a [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] restaurant across the street.
+PhotoOpportunity-GTASA-SS17.png|Carl and Cesar decide to take photos of the Ballas that arrive.
+PhotoOpportunity-GTASA-SS18.png|After a few moments of waiting, a familiar brown [[Picador]] drives into the parking lot.
+PhotoOpportunity-GTASA-SS19.png|The brown Picador stops near a green garbage container and the Ballas get out.
+PhotoOpportunity-GTASA-SS20.png|Carl takes a photo of the Balla that just arrived.
+PhotoOpportunity-GTASA-SS21.png|Carl recognizes the Balla to be [[Ryder]] - his former childhood friend.
+PhotoOpportunity-GTASA-SS22.png|Carl curses Ryder for betraying the [[Grove Street Families|GSF]] and joining the Ballas, but Cesar says that the drug ring includes much more organizations than the [[Los Santos (3D Universe)|Los Santos]] street gangs.
+PhotoOpportunity-GTASA-SS23.png|As Ryder walks to the Cluckin' Bell restaurant, a [[ZR-350]] speeds into the parking lot.
+PhotoOpportunity-GTASA-SS24.png|The ZR-350 parks in the middle of the lot.
+PhotoOpportunity-GTASA-SS25.png|Carl takes a photo of the drug ring member that just arrived.
+PhotoOpportunity-GTASA-SS26.png|Cesar recognizes the drug ring member to be [[T-Bone Mendez]] - the leader of [[San Fierro Rifa]].
+PhotoOpportunity-GTASA-SS27.png|No more people come and Carl wonders if Ryder and T-Bone are the only ones that would arrive to the meeting.
+PhotoOpportunity-GTASA-SS28.png|Carl is soon proven wrong, as a [[Washington]] stops by the sidewalk next to the restaurant.
+PhotoOpportunity-GTASA-SS29.png|A [[Mike Toreno|man in a black jacket]] emerges from the Washington, however, neither Carl nor Cesar are able to recognize him.
+PhotoOpportunity-GTASA-SS30.png|Carl says that he's got a bad feeling about the man in the black jacket.
+PhotoOpportunity-GTASA-SS31.png|The man's appearance makes Carl realize that the drug ring operation is more than an union of street gangs pushing drugs on the streets.
+PhotoOpportunity-GTASA-SS32.png|Lastly, a [[Broadway]] screeches to a halt in the middle of the street.
+PhotoOpportunity-GTASA-SS33.png|A [[Jizzy B.|black man in a fancy purple suit]] gets out of the Broadway before the [[Prostitutes|prostitute]] behind the wheel drives off.
+PhotoOpportunity-GTASA-SS34.png|Carl realizes that the man must be some sort of a pimp.
+PhotoOpportunity-GTASA-SS35.png|Carl and Cesar realize that they won't be able to capture an exchange or anything incriminating on camera.
+PhotoOpportunity-GTASA-SS36.png|The duo gets down from the rooftops.
+PhotoOpportunity-GTASA-SS37.png|Carl and Cesar get back to the car and drive away from the Cluckin' Bell.
+PhotoOpportunity-GTASA-SS38.png|Carl drives to a gas station at the end of town and gets out of the car.
+PhotoOpportunity-GTASA-SS39.png|Carl says that they found out some really useful information.
+PhotoOpportunity-GTASA-SS40.png|Cesar tells Carl that he'll meet him back at the garage in Doherty.
+PhotoOpportunity-GTASA-SS41.png|Carl and Cesar say goodbye to each other and Cesar drives off, leaving Carl in Angel Pine.
+PhotoOpportunity-GTASA-SS42.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|y6tIIGU7xgk|275px|center}}
+{{#ev:youtube|L5bVkupwd6s|275px|center}}
+{{#ev:youtube|RKVDaDpvRXg|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+TBoneMendez-GTASA-PhotoMission.jpg|A picture of [[T-Bone Mendez]].
+Ryder-GTASA-PhotoMission.jpg|A picture of [[Ryder]] and a [[Ballas (3D Universe)|Ballas member (optional)]].
+JizzyB-GTASA-PhotoMission.jpg|A picture of [[Jizzy B.]] and one of his [[Prostitutes|prostitutes (optional)]].
+MikeToreno-GTASA-PhotoMission.jpg|A picture of [[Mike Toreno]].
+</gallery>
+
+==Trivia==
+*During [[Beta Content in GTA San Andreas|development of the game]], this mission had a completely different walkthrough. The player was originally tasked with stealing a helicopter to meet Cesar, and the photos would also have been taken whilst airborne. While watching over the meeting of the Loco Syndicate, Carl and Cesar shout to each other, presumably to make themselves heard over the sound of the helicopter's rotors, before the mission was changed without the dialogue being re-recorded. This is also evident when CJ states the mission "was some heavy shit", contrasting to the somewhat mundane car drive.
+**Unused text strings in the <code>american.gxt</code> file reveal that the Ballas noticed Cesar tailing them and shot up his car, explaining why he had to stop and is seen checking the vehicle. The dialogue is left unused so the player can continue the trip by riding Cesar's (intact) red Savanna all the way to Angel Pine, instead of using the aforementioned helicopter to pick him up.
+**A few lines were also cut, suggesting that CJ would have discovered Ryder's betrayal here and not in [[The Green Sabre]], which can be seen {{URL|1=https://youtu.be/QRxpLx0Oo-M?si=Q6Z-znvNAXP507UR&t{{=}}525|2=here}}.
+*The [[Loco Syndicate]]'s vehicles – Ryder's [[Picador]], Jizzy's [[Broadway]], Mike Toreno's [[Washington]], and T-Bone Mendez's [[ZR-350]] – are all-proof and can be obtained.
+*CJ cannot look backwards while on the rooftop with the camera active.
+*Sometimes, after the mission is passed, the player's camera may be able to take an infinite number of photos. After the camera is lost and reobtained, this no longer occurs.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Photo Opportunity]]
+[[es:Photo Opportunity]]
+[[pl:Fotograficzna okazja]]
+[[ru:Photo Opportunity]]
+[[pt:Photo Opportunity]]
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

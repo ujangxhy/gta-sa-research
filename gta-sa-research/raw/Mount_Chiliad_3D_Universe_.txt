@@ -1,0 +1,89 @@
+{{Title|disambig=y}}
+{{PageTabber
+|page1 = [[Mount Chiliad (3D Universe)|3D Universe]]
+|page2 = [[Mount Chiliad (HD Universe)|HD Universe]]
+}}
+{{Infobox location
+|type = mountain
+|name = Mount Chiliad
+|image = MountChiliad-GTASA.png
+|caption =
+|image_size = 300px
+|games = {{Games|SA=y}}
+|location = [[Whetstone]], [[State of San Andreas (3D Universe)|San Andreas]]
+|height = 
+|map           = 
+<gallery>
+MountChiliad-GTASA-Map.jpg|Mount Chiliad
+MountChiliad-GTASA-WhetstoneMap.jpg|Whetstone
+MountChiliad-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner       = PoliceScanner-GTASA-MountChiliad.ogg
+}}
+{{quote|The highest mountain in the whole state. Very popular for people who like to get high. I mean people who like to feel on the top of the world. I mean people who have nothing better to do than walk up a goddamn hill. It's crime-free. Why is it on a crime report? Nobody is going to steal it.|Official ''Grand Theft Auto: San Andreas'' website.}}
+'''Mount Chiliad''' is a tall {{WP|Monolith|monolithic}} mountain featured in {{SA}}, being the tallest mountain in [[State of San Andreas (3D Universe)|the state]].
+
+==Description==
+Mount Chiliad is located in west [[Whetstone]], [[State of San Andreas (3D Universe)|San Andreas]]. Immediately to the north is the bustling metropolis of [[San Fierro (3D Universe)|San Fierro]], while to the south, at the mountain's base, is the small town of [[Angel Pine]]. [[The Chiliad Challenge|Races]] are held here on [[Mountain Bike|mountain bikes]] during the daytime. These races start from the mountain's summit and end at the mountain's base. It offers spectacular views of Angel Pine. Sometimes cyclists may be seen cycling around the mountain.
+
+Due to its height, aircraft collide into the mountain much more frequently than any other place in the state. Because of this, the player should exercise caution when climbing or descending the mountain, as an explosion within close proximity of [[Carl Johnson]] can be fatal.
+
+==Influence==
+Mount Chiliad appears to be based on the {{WP|Mount Diablo}} in Contra Costa County, California or Mount Whitney. It may also be influenced by {{WP|El Capitan}} at California's Yosemite National Park.
+
+==Prominent Appearances in Missions==
+*[[Badlands]]: In this mission, [[Carl Johnson]], on [[Frank Tenpenny]]'s orders, must find and kill a "[[The Informant|snitch]]" hidden and protected by an [[Federal Bureau of Investigation|FBI]] team in a shack in the mountain.
+*[[The Chiliad Challenge]], a side-mission involving traversing the mountain on bikes
+
+==Stationary Vehicles==
+*[[Camper (3D Universe)|Camper]]: Found at the summit
+*[[Journey]]: Found at the summit
+*[[Mesa Grande|Mesa]]: At the base and near the entrance of the mountain, appears only when wanted for export
+*[[Mountain Bike]]: Found at the base near the entrance to the mountain and also at the summit, which starts [[The Chiliad Challenge]] when hopped on during daytime, and at the base of the mountain
+*[[Sanchez]]: At the base and near the entrance of the mountain. Another one can be found outside the cabin where the mission Badlands takes place
+*[[Quadbike]]: Show up occasionally at the south-east forest of the mountain, next to the north shore downhill track that leads to a unique stunt jump ramp
+*[[Dinghy (3D Universe)|Dinghy]]: Two can be found in the waters to the west of the mountain
+
+==Other==
+*A [[Body Armor|body armor]] at the summit.
+*A [[Parachute]] is at the summit also.
+*A [[Unique Stunt Jumps in GTA San Andreas|unique stunt jump]] at a forested area south of the summit.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+PromotionalWebsite-GTASA-Flash-angelpine chiliad.jpg|'''Mount Chiliad's''' official screenshot.
+MountChiliad-GTASA-ViewFromShadyCreeks.jpg|The view from [[Shady Creeks]] in [[Whetstone]].
+MountChiliad-GTASA-ObservationDeck.jpg|Vista point at the top of '''Mount Chiliad''', with informational plaque and American flag.
+MountChiliad-GTASA-ViewFromSanFierro.jpg|'''Mount Chiliad''' view from San Fierro.
+MountChiliad-GTASA-CloseUp.jpg
+MountChiliad-GTASA-ViewFromAngelPine.jpg|'''Mount Chiliad''' view and Angel Pine overview.
+MountChiliad-GTASA-MountainBikeTracks.png|Mountain Bike trails.
+MountChiliad-GTASA-MountainBikeTrails1.png|Mountain Bike trails.
+MountChiliad-GTASA-Cave1.png|The cave/natural arch.
+MountChiliad-GTASA-Cave2.png|Close up on the cave/natural arch.
+MountChiliad-GTASA-RedMist.jpg|The cave/natural arch, surrounded by [[Weather#Glitches|red smoke]].
+MountChiliad-GTASA-Top.png|The top of the mountain.
+MountChiliad-GTASA-HighestPoint.png|The highest peak of the mountain.
+</gallery>
+
+==Oversights==
+*If the player drives off of the summit in any vehicle and land on one of the edges of the terrain of the mountain hard enough, the player will fall into [[Blue Hell]] for a few seconds, then suddenly appear high in the air somewhere in San Andreas, before crashing back down to the ground.
+
+==Trivia==
+*There is a downhill track that leads to a [[Unique Stunt Jumps in GTA San Andreas|unique stunt jump]] ramp at the southeast forest of the mountain. To find the track, on the route from the entrance to the summit, go up to the third curve then go straight into the forest instead. If the player has unlocked the third Mount Chiliad challenge - the "Cobra Run", simply mounting the mountain bike at the summit will automatically teleport the player there.
+
+==Navigation==
+{{Gtasa neighborhoods}}
+
+[[de:Mount Chiliad (SA)]]
+[[es:Mount Chiliad]]
+[[fi:Mount Chiliad]]
+[[fr:Mount Chiliad (GTA San Andreas)]]
+[[pl:Góra Chiliad (uniwersum 3D)]]
+[[ru:Чилиад вселенной 3D]]
+
+[[Category:Neighborhoods]]
+[[Category:Mountains]]
+[[Category:Locations in GTA San Andreas in Whetstone]]
+[[Category:Zones]]

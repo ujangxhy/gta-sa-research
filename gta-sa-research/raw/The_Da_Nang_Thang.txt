@@ -1,0 +1,178 @@
+{{Infobox mission
+|name       = The Da Nang Thang
+|image      = TheDaNangThang-GTASA-Mission.png
+|caption    = [[Carl Johnson]] about to fight against [[The Snakehead]].
+|game       = {{Games|SA=y}}
+|type       = SA
+|for        = {{For|game=SA|woozie}}
+|location   = [[Wu Zi Mu's Apartment]], [[Chinatown (GTA San Andreas)|Chinatown]], [[San Fierro (3D Universe)|San Fierro]]
+|target     = 
+*Save the refugees locked in a [[Shipping Containers|container]] aboard the [[Da Nang Boys]]' [[Da Nang Boys Freighter|freighter ship]]
+*Kill all of the Da Nang Boys and [[The Snakehead]]
+|fail       = 
+*[[Wasted]]
+*Refugees die
+|reward     = 
+*[[Money|$]]15,000
+*[[Respect]]
+|unlocks    = [[Yay Ka-Boom-Boom]] {{Small|(if [[Toreno's Last Flight]] is completed first)}}
+|unlockedby = [[Amphibious Assault]]
+|todo       =
+*Swim over to the '''<span style="color:#D1BC86">freighter</span>'''.
+*Make your way down into the '''<span style="color:#D1BC86">hull</span>''' of the ship. Be quiet for as long as possible!
+*Take out the refugees' '''<span style="color:#AB3736">guard</span>'''.
+*Shoot the '''<span style="color:#4C5C41">padlock</span>''' on the front of the refugees' container.
+*Leave no one alive on the bridge!
+*Go back and meet the '''<span style="color:#484576">refugees</span>'''. They will lower some dinghies into the water.
+}}
+{{Quote|Enough! We settle this here!| [[The Snakehead]]|sound=Snakehead-GTASA-Quote.ogg}}
+'''The Da Nang Thang''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by the [[Mountain Cloud Boys]] [[San Fierro Triads|Triad]] boss [[Wu Zi Mu]] from his [[Wu Zi Mu's Apartment|apartment]] in [[Chinatown (GTA San Andreas)|Chinatown]], [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Carl bumps into Woozie just as he is about to leave his apartment. Suddenly, [[Little Lion]], a Triad gang member, calls Woozie and informs him of the [[Da Nang Boys]] having arrived on a [[Da Nang Boys Freighter|freighter ship]] in the [[San Fierro Bay]] and having brought along some [[Vietnam]]ese refugees who were locked in a [[Shipping Containers|container]].
+
+Carl rushes to the apartment's roof and meets Little Lion, who is about to fly towards the ship with his [[Maverick (3D Universe)|Maverick]]. Carl enters the helicopter and the two fly over to the ship in the middle of the bay. Carl, prepared for the attack, starts killing every Da Nang Boy he spots with a [[minigun]] with infinite ammunition and after a brief moment, one of the Da Nang Boys manages to shoot down the helicopter with a [[Rocket Launcher (3D Universe)|rocket launcher]]. Little Lion is killed while CJ survives the attack, but loses all his weapons, and some of his health, leaving him with only a [[knife]].
+
+Carl boards the ship and kills several Da Nang Boys, continuing his way around until he finds the prisoners and frees them. One of the refugees tells him where [[The Snakehead]], the Da Nang Boys' leader, is located in ship. Carl makes his way to the Snakehead, killing all enemies in the way. During the fight, Carl kills the Snakehead and then meets up with the refugees. They lower some [[Dinghy (3D Universe)|Dinghies]] into the [[water]] and escape after gratefully thanking Carl for everything he did, leaving Carl alone on a Dinghy.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Swim over to the '''<span style="color:#D1BC86">freighter</span>'''.
+*Make your way down into the '''<span style="color:#D1BC86">hull</span>''' of the ship. Be quiet for as long as possible!
+*Take out the refugees' '''<span style="color:#AB3736">guard</span>'''.
+*Shoot the '''<span style="color:#4C5C41">padlock</span>''' on the front of the refugees' container.
+*Leave no one alive on the bridge!
+*Kill The Snakehead.
+*Go back and meet the '''<span style="color:#484576">refugees</span>'''. They will lower some dinghies into the water.
+
+==Deaths==
+*[[Little Lion]] - Killed by the [[Da Nang Boys]] after his helicopter is shot down with a [[Rocket Launcher (3D Universe)|rocket launcher]].
+*[[The Snakehead]] - Killed by [[Carl Johnson]] on orders from [[Wu Zi Mu]].
+*Numerous members of the Da Nang Boys - Killed by Carl Johnson for getting in his way of rescuing the refugees, as well as to leave no one alive on the freighter ship.
+
+==Reward==
+The rewards for this mission are [[Money|$]]15,000 and increased [[respect]]. If the mission [[Toreno's Last Flight]] has been completed, the mission [[Yay Ka-Boom-Boom]] is unlocked.
+
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px" bordersize="small">
+TheDaNangThang-GTASA-SS1.png|[[Carl Johnson|Carl]] comes to see [[Wu Zi Mu|Woozie]] at [[Wu Zi Mu's Apartment|his apartment]] and runs into him while he's leaving.
+TheDaNangThang-GTASA-SS2.png|Woozie says that he's leaving [[San Fierro (3D Universe)|the city]].
+TheDaNangThang-GTASA-SS3.png|Carl asks if Woozie's leaving on a business trip.
+TheDaNangThang-GTASA-SS4.png|Woozie says that he's leaving for a task that will seal his place in the [[San Fierro Triads|Triads]]...
+TheDaNangThang-GTASA-SS5.png|...and that something has come up and is keeping him from leaving for now.
+TheDaNangThang-GTASA-SS6.png|As Carl and Woozie talk, Woozie gets a call.
+TheDaNangThang-GTASA-SS7.png|The call is from a Triad member by the name of [[Little Lion]].
+TheDaNangThang-GTASA-SS8.png|Woozie is concerned to hear the news that Little Lion delivered...
+TheDaNangThang-GTASA-SS9.png|...telling Little Lion to take [[Guppy]] and go deal with whatever Little Lion is calling about.
+TheDaNangThang-GTASA-SS10.png|Carl asks what's wrong.
+TheDaNangThang-GTASA-SS11.png|Woozie reveals that the [[Da Nang Boys]] are sailing into the city on a large [[Da Nang Boys Freighter|freighter ship]]...
+TheDaNangThang-GTASA-SS12.png|...and that Little Lion will go and examine the ship, having asked him to go along as well.
+TheDaNangThang-GTASA-SS13.png|Carl says that he will go in Woozie's place.
+TheDaNangThang-GTASA-SS14.png|Woozie lets Carl go check the ship out...
+TheDaNangThang-GTASA-SS15.png|...and thanks Carl for being such an invaluable ally to him.
+TheDaNangThang-GTASA-SS16.png|Carl asks where he can find Little Lion.
+TheDaNangThang-GTASA-SS17.png|Woozie tells Carl that Little Lion will be waiting for him in a [[Maverick (3D Universe)|helicopter]]...
+TheDaNangThang-GTASA-SS18.png|...while promising that if all goes according to plan, he'll call Carl in some time and invite him to his [[The Four Dragons Casino|new spot]].
+TheDaNangThang-GTASA-SS19.png|Carl gets into Little Lion's helicopter on the [[Chinatown (GTA San Andreas)|Chinatown]] rooftop.
+TheDaNangThang-GTASA-SS20.png|Little Lion greets Carl and asks why he is in.
+TheDaNangThang-GTASA-SS21.png|Carl says that he'll go along with Little Lion, filling in for Woozie.
+TheDaNangThang-GTASA-SS22.png|Little Lion says that they'll be flying over the ship.
+TheDaNangThang-GTASA-SS23.png|Carl asks Little Lion where the ship they're headed to is.
+TheDaNangThang-GTASA-SS24.png|Little Lion says that the ship is docked out in the [[San Fierro Bay|bay]]...
+TheDaNangThang-GTASA-SS25.png|...and asks Carl to be prepared to fire the [[minigun]] mounted in the helicopter, since the Da Nang Boys onboard will try to shoot them down.
+TheDaNangThang-GTASA-SS26.png|Carl remarks that he's ready to gun down the Da Nang gangsters.
+TheDaNangThang-GTASA-SS27.png|As Carl and Little Lion approach the ship, the Da Nang Boys immediately show up and try to shoot them down.
+TheDaNangThang-GTASA-SS28.png|Carl performing a fly-by on the [[Vietnam]]ese gangsters.
+TheDaNangThang-GTASA-SS29.png|As Carl and Little Lion circle the ship, a gangster carrying a [[Rocket Launcher (3D Universe)|rocket launcher]] climbs atop the ship's containers and targets the helicopter.
+TheDaNangThang-GTASA-SS30.png|Carl struggles to find that gangster while Little Lion panics.
+TheDaNangThang-GTASA-SS31.png|The gangster fires a missile and hits the helicopter, damaging it.
+TheDaNangThang-GTASA-SS32.png|The helicopter spins out of control...
+TheDaNangThang-GTASA-SS33.png|...and crashes into the bay.
+TheDaNangThang-GTASA-SS34.png|Carl manages to get out of the crash alive, while Little Lion appears to have died...
+TheDaNangThang-GTASA-SS35.png|...but unforntunately, he has lost all of the weapons he was carrying except for a [[knife]].
+TheDaNangThang-GTASA-SS36.png|Carl must [[Swimming|swim]] over to the freighter's side and board it.
+TheDaNangThang-GTASA-SS37.png|Meanwhile, the Da Nang Boys look over the side to see if anyone survived the helicopter crash.
+TheDaNangThang-GTASA-SS38.png|One of the gangsters says that nobody could have possibly survived the crash.
+TheDaNangThang-GTASA-SS39.png|Just as the gangster says this, Carl boards the ship.
+TheDaNangThang-GTASA-SS40.png|Carl must sneak into the ship's hull. It's best for him to stay quiet for as long as possible.
+TheDaNangThang-GTASA-SS41.png|Carl stealth killing one of the gangsters.
+TheDaNangThang-GTASA-SS42.png|As Carl climbs onto containers on the ship, he inevitably gets spotted by the Da Nang.
+TheDaNangThang-GTASA-SS43.png|Carl shooting the Da Nang Boys while navigating the container maze.
+TheDaNangThang-GTASA-SS44.png|After some time, Carl comes across a drop into the hull.
+TheDaNangThang-GTASA-SS45.png|Carl entering the ship's hull.
+TheDaNangThang-GTASA-SS46.png|Some shuffle occurs in one of the containers in the hull.
+TheDaNangThang-GTASA-SS47.png|[[Container Guard|One]] of the gangsters comes over to the [[Shipping Containers|container]] and yells at it to keep quiet so as not to bring the ship's captain down there.
+TheDaNangThang-GTASA-SS48.png|Other gangsters walk around the hull and fantasize about their future life in the [[United States of America|United States]].
+TheDaNangThang-GTASA-SS49.png|The gangsters' day dream is interrupted by Carl, who they spot in the hull.
+TheDaNangThang-GTASA-SS50.png|Carl shooting down the guards in the hull.
+TheDaNangThang-GTASA-SS51.png|Carl navigating the hull.
+TheDaNangThang-GTASA-SS52.png|As Carl approaches the other end of the hull, a gangster runs out from around the corner and throws a [[Grenades|grenade]] at him.
+TheDaNangThang-GTASA-SS53.png|Carl killing the grenade-throwing gangster.
+TheDaNangThang-GTASA-SS54.png|Carl must get to the container that the guard previously yelled at.
+TheDaNangThang-GTASA-SS55.png|As Carl approaches the container, he hears human voices.
+TheDaNangThang-GTASA-SS56.png|The people inside the container ask him to free them.
+TheDaNangThang-GTASA-SS57.png|Carl shooting the padlock.
+TheDaNangThang-GTASA-SS58.png|The container's door immediately opens.
+TheDaNangThang-GTASA-SS59.png|Several Vietnamese men come out of the container.
+TheDaNangThang-GTASA-SS60.png|The men say that the ship's captain, [[The Snakehead]], tricked them into becoming his prisoners aboard the ship...
+TheDaNangThang-GTASA-SS61.png|...and beg Carl to help them escape the ship...
+TheDaNangThang-GTASA-SS62.png|...while mentioning that the Snakehead can be found on the bridge.
+TheDaNangThang-GTASA-SS63.png|Carl must kill every Da Nang gangster left on the ship and help the Vietnamese refugees escape.
+TheDaNangThang-GTASA-SS64.png|Carl climbing back out of the hull.
+TheDaNangThang-GTASA-SS65.png|Carl taking out gangsters in the way as he searches for the Snakehead.
+TheDaNangThang-GTASA-SS66.png|Carl jumping over to the bridge.
+TheDaNangThang-GTASA-SS67.png|Carl taking out the last of the Snakehead's bodyguards.
+TheDaNangThang-GTASA-SS68.png|Carl climbing the stairs to meet the Snakehead.
+TheDaNangThang-GTASA-SS69.png|The Snakehead stops practicing martial arts as soon as Carl approaches him...
+TheDaNangThang-GTASA-SS70.png|...and confronts him face to face.
+TheDaNangThang-GTASA-SS71.png|The Snakehead throws Carl a [[katana]]...
+TheDaNangThang-GTASA-SS72.png|...and challenges him to a sword duel.
+TheDaNangThang-GTASA-SS73.png|Carl cutting down the Snakehead.
+TheDaNangThang-GTASA-SS74.png|After defeating the Snakehead, Carl must return to the prisoners, who are lowering [[Dinghy (3D Universe)|dinghies]] into the [[water]] after escaping the hull.
+TheDaNangThang-GTASA-SS75.png|Carl going back to the Vietnamese refugees.
+TheDaNangThang-GTASA-SS76.png|Carl approaching the refugees.
+TheDaNangThang-GTASA-SS77.png|Some time later, Carl and the refugees manage to escape the ship on dinghies.
+TheDaNangThang-GTASA-SS78.png|The Vietnamese men thank Carl for saving them from the Snakehead...
+TheDaNangThang-GTASA-SS79.png|...as they sail away on dinghies.
+TheDaNangThang-GTASA-SS80.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|gteqfENnsH4|275px|center}}
+{{#ev:youtube|zyPzj0av0ME|275px|center}}
+{{#ev:youtube|Tf_0yBTgR3w|275px|center}}
+
+==Trivia==
+===General===
+*The sword fight in the mission is similar to the mission [[Cash in Kazuki's Chips]] in {{LCS}}, in which [[Toni Cipriani|Toni]] will be prompted to engage the enemy in the same way and is free to choose any weapon he wants. However, Toni's fight is harder due to the presence of heavily armed guards that will attack Toni when he pulls out a firearm and/or [[Kazuki Kasen|Kazuki]] is low on [[health]].
+
+===''Grand Theft Auto: San Andreas''===
+*Although [[Wu Zi Mu|Woozie]] is informed that the [[Da Nang Boys]] have just arrived in [[San Fierro (3D Universe)|San Fierro]] on a [[Da Nang Boys Freighter|container ship]], the ship has been anchored in the [[San Fierro Bay|bay]] since the start of the game due to it being a static object.
+*Regardless of how accurate the player is with the [[minigun]], the gangster with the [[Rocket Launcher (3D Universe)|rocket launcher]] is invincible; therefore, the [[Maverick (3D Universe)|helicopter]] will always be shot down and [[Carl Johnson|Carl]] will lose his weapons collection.
+**Even if the player shoots the missile, or the missile misses the helicopter, the helicopter will still be destroyed.
+**In addition, the helicopter is actually sunken, but not destroyed. It is invincible after the crash. It can be obtained by dropping down to the seabed, and then pushing it to the shore either with CJ's body or with the [[Sawed-Off Shotgun]]. After that, it can be entered, flown to a [[Garages|garage]] and stored. It can be stored in the garages of the [[Doherty Safehouse]] and [[Hashbury Safehouse]] at this point in the game. A demonstration of this can be seen {{URL|https://www.youtube.com/watch?v{{=}}jDhqv2QSu38|here}}. 
+*Even if the player is [[Fist|unarmed]] or has a different melee weapon, Carl will automatically receive a [[knife]] after the helicopter is shot down.
+*On rare occasions, due to the ship's height, a [[plane]] may crash into it, resulting in the death of [[The Snakehead]] and his guards. This causes Carl to automatically meet up with the refugees. This can also cause a softlock as a plane might crash into the hull, destroying boxes in the process. If CJ is too fat/not muscular enough, they might not be able to climb out until being starved by waiting for several in-game hours.
+*During this mission, it is impossible to get a [[Wanted Level in GTA San Andreas|wanted level]]. Accessing [[Impound Garage|impound garages]] will cause nearby officers to shoot the player, but no wanted level will be attained. Accessing the [[Easter Basin Naval Station]] can cause [[FBI Rancher]]s to spawn on the road, but not chase the player.
+**In addition, one can access the locked regions of [[Las Venturas (3D Universe)|Las Venturas]] and [[Area 69 (3D Universe)|Area 69]] freely. However, if the player flies an aircraft over their airspace, the [[Surface-to-Air Missile|SAM]] sites will fire on the player regardless of the wanted level and can [[Wasted|waste]] them.
+*After the mission has been completed, the [[West Coast Talk Radio (3D Universe)|WCTR]] [[Lianne Forget|news reporter]] reports on the "mystery of a container ship found deserted and full of bodies", as a subtle reference to the aftermath of this mission. The broadcast can be first heard when the player is driving to the location of the contraband helicopter in the mission [[Interdiction]].
+
+{{Clear}}
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:The Da Nang Thang]]
+[[es:The Da Nang Thang]]
+[[fi:The Da Nang Thang]]
+[[pl:Da Nang Thang]]
+[[ru:The Da Nang Thang]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

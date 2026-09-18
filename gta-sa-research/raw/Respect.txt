@@ -1,0 +1,95 @@
+{{Quote|Respect has to be earned, Sweet, just like money.|[[Big Smoke]] as the gang heads out to [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] in [[Drive-Thru]]|sound=MelvinHarris-GTASA-Quote3.ogg}}
+'''Respect''' encompasses two different gang-based systems in {{2}} and {{SA}}.
+
+==''Grand Theft Auto 2''==
+{{Quote|And remember, respect is everything!|Opening voice|sound=RespectIsAnything.ogg}}
+
+[[Image:Respectmeter-GTA2.png|frame|The '''respect''' meter in {{2}}, which does not only indicate which gang is hostile or friendly to the player, but also any [[Communication|payphones]] the player has access to. As indicated in the image, the player can receive jobs from the [[Scientists]]' green phones and the [[Zaibatsu]]'s green and yellow phones, but is an enemy of the [[Rednecks]].]]
+
+In ''GTA 2'', respect is a fundamental aspect of the [[Grand Theft Auto 2#Gangs|gang]] system, determining which gangs the player may work with and how gang members may react to the player. A phrase in the game, "Respect is Everything", expresses the importance of respect in gameplay.
+
+The game's [[Heads-Up Display|HUD]] displays a respect meter for each of the current district's three gangs. These all begin at a neutral level. The gang's "respect" for the player will increase or decrease with the player's actions:
+
+*When the player completes one of its missions or kills members of opposing gangs, respect from a gang will rise.
+*When the player fails one of its missions or kills its members, respect from a gang will drop.
+
+Gaining and losing respect can also be affected by certain missions and actions caused by the player. Some mission objectives require the player to destroy whole structures which are usually major assets to a gang, resulting in major respect loss from the opposing gang. Also, depending on the way the player kills gang members, respect can be lost in different ways. Using explosives to kill off opposing gang members will result in respect dropping noticeably faster. 
+
+A neutral-to-positive respect level from a gang will grant the player the ability to receive missions from the mentioned gang via [[Communication|payphones]]. Gangs with a positive respect level will also protect the player from the [[Anywhere City Police Department|police]] and other law enforcement if they have a [[Wanted Level in GTA 2|wanted level]]. The respect meter further provides indications on which payphones the player can access via a series of three color-coded lights (each assigned to phones with the same colors, including, in ascending order, green, yellow and red) that light up in accordance to the level of respect the player has from the gang. The higher the respect level, the more phones the player can access.
+
+Gangs with a negative respect level will naturally be hostile toward the player, with its members firing at the player when the player enters their territories. In the [[Residential District]] and the [[Industrial District]], gang members will use deadly weapons against the player once the respect meter drops to a very low level (for example, the [[Scientists]] will use machine guns and [[flamethrower]]s). In addition, gangs that view the player unfavorably do not trust the player, and so they will not offer up their mission strings to the player.
+
+[[Power-ups in GTA 2|A pickup]] is available that will boost gang respect towards the player.
+[[File:Respect-GTA2-CustomMap.PNG|thumb|center|Custom Map '''respect''', showing that the player is an ally of the [[Yakuza (3D Universe)|Yakuza]] and the [[Krishnas]], an enemy to the [[Zaibatsu Corporation]] and is neutral to the [[Rednecks]].]]
+
+{{Clear}}
+==''Grand Theft Auto: San Andreas''==
+In ''GTA San Andreas'', respect is an element indicating how inclined [[Grove Street Families|the gang]] is to help [[Carl Johnson|Carl]]. The more respect he has, the more gang members he can recruit to tend to his personal interests.
+
+Raising the respect bar is straight-forward: doing missions, taking over gang turf, and murdering rival gang members and law enforcement officers are the most common ways. Respect also affects [[Carl Johnson|CJ's]] [[Statistics#Sex Appeal|sex appeal]].
+
+Up to seven gang members can be [[Recruiting|recruited]]. This will not happen until Carl has roughly 80% of the respect meter full.
+
+===Gaining Respect===
+These are according to the Brady Games Strategy Guide.
+
+{|class="wikitable"
+!Action
+!Respect Change
+|-
+|Territory Gained
+| +30.0%
+|-
+|Killing a gang member
+| +0.5%
+|-
+|Killing a [[Crack Dealers|dealer]]
+| +0.005%
+|-
+|Killing a member of the player's gang
+| -0.005%
+|-
+|A member of the player's gang gets killed
+| -2.0%
+|-
+|Territory Lost
+| -3.0%
+|}
+
+===Respect Effects===
+The greater the respect meter reaches, the more gang members Carl can recruit, to a maximum of 7.
+
+{| class="wikitable"
+!Respect
+!No. of Gang Members
+|-
+|>1%
+|2
+|-
+|>10%
+|3
+|-
+|>20%
+|4
+|-
+|>40%
+|5
+|-
+|>60%
+|6
+|-
+|>80%
+|7
+|}
+
+==Navigation==
+{{2D Universe Gangs|state=collapsed}}
+
+[[nl:Respect]]
+[[pl:Respekt]]
+[[ru:Авторитет]]
+
+[[Category:Terminology]]
+[[Category:Features in GTA 2]]
+[[Category:Features in GTA San Andreas]]
+[[Category:Gameplay]]

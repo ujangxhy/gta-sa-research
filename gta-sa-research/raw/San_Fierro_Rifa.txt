@@ -1,0 +1,138 @@
+{{Infobox organization
+|name         = San Fierro Rifa
+|image        =
+<gallery>
+SanFierroRifa-GTASA-Screenshot.jpg|Gang Members
+SanFierroRifa-GTASA-Tag.png|Unused Tag
+</gallery>
+|caption      =
+|aka          = Rifa
+|games        = {{Games|SA=y}}
+|locations    =
+*[[Garcia]] {{Small|(headquarters)}}
+*[[Battery Point]]
+*[[Doherty (3D Universe)|Doherty]]
+*[[King's]]
+|leader       = [[T-Bone Mendez]]
+|type         = gang
+|gang_type    = Hispanic street gang
+|enemies      =
+*[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]
+*[[Da Nang Boys]]
+*[[San Fierro Triads]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]] {{Small|(formerly)}}
+*[[Grove Street Families]]
+|affiliations =
+*[[Loco Syndicate]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+*[[Ballas (3D Universe)|Ballas]]
+*[[Russian Mafia (3D Universe)|Russian Mafia]]
+*[[Big Smoke's Grove Street Families Faction]]
+*[[Big Smoke]]
+*[[Ryder]]
+|colors       = Blue
+|vehicles     =
+*[[Blade (car)|Blade]]
+*[[Stallion]]
+*[[Sabre]]
+*[[Rumpo]] {{Small|(during [[Outrider]])}}
+*[[Pony]] {{Small|(during [[Pier 69 (mission)|Pier 69]])}}
+|weapons      =
+*[[Pistol (3D Universe)|Pistol]]
+*[[Micro SMG (3D Universe)|Micro SMG]]
+*[[TEC 9]] {{Small|(during Pier 69)}}
+*[[SMG (3D Universe)|MP5]]
+*[[Shotgun (3D Universe)|Shotgun]]
+*[[AK47]] {{Small|(by Mendez)}}
+*[[M4]] {{Small|(during [[End of the Line]])}}
+|businesses   =
+*Drug trafficking/manufacturing
+*Security/Protection
+|fronts       =
+*[[Loco Syndicate Crack Factory]]
+*[[Big Smoke's Crack Palace]]
+|status       = active
+|nationality  = {{Country|adj=y|MX|US}}
+}}
+The '''San Fierro Rifa''' (or Rifa) is a [[Mexico|Mexican]] gang in {{SA}}, operating in [[San Fierro (3D Universe)|San Fierro]]. It is led by [[T-Bone Mendez]].
+
+==Description==
+===Relationships with other gangs===
+The Rifa had a strong dislike towards other Mexican gangs in [[Los Santos (3D Universe)|Los Santos]], until they joined the narcotics business with [[Big Smoke]] and linked up with the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]].
+
+The Rifa and Vagos often deal with each other in narcotics as seen in the mission [[Wrong Side of the Tracks]]. They are also on unfriendly terms with the other San Fierro gangs {{nd}} the [[China|Chinese]] [[San Fierro Triads]] and the [[Vietnam]]ese [[Da Nang Boys]], though confrontations of these gangs are rare, as their territories are far away from each other. Moreover, the focus of the Rifa is also not based on a gang war with the other San Fierro gangs, but on the narcotics business.
+
+They are the least threatening and violent on the streets: when the player (or any other gang) attacks them, they usually run. Nearby Rifa will question Carl on his gang-banging status. If the player chooses to respond positively {{nd}} the Rifa will sometimes (but not always) attack as opposed to the Los Santos gangs who will almost always attack. They are never armed with any weapons on the streets, but will draw a [[Pistol (3D Universe)|pistol]] if they are provoked with [[Melee Weapons|melee weapons]], by answering positively or when crashing into their cars (although sometimes they will ram back instead). In general, the Rifa are completely neutral to CJ (except for missions), even after Mendez's death.
+
+===Physical Appearance===
+Rifa members nearly have the same turquoise color bandannas that [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] wear (the Rifa colors are slightly more vibrant), but are not to be mistaken as a northern set of the gang, as they do not like each other. Also, Rifa members are easily recognizable because of their baggy slacks. They have three different skins that will drive and patrol around their territories:
+
+*The first member wears a white fedora, a turquoise bandanna, a white beater, black slacks, suspenders, black shoes and has tattoos.
+*The second member wears sunglasses, a turquoise bandanna, a black vest, a cross necklace, blue slacks, brown shoes and has tattoos.
+*The last member wears a collared blue T-shirt, a turquoise bandanna, black slacks, suspenders, black shoes and also has tattoos.
+
+The San Fierro Rifa gang members are seen driving [[Stallion]]s, [[Sabre]]s, and [[Blade (car)|Blades]] and listen to the radio station [[K-JAH West]].
+
+==Influence==
+The San Fierro Rifa is based on the real life gang, the {{WP|Norteños}}. In reality, however, the Nortenos use red as their dominant color, but like the Rifa, they are the primary Mexican-American criminal group in {{WP|San Francisco}}, which San Fierro is based on.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+The gang established drug trade relations with Big Smoke, the [[Ballas (3D Universe)|Ballas]], Los Santos Vagos and [[Russian Mafia (3D Universe)|Russian Mafia]] after Big Smoke's [[The Green Sabre|betrayal]].
+
+Despite the death of their leader during the events of the game, the gang remains in existence in their turfs throughout San Fierro, although following the destruction of the [[Loco Syndicate]] and their [[Loco Syndicate Crack Factory|crack lab]], it is unlikely they are involved in the drugs trade any further, as there is nobody else to supply them.
+
+They make their final appearance in [[End of the Line]] where they were hired by Big Smoke for protection purposes of his [[Big Smoke's Crack Palace|crack empire]] in collaboration with the Ballas, Los Santos Vagos, and Russian Mafia. Ultimately, the Rifas, alongside the other gangs, are defeated.
+
+==Prominent Appearances in Gameplay==
+*[[Outrider]]
+*[[Pier 69 (mission)|Pier 69]]
+*[[End of the Line]]
+
+==Members and Associates==
+===Members===
+*[[T-Bone Mendez]] {{nd}} [[Boss|Leader]] †
+
+===Associates===
+*[[Mike Toreno]] {{nd}} [[Loco Syndicate]] member {{Small|(undercover; formerly)}}
+*[[Jizzy B]] {{nd}} Loco Syndicate member †
+*[[Big Smoke]] † 
+*[[Ryder]] †
+*[[Carl Johnson]] {{nd}} Hired gun {{Small|(formerly)}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+SanFierroRifa-Member1-GTASA.jpg|'''Rifa''' first member.
+SanFierroRifa-Member2-GTASA.jpg|'''Rifa''' second member.
+SanFierroRifa-Member3-GTASA.jpg|'''Rifa''' third member.
+Rifa attack.PNG|'''San Fierro Rifa''' attacking [[Grove Street Families|GSF]] territory due to a [[Territory Glitch|glitch]].
+Rifa vs da nang.jpg|'''Rifas''' fighting the [[Da Nang Boys]] in [[Battery Point]].
+GroveStreetFamilies-GTASA-SanFierroRifa.jpg|Recruited Grove Street Families member shooting at a '''Rifa''' member from a [[NRG-500|motorbike]].
+</gallery>
+
+==Trivia==
+*The Rifa with the blue shirt somehow knows [[Carl Johnson|CJ]]'s name. This is evidenced by two of his lines: "''You're dead, CJ!''" and "''Game over for you, Carl!''".
+*In the [[Beta Content in GTA San Andreas|beta version]], San Fierro Rifa had their own [[tags]], probably in [[San Fierro (3D Universe)|San Fierro]], misspelling the city name in it as 'Fiero'. However, [[Rockstar Games|Rockstar]] cut this feature before the game's release. However, the tag is still present in the game files.
+*When the territory glitch is used, the Rifa's color of their blips will be dark blue (see gallery).
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{Gtasa gangs|state=collapsed}}
+}}
+
+[[ar:سان فييرو ريفا]]
+[[de:San Fierro Rifa]]
+[[es:San Fierro Rifa]]
+[[fi:San Fierro Rifa]]
+[[fr:San Fierro Rifa]]
+[[hu:San Fierro Rifa]]
+[[pl:San Fierro Rifa]]
+[[pt:San Fierro Rifa]]
+[[ro:San Fierro Rifa]]
+[[ru:San Fierro Rifa]]
+[[uk:San Fierro Rifa]]
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Latino-descendant organizations]]
