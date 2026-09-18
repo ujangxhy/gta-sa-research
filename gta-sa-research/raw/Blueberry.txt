@@ -1,0 +1,93 @@
+{{Infobox location
+|Name Change = TOWN
+|image = Blueberry-GTASA-Collage.png
+|caption = From top to bottom, left to right: Overview of Blueberry, the [[Red County Truck Terminal]], storefronts of Blueberry, the [[FleischBerg]] beer factory, agricultural scene on [[EasterBoard Farm]].
+|games = {{Games|SA=y}}
+|location = [[Red County (3D Universe)|Red County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|pop      = 1,309 <small>(estimated)</small>
+|map           = 
+<gallery>
+Blueberry-GTASA-Map.jpg|Blueberry
+Blueberry-GTASA-RedCountyMap.jpg|Red County
+Blueberry-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner       = PoliceScanner-GTASA-Blueberry.ogg
+}}
+{{Quote|At the very center of the state of San Andreas, Blueberry is a farming community and home to the FleischBerg brewery. To the west of local farm, Blueberry Acres lies a large hill, known locally as The Panopticon. The Panopticon affords views of both Bone and Flint Counties and Easter Basin Airport, serving San Fierro. We're sure some crimes takes place here, only currently, we don't know that.|GTA San Andreas Website.}}
+'''Blueberry''' is a medium-sized rural town located in [[Red County (3D Universe)|Red County]], [[State of San Andreas (3D Universe)|San Andreas]], that appears in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+The town of Blueberry is situated near [[Blueberry Acres]] (hence the name) in Red County, [[State of San Andreas (3D Universe)|San Andreas]] with [[The Panopticon]] to the west, [[Fern Ridge]] to the east and [[Hampton Barns]] to the northeast. The population size of this town is estimated at 1,309. This rural town is the home of the [[FleischBerg]] brewery, whose motto, "Making Life Mean Something Since 1869", stands out prominently underneath its logo. Towards the center of the town, there is a [[Blueberry Safehouse|safehouse]] in an apartment complex which can be bought for [[Money|$]]10,000.
+
+Blueberry is much the same as any other town in Red County with residences and businesses much the same as those in neighboring towns. The town is the industry hub of Red County as it has some of the largest factories in the state. It is connected to a major [[highway]] and serviced by several major roads making it a key stop for travelers making their way through the State of San Andreas. It remains a strong rural community as evidenced by the nearby [[Blueberry Acres]] which along with the [[FleischBerg]] brewery is likely a major employer. Blueberry has the lowest elevation of all towns in [[State of San Andreas (3D Universe)|San Andreas]]. One of the six girlfriends, [[Helena Wankstein]] can also be found here at the shooting range near the [[Ammu-Nation (3D Universe)|gun shop]].
+
+==Influence==
+The town of Blueberry appears to be based on both {{WP|Santa Maria, California|Santa Maria}} and {{WP|Bakersfield, California}}.
+
+==Residents==
+*[[Jonas Ackerman]]
+*[[Carl Johnson]] (if the [[Blueberry Safehouse]] is purchased)
+
+==Places of Interest==
+===Locations===
+*[[Blueberry Safehouse]]
+*[[Blueberry Trailer Park]]
+*[[Red County Truck Terminal]] (abandoned)
+
+===Businesses===
+{{Columns
+|
+
+*[[Amity Seafood Restaurant]]
+*[[Ammu-Nation (3D Universe)|Ammu-Nation]]
+*[[Avery Construction]]
+*[[Blueberry Bus Depot]]
+*[[Final Build Construction]] (several sites)
+*[[FleischBerg]]
+*[[Locals Only!]]
+|
+
+*[[Last Drop Warehouse Services]]
+*Large unnamed warehouse with containers
+*[[P Hat Liquor]]
+*[[Spand Express]] / [[Xoomer]] depot
+*[[The Well Stacked Pizza Co. (3D Universe)|The Well Stacked Pizza Co.]]
+*Unnamed store with Sprunk billboard
+}}
+
+==Others==
+*Three [[Unique Stunt Jumps in GTA San Andreas|Unique Stunt Jumps]]
+
+===Weapons/Pickups===
+*[[AK47]] {{nd}} Mid-north part of [[FleischBerg]] factory
+*[[Body Armor]] {{nd}} Mid-north part of [[FleischBerg]] brewery
+*[[TEC 9|Tec-9]] {{nd}} To the north of a warehouse across the [[Xoomer]] depot
+*[[Pool Cue]] {{nd}} South-east block, in front of [[Amity Seafood Restaurant|the restaurant]]
+*[[Police Bribes|Police Bribe]] {{nd}} Central area, next to the [[Ammu-Nation (3D Universe)|gun shop]]
+*Police Bribe - South-east corner of [[Blueberry Acres]], on the dirty road
+
+===Stationary Vehicles===
+*[[Boxville (3D Universe)|Boxville]] {{nd}} Behind The Well Stacked Pizza Co.
+*[[Mountain Bike]] {{nd}} At the Blueberry Safehouse (not available on the [[Personal Computer|PC]] version)
+*[[Beaters|Beater]] [[Sadler]] {{nd}} At the Red County Truck Terminal
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+Blueberry-GTASA.png|Overview of '''Blueberry'''.
+Blueberry-GTASA-Overview.jpg|'''Blueberry''' as viewed towards the northeast from above the town's largest warehouse.
+BlueberrySafehouse-GTASA-Exterior.jpg|A '''Blueberry''' apartment housing the [[Blueberry Safehouse]].
+</gallery>
+
+==Navigation==
+{{Gtasa neighborhoods}}
+[[de:Blueberry]]
+[[es:Blueberry]]
+[[fr:Blueberry]]
+[[pl:Blueberry]]
+[[pt:Blueberry]]
+[[ru:Блуберри]]
+[[Category:Towns]]
+[[Category:Neighborhoods]]
+[[Category:Locations in GTA San Andreas in Red County]]
+[[Category:Zones]]

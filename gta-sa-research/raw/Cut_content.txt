@@ -1,0 +1,57 @@
+{{Beta}}
+{{Disambiglink|This is not to be confused with [[Deleted Content]] which refers to content that ''was'' in the final release of the game but some time after.}}
+'''Beta content''' refers to any content that was planned or due to appear in a ''[[Grand Theft Auto]]'' game but removed from the final release. 
+
+The {{S}} has become renowned for much of its beta content as well as the content seen in final releases. Such beta content can include everything from character designs, missions, map areas, vehicles, weapons, dialogue, and even mechanics that developers initially intended to include but ultimately decided to cut or change. The reasons for these cuts can range from technical limitations, time constraints, balancing issues, or shifts in the game's direction.
+
+Beta content is usually discovered through the use of [[Modifications|third-party tools]] such as [[OpenIV]] and [[CodeWalker]], although a whole host of content is seen in promotional material, such as pre-release [[:Category:Official screenshots|screenshots]], [[:Category:Trailers|trailers]] and other mediums.
+
+==Examples==
+===''Grand Theft Auto''===
+{{Main|Beta Content in GTA}}
+[[File:Race%27n%27Chase-Screenshot.jpg|thumb|right|270px|''[[Race'n'Chase]]'' concept artwork]]
+Perhaps most notable is the original concept for the {{S}} as a whole. Before the release of the first {{1}} game, the game's concept was primarily centralised around cops and robbers (leading to the final name of the first game and series as a whole) and would allow the player to choose between playing as either a cop or robber, in what was then known as ''[[Race'n'Chase]]''.
+
+The final game itself also sees a whole host of beta or otherwise unused content. From cut vehicles such as the [[Helicopter]], [[SWAT Van]] and [[APC]], to the cut [[Petrol Bomb]]. Numerous changes to existing content were also made, including the voice artist used for [[The Fergus Buckner Show FM]]'s [[Fergus Buckner]], and cut objectives for the mission [[Heist Almighty - Porka Turbo]].
+
+
+
+
+
+*[[Beta Content in GTA]]
+*[[Beta Content in GTA 2]]
+*[[Beta Content in GTA III]]
+*[[Beta Content in GTA Vice City]]
+*[[Beta Content in GTA Advance]]
+*[[Beta Content in GTA San Andreas]]
+*[[Beta Content in GTA Liberty City Stories]]
+*[[Beta Content in GTA Vice City Stories]]
+*[[Beta Content in GTA IV]]
+*[[Beta Content in TLAD]]
+*[[Beta Content in TBOGT]]
+*[[Beta Content in GTA Chinatown Wars]]
+*[[Beta Content in GTA V]]
+*[[Beta Content in GTA Online]]
+*[[Beta Content in GTA VI]]
+
+==See Also==
+*[[Deleted Content]]<!--
+*[[Beta Characters]]
+*[[Beta Vehicles]]
+*[[Beta Weapons]]
+*[[Beta Places]]
+*[[Beta Radio Stations]]
+-->
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox beta}}
+{{Navbox gta}}
+}}
+[[Category:Beta content| ]]
+
+[[de:Beta-Version]]
+[[es:Beta]]
+[[fi:Beta]]
+[[ru:Бета-версии]]

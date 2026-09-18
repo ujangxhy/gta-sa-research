@@ -1,0 +1,30 @@
+{{scriptbox|style=gtaiii|
+{{line
+|background=[[Claude]] goes to see [[Salvatore Leone|Salvatore]] at [[Salvatore's Gentlemen's Club|his Gentlemen's club]].
+}}{{line
+|name=[[Salvatore Leone]]
+|dialogue=It's my favorite cleaner! I'm proud of you, my boy, you kicked the shit out of those greaseballs. I just got one little job for you before we can go celebrate. There's a car round the block from Luigi's Club, the inside is covered in brains. We had to help some guy make up his mind and it proved a little...messy. Take it to the crusher before the cops find it.
+}}{{line
+|background=Claude heads to [[Luigi's Sex Club 7]] to supposedly get the [[Cheetah (3D Universe)|car]] that Salvatore was talking about, only to get a message on his [[Sumo Wordman|pager]] from [[Maria Latore]].
+}}{{line
+|name=Maria<br><small>(Pager)</small>
+|dialogue=This is Maria. The car's a trap! Meet me at the slip south of Callahan Bridge.
+}}{{line
+|background=Claude goes to a pier in south [[Callahan Point]], where Maria is waiting.
+}}{{line
+|name=Maria
+|dialogue=Listen, Salvatore thinks that we're going behind his back, so he was offering you to the Cartel in order to make a deal. I couldn't let him do that, I mean, the worst thing is...it's all my fault, because I told him, we were an item. Don't ask me why, I don't know! Look, you're a marked man on Mafia turf, and I've got to get out of here too. I've seen too much killing, too much blood...This is a friend of mine, OK, she's an old friend...it's Asuka, she's someone we can trust.
+}}{{line
+|name=[[Asuka Kasen]]
+|dialogue=Come on, enough of the speeches. We better get out of here before we get more hysterical Italians wanting less friendly reunions.
+}}{{line
+|background=Claude, Maria and Asuka hop aboard a [[Reefer|boat]] and make their way to [[Staunton Island]], stopping at the docks near [[Asuka Kasen's Condo]].
+}}{{line
+|name=Maria
+|dialogue=Asuka and I are gonna have to talk, uh, why don't you go cruise around?
+}}{{line
+|name=Asuka Kasen
+|dialogue=You'll need a place to lie low. There's a warehouse at the edge of Belleville that should suit your needs. Come back to my condo when you're ready, and you and me can have a little chat.
+}}}}<noinclude>
+
+[[Category:Mission Transcripts in GTA III]]</noinclude>

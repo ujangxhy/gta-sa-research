@@ -1,0 +1,51 @@
+{{Scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson|CJ]] enters the house. CJ picks up a picture of [[Beverly Johnson]] off of the floor and looks at it. As he looks around the house, he recalls childhood memories.
+}}{{line
+|name=[[Kendl Johnson|Kendl]]
+|dialogue=Stop it! What are you doing? Carl, Brian, stop it!
+}}{{line
+|name=CJ
+|dialogue=Quit it! Moms will hear!
+}}{{line
+|name=Kendl
+|dialogue=Mom! They're up to something!
+}}{{line
+|background=CJ sits at the table. [[Big Smoke]] enters wielding a [[Baseball Bat]].
+}}{{line
+|name=Big Smoke
+|dialogue=You picked the wrong house, fool!
+}}{{line
+|background=CJ picks up the chair to defend himself.
+}}{{line
+|name=CJ
+|dialogue=Hey, hey! Big Smoke, it's me, Carl, chill, chill!
+}}{{line
+|name=Big Smoke
+|dialogue=CJ? Awww, my dog! Whassup? (laughs) Hey baby, you okay, man?
+}}{{line
+|name=CJ
+|dialogue=No man, it's my Moms, homie...
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, I don't know why this had to happen, but I promise you, I'm gonna find out who killed your moms! The streets is cold, Dog. Like it says in the book, we are blessed and cursed.
+}}{{line
+|name=CJ
+|dialogue=What fucking book?
+}}{{line
+|name=Big Smoke
+|dialogue=Same things that make us laugh, make us cry. But right now, we gotta take care of our business. Go see your brother at the cemetery. C'mon, let's bounce.
+}}{{line
+|background=CJ and Big Smoke exit the house, and get into Smoke's black [[Perennial]].
+}}{{line
+|name=Big Smoke
+|dialogue=You want to drive?
+}}{{line
+|name=CJ
+|dialogue=Yeah, that's cool. Nice car, Smoke.
+}}{{line
+|name=Big Smoke
+|dialogue=You know me. It's not cut. Kep the value in it. Keep it real.
+}}}}<noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

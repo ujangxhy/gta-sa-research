@@ -1,0 +1,60 @@
+{{Scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] and [[Cesar Vialpando]] are inside the [[Doherty Garage]], checking the engine of the [[Remington]].}}
+{{line|name=CJ|dialogue=Yeah, I got it. It's in the manifold.}}
+{{line|name=Cesar|dialogue=Shit, I just changed that seal! Must have got a crimp in it, damn!}}
+{{line|background=[[Kendl Johnson]] enters to greet Cesar.}}
+{{line|name=Kendl|dialogue=Hey, Ces, your boy is here.}}
+{{line|background=Cesar checks outside the car.}}
+{{line|name=Cesar|dialogue=He ain't ''my'' boy.}}
+{{line|background=Cesar gets out of the car and goes to talk to a man standing near the entrance of the garage.}}
+{{line|name=Kendl|dialogue=Hey, we're almost living normal life, huh. This is far from Grove Street, right?}}
+{{line|name=CJ|dialogue=Yeah, I know, I just can't get it out of the back of my mind. Moms, Sweet, Smoke - I can't just let that go.}}
+{{line|name=Kendl|dialogue=I know. So what we going to do about Sweet?}}
+{{line|name=CJ|dialogue=It's a shitty situation, but I've to let it play out a little longer. OK?}}
+{{line|name=Kendl|dialogue=OK, but be careful. We ain't trying to lose you again.}}
+{{line|name=CJ|dialogue=That's right, sis - good looking out.}}
+{{line|background=Cesar comes back to talk to CJ.}}
+{{line|name=Cesar|dialogue=Hey, Carl, I gotta rap to you holmes. I know a guy who knows a guy who handles freight containers down on the docks. He saw one of the containers was loading up cars and one was a match of a car on a customer's wishlist. So, he marked the container with a spray can, but it might be too late. The ship's loading and it moves out tomorrow.}}
+{{line|name=CJ|dialogue=OK, let's go peep it out - see what we can see.}}
+{{line|background=CJ and Cesar go outside, and get into Cesar's [[Savanna]] and drive off to [[Easter Basin]].}}
+{{line|name=Cesar|dialogue=C'mon, ese, you can drive!}}
+{{line|name=CJ|dialogue=Don't I always?}}
+{{line|name=Cesar|dialogue=How we going to steal a car off a container ship, holmes?}}
+{{line|name=CJ|dialogue=You know, the same way they got on - use a dockside crane!}}
+{{line|name=Cesar|dialogue=Man, those things are real high up - I ain't too good with ladders and I'm afraid of heights!}}
+{{line|name=CJ|dialogue=OK, I'll use the crane. You better be ready to crack the container.}}
+{{line|background=CJ and Cesar arrive near the ship and the crane.}}
+{{line|name=Cesar|dialogue=That's the ship, CJ!}}
+{{line|name=CJ|dialogue=OK, I'll go sort out the crane, gimme a second.}}
+{{line|name=Cesar|dialogue=Well, be quick, I don't wanna be caught sleeping out here!}}
+{{line|background=CJ gets into the crane, only to find that all crates on the ship are unmarked.}}
+{{line|name=CJ|dialogue=Cesar, '''''none of these''' is marked with spray paint!''}}
+{{line|name=Cesar|dialogue=Well, we'll just have to try one at a time, eh!}}
+{{line|background=CJ picks a container and drops it on the ground. Cesar opens it up, only to find a [[Club]] inside.}}
+{{line|name=Cesar|dialogue=Not this one, CJ!}}
+{{line|background=CJ picks another container and drops it on the ground. Cesar opens that one, but finds the wrong car again, this time, a [[Perennial]].}}
+{{line|name=Cesar|dialogue=No luck, CJ, try another!}}
+{{line|background=CJ picks the last container and drops it on the ground. Cesar opens it up and finds the correct car inside - a [[Jester]].}}
+{{line|name=Cesar|dialogue=Okay, CJ, this is the one! Good work, holmes!}}
+{{line|background=Suddenly, some guards arrive in a [[Sentinel]] and start attacking Cesar.}}
+{{line|name=Guard|dialogue=Hey! What the fuck do you think you are doing?!}}
+{{line|name=Cesar|dialogue=CJ, I could do with some help!}}
+{{line|background=CJ gets out of the crane and he and Cesar kill the guards. Some more guards arrive in a Sentinel.}}
+{{line|name=Guard|dialogue=Hey, hold it right there!}}
+{{line|name=Cesar|dialogue=I could do with a little help, CJ!}}
+{{line|background=CJ and Cesar kill the guards. A third wave of guards arrives on foot.}}
+{{line|name=Guard|dialogue=Stay right there, you thieving bastard!}}
+{{line|background=CJ and Cesar kill all the guards.}}
+{{line|name=Cesar|dialogue=*Let's just get the car and get out of here! *Let's just grab the car and go!}}
+{{line|background=CJ and Cesar get into the Jester and drive back to the Doherty Garage.}}
+{{line|name=CJ|dialogue=There gotta be an easier way of earning a living than this.}}
+{{line|name=Cesar|dialogue=Sure holmes, I guess. But what else are you qualified for?}}
+{{line|name=CJ|dialogue=Yeah, I feel you.}}
+{{line|background=If CJ damages the car along the way...}}
+{{line|name=Cesar|dialogue=Hey, CJ, we get paid on the condition of the car, holmes! Be more careful!}}
+{{line|name=CJ|dialogue=Who's driving, me or you?}}
+{{line|background=CJ and Cesar arrive at the Doherty Garage.}}
+{{line|name=Cesar|dialogue=*Hey holmes, that was fun, we should do that again! *That was like a piece of tortilla, holmes!}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

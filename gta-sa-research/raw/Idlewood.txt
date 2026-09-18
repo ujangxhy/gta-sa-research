@@ -1,0 +1,140 @@
+{{Infobox_location
+|image         = Idlewood-GTASA.png
+|games         = {{Games|SA=y}}
+|location      = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+Idlewood-GTASA-Map.jpg|Idlewood
+Idlewood-GTASA-LosSantosMap.jpg|Los Santos
+Idlewood-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|neighborhood  = y
+|pscanner      = PoliceScanner-GTASA-Idlewood.ogg
+}}
+{{Quote|Contested Turf, currently under control of Front Yard Ballas, a major set of Ballas. Old Reece's barber shop has been the local news service for years. Worth hitting up for information.|''Grand Theft Auto: San Andreas'' [[GTASanAndreas.com|official website]].}}
+'''Idlewood''' is a neighborhood of [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]], that appears in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+North of the district are [[Glen Park]] and [[Jefferson (neighborhood)|Jefferson]], while to the south are [[Willowfield]] and [[El Corona]]. Districts west of Idlewood are [[Commerce]] and [[Little Mexico]], while to the east are [[Ganton]] and [[East Los Santos (3D Universe)|East Los Santos]].
+
+Idlewood is an African-American neighborhood with a high crime-rate and, just like Ganton, is notorious for gang violence, drug-trafficking and prostitution. Idlewood primarily consists of single-family houses, housing projects, stores, a [[The Well Stacked Pizza Co. (3D Universe)|Pizza Stack]] restaurant, a [[Going|gas station]], a few warehouses and the [[Alhambra]] [[Nightclub|nightclub]], the most visited and known place of interest in the area. Other places in the district include a [[Tattoo Parlors|tattoo parlor]] and [[Old Reece's Hair & Facial Studio|Old Reece's barber shop]]. Although Idlewood can be classified as a low-income district, the west area appears to be middle-class, and bigger houses can be found there, and includes the Alhambra.
+
+==Influence==
+It appears to be inspired and named after the real-life incorporated city of {{WP|Inglewood, California|Inglewood}}, {{WP|California}}. However, the [[Idlewood Projects|projects]] area of Idlewood (where the crack house is during the mission [[Cleaning the Hood]]) bears resemblance to the {{WP|Jordan Downs|Jordan Downs housing projects}} in {{WP|Watts, Los Angeles|Watts}}.
+
+==Gang Control==
+Idlewood, in [[1992]], had become a stronghold for the [[Ballas (3D Universe)|Ballas]] gang, specifically the Front Yard set, but the district had previously been held by [[Grove Street Families]]. Sometimes [[Varrios Los Aztecas (3D Universe)|Aztecas]] members can be seen walking their turf in the southern end of Idlewood as their territory shares a border with Idlewood (violence between them is common when this happens). Later on the game, in the mission [[Grove 4 Life]], CJ and [[Sweet Johnson|Sweet]] go to Idlewood and took at least two territories from there back. [[Carl Johnson]] can acquire Idlewood as GSF turf by starting a [[Gang Warfare in GTA San Andreas|gang war]], depending on the player's actions. After taking over the territory, there can be a lot of fighting between Varrios Los Aztecas and Grove Street Families in the area of Idlewood lying towards Unity Station.
+
+==History==
+===Events of ''Grand Theft Auto: San Andreas''===
+In the mission [[Ryder (mission)|Ryder]], the player is introduced to restaurants and barbers by Ryder, shortly before an attempted robbery at the Pizza Stack restaurant as revenge for the restaurant employees painting over one of Ryder's graffiti. Later, during the mission [[Tagging Up Turf]], CJ and Sweet head to Idlewood to spray over some Ballas [[Tags|graffiti]] while [[Sweet Johnson|Sweet]] sits in his [[Greenwood (3D Universe)|car]] waiting. CJ and Ryder raid a [[Front Yard Ballas]] crack den in Idlewood, killing all the Ballas and crack dealers inside.
+
+Big Smoke's house in Idlewood is used as the starting point of his missions, in which he can be seen receiving information from the corrupt [[C.R.A.S.H.]] officers [[Frank Tenpenny]] and [[Eddie Pulaski]].
+
+The neighborhood plays a major role in the mission [[Grove 4 Life]], where Carl and Sweet take either just a part or the whole area of the neighborhood back for the [[Grove Street Families]].
+
+==Notable Residents==
+*[[Madd Dogg (3D Universe)|Madd Dogg]] (formerly)
+*[[Big Smoke|Melvin "Big Smoke" Harris]] (Early 1990s–[[1992]], [[Big Smoke's Crack Palace|moved]] to [[East Los Santos (3D Universe)|East Los Santos]])
+
+==Places of Interest==
+*[[Alhambra]]
+*[[Big Smoke's House]]
+*[[Crack Den]]
+*[[Idlewood Projects]]
+
+==Businesses==
+{{Columns
+|
+*[[1 Day Service]]
+*[[24 Hour Motel]]
+*[[25¢ Video Arcade]]
+*[[69¢ Store]]
+*[[Car Washes|Car Wash]]
+*[[Exotic Boutique]]
+*[[FLOWERS]]
+*[[Going]]
+*[[Liquor Deli]]
+|
+*[[Pay 'n' Spray]]
+*[[Perfumes Flatware]]
+*[[Reece's Hair & Facial Studio]]
+*[[Security Storage]]
+*[[Sity Burgers]]
+*[[Super $5.00]]
+*[[Tattoo Parlors|Tattoos]]
+*[[The Well Stacked Pizza Co. (3D Universe)|Well Stacked Pizza Co.]]
+*[[Wholesale Produce]]
+}}
+
+==Weapons==
+*[[Fire Extinguisher]] (behind the counter at Well Stacked Pizza Co.)
+*[[Flowers]] (considered a weapon) (at the Going gas station)
+*[[Grenade]] (on top of the stairs at the 24-Hour Motel)
+*[[Katana]] (behind the wooden fence east of the 69¢ Store)
+
+==Vehicles==
+The following vehicles may be seen around the district:
+{{Columns
+|
+*[[Blade (car)|Blade]]
+*[[Bobcat (3D Universe)|Bobcat]]
+*[[Broadway]]
+*[[Clover]]
+*[[Elegant]]
+*[[Esperanto (3D Universe)|Esperanto]]
+*[[Greenwood (3D Universe)|Greenwood]]
+*[[Intruder (3D Universe)|Intruder]]
+*[[Majestic]]
+*[[Moonbeam (3D Universe)|Moonbeam]]
+*[[Newsvan]]
+*[[Perennial]]
+|
+*[[Picador]]
+*[[Primo (3D Universe)|Primo]]
+*[[Regina]]
+*[[Remington]]
+*[[Sabre]]
+*[[Sadler]]
+*[[Savanna]]
+*[[Securicar (3D Universe)|Securicar]]
+*[[Stallion]]
+*[[Tahoma]]
+*[[Virgo (3D Universe)|Virgo]]
+*[[Voodoo (3D Universe)|Voodoo]]
+}}
+
+===Stationary vehicles===
+*[[Broadway]] {{nd}} Parked by the gas station. It always spawns with a white body color and a purple interior.
+
+==Others==
+*[[Vending Machines]] (inside the Alhambra Club)
+*[[Arcade Games]] (inside the Alhambra Club)
+*Ten [[Tags|Gang Tags]]
+*One [[Unique Stunt Jumps in GTA San Andreas|Unique Stunt Jump]]
+*[[Multiplayer in GTA San Andreas|Multiplayer]] icon down the street from Big Smoke's house. It is also next to a gang tag.
+
+==See Also==
+*[[Strawberry]] {{nd}} [[HD Universe]] counterpart in ''[[Grand Theft Auto V]]''.
+
+==Navigation==
+{{Gtasa neighborhoods|state=collapsed}}
+
+[[ca:Idlewood]]
+[[de:Idlewood]]
+[[es:Idlewood]]
+[[fi:Idlewood]]
+[[fr:Idlewood]]
+[[hu:Idlewood]]
+[[it:Idlewood]]
+[[nl:Idlewood]]
+[[pl:Idlewood]]
+[[pt:Idlewood]]
+[[ru:Айдлвуд]]
+[[uk:Айдлвуд]]
+[[zh:Idlewood]]
+
+[[Category:Neighborhoods]]
+[[Category:Locations in GTA San Andreas in Los Santos]]
+[[Category:Zones]]

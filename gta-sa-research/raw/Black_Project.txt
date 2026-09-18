@@ -1,0 +1,199 @@
+{{Infobox mission
+|name         = Black Project
+|game         = {{Games|SA=y}}
+|type         = SA
+|for          = {{For|game=SA|airyardTruth}}
+|image        = BlackProject-GTASA-Mission.png
+|caption      = [[Area 69 (3D Universe)|Area 69]] shortly before being invaded by [[Carl Johnson]].
+|target       = Break into [[Area 69 (3D Universe)|Area 69]] and steal the [[Jetpack]]
+|location     = [[Verdant Meadows Airfield|Verdant Meadows]], [[Bone County (3D Universe)|Bone County]]
+|reward       = [[Desert Eagle]] available in [[Ammu-Nation (3D Universe)|Ammu-Nation]]
+|tod          = 20:00 - 06:00
+|unlocks      = [[Green Goo]]
+|unlockedby   = [[Stowaway]]
+|fail         = 
+*[[Wasted]]
+*[[Busted]]
+*Not entering the compound by 05:30
+*Abandoning the Area 69 zone before stealing Jetpack.
+|cost=Fat must be 60% or below
+|todo_toomuch =
+*The Truth wants you to gain entry to the Area 69 research lab and bring back to him the Black Project that is being developed inside.
+*The easiest way into the Area 69 bunker complex is through the blast doors. To open these go to the '''<span style="color:#D1BC86">control tower</span>'''.
+*There are searchlights sweeping the area. Observe their routine and plan your route around them.
+*If you stay in a searchlight for too long or shoot more than 2 out you will be spotted.
+*The blast doors will go on lockdown, and an alternative route inside will then have to be found.
+*There are also several military personnel patrolling the area. Use the thermal goggles that The Truth gave you to help you see them in the dark.
+*You can use stealth to avoid patrols or climb to the top of a control tower and use your sniper rifle to take them out.
+*You must gain entry to the research labs before sunrise at 0530 hours.
+*Open the blast doors by activating the switch in the '''<span style="color:#D1BC86">control tower</span>'''.
+*The '''<span style="color:#D1BC86">blast doors</span>''' have been opened, you have limited amount of time to get through them before they shut again. {{Small|(if the player reaches the red marker in the control tower)}}
+*The blast doors have shut make your way back to the '''<span style="color:#D1BC86">control tower</span>''' to open them again. {{Small|(if the blast doors are closed)}}
+*The control tower has been disabled you must now find another way in. There is a '''<span style="color:#D1BC86">vent</span>''' that goes into the Area 69 interior. {{Small|(if the player gets spotted for too long or shoots out three searchlights)}}
+*Make your way through Area 69 to the research lab which will give you the access to the black project.
+*There are several military personnel on patrol throughout the installation.
+*The control room will allow you to deactivate some of Area 69's exterior defenses, which will aid your escape.
+*Go and find the '''<span style="color:#4C5C41">'black project'</span>'''.
+*SAM site disabled {{Small|(if the player disables SAM missiles)}}
+*The '''<span style="color:#D1BC86">door</span>''' to the launch bay where the black project being stored is locked. Find a keycard to access it.
+*Collect the '''<span style="color:#4C5C41">keycard</span>''' and open the '''<span style="color:#D1BC86">door</span>''' to the Black Project.
+*The '''<span style="color:#4C5C41">Black Project</span>''' is located at the bottom of the launch bay.
+*You've found what The Truth wanted. You must escape by using the Jet pack to fly out of the '''<span style="color:#D1BC86">launch bay</span>''' directly above you.
+*Deliver the jetpack to a '''<span style="color:#D1BC86">drop off point</span>''' deep in the canyons.
+}}
+{{Quote|Take him out! That's a $60,000,000 project!|Military personnel, after [[Carl Johnson]] steals the [[Jetpack]].}}
+'''Black Project''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by pot-growing hippie [[The Truth]] from the [[Verdant Meadows Airfield]] in [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Description==
+Carl arrives at the airfield and is welcomed by [[The Truth]], exercising on the top of an aircraft wreck. The Truth then berates Carl for having willfully worked for a [[Mike Toreno|government agent]]. He then tells Carl about a [[Area 69 (3D Universe)|secret military research area]], where he believes a "black project" is being developed. The Truth drops Carl off at the boundaries of the base before leaving.
+
+Carl must sneak into the underground area, by using the control tower to open the blast doors and get inside. However, he has to do so before sunrise, and the area is heavily guarded with several soldiers patrolling the area, as well as many searchlights. If Carl manages to get into the control tower, he has a limited amount of time to reach the blast doors before they're closed again. If Carl stays in a searchlight for too long or destroys three of the searchlights, the blast doors will be isolated from the main system, forcing him to find another way to get inside, namely through a vent.
+
+Once inside, whether through the blast doors or the vent, the alarm goes off, and Carl is forced to kill every soldier in the way as he tries to reach a research lab for the black project. Upon arriving at the lab, a scientist gives Carl his keycard, which he uses to gain access to the launch bay, where the project, which turns out to be a [[Jetpack]], is lying at the bottom. Carl steals it and flies towards [[Arco del Oeste]], where The Truth is waiting in his [[Camper (3D Universe)#Variants|van]]. The Truth takes the jetpack and drives off, leaving Carl all alone in the desert as he asks The Truth if he could drive him back into town.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*The easiest way into the Area 69 bunker complex is through the blast doors. To open these go to the control room
+*Open the blast doors by activating the switch in the control tower
+**The blast doors have been opened, you have limited amount of time to get through them before they shut again
+***The blast doors have shut make your way back to the control tower to open them again
+**The control tower has been disabled you must now find another way in. There is a vent that goes into the Area 69 interior
+*Go and find the Black Project
+*The door to the launch bay where the black project is being stored is locked. Find a keycard to access it
+*Collect the keycard and open the door to the Black Project
+*The Black Project is located at the bottom of the launch bay
+*You've found what The Truth wanted. You must escape using the Jetpack to fly out of the launch bay directly above you
+*Deliver the jetpack to a drop off point deep in the canyons
+
+==Reward==
+There is no [[Money|monetary]] reward for this mission. A few minutes after completing the mission, The Truth will call Carl, which unlocks the mission [[Green Goo]]. The [[Desert Eagle]] is now available to buy from the [[Ammu-Nation (3D Universe)|Ammu-Nation]] for [[Money|$]]1,200.
+
+==Post-Mission Phone Call==
+*'''Carl Johnson''': Hey.
+*'''The Truth''': Carl. It's me. The Truth. We got a date with destiny, man. In about five minutes.
+*'''Carl Johnson''': Where you at?
+*'''The Truth''': At the old airplane graveyard you've been hanging around.
+
+==Transcript==
+{{/Transcript}}
+
+==Steal The Mothership==
+:''Main article: [[Black Project/Steal The Mothership]]''
+
+==Walkthrough==
+===Alternate Cutscene===
+<gallery position="center" spacing="small" widths="270px">
+BlackProject-GTASA-SS1.png|A fat [[Carl Johnson|Carl]] arrives at the [[Verdant Meadows Airfield]].
+BlackProject-GTASA-SS2.png|CJ searches for [[Mike Toreno|Toreno]] at the airstrip…
+BlackProject-GTASA-SS3.png|…and gets a phone call, believing it to be from Toreno.
+BlackProject-GTASA-SS4.png|The caller turns out to be [[The Truth]].
+BlackProject-GTASA-SS5.png|CJ recognizes the voice and asks The Truth how he is.
+BlackProject-GTASA-SS6.png|The Truth says he is in better shape than CJ, making fun of him by calling him a "fat ass".
+BlackProject-GTASA-SS7.png|CJ asks if The Truth is secretly watching him.
+BlackProject-GTASA-SS8.png|The Truth says he needs CJ's help for "something special"…
+BlackProject-GTASA-SS9.png|…but tells him to return after he loses weight…
+BlackProject-GTASA-SS10.png|…and hangs up the call.
+BlackProject-GTASA-SS11.png|CJ doesn't think he's that overweight…
+BlackProject-GTASA-SS12.png|…and leaves.
+</gallery>
+
+===Actual Mission===
+<gallery position="center" spacing="small" widths="270px">
+BlackProject-GTASA-SS13.png|CJ returns to the airstrip after losing weight.
+BlackProject-GTASA-SS14.png|The Truth welcomes CJ from atop an aircraft [[Wrecks|wreck]].
+BlackProject-GTASA-SS15.png|CJ asks where The Truth is.
+BlackProject-GTASA-SS16.png|The Truth says he is checking if CJ is no longer working for the government…
+BlackProject-GTASA-SS17.png|…and asks where Toreno is.
+BlackProject-GTASA-SS18.png|CJ says he doesn't know and asks The Truth if he's OK.
+BlackProject-GTASA-SS19.png|The Truth continues his yoga…
+BlackProject-GTASA-SS20.png|…and then jumps off the aircraft.
+BlackProject-GTASA-SS21.png|The Truth asks CJ if he has any idea what he's doing for Toreno.
+BlackProject-GTASA-SS22.png|CJ flatly replies he is on a need-to-know basis.
+BlackProject-GTASA-SS23.png|The Truth explains the consequences of working for a government agent.
+BlackProject-GTASA-SS24.png|As The Truth grabs him while explaining, CJ pushes him off and asks what is going on.
+BlackProject-GTASA-SS25.png|The Truth tells CJ about a secret place…
+BlackProject-GTASA-SS26.png|…where they have work to do…
+BlackProject-GTASA-SS27.png|…and asks CJ to drive to that place as he'll explain on the way.
+BlackProject-GTASA-SS28.png|The two arrive at the [[Area 69 (3D Universe)|Area 69]] military base. CJ asks if they have a plan.
+BlackProject-GTASA-SS29.png|The Truth just tells him to go.
+BlackProject-GTASA-SS30.png|CJ gets out of the [[Camper (3D Universe)#Variants|Mothership]] and asks The Truth to wait…
+BlackProject-GTASA-SS31.png|…but The Truth quickly drives off.
+BlackProject-GTASA-SS32.png|The Truth wants CJ to gain entry to the Area 69 research lab and bring him the Black Project that is being developed inside.
+BlackProject-GTASA-SS33.png|The easiest way to get inside is through the blast doors, which can be opened by getting to the control tower.
+BlackProject-GTASA-SS34.png|CJ must evade several searchlights sweeping the area.
+BlackProject-GTASA-SS35.png|If he stays in a searchlight for too long or shoots out more than two, he will be spotted.
+BlackProject-GTASA-SS36.png|This will result in the blast doors getting locked and an alternative route having to be found.
+BlackProject-GTASA-SS37.png|There are also several [[Military (3D Universe)|military]] personnel patrolling the area. CJ can use the [[Thermal Vision|thermal goggles]] given by The Truth that can help him see in the dark.
+BlackProject-GTASA-SS38.png|He can use stealth to avoid patrols or climb up to the top of a control tower and use a [[Sniper Rifle]] to take them out.
+BlackProject-GTASA-SS39.png|He must gain entry to the lab before 5:30.
+BlackProject-GTASA-SS40.png|Taking out the military personnel outside.
+BlackProject-GTASA-SS41.png|Getting spotted by one of the searchlights.
+BlackProject-GTASA-SS42.png|The control tower is disabled and the blast doors cannot be used. CJ must now find another way in, which is through a vent that leads inside.
+BlackProject-GTASA-SS43.png|CJ finds the vent and shoots the grates to make his way inside.
+BlackProject-GTASA-SS44.png|Jumping into the vent.
+BlackProject-GTASA-SS45.png|After successfully getting inside, CJ must make his way to the research lab which gives access to the black project.
+BlackProject-GTASA-SS46.png|There are several patrolling military personnel throughout the installation.
+BlackProject-GTASA-SS47.png|The control room allows CJ to disable the [[Surface-to-Air Missile|SAM]] sites outside, making his escape easier.
+BlackProject-GTASA-SS48.png|CJ must go and find the black project.
+BlackProject-GTASA-SS49.png|Taking out the military personnel while on his way to the research lab.
+BlackProject-GTASA-SS50.png|Inside the control room.
+BlackProject-GTASA-SS51.png|SAM sites disabled.
+BlackProject-GTASA-SS52.png|Continuing his way to the lab.
+BlackProject-GTASA-SS53.png|Once inside the lab, he must find a keycard that can unlock the door to the launch bay.
+BlackProject-GTASA-SS54.png|A scientist inside the lab drops the keycard to allow CJ to take it.
+BlackProject-GTASA-SS55.png|Taking the keycard.
+BlackProject-GTASA-SS56.png|CJ unlocks the door using the keycard. He must make his way to the bottom of the launch bay, where the black project is located.
+BlackProject-GTASA-SS57.png|Fighting off the military while making his way down.
+BlackProject-GTASA-SS58.png|The black project turns out to be a [[Jetpack]].
+BlackProject-GTASA-SS59.png|CJ has found what The Truth wanted. He must escape by flying out of the launch bay using the Jetpack.
+BlackProject-GTASA-SS60.png|He must deliver the jetpack to a drop off point deep in the canyons.
+BlackProject-GTASA-SS61.png|Heading to The Truth's [[Arco del Oeste|location]] after successfully escaping Area 69.
+BlackProject-GTASA-SS62.png|Arriving at the location.
+BlackProject-GTASA-SS63.png|CJ gives the jetpack to The Truth and tells him to hide it somewhere immediately.
+BlackProject-GTASA-SS64.png|The Truth thanks CJ and leaves in a haste.
+BlackProject-GTASA-SS65.png|CJ asks The Truth if he could give him a lift, but The Truth drives off so fast CJ is all alone in the desert.
+BlackProject-GTASA-SS66.png|Mission passed!
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|B1cXWkG0uqs|275px|center}}
+{{#ev:youtube|Ph_y19DqWdw|275px|center}}
+{{#ev:youtube|X9Rlst9NG5E|275px|center}}
+
+{{Clear}}
+==Trivia==
+===General===
+*When inside the [[Area 69 (3D Universe)|Area 69]] research area, various announcements tell the employees a variety of things including (but not limited to): "downloading pornography is strictly prohibited", "anyone caught stealing alien technology will not be invited to the next staff night out", and that "running with scissors is dangerous and not permitted". These announcements continue even after security notifies everyone of the breaches.
+**The announcement made about running with scissors not being permitted is a possible reference to the video game company {{WP|Running with Scissors (company)|Running with Scissors}}, best known for its ''Postal'' games, which are considered by some to be "[[GTA Clone]]s".
+*"[[General Mills]]" is likely a reference to a well-known {{WP|General Mills|food manufacturing company}} in the [[United States of America|US]], best known for cereals such as {{WP|Cheerios}}.
+*The scientists in the base all have [[Germany|German]]/[[Europe]]an accents. This could be a reference to {{WP|Operation Paperclip}}, in which the {{WP|Federal government of the United States|U.S. Government}} employed 1,500 ex-Nazi scientists between 1945 and 1959 to prevent their knowledge from falling into Soviet hands.
+*When navigating through the hallways near the scientist who gives Carl the keycard, the player can spot a [[crowbar]] on a table in a lab. This is a reference to {{WC|sectorw|Valve Corporation|Valve}}'s 1998 FPS ''{{WC|sectorw|Half-Life}}'', where the protagonist is a {{WC|sectorw|Gordon Freeman|scientist}} escaping an alien-filled {{WC|sectorw|Black Mesa|underground lab}} with a crowbar as his melee weapon of choice.
+*In {{TDE}}, sneaking into the underground base without setting off the alarm will earn the player the "[[They Can't Stop All of Us]]" achievement.
+**The achievement name is a reference to the {{WP|Storm Area 51}} {{WP|Facebook}} event.
+
+===''Grand Theft Auto: San Andreas''===
+*If [[Carl Johnson|CJ]]'s [[Statistics#Fat|fat]] is above 60% when attempting to start this mission, an alternate [[Cutscenes|cutscene]] will play in which [[The Truth]] calls Carl a "fat ass" and then tells him to lose some weight beforehand, most likely to make it easier for the [[Jetpack]] to lift him. A similar thing also happens in [[Green Goo]].
+*The ability to remove the Jetpack once equipped is disabled during the mission. This is also the case in the mission Green Goo. However, it can be removed by using an exploit; entering a [[crane]], the closest one being at [[Hunter Quarry]]. However, the player will remain unable to use any vehicles until they purchase a product from a [[Vending Machines|vending machine]]. A video showing the crane at [[The Clown's Pocket]] being used can be seen {{URL|https://www.youtube.com/watch?v{{=}}Y931sZXa80M|here}}.
+*There is an area where the player can jump out of bounds on the way to getting the Jetpack that will then teleport them to the room where they leave the base.
+*The alarm in the [[Personal Computer|PC]] and original [[Xbox (console)|Xbox]] versions uses a unique sound, which is slower compared to other versions of the game. The alarm from the mobile versions and remastered [[Xbox 360]] version of the game is similar to the PC version, though it is much faster, while the [[PlayStation 2|PS2]] version reuses the alarm sound from [[Vertical Bird]], which is much faster.
+*Before the ending cutscene starts, if CJ kills [[The Truth|Truth]] inside his [[Camper (3D Universe)#Variants|Mothership]] while done stealing the jetpack and entering the red marker in a few moments the cutscene and its mission will softlock, making impossible to end the mission since the cutscene is unskippable.
+
+{{Clear}}
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Black Project]]
+[[es:Black Project]]
+[[pl:Czarny projekt]]
+[[pt:Black Project]]
+[[fi:Black Project]]
+[[ru:Black Project]]
+[[uk:Black Project]]
+[[ar:المشروع الأسود]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

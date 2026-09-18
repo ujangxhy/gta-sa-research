@@ -1,0 +1,246 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] goes to [[Big Smoke's House]]. He looks for [[Big Smoke]] in the garage near the house, but finds nothing, so he decides to knock on the back door of the house.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, CJ, baby, wassup man?
+}}{{line
+|name=CJ
+|dialogue=What's happening, Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=Chillin'. Wanna go for a ride?
+}}{{line
+|name=CJ
+|dialogue=Yeah.
+}}{{line
+|name=Big Smoke
+|dialogue=You drive.
+}}{{line
+|name=CJ
+|dialogue=A'ight.
+}}{{line
+|name=Big Smoke
+|dialogue=We're going downtown.
+}}{{line
+|background=CJ and Big Smoke drive in Big Smoke's [[Glendale (3D Universe)|Glendale]] to [[Commerce]].
+}}{{line
+|name=CJ
+|dialogue=This better not be another cop errand, man.
+}}{{line
+|name=Big Smoke
+|dialogue=Nah, man, this is strictly for the homies. I gotta be honest with you, CJ. We could be gettin' into some heavy shit, baby.
+}}{{line
+|name=CJ
+|dialogue=What you into, Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=Lot a shit 'bout to go down, Carl. Families coming back, Ballas pushing base, Russian cats with nothin' to lose about to bust some ass. 
+}}{{line
+|name=CJ
+|dialogue=Russians?
+}}{{line
+|name=Big Smoke
+|dialogue=Now all my life I been told to fear Ruskies, but I ain't never even met one. Then the wall comes down and we're all supposed to be friends. Five minutes later, my cousin gets laid out by some Ruskie fresh off the boat.
+}}{{line
+|name=CJ
+|dialogue=For real?
+}}{{line
+|name=Big Smoke
+|dialogue=For real!
+}}{{line
+|background=CJ and Big Smoke stop near the [[Atrium]] and go to the main entrance.
+}}{{line
+|name=Big Smoke
+|dialogue=Look Carl, before I walk in there I just need to know you down with this shit, man.
+}}{{line
+|name=CJ
+|dialogue=Look, Smoke, we go way back. We Groves, man!
+}}{{line
+|name=Big Smoke
+|dialogue=That's what I'm talking about, that's my dog! Hey look, if you hear shit starting to pop off, come in there blasting, a'ight?
+}}{{line
+|name=CJ
+|dialogue=I'm down, dog.
+}}{{line
+|background=Smoke goes inside and Carl notices a girl sitting nearby.
+}}{{line
+|name=CJ
+|dialogue=Hey, baby, want company?
+}}{{line
+|name=Big Smoke
+|dialogue=(off-screen) Motherfuckers!
+}}{{line
+|background=CJ runs inside Atrium and sees Big Smoke being attacked by Russians.
+}}{{line
+|name=Big Smoke
+|dialogue=CJ, get in here - oh there you are! Use some cover, they're blasting like fools in this motherfucker! Ice those fools, CJ!
+}}{{line
+|name=Russian
+|dialogue=Big Smoke, you made big mistake!
+}}{{line
+|name=Big Smoke
+|dialogue=Watch yourself, CJ, I think they's pissed! CJ, take the right and cover my ass! Keep it up, baby! That's my dog, makin' y'all pay! Stick with me CJ, we outta here, baby!
+}}{{line
+|background=CJ and Big Smoke fight their way inside the building and exit through the back, where more Russians are waiting for them.
+}}{{line
+|name=Big Smoke
+|dialogue=Stick real close, Carl! Keep your head down, the air is thick as shit in here.
+}}{{line
+|name=Russian
+|dialogue=Smoke, you and your friend are dead men!
+}}{{line
+|name=Big Smoke
+|dialogue=Motherfuckers! Back me up! That's my homie, CJ! Ha, ha ha ha, homie, you ice cold, baby! Time to return the favor baby, get on!
+}}{{line
+|background=After Carl and Smoke kill everyone, they hop on [[BF-400]]. Smoke drives through parking lot and into the street, while CJ shooting.
+}}{{line
+|name=CJ
+|dialogue=They after us on a bike, Smoke!
+}}{{line
+|name=Big Smoke
+|dialogue=Waste any motherfucker that follows us!
+}}{{line
+|name=CJ
+|dialogue=Shit, man, they coming fo' us in a truck!
+}}{{line
+|name=Big Smoke
+|dialogue=Don't tell me about it, take it off the road! Pop it! Damn, look at all this traffic - GET OUTTA THE WAY! I'm coming through! 
+}}{{line
+|name=CJ
+|dialogue=We got bikes on our six - smash it Smoke!
+}}{{line
+|name=Big Smoke
+|dialogue=Hold on tight, baby!
+}}{{line
+|background=Smoke jumps on the top of two parked buses.
+}}{{line
+|name=CJ
+|dialogue=Ah, Smoke, NOOOOOOO!
+}}{{line
+|background=The [[Packer]] hits a [[Coach|bus]] on an intersection.
+}}{{line
+|name=CJ
+|dialogue=Ah, they hit a bus!
+}}{{line
+|name=Big Smoke
+|dialogue=Ha, ha ha, I'll never dis public transportation again!
+}}{{line
+|background=CJ and Smoke come across a roadblock consisting of [[Sultan (3D Universe)|Sultans]].
+}}{{line
+|name=Big Smoke
+|dialogue=Damn, road-blocked!
+}}{{line
+|name=CJ
+|dialogue=Ah, Smoke, these cats is organised. There's something you ain't tellin' me, man!
+}}{{line
+|name=Big Smoke
+|dialogue=Look, Carl, all I know is they're real pissed with us right now! Hold on though, I got a idea.
+}}{{line
+|background=CJ and Smoke trying to escape via the [[Los Santos Storm Drain (3D Universe)|Storm Drain]], but Russians continue to chase them there.
+}}{{line
+|name=CJ
+|dialogue=Smoke, what you thinking? Flood control's a dead end, man!
+}}{{line
+|name=Big Smoke
+|dialogue=To hell with that, we had to lose those cars, don't worry about that. I know the way out, up past Grove Street.
+}}{{line
+|name=CJ
+|dialogue=The old sewer tunnel? Oh man...
+}}{{line
+|name=Big Smoke
+|dialogue=Watch our backs!
+}}{{line
+|name=CJ
+|dialogue=Smoke, it's more bikes!
+}}{{line
+|background=The Packer that was chasing CJ and Smoke earlier appears again, driving down the storm drain.
+}}{{line
+|name=CJ
+|dialogue=Oh shit, now the truck's found us again!
+}}{{line
+|name=Big Smoke
+|dialogue=Man, stop being so negative! Focus on the good news!
+}}{{line
+|name=CJ
+|dialogue=Such as?
+}}{{line
+|name=Big Smoke
+|dialogue=We ain't dead yet, and your trigger finger still works, fool! I think the gearbox is screwed up on this thing! I can't get no speed!
+}}{{line
+|name=CJ
+|dialogue=Yeah, who negative now, bitch?
+}}{{line
+|name=Big Smoke
+|dialogue=Point taken, I'll keep my mouth shut from now on.
+}}{{line
+|background=One of the cars falls from the Packer.
+}}{{line
+|name=Big Smoke
+|dialogue=OH SHIT! 
+}}{{line
+|name=CJ
+|dialogue=Oh man, the cars found a ramp!
+}}{{line
+|name=Big Smoke
+|dialogue=Don't tell me about it, shoot! Hold on!
+}}{{line
+|background=Another car falls from the Packer.
+}}{{line
+|name=CJ
+|dialogue=Get us up that ramp!
+}}{{line
+|name=Big Smoke
+|dialogue=I'm on it, baby!
+}}{{line
+|name=CJ
+|dialogue=We still got bikes on us, man!
+}}{{line
+|name=Big Smoke
+|dialogue=Man, quit bitchin' and shoot as many of them assholes as you can! Fools totaled their truck! 
+}}{{line
+|name=CJ
+|dialogue=Go around 'em, man! 
+}}{{line
+|name=Big Smoke
+|dialogue=Screw that, we're taking the scenic route!
+}}{{line
+|background=Smoke uses a Packer to jump over the roadblock. The roadblock then explodes, killing everyone but CJ and Smoke.
+}}{{line
+|name=Big Smoke
+|dialogue=Fry, motherfuckers! That's the old sewer up ahead! Shoot out the gate!
+}}{{line
+|name=Big Smoke
+|dialogue=(If CJ fails to shoot the gate) The gate, Carl! THE GATE!
+}}{{line
+|name=Big Smoke
+|dialogue=(If CJ shoots the gate) Nice one, CJ, here we go!
+}}{{line
+|name=CJ
+|dialogue=Man, I used to hate this tunnel when we was kids.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, we can reminisce later, we still got company!
+}}{{line
+|name=CJ
+|dialogue=Don't these guys ever give up?
+}}{{line
+|background=CJ and Smoke finally manage to lose Russians. They stop at parking lot in [[East Beach]].
+}}{{line
+|name=CJ
+|dialogue=We lost 'em, Smoke! Man, we better split up.
+}}{{line
+|name=Big Smoke
+|dialogue=I'll take it another block and dump it. Man, that was some crazy shit back there!
+}}{{line
+|name=CJ
+|dialogue=Yeah, for sure. Listen we can't hang around here - I'll see you later, homie.
+}}{{line
+|name=Big Smoke
+|dialogue=Much love, baby!
+}}
+}}
+
+<noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

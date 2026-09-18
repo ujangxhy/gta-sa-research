@@ -1,0 +1,94 @@
+{{Spoilers}}
+{{infobox safehouse
+|name = Johnson House
+|image = JohnsonHouse-GTASA-Exterior.jpg
+|caption = Johnson House as it appears in {{SA}}.
+|game = SA
+|style = Detached two-story house
+|garage = Two cars or three motorcycles
+|occupants = 
+*[[Carl Johnson]]
+*[[Beverly Johnson]] <small>(formerly)</small> 
+*[[Sweet Johnson]] <small>(formerly)</small>
+*[[Kendl Johnson]] <small>(formerly)</small>
+*[[Brian Johnson]] <small>(formerly)</small> 
+|unlocked = [[Sweet & Kendl]]
+|location = [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+}}
+The '''Johnson House''' is a safehouse on [[Grove Street (3D Universe)|Grove Street]] in [[Ganton]], [[Los Santos (3D Universe)|Los Santos]] in {{SA}}. It is the first safehouse unlocked while progressing the storyline.
+
+==Description==
+The house is detached and features a two car garage. The house was owned by [[Beverly Johnson]] and is the childhood home of [[Sweet Johnson|Sean]], [[Carl Johnson|Carl]], [[Kendl Johnson|Kendl]] and [[Brian Johnson]]. It is not known when the Johnson family started living in the house, though Sweet mentions that Carl was born in the house.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+The house was the target of a [[Drive-By Shooting|drive-by shooting]] in early [[1992]], which cost Beverly her life (although the [[Ballas (3D Universe)|Ballas]] gang members were aiming for Sweet instead). Carl, who had returned from [[Liberty City (3D Universe)|Liberty City]] for her funeral, then moves back into the house.
+
+Following [[The Green Sabre]], when Sweet is arrested and Carl is exiled from Los Santos, the Grove Street Families are deprived of their leadership and Grove Street is seized by the Ballas. The house is not vandalised, although a druggie ([[Dope]]) does steal the family's blender from the kitchen. Carl can still access the home, its garage, and the weapons cache awarded after spraying all gang tags, but may be subject to attack by enemy gang members.
+
+The home falls back into the hands of Carl and Sweet when they storm Grove Street to clean out crack dealers and Ballas. The house reappears in [[Beat Down on B Dup]] and [[End of the Line]] when the story concludes. During the [[Los Santos Riots]], smoke may be seen rising from the exterior of the house, although this is purely cosmetic and no structural damage occurs to the house, which remains accessible.
+
+==Collectibles==
+In the upstairs bedroom there is a [[camera]], which can be used to take pictures. Following the mission [[Tagging Up Turf]], a [[Spray Can|spray paint]] can is also available in the same room.
+
+A [[Wardrobe]] is available upstairs, across from the bedroom.
+
+After spraying over all 100 gang [[tags]] four weapons spawn in the kitchen. The weapons are: an [[AK47]], a [[Sawn-Off Shotgun]], [[Molotov Cocktail]]s and a [[TEC 9]]. The living room also has a [[CJD 500|video game console]], which can be used to play [[They Crawled from Uranus]].
+
+The Johnson House becomes an [[Assets in GTA San Andreas|asset]] after the completion of the mission [[Doberman]], allowing Carl to collect money in front of it. After the mission The Green Sabre, the house loses its asset status, although this is restored after completing [[Home Coming]].
+
+==Prominent Appearances in Gameplay==
+*[[Big Smoke (mission)|Big Smoke]]
+*[[Beat Down on B Dup]]
+*[[End of the Line]]
+
+==Glitch==
+The player can glitch Grove Street members inside the house. Whilst being followed, tell them to wait whilst outside, then enter the house. Save the game and then call the gang members back. This will result in them spawning inside the house. Using the same trick also gets them out.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+JohnsonHouse-GTASA-Interior1.jpg|An interior shot of the ground floor.
+JohnsonHouse-GTASA-Exterior1.jpg|A view of the entrance to the house.
+JohnsonHouse-GTASA-Interior3.jpg|A view of the bedroom.
+JohnsonHouse-GTASA-Interior4.jpg|A view of the exit.
+JohnsonHouse-GTASA-Interior5.jpg|Entrance of wardrobe.
+JohnsonHouse-GTASA-Interior6.jpg|Wardrobe interior.
+JohnsonHouse-GTASA-Garage.jpg|Garage of the house.
+JohnsonHouse-GTASA-Location.png|The location of the '''Johnson House'''.
+JohnsonHouse-GTASA-Glitch.png|An image showing the aforementioned glitch.
+</gallery>
+
+==Trivia==
+*Due to the sidewalk outside being rather busy, it's not uncommon for [[Grove Street Families|Grove Street gang members]] to enter the garage while the door is open, though this appears to have no ill effect (at some safehouses, [[pedestrians]] who enter a garage may actually try to steal a vehicle). Exiting the garage requires care so as not to run over pedestrians.
+*In a [[Beta Content in GTA San Andreas|beta]] screenshot, a light pole was shown out front next to the garbage bag.{{Ref|name=pole|type=screenshot|image=ElectronicPressKit-GTASA-SS61.png|imagesize=300px}}
+*In the first [[PlayStation 2]] Italian release of the game, the house was called "CJ's mother's house". This was later changed to "CJ's house".
+*There is a window in the kitchen at the rear of the house, despite the rear of the house being attached directly to a [[Pawn Shop]].
+*One of the front windows of the house appears to be boarded up, implying this was following the drive-by shooting which killed Beverly Johnson.
+*The [[Big Smoke (mission)|first mission]] (not counting the [[In the Beginning|pre-game cutscenes]]) and the [[End of the Line|last mission]] cutscenes take place in the house.
+*In the {{HD}} rendition of [[Grove Street (HD Universe)|Grove Street]], a [[Grove Street Dealer's House|house]] with similar placement on the cul-de-sac is featured in the mission [[Hood Safari]] in {{V}}. Unlike the Johnson House, this house is a single-storey property.
+
+==See also==
+*[[Sweet Johnson's House]]
+*[[Ryder's House]]
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Gtasa safehouses}}
+
+[[de:Haus der Johnsons]]
+[[es:Casa de los Johnson]]
+[[fi:Johnson House]]
+[[fr:Maison des Johnson]]
+[[hu:Johnson ház]]
+[[pl:Dom Johnsonów]]
+[[pt:Johnson House]]
+[[ru:Дом Джонсонов]]
+[[uk:Будинок Джонсонів]]
+[[zh:Johnson House]]
+
+[[Category:Safehouses]]
+[[Category:Safehouses in GTA San Andreas]]
+[[Category:Safehouses in Los Santos]]
+[[Category:Assets in GTA San Andreas]]
+[[Category:Homes]]

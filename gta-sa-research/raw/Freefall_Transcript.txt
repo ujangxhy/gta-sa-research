@@ -1,0 +1,40 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Kent Paul]] and [[Maccer]] are suspended on a rope from a large height outside the office of [[Caligula's Palace]].}}
+{{line|name=Maccer|dialogue=Top fuckin' buzz this. I'm peaking on the blood pressure alone.}}
+{{line|name=Paul|dialogue=Yeah, t'riffic.}}
+{{line|background=[[Maria Latore]] enters the office to give a sandwich to [[Salvatore Leone]].}}
+{{line|name=Salvatore|dialogue=Well, well, well, what have we got here?}}
+{{line|name=Maria|dialogue=Here's your sandwich.}}
+{{line|name=Salvatore|dialogue=Who's this pretty thing?}}
+{{line|name=Maria|dialogue=I don't usually do this kind of shit, you know.}}
+{{line|name=Salvatore|dialogue=(laughs) I like this girl. What's your name, kid?}}
+{{line|name=Maria|dialogue=Maria. And the service is not included.}}
+{{line|name=[[Tony]]|dialogue=Pay the woman, you fat fuck!}}
+{{line|name=Salvatore|dialogue=You heard the bird!}}
+{{line|name=Maria|dialogue=Come on.}}
+{{line|background=Salvatore's guard pays Maria the tip.}}
+{{line|name=Maria|dialogue=(chuckles) Are you kidding me? See you later, guys.}}
+{{line|background=Maria leaves the office, and [[Carl Johnson]] enters moments later.}}
+{{line|name=Salvatore|dialogue=And who's this asshole?}}
+{{line|name=CJ|dialogue=The name's Carl Johnson, sir. Before working with Mr. Rosenberg here, I had the pleasure of doing business with your son, Joey, in Liberty City.}}
+{{line|name=Salvatore|dialogue=You know my Joey? I like that. So, kid, what can I do for you?}}
+{{line|name=CJ|dialogue=Well, Ken'll vouch for me, I'm a straight killer.}}
+{{line|name=[[Ken Rosenberg|Ken]]|dialogue=Oh, (stutters) one man fucking army! Uh, real dependable. Total fucking maniac, too.}}
+{{line|name=Salvatore|dialogue=You know, the Forelli's are sending over a crew to hit me. Their flight gets in soon - traveling as a string quartet. (laughs) I was going to send some of the boys over as a little welcoming committee, but, uh, maybe you can take care of it.}}
+{{line|name=CJ|dialogue=Thank you, sir. I guarantee you, you won't regret this.}}
+{{line|name=Ken|dialogue=Uh, maybe I should go along...}}
+{{line|background=Ken gets up from the sofa, only for the sofa to move to the window, revealing that the rope is tied to it, causing Paul and Maccer to yell in panic. Ken hurries back to the sofa so that his friends don't fall to their deaths.}}
+{{line|name=Ken|dialogue=That's OK, I'm comfortable, I'm fine.}}
+{{line|name=Salvatore|dialogue=You stay where you are, Rosenberg. I don't want you getting yourself lost.}}
+{{line|background=CJ leaves the office and goes to [[Las Venturas Airport]] to steal a [[Dodo (3D Universe)|Dodo]] in a hangar. He uses it to intercept a [[Shamal]] headed for the city. He jumps out of the Dodo and skydives towards the Shamal, opens its door, and gets inside the jet, where he finds four [[Forelli Crime Family|Forelli]] members.}}
+{{line|name=Forelli Member #1|dialogue=Hey, what's going on?}}
+{{line|name=Forelli Member #2|dialogue=Shit, how the fuck did ''he'' get here?}}
+{{line|name=Forelli Member #3|dialogue=Who cares?!}}
+{{line|name=Forelli Member #4|dialogue=Waste him!}}
+{{line|background=CJ kills the Forelli members, but now has to confront the plane's pilot.}}
+{{line|name=Pilot|dialogue=I ain't going down without a fight!}}
+{{line|background=CJ kills the pilot, highjacks the plane, and lands it at the Las Venturas Airport.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

@@ -1,0 +1,388 @@
+{{Scriptbox|style=gtasa|
+{{line
+|background=[[Sweet Johnson|Sweet]] is celebrating in [[Sweet's House|his house]] with the [[Grove Street Families]] for reuniting the whole gang.
+}}
+{{line
+|name=Sweet
+|dialogue=So this is it, this is when we tell the Ballas what bangin' is all about. Grove Sreet is king! Say it with me, n****s, Grove Street is KING!
+}}
+{{line
+|name=Gang members
+|dialogue=GROVE STREET IS KING!
+}}
+{{line
+|background=[[Carl Johnson]] arrives and is welcomed by Sweet.
+}}
+{{line
+|name=Sweet
+|dialogue=Wassup, CJ! Where you been?
+}}
+{{line
+|name=CJ
+|dialogue=Hey sorry, bro, I got caught up.
+}}
+{{line
+|name=Sweet
+|dialogue=Yeah, you probably was hittin' one o'them [[Ballas (3D Universe)|Ballas]] rats. Yeah, I know what you was up to, n****!
+}}
+{{line
+|name=CJ
+|dialogue=''(not in the subtitles)'' You know it!
+}}
+{{line
+|name=Sweet
+|dialogue=Listen up - y'all down with CJ, right? ''(Gang members agree)'' He's been through a lot, I mean we all been through a lot. But CJ's helping us clean up the 'hood. He's taken the fight to the enemy -
+}}
+{{line
+|name=CJ
+|dialogue=Yeah.
+}}
+{{line
+|name=Sweet
+|dialogue=showing all of us how we used to bang, what it used to mean to be a Grove Street Family.
+}}
+{{line
+|name=Gang members
+|dialogue=''(not in the subtitles)'' Yeah.
+}}
+{{line
+|name=Sweet
+|dialogue=CJ, you're my brother, my running dog. I should have never doubted you.
+}}
+{{line
+|name=CJ
+|dialogue=It's nothing.
+}}
+{{line
+|name=Sweet
+|dialogue=But you're home now, partner - home.
+}}
+{{line
+|name=CJ
+|dialogue=For sure.
+}}
+{{line
+|name=Sweet
+|dialogue=Listen up! I want y'all to go to get heated. And meet me downtown under the [[Mulholland Intersection]]. We're gonna roll on these Balla motherfuckers!
+}}
+{{line
+|name=Gang members
+|dialogue=A'ight, a'ight!
+}}
+{{line
+|name=Sweet
+|dialogue=I see y'all in traffic.
+}}
+{{line
+|name=Gang members
+|dialogue=Yeah, let's roll!
+}}
+{{line
+|name=Sweet
+|dialogue=''(to CJ)'' You in?
+}}
+{{line
+|name=CJ
+|dialogue=Hell yeah, I'm in. I'm your running dog, Sweet.
+}}
+{{line
+|name=Sweet
+|dialogue=Yeah, my n****... Alright, you go get heated up, and I'll meet you at the crossroads.
+}}
+{{line
+|background=CJ leaves Sweet's house and immediately gets a phone call.
+}}
+{{line
+|name=CJ
+|dialogue=Eh.
+}}
+{{line
+|name=[[Cesar Vialpando|Cesar]]
+|dialogue=Hey, CJ, it's Cesar, man.
+}}
+{{line
+|name=CJ
+|dialogue=I'm kinda busy now, something big going down.
+}}
+{{line
+|name=Cesar
+|dialogue=Ese, I got to see you, holmes, tell you something.
+}}
+{{line
+|name=CJ
+|dialogue=Look, if it's about Kendl, don't worry, we cool, a'right?
+}}
+{{line
+|name=Cesar
+|dialogue=No, CJ, you gotta come and see something. Something important, eh.
+}}
+{{line
+|name=CJ
+|dialogue=Well, it's gonna have to wait...
+}}
+{{line
+|name=Cesar
+|dialogue=This can't wait, holmes. If I tell you, you won't believe it, ese, I swear.
+}}{{line
+|name=CJ
+|dialogue=(reluctantly) Ahh, OK, I got about five, so it better be good, where you at?
+}}
+{{line
+|name=Cesar
+|dialogue=I'm under the freeway northside of [[Verdant Bluffs]].
+}}
+{{line
+|background=CJ arrives at Cesar's location and gets in a parked [[Bravura|car]]. Cesar arrives a few moments later.
+}}
+{{line
+|name=CJ
+|dialogue=So you dragged me way across town to see... what?
+}}
+{{line
+|name=Cesar
+|dialogue=Just in time, ese, take a good hard look over there.
+}}
+{{line
+|background=Some Ballas gang members exit a garage.
+}}
+{{line
+|name=CJ
+|dialogue=So, some Ballas hanging around a dope spot, so what?
+}}
+{{line
+|name=Cesar
+|dialogue=Just watch, homie.
+}}
+{{line
+|background=[[Ryder]] exits the garage.
+}}
+{{line
+|name=CJ
+|dialogue=(shocked) What the fuck?
+}}
+{{line
+|background=[[Big Smoke]] also exits the garage.
+}}
+{{line
+|name=CJ
+|dialogue=Oh, no! Shit, Smoke, what you into?!
+}}
+{{line
+|name=Cesar
+|dialogue=Shh, ese, look at that ride.
+}}
+{{line
+|background=Smoke and Ryder open the garage door, revealing the green [[Sabre]].
+}}
+{{line
+|name=CJ
+|dialogue=That's the motherfucking green Sabre!
+}}
+{{line
+|background=[[Frank Tenpenny]] also exits the garage, and [[Eddie Pulaski]] reverses the Sabre out of the garage. Tenpenny talks to Smoke.
+}}
+{{line
+|name=CJ
+|dialogue=Shit, Smoke... C.R.A.S.H. makin' you sell us out?! Moms!
+}}
+{{line
+|name=Cesar
+|dialogue=Sorry ese, I heard a rumor and poked around. I didn't believe it myself but...
+}}
+{{line
+|name=CJ
+|dialogue=No, no, you did the right thing. I owe you, Ces. I gotta go tell Sweet about-- ''(realizes that Sweet is in danger)'' Oh, fuck! Sweet! Look, go get Kendl and take her to a safe place!
+}}
+{{line
+|name=Cesar
+|dialogue=What you thinking?
+}}
+{{line
+|name=CJ
+|dialogue=It's Sweet, I think him and the homies is walking into a trap! Just go, GO!
+}}
+{{line
+|background=CJ goes to save Sweet. 
+}}
+{{line
+|name=CJ
+|dialogue=I gotta warn Sweet!
+}}
+{{line
+|background=CJ tries to phone Sweet.
+}}
+{{line
+|name=CJ
+|dialogue=Dammit, Sweet! Pick up! Pick up!
+}}
+{{line
+|background=After the third dialing signal, voicemail was enabled.
+}}
+{{line
+|name=Sweet's Voicemail
+|dialogue=Eh, wassup? You called me, but I ain't pick it up, so leave the message after the...
+}}
+{{line
+|name=CJ
+|dialogue=Shit, shit, SHIT!
+}}
+{{line
+|background=CJ finally arrives at the place, and sees a deadly shootout, as well as Sweet heavily injured.
+}}
+{{line
+|name=CJ
+|dialogue=Eh, Sweet man, you alright? You been hit!
+}}
+{{line
+|name=Sweet
+|dialogue=CJ... Where you been?
+}}
+{{line
+|name=CJ
+|dialogue=Cesar called and showed me some shit. It's Smoke, and he in deep with Tenpenny and some Ballas! He sold us out!
+}}
+{{line
+|name=Sweet
+|dialogue=It doesn't matter, man - you gotta get out of here. The cops gonna arrive any second.
+}}
+{{line
+|name=CJ
+|dialogue=Nah man, I ain't runnin' out on my brother! Yo, Ballas! I'm taking you motherfuckers, you hear me?! I'M TAKING YOU ALL DOWN, BITCHES!
+}}
+{{line
+|background=After taking down the Ballas, CJ and Sweet get arrested by the police.
+}}
+{{line
+|name=Tenpenny
+|dialogue=You got a bag over you head, boy. How you feel about that?
+}}
+{{line
+|name=CJ
+|dialogue=Man, take it off. Please, man, I can't breathe! Please!
+}}
+{{line
+|name=Tenpenny
+|dialogue=Oh, alright. But only because you said please. ''(takes the bag off CJ's head)''
+}}
+{{line
+|name=CJ
+|dialogue=You fucking sick motherfucker!
+}}
+{{line
+|name=Tenpenny
+|dialogue=Intimidate those who intimidate others, Carl. It's my job. Right Ed?
+}}
+{{line
+|name=Pulaski
+|dialogue=''(laughs)'' Yeah.
+}}
+{{line
+|name=CJ
+|dialogue=Hey, man, where we at?
+}}
+{{line
+|name=Tenpenny
+|dialogue=The middle of fucking nowhere. Nice, clean air.
+}}
+{{line
+|name=CJ
+|dialogue=Fucking Smoke! Oh, Sweet!
+}}
+{{line
+|name=Tenpenny
+|dialogue=Sweet is alive. Alive and inside. He's in a prison hospital being treated for gunshot wounds, awaiting trial.
+}}
+{{line
+|name=Pulaski
+|dialogue=Yeah, somehow, nobody's caught you yet.
+}}
+{{line
+|name=Tenpenny
+|dialogue=Oh yeah, you should be glad, Carl. Your moron brother's alive. Your street trash, soon to be turned out sister's alive. And, she's only sucking one greaseball's dick. Things are going pretty well for you, Carl. So behave, ni**a.
+}}
+{{line
+|name=Pulaski
+|dialogue=We want you to do a little favor for us, Carl!
+}}
+{{line
+|background=Tenpenny and Pulaski get out of their car, and also drag CJ out of the car.
+}}
+{{line
+|name=CJ
+|dialogue=I can't believe that ni**a Smoke turned on me.
+}}
+{{line
+|name=Pulaski
+|dialogue=Smoke? Smoke does exactly what he's told. He learned that lesson a long time ago.
+}}
+{{line
+|background=Pulaski shoves CJ into the rear of the car and uncuffs him.
+}}
+{{line
+|name=CJ
+|dialogue=(not in subtitles) Damn, man, take it easy!
+}}
+{{line
+|name=Tenpenny
+|dialogue=Yeah, homies for life? Street loyalty? That's all bullshit, Carl. Didn't you learn that when you ran out of town, just 'cause you let Brian die? Huh? Eddie, I can't deal with this guy. He's an idiot!
+}}
+{{line
+|name=Pulaski
+|dialogue=Let me air this fucker out, I...
+}}
+{{line
+|name=Tenpenny
+|dialogue=No, no, no, no, no, no, no, officer... For once, let's let the kid do something with his useless life. He's gonna help us with the fight against crime. Right, Carl?
+}}
+{{line
+|name=Pulaski
+|dialogue=Yeah. By any means necessary.
+}}
+{{line
+|name=Tenpenny
+|dialogue=Now you stay the fuck away from Smoke, and stay the fuck away from us. Otherwise Sweet is going to find himself on a Ballas block getting in touch with his feminine side. ''(to [[Jimmy Hernandez]])'' Hey Hernandez, you going to piss all day?
+}}
+{{line
+|name=Pulaski
+|dialogue=''(not in the subtitles)'' Come here.
+}}
+{{line
+|name=CJ
+|dialogue=Get your hands off me, man.
+}}
+{{line
+|name=Pulaski
+|dialogue=For some reason, we've got a little problem with a former friend of ours, he seems to disagree with some of our methods.
+}}
+{{line
+|name=CJ
+|dialogue=Now who could do that?
+}}
+{{line
+|name=Tenpenny
+|dialogue=Yeah, you'll never see anybody as fork-tongued as this snake ass bastard. Soon as he gets caught with his hand in the cookie jar, he'll whistle any tune [[Internal Affairs Division (3D Universe)|Internal Affairs]] wants him to.
+}}
+{{line
+|name=Pulaski
+|dialogue=See, they've got him hiding up [[Mount Chiliad (3D Universe)|Mount Chiliad]] someplace, so they can manipulate his testimony any way they want to.
+}}
+{{line
+|name=Tenpenny
+|dialogue=I want you to pay him a little visit, Carl. And destroy all his evidence before he testifies.
+}}
+{{line
+|name=Pulaski
+|dialogue=''(gives CJ a camera)'' Sort this out, Carl, so officer Tenpenny can sleep easy at night. 
+}}
+{{line
+|name=CJ
+|dialogue=''(not in the subtitles)'' Man...
+}}
+{{Line
+|name=Pulaski
+|dialogue=We want evidence he ain't gonna talk.
+}}
+}}
+<noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

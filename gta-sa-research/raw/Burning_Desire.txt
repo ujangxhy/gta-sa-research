@@ -1,0 +1,196 @@
+{{Infobox mission
+|name         = Burning Desire
+|image        = BurningDesire-GTASA-Mission.png
+|caption      = [[Denise Robinson]] inside an upstairs room in the burning [[Los Santos Vagos House|Los Santos Vagos building]].
+|game         = {{Games|SA=y}}
+|type         = SA
+|for          = {{For|game=SA|crash}}
+|target       = [[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+|location     = [[Jim's Sticky Ring]], [[Market (3D Universe)|Market]], [[Los Santos (3D Universe)|Los Santos]]
+|fail         = 
+*[[Wasted]]
+*[[Busted]]
+*Denise dies
+|reward       = Denise Robinson as a [[Girlfriends in GTA San Andreas|girlfriend]]
+|unlocks      = 
+*[[Gray Imports]]
+*[[Doberman]] {{Small|(if [[Cesar Vialpando (mission)|Cesar Vialpando]] is completed first)}}
+|unlockedby   = [[Madd Dogg's Rhymes]]
+|todo_toomuch =
+*Tenpenny has hidden some '''<span style="color:#4C5C41">molotovs</span>''' in an alleyway in Downtonwn Los Santos. Pick them up.
+*You've got molotovs. Go to the '''<span style="color:#D1BC86">gang house</span>''' and torch it.
+*Torch the house. Throw molotovs into the '''<span style="color:#AB3736">5 downstairs windows</span>''' - that'll make it burn.
+*There are some '''<span style="color:#4C5C41">molotovs</span>''' nearby. (if the player wastes all molotovs)
+*Fire in the hole! Keep going.
+*Good shot! A few more like that should do it.
+*Good shot! A few more like that should do it.
+*Up in flames! Torch the next.
+*Well done. The house is going to burn to the ground.
+*You've trapped a girl inside the burning building. You'll have to save her.
+*The girl is upstairs. You don't have much time before she burns.
+*Go in through the '''<span style="color:#D1BC86">front door</span>'''.
+*Take the fire extinguisher upstairs and rescue the '''<span style="color:#484576">girl</span>'''.
+}}
+{{Quote|Time to go to work, CJ, and earn your freedom. There's a guy holed up across town. You got that address, Pulaski? Another gangbanging, drug-pushing, cop-killing bitch, just like you. We don't like him and he don't like us. Now you make sure he never leaves the neighborhood - not even in a box.|[[Frank Tenpenny]] to [[Carl Johnson]].|sound=BurningDesire-GTASA-Quote.ogg}}
+'''Burning Desire''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[C.R.A.S.H.]] officers [[Frank Tenpenny]], [[Eddie Pulaski]] and [[Jimmy Hernandez]] from the [[Jim's Sticky Ring]] doughnut shop in [[Market (3D Universe)|Market]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Description==
+Carl enters the doughnut shop and is spotted by [[Frank Tenpenny]], who tells him to come and sit with them. Tenpenny and Pulaski act with hostility towards Carl, with Tenpenny reminding him that C.R.A.S.H. owns him. Tenpenny then informs Carl of a 'gangbanging, drug-pushing, cop-killing bitch' holed up in a [[Los Santos Vagos House|building]] in [[East Los Santos (3D Universe)|East Los Santos]] that doesn't like them. Tenpenny tells Carl that he wants the gangster dead.
+
+Carl first heads to an alleyway in [[Downtown Los Santos (3D Universe)|Downtown]] to collect some [[Molotov Cocktails|molotov cocktails]] that C.R.A.S.H. had left for him, before heading over to the building in East Los Santos. Carl kills the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]] gangsters surrounding the building and then throws molotov cocktails into five windows around the building. The 'holed up' man, a member of the Los Santos Vagos, runs out of the building. Being badly burnt by the flames, he quickly dies from his injuries.
+
+Carl then hears a girl trapped inside. To rescue her, Carl enters the building and gets to the upstairs bedroom she is trapped inside. Then, using a [[Fire Extinguisher|fire extinguisher]] obtained from the kitchen, he extinguishes the flames blocking their path, helping the girl escape the crumbling building. The girl graciously thanks Carl, and asks him to bring her to her [[Denise Robinson's House|house]]. Once there, she introduces herself as [[Denise Robinson]], and both of them agree to go on a date in the near future.
+
+==Mission Objectives==
+*Tenpenny has hidden some '''<span style="color:#4C5C41">molotovs</span>''' in an alleyway in Downtown Los Santos. Pick them up.
+*You've got molotovs. Go to the '''<span style="color:#D1BC86">gang house</span>''' and torch it.
+*Torch the house. Throw molotovs into the '''<span style="color:#AB3736">5 downstairs windows</span>''' - that'll make it burn.
+*There are some '''<span style="color:#4C5C41">molotovs</span>''' nearby. (if the player wastes all molotovs)
+*You've trapped a girl inside the burning building. You'll have to save her.
+*Take the fire extinguisher upstairs and rescue the '''<span style="color:#484576">girl</span>'''.
+*Drive the girl to her house.
+
+==Reward==
+There is no monetary reward for completing the mission, but the player can collect [[Money|$]]1,000 inside the burning house; there is [[Money|$]]500 next to the bed in the bedroom where Denise is waiting to be saved, and another [[Money|$]]500 to be found in the living room on the ground floor. The missions [[Doberman]] and [[Gray Imports]] are unlocked. Denise becomes Carl's [[Girlfriends in GTA San Andreas|girlfriend]].
+
+==Post-Mission Phone Call==
+Note: This call only happens if [[Cesar Vialpando (mission)|Cesar Vialpando]] is completed first.
+
+{{Dialogue
+|p1 = Carl
+|d1 = Whattup, Sweet?
+|p2 = [[Sweet Johnson]]
+|d2 = We got a problem. Some punk-ass, base-head fool has been slingin' to his [[Grove Street Families|Grove]] brothers.
+|p3 = Carl
+|d3 = What? Who?
+|p4 = Sweet
+|d4 = Check this out - he's been buying shit over in [[Glen Park]]. He know the hood is talking, and he's hiding out with his new [[Ballas (3D Universe)|balla]] friends.
+|p5 = Carl
+|d5 = Shit, man, how we gonna get to him?
+|p6 = Sweet
+|d6 = It's time for you to announce your return, CJ! You fuck up Glen Park, and that turncoat bitch-ass n****'s gonna lose nerve, and make a break for it.
+|p7 = Carl
+|d7 = OK, I'm gonna come pick you up.
+|p8 = Sweet
+|d8 = Hell, no. This is your gig, CJ. You need some stripes. Get over to [[Ammu-Nation (3D Universe)|AmmuNation]] and get a heater.
+}}
+
+{{Clear}}
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px" bordersize="small">
+BurningDesire-GTASA-SS1.png|[[Carl Johnson|Carl]] comes over to [[Jim's Sticky Ring|the doughnut shop]] in [[Market (3D Universe)|Market]] to see [[C.R.A.S.H.]] and is immediately called over by [[Frank Tenpenny|Tenpenny]].
+BurningDesire-GTASA-SS2.png|Carl is disappointed to see that the C.R.A.S.H. officers are actually at the doughnut shop.
+BurningDesire-GTASA-SS3.png|Carl goes over to the booth that C.R.A.S.H. have occupied.
+BurningDesire-GTASA-SS4.png|Tenpenny tells [[Jimmy Hernandez|Hernandez]] to move over and let Carl sit down.
+BurningDesire-GTASA-SS5.png|Tenpenny sarcastically says that Carl finally found time to come and talk to them.
+BurningDesire-GTASA-SS6.png|Carl says that he couldn't find time to see them, as he was mourning his [[Beverly Johnson|mother]].
+BurningDesire-GTASA-SS7.png|[[Eddie Pulaski|Pulaski]] says that he thinks Carl is lying.
+BurningDesire-GTASA-SS8.png|Tenpenny tells Carl that they don't buy the excuses Carl is trying to give them.
+BurningDesire-GTASA-SS9.png|Tenpenny tells Carl that he answers only to C.R.A.S.H. from now on.
+BurningDesire-GTASA-SS10.png|Tenpenny says that if Carl doesn't do their bidding for them, there'll be great consequences.
+BurningDesire-GTASA-SS11.png|Tenpenny says that they will come down on Carl so high and mighty that it'll seem like God himself has punished Carl. He then asks Carl if he understood everything he just said.
+BurningDesire-GTASA-SS12.png|Pulaski says that he better had.
+BurningDesire-GTASA-SS13.png|Tenpenny says that he'll put Carl to work and make him work for his freedom.
+BurningDesire-GTASA-SS14.png|Tenpenny tells Carl of a guy that's hiding in a [[Los Santos Vagos House|house]] across town.
+BurningDesire-GTASA-SS15.png|Tenpenny asks Pulaski to get Carl the address.
+BurningDesire-GTASA-SS16.png|Tenpenny says the guy he's speaking of is a "gangbanging, drug-pushing, cop-killing bitch" and insults Carl by saying the guy is just like him.
+BurningDesire-GTASA-SS17.png|Tenpenny says that the guy needs to be killed for getting in the way of C.R.A.S.H.
+BurningDesire-GTASA-SS18.png|Tenpenny tells Carl to make sure that the guy doesn't leave the neighborhood, not even in a box.
+BurningDesire-GTASA-SS19.png|After Tenpenny tells Carl all of the things he should know for the job, he rudely tells him to go and kill the target.
+BurningDesire-GTASA-SS20.png|Tenpenny has hidden some [[Molotov Cocktails|equipment]] for Carl to use in an alleyway [[Downtown Los Santos (3D Universe)|downtown]]. Carl needs to collect the equipment, then go and kill the target.
+BurningDesire-GTASA-SS21.png|Carl heading to the alleyway to collect the equipment.
+BurningDesire-GTASA-SS22.png|Carl, about to collect the molotov cocktail stash.
+BurningDesire-GTASA-SS23.png|After collecting the molotov cocktails, Carl must go to [[East Los Santos (3D Universe)|East Los Santos]] and kill the target.
+BurningDesire-GTASA-SS24.png|Carl heading to the target's house.
+BurningDesire-GTASA-SS25.png|Carl arrives at the house, which turns out to be a [[Los Santos Vagos (3D Universe)|Vagos]] hangout. Carl must use the molotov cocktails to torch the house and burn everyone inside.
+BurningDesire-GTASA-SS26.png|Carl killing the Vagos gangbangers hanging out outside of the house.
+BurningDesire-GTASA-SS27.png|Carl throwing a molotov through a window.
+BurningDesire-GTASA-SS28.png|Carl throwing a molotov through a second window.
+BurningDesire-GTASA-SS29.png|Carl throwing a molotov through a third window.
+BurningDesire-GTASA-SS30.png|Carl throwing a molotov through a fourth window.
+BurningDesire-GTASA-SS31.png|Carl throwing a molotov through a fifth window.
+BurningDesire-GTASA-SS32.png|After Carl throws a molotov through five windows, the house is completely engulfed in flames.
+BurningDesire-GTASA-SS33.png|After a few moments, the front door of the house busts down.
+BurningDesire-GTASA-SS34.png|Several Vagos members come running out of the house, however, they pose no threat to Carl and run for their lives.
+BurningDesire-GTASA-SS35.png|Suddenly, Carl hears screaming from one of the windows. It appears that a [[Denise Robinson|girl]] that was hanging out with the Vagos is trapped in the burning house.
+BurningDesire-GTASA-SS36.png|Carl decides to save the girl from the burning house.
+BurningDesire-GTASA-SS37.png|Carl enters the house and is immediately faced by thick smoke.
+BurningDesire-GTASA-SS38.png|Carl heading up the stairs to the second floor, looking for the girl he saw.
+BurningDesire-GTASA-SS39.png|As Carl navigates the burning house, he finally comes across the room that the girl is holed up in. He asks her if she is okay.
+BurningDesire-GTASA-SS40.png|The girl says that she's fine, but flames are covering the doorway and she can't get out.
+BurningDesire-GTASA-SS41.png|Carl tells the girl to stand by while he goes and fetches a [[Fire Extinguisher|fire extinguisher]] from the kitchen downstairs.
+BurningDesire-GTASA-SS42.png|Carl tells the girl that he'll come right back once he gets it.
+BurningDesire-GTASA-SS43.png|Carl, about to pick up the fire extinguisher.
+BurningDesire-GTASA-SS44.png|After picking up the fire extinguisher, Carl must go back and save the girl from the flames.
+BurningDesire-GTASA-SS45.png|Carl using the fire extinguisher to clear the room's doorway.
+BurningDesire-GTASA-SS46.png|After extinguishing the flames blocking the doorway, Carl steps into the room and faces the girl he almost killed. The girl tells Carl that she's very scared.
+BurningDesire-GTASA-SS47.png|As Carl and the girl talk, the house starts collapsing. A wall inconveniently collapses in the corridor and blocks it.
+BurningDesire-GTASA-SS48.png|The girl asks Carl what the noise they just heard was.
+BurningDesire-GTASA-SS49.png|Carl realizes that the house is starting to collapse and that they must escape as fast as possible.
+BurningDesire-GTASA-SS50.png|As Carl and the girl try to escape, the house continues collapsing.
+BurningDesire-GTASA-SS51.png|Carl and the girl trying to escape the burning house.
+BurningDesire-GTASA-SS52.png|Carl and the girl escaping the burning house.
+BurningDesire-GTASA-SS53.png|After Carl and the girl escape the house, the girl thanks Carl for saving her and tells him that she's incredibly grateful.
+BurningDesire-GTASA-SS54.png|To show her appreciation, the girl gives Carl a kiss.
+BurningDesire-GTASA-SS55.png|The girl says that she still can't believe she's not dead.
+BurningDesire-GTASA-SS56.png|Carl tells her that she looks pretty shook up and asks her if she wants a ride home.
+BurningDesire-GTASA-SS57.png|The girl accepts the offer.
+BurningDesire-GTASA-SS58.png|Carl and the girl going back to Carl's [[Savanna|vehicle]].
+BurningDesire-GTASA-SS59.png|As Carl and the girl head out, leaving the burning Vagos hangout behind, Carl asks her where she lives.
+BurningDesire-GTASA-SS60.png|The girl says that she lives just off [[Grove Street (3D Universe)|Grove Street]].
+BurningDesire-GTASA-SS61.png|This surprises Carl. He asks her what she was doing hanging out with the Vagos if she's from Grove Street.
+BurningDesire-GTASA-SS62.png|The girl explains that she was hanging about with the enemy gang because she "likes to live dangerously".
+BurningDesire-GTASA-SS63.png|As Carl and the girl head towards her house near Grove Street, she asks Carl if he's who she thinks he is.
+BurningDesire-GTASA-SS64.png|Carl says that he indeed is and asks the girl how she knows him.
+BurningDesire-GTASA-SS65.png|The girl says that everyone knows him and his [[Sweet Johnson|brother]].
+BurningDesire-GTASA-SS66.png|The girl says that she though Carl 'ran away' from Grove Street.
+BurningDesire-GTASA-SS67.png|Carl says that he never 'ran away', he just needed time to think things over.
+BurningDesire-GTASA-SS68.png|Carl and the girl going back to her place.
+BurningDesire-GTASA-SS69.png|As Carl and the girl enter [[Ganton]], the girl points out a modest [[Denise Robinson's House|house]] by the southern entrance to the [[Ganton Bridge]].
+BurningDesire-GTASA-SS70.png|Carl pulls up by the house.
+BurningDesire-GTASA-SS71.png|Carl asks the girl her name.
+BurningDesire-GTASA-SS72.png|The girl introduces herself as Denise Robinson and tells Carl that he should give her a call some time and that they should go out.
+BurningDesire-GTASA-SS73.png|Carl says that he maybe he shall do exactly that.
+BurningDesire-GTASA-SS74.png|Denise runs to her house.
+BurningDesire-GTASA-SS75.png|She stops by the door to take one last look at Carl and tells him that she'll see him around.
+BurningDesire-GTASA-SS76.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|EGQ-xQ5SZK0|275px|center}}
+{{#ev:youtube|RrolSowRTyk|275px|center}}
+{{#ev:youtube|CKPp_FbXVj0|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+BurningDesire-GTASA-AlternateEnding.jpg|[[Carl Johnson|Carl]] running out of the [[Los Santos Vagos House|house]].
+</gallery>
+
+==Trivia==
+*The interior of the doughnut shop is branded as [[Rusty Brown's Ring Donuts (3D Universe)|Rusty Brown's Ring Donuts]], even though the exterior of the building seemingly indicates another name, more precisely [[Jim's Sticky Ring]], further enforcing the original concept for Rusty Brown's Ring donuts being in {{SA}}.
+*Oddly, when Tenpenny calls out to Carl after he enters the donut shop during the opening cutscene, Carl will mutter "Oh shit!" as if surprised that C.R.A.S.H. was there, despite the fact that Tenpenny called Carl after the mission 'Madd Dogg's Rhymes' and told him to come there so they could talk.
+*A [[Police (vehicle)|Police Car]] will always spawn outside the doughnut shop after the opening [[Cutscenes|cutscene]] ends. This vehicle can be stolen without incurring a [[Wanted Level in GTA San Andreas|wanted level]].
+**It's possible that the car is left by [[C.R.A.S.H.]] for CJ.
+*Even if Carl already has [[Molotov Cocktails|molotov cocktails]] in his inventory before starting the mission, the game will still force the player to collect them from the alleyway.
+*While approaching the house, there is a [[Los Santos Vagos (3D Universe)|Vagos]] member standing outside who appears to be talking on a [[Mobile Phone|cell phone]]. Upon closer inspection (using a [[camera]] or [[Sniper Rifle|sniper rifle]]), the gang member is actually holding a [[Pistol (3D Universe)|pistol]] against his ear. 
+*If the player has no molotovs by the time they have to torch the house (by wasting them all), another 20 will spawn in front of the house, behind the tree, and 20 at the back of the house. They will keep on respawning if the player loses all of them again.
+**Moreover, if the player uses [[Tear Gas|tear gas]] canisters or [[grenades]] in order to smash the windows, they will strangely have the same effect as molotov cocktails, causing a [[fire]]. 
+*If the player fails the mission while inside the [[Los Santos Vagos House|apartment]] without dying, Carl can be seen running out of the house.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Burning Desire]]
+[[es:Burning Desire]]
+[[pl:Płonące pożądanie]]
+[[ru:Burning Desire]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

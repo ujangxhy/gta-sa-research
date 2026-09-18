@@ -1,0 +1,79 @@
+{{Infobox_location
+|type = town
+|image = LasPayasadas-GTASA-Collage.png
+|caption = From top to bottom, left to right: Overview of Las Payasadas, the welcome sign, a tourist photographing the "[[World's Largest Cock]]", [[Las Payasadas Cafe]] and the [[Jamieson Gorge Bridge]].
+|games = {{Games|SA=y}}
+|location = [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+LasPayasadas-GTASA-Map.jpg|Las Payasadas
+LasPayasadas-GTASA-BoneCountyMap.jpg|Bone County
+LasPayasadas-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner       = PoliceScanner-GTASA-LasPayasadas.ogg
+|pop = 211 <small>(estimated)</small>
+|motto = ''Home of "The Big Pecker", The World's Largest Cock''
+}}
+'''Las Payasadas''' is a town located in northern [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]], a few miles away from [[Las Venturas (3D Universe)|Las Venturas]], that appears in {{SA}}.
+
+==Description==
+Road signage indicates that the town has a population of 211 in [[1992]]. The town sits on a cliff, with [[Verdant Meadows Airfield|Verdant Meadows]] visible in the valley below. The town's most prominent feature is a large model chicken known as [[The Big Pecker]], the mascot of [[Pecker's Feed & Seed]] company, with a constantly bobbing head. When entering the town from the either side (east or west), a sign is visible, reading: ''"Las Payasadas, home of "The Big Pecker", The World's Largest Cock"''.
+
+The name ''Las Payasadas'' translates roughly from Spanish to ''horseplay'', ''clowning around'', or ''antics'', a possible reference to the lack of seriousness afforded to this town owing to its giant chicken.
+
+==Influence==
+The town appears to resemble {{WP|Goodsprings, Nevada}}, with the layout and appearance of the town and general area, the town's proximity to Las Venturas (which is based on {{WP|Las Vegas}}), and the town's close proximity to the north of a remote airstrip (Verdant Meadows, which may be based on {{WP|Sky Ranch Airport (Nevada)|Sky Ranch Airport}}).
+
+==Places of Interest==
+*[[Las Payasadas Cafe]]
+*[[Las Payasadas Trailer Park]]
+*[[Pecker's Feed & Seed]]
+*[[World's Largest Cock]]
+
+==Vehicles==
+*[[Bobcat (3D Universe)|Bobcat]] (occasionally)
+*[[Freeway (3D Universe)|Freeway]]
+*[[Glendale (beater)|Beater Glendale]]
+*[[Hotdog]]
+*[[Mr. Whoopee]] (occasionally)
+*[[Quad]]
+*[[Rancher (3D Universe)|Rancher]]
+*[[Sanchez]]
+*[[Wayfarer]]
+
+==Weapons==
+*[[Brass Knuckles]] (behind a small house next to the central building)
+
+==Pickups==
+*[[Body Armor]] (on the roof of [[Pecker's Feed & Seed]])
+*[[Police Bribes|Police Bribe]] (in an alley between a small house and the central building)
+
+==Other==
+*Two [[Unique Stunt Jumps in GTA San Andreas|Unique Stunt Jumps]]
+*[[Sprunk (3D Universe)|Sprunk]] and Snacks vending machines
+*[[Chilli Dogs]] [[Vendors|seller]] (facing east of the giant chicken)
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+LasPayasadas-GTASA.png|Overview of '''Las Payasadas'''.
+</gallery>
+
+==Trivia==
+*Las Payasadas along with [[Montgomery (3D Universe)|Montgomery]], [[Las Barrancas]] and [[Bayside]] are the only rural/small towns in [[State of San Andreas (3D Universe)|San Andreas]] that don't have a purchasable [[Save Points in GTA San Andreas|safehouse]].
+*In the map that comes with the game, the town is misspelled as ''"Las Payasdas"''. Another error is shown on a sign in [[Valle Ocultado]], reading the town's name as "La Payasadas".
+*Before the western approach into this town, there is a small dirt road that leads to the road leading to an unused building. This road, although small, has an unusually high volume of traffic using it.
+
+==Navigation==
+{{Gtasa neighborhoods}}
+
+[[de:Las Payasadas]]
+[[es:Las Payasadas]]
+[[pl:Las Payasadas]]
+[[pt:Las Payasadas]]
+[[ru:Лас-Паясадас]]
+
+[[Category:Locations in GTA San Andreas in Bone County]]
+[[Category:Neighborhoods]]
+[[Category:Towns]]
+[[Category:Zones]]

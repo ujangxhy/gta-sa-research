@@ -1,0 +1,54 @@
+{{Infobox mission
+|image          = Mission-LocoSyndicate-GTASA.jpg
+|game           = {{Games|SA=y}}
+|type           = SA
+|for            = [[Cesar Vialpando]]
+|location       = 
+*[[Los Santos (3D Universe)|Los Santos]]
+*[[Flint County (3D Universe)|Flint County]]
+*[[Red County (3D Universe)|Red County]]
+|target         = [[Big Smoke]]'s [[Patriot|cash truck]]
+|fail           = 
+*[[Wasted]]
+*[[Busted]]
+*Patriot reaches [[Pier 69]]
+*Patriot is destroyed
+|sidemission    = y
+|reward         = Up to [[Money|$]]1,800
+|unlockedby     = [[Gone Courting]]
+|tod            = between 05:00 and 17:00, every Monday and Friday
+}}
+{{Dialogue|p1=CJ|d1='Sup.|p2=Cesar|d2=The cash is leaving Los Santos again.|quotedetail=[[Cesar Vialpando]] informing [[Carl Johnson|CJ]] about Big Smoke's cash truck.}}
+'''Big Smoke's Cash''' is one of the two related side missions in {{SA}} dealing with the [[Loco Syndicate]]'s drug smuggling operation, the other being the [[Yay Courier]]. It's triggered by a [[Mobile Phone|phone call]] from [[Cesar Vialpando|Cesar]] every Monday and Friday after [[Carl Johnson|CJ]]-and-friends flee [[Los Santos (3D Universe)|Los Santos]], but before the [[Loco Syndicate Crack Factory]] is [[Yay Ka-Boom-Boom|destroyed]]. It is not required for [[100% Completion in GTA San Andreas|100% completion]].
+
+==Description==
+Cesar calls CJ to notify him of [[Big Smoke]] sending money to the Loco Syndicate. The player can then choose to accept the mission or decline it with no consequences. If accepted, the mission consists of pursuing the [[Patriot|cash truck]], ramming it to knock the crates of [[money]] out of the back, and then retrieving the crates by driving over them. The mission ends when either CJ collects all six crates or the truck reaches [[Pier 69]] in [[San Fierro (3D Universe)|San Fierro]].
+
+CJ will only receive the phone call for this mission while he is on foot at specifically 05:00 AM. Otherwise, he will miss the call, and an onscreen message may be displayed at some point which reads "You stole $0 from the courier. You can try again every Monday and Friday".
+
+==Reward==
+*Up to 6 crates at $300 each may be knocked off the Patriot during each mission, for a maximum yield of $1,800.
+
+{{Clear}}
+==Video Walkthrough==
+{{#ev:youtube|dU7kC73HqFc|300px|center}}
+
+==Oversights==
+*When the target vehicle reaches the [[Flint Intersection]], its route may become bugged and it will repeatedly crash into the roadside barrier. If this glitch occurs, the vehicle may drive over the barrier and land on its roof, where it will eventually explode, causing the mission to end.
+
+==Trivia==
+*Since this mission (much like [[Yay Courier]]) is controlled by an external script, it can be cancelled by starting a mission, a side mission or by triggering other external scripts (by doing actions such as entering an [[Ammu-Nation (3D Universe)|Ammu-Nation]] with a [[Ammu-Nation Shooting Ranges#Grand Theft Auto: San Andreas|shooting range]], starting a game of [[Pool#Grand Theft Auto: San Andreas|pool]], playing an [[Arcade Games#Grand Theft Auto: San Andreas|arcade game]] or entering the [[Lowrider Challenge]]). 
+*The cash truck actually leaves from [[Grove Street (3D Universe)|Grove Street]], even though it is being sent by [[Big Smoke]]. Presumably, it is meant to be from [[Ryder]], as he lives on Grove Street and acts as Smoke's second in command on the [[Los Santos (3D Universe)|Los Santos]] side of the operation.
+*There are members of the [[Grove Street Families]] inside the target vehicle. This possibly means that Big Smoke hired a few [[Big Smoke's Grove Street Families Faction|former members]] to work for him and the [[Loco Syndicate]], however, they are still hostile toward CJ.
+*The gang members will sometimes say "Keep it fast, CJ!", because Grove Street Families dialogue for vehicles and [[Drive-By Shooting|drive-by]] was made for the recruit feature, as if [[Carl Johnson|CJ]] were driving.
+*The courier vehicle is bullet-proof, fire-proof, explosion-proof and melee-proof, and it can be obtained by forcing the vehicle into a corner and disposing of the passengers, then pushing it all the way to a [[Garages|garage]], or by catching up to the vehicle using a [[Tow Truck|tow truck]], and then towing it back to a garage once the mission is completed.
+
+==See Also==
+*[[Yay Courier]]
+
+[[de:Big Smoke’s Cash]]
+[[pl:Gotówka Big Smoke'a]]
+[[ru:Big Smoke's Cash]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Side Missions]]

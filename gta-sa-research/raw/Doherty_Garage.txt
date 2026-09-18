@@ -1,0 +1,108 @@
+{{Infobox location
+|name           = Doherty Garage
+|image          = Xoomer-GTASA-Doherty-exterior.jpg
+|caption        = The garage.
+|aka            = Xoomer Garage
+|type           = safehouse
+|style          = SA
+|games          = {{Games|SA=y}}
+|structure_type = Filling station
+|garagecap      = Four vehicles
+|canplayerstore = Yes
+|accessible     = No
+|unlockedby     = [[Are You Going to San Fierro?]]
+|location       = [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|occupants      = 
+*[[Claude]] {{Small|(formerly)}}
+*[[Carl Johnson]]
+*[[Cesar Vialpando]]
+*[[Kendl Johnson]]
+*[[Dwaine]]
+*[[Jethro]]
+*[[Zero]]
+}}
+The '''Doherty Garage''' is a derelict [[Xoomer]] gas station/garage in [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]] that appears in {{SA}}. The garage is obtained by [[Carl Johnson]] after [[Farewell, My Love...|winning a street race]] against [[Claude]] and [[Catalina]]. The save point features a vehicle storage garage where the player can store up to four cars.
+
+==Description==
+The garage was previously a [[Xoomer]] gas station, until it was closed c.[[1987]]. Following closure, the petrol pumps were removed and the garage stood derelict until it came into the ownership of [[Claude]]. After winning a street race against Claude and [[Catalina]], Carl was awarded the deed to the garage in [[1992]].
+
+The interior of the garage is seen during mission cutscenes. It consists of a large garage area and a small office partition. On the outside, the front windows are broken and a faded "Xoomer" sign can be seen on the front of the garage. It also has its corresponding office.
+
+After collecting all 50 [[Snapshots]], the [[Shotgun (3D Universe)|Shotgun]], [[Micro SMG (3D Universe)|Micro SMG]], [[Sniper Rifle]] and [[Grenades]] are available here, spawning between the inactive garage and main office building.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+After [[The Truth]] is found by the police and [[Are You Going to San Fierro?|he and Carl flee to]] [[San Fierro (3D Universe)|San Fierro]], upon arriving at the garage, Carl finds it derelict and in desperate need of repair. Before Carl sinks into his despair, [[Kendl Johnson|Kendl]] convinces him to turn the situation around and make something of the place. With the help of The Truth, Carl employs [[Dwaine]], [[Jethro]], and [[Zero]] to work in the garage. With the additional help of Cesar Vialpando, Carl and the rest of the crew are able to turn the garage into a successful chop-shop. The group, along with [[Wu Zi Mu]] and the [[San Fierro Triads]], also use the garage as a base of operation to hunt down the [[Loco Syndicate]]. Later on, Carl and Cesar work on delivering rare vehicles on the customers wish list to the [[Wang Cars (GTA San Andreas)|Wang Cars]] showroom they have purchased earlier.
+
+During a later mission titled [[Highjack]] for the undercover government agent [[Mike Toreno]], Carl and Cesar attempt to steal a [[Tanker|tanker truck]] on the [[Garver Bridge]], after which they deliver the truck to the garage.
+
+==Personnel==
+*[[Claude]] {{nd}} owner (formerly)
+*[[Carl Johnson]] {{nd}} owner 
+*[[Kendl Johnson]] {{nd}} manager 
+*[[Cesar Vialpando]] {{nd}} driver and servicer 
+*[[Jethro]] {{nd}} mechanic 
+*[[Dwaine]] {{nd}} mechanic 
+*[[Zero]] {{nd}} electronics and vehicle modification expert 
+*[[The Truth]] {{nd}} assistant (he located the garage after [[Farewell, My Love...]]) 
+
+==Prominent Appearances in Gameplay==
+*[[Are You Going to San Fierro?]]
+*[[Wear Flowers in Your Hair]]
+*[[555 We Tip]]
+*[[Deconstruction]]
+*[[Photo Opportunity]]
+*[[Jizzy (mission)|Jizzy]]
+*[[Outrider]]
+*[[Snail Trail]]
+*[[Ice Cold Killa]]
+*[[Toreno's Last Flight]]
+*[[Yay Ka-Boom-Boom]]
+*[[Highjack]]
+*[[Zeroing In]]
+*[[Test Drive]]
+*[[Customs Fast Track]]
+*[[Puncture Wounds]]
+
+==Oversights==
+*A glitch on the [[PlayStation 2|PS2]] and [[Xbox]] versions of the game causes the garage not to always open, requiring several approaches before it will open and allow access. An identical glitch occurs with the [[Portland Safehouse (GTA Liberty City Stories)|Portland Safehouse]] in {{LCS}}.
+*Saving custom vehicles with decals in the garage will result in the decals being removed. The same thing also applies to vehicles with unique decals, e.g. [[The Truth]]'s [[Camper (3D Universe)#Variants|Camper]]. This glitch has been confirmed on the Xbox, [[Android OS|Android]] and [[Personal Computer|PC]] versions of the game.
+
+==Gallery==
+{{Gallery
+|DohertyGarage-GTASA-RearView.png|Rear view of the garage.
+|DohertyGarage-GTASA-XoomerLogo.png|Faded [[Xoomer]] logo.
+|DohertyGarage-GTASA-Interior.png|Interior.
+|DohertyGarage-GTASA-STDCalendar.png|[[STD]] calendar.
+|DohertyGarage-GTASA-Cock.png|Penis-shaped oil spill, also found at the [[Driving School]].
+|DohertyGarage-GTASA-Interior-Office.png|The office.
+|DohertyGarage-GTASA-Interior-OfficeInterior.png|Interior of the office.
+}}
+
+==Trivia==
+*Although [[Carl Johnson|Carl]] acquires the garage after [[Farewell, My Love...]], the [[Garages|garage]] is technically available from the beginning of the game, meaning that the player can use the garage even before [[San Fierro (3D Universe)|San Fierro]] is unlocked.
+*The garage can hold a maximum of four vehicles; although more can be placed inside (i.e. two cars and two motorcycles, or six motorcycles), exceeding four vehicles may result in one or all of the vehicles parked inside disappearing after a period of time. The garage is larger than most available up to this point in the game, capable of holding two [[Monster]] trucks. Although there is a second garage immediately adjacent, it is not accessible.
+*Due to the garage's proximity to a busy [[Pedestrians|pedestrian]] sidewalk, care must be taken when opening it to make sure [[Street Criminals|street criminals]] do not get into the garage, as they are known to attempt to drive away in vehicles parked inside (this is a particular concern if the player chooses to back vehicles into the garage or wants to avoid damaging vehicles).
+*An [[STD]] calendar inside the garage is open on the month of January, which shows that Thursday is the first day of the year. It appears to be a {{WP|Chinese calendar}} which matches with the year [[2004]], {{SA}}{{'}} release year.
+*In the [[Beta Content in GTA San Andreas|beta version]] of the game, the interior of the garage was accessible according to {{URL|http://www.gtasanandreas.net/screenshots/gallery.php?image{{=}}242|this screenshot}}.
+
+==Navigation==
+{{Gtasa safehouses|state=collapsed}}
+
+[[de:Alte Xoomer-Werkstatt]]
+[[es:Garaje de Doherty]]
+[[fr:Garage de Doherty]]
+[[hu:Doherty Garázs]]
+[[it:Garage di Doherty]]
+[[pl:Garaż w Doherty]]
+[[pt:Garagem de Doherty]]
+[[ro:Doherty Garage|ro:]]
+[[ru:Гараж в Доэрти]]
+
+[[Category:Businesses in GTA San Andreas]]
+[[Category:Save Points in GTA San Andreas]]
+[[Category:Save Points in San Fierro]]
+[[Category:Safehouses]]
+[[Category:Safehouses in GTA San Andreas]]
+[[Category:Garages]]
+[[Category:Locations in GTA San Andreas in San Fierro]]
+[[Category:Fronts]]

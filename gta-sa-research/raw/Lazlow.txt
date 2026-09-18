@@ -1,0 +1,131 @@
+{{PageTabber
+|page1 = [[Lazlow Jones (3D Universe)|3D Universe]]
+|page2 = [[Lazlow Jones (HD Universe)|HD Universe]]
+|page3 = Real Life
+}}{{Infobox people
+|Name Change = MUSIC PRODUCER
+|name = Jeffrey Crawford Jones
+|image = LazlowJones-VoiceActor.png
+|full name = Jeffrey Crawford Jones
+|aka = Lazlow
+|dob = September 4, [[1973]]
+|gender = M
+|nationality = {{Country|US|adj=y}} 
+|studio = {{StudioIcon|Rockstar Games|Rockstar Games}} [[Rockstar Games]]
+}}{{Wikipedia|Lazlow Jones}}
+'''Jeffrey Crawford "Lazlow" Jones''' (born September 4, 1973) is an American writer, producer, director, voice actor, radio announcer, and former Rockstar associate and writer.
+
+==Career==
+{{Manhunt Wiki|Lazlow Jones}}
+Lazlow is best known for his time as co-chair of the [[Rockstar Games]] Production Department, responsible for in-game creative audio and video content, working directly for and writing with Rockstar co-founder and Head of Creative [[Dan Houser]].
+
+During his career at Rockstar Games his primary responsibilities were as a director, producer and writer for the ''[[Grand Theft Auto]]'', ''[[Red Dead|Red Dead Redemption]],'' ''[[Max Payne]]'', ''[[Bully]]'', and ''{{WC|midnightclub|Midnight Club}}'' series, as well as the voice over director for ''[[Manhunt 2]]'', and was part of Rockstar's production team for ''{{WP|The Warriors (video game)|The Warriors}}'' and ''{{WC|lanoire|L.A. Noire}},'' the latter of which he also contributed some writing to. Lazlow also hosted his own real-life radio shows: ''Lazlow's Technofile'', which for a time was syndicated on radio stations across the US in the late 1990s and early 2000s, and ''The Lazlow Show'', which began airing on {{WP|New York City}}'s {{WP|WINS-FM|K-Rock}} in 2005 before moving to the ''Opie & Anthony Channel'' (branded at the time as ''The Virus'') as part of the channel's ''Saturday Night Virus'' lineup on {{WP|XM Satellite Radio}} in 2006; in 2009, XM and Sirius Satellite Radio merged to become the single entity known as {{WP|SiriusXM}}. Due to the merger and a resulting disagreement in regard to the show's budget, it eventually began airing from the {{WP|Long Island}} basement studio (known amongst fans as "The Compound") of then-''Opie & Anthony Show'' co-host [[Anthony Cumia]]. ''The Lazlow Show'' officially ran from 2005 to 2010 on a mostly irregular schedule, at times with many months passing between episodes due to Lazlow's increasingly heavy workload at Rockstar. However, there were also times when the show was on a more regular schedule, typically coinciding with the immediate downtime after the release of a new Rockstar title, with episodes airing live roughly every month or two for an indeterminate period of time until reverting to a more flexible, random release schedule once work on a new Rockstar title entered full-swing. In 2015, five years after the show had unofficially ended, a one-off episode was broadcast as a tribute to Wayne "Big Wayne" Oliver, Lazlow's very close friend, neighbor, and co-host on the show, who had passed away of a heart attack in November 2014. Overall, 52 episodes of ''The Lazlow Show'' were broadcast live over the course of ten years.
+
+===''Grand Theft Auto'' series===
+Behind the scenes, Lazlow was one of the writers of the game's script, providing political and cultural satire on the radio, and writing dialogue for street NPCs. Lazlow arranged voice cameos in the ''Grand Theft Auto'' games for several key figures, many of whom are real-life friends of his, such as [[Reed Tucker]], Wayne "Big Wayne" Oliver, [[Fred Armisen]], [[Frank Chavez]], [[Anthony Cumia]], {{WP|Patrice O'Neal}}, [[Bill Burr]], [[Wil Wheaton]], [[Gregg Hughes|Gregg "Opie" Hughes]], [[Jim Norton]], [[Sam Roberts]], [[Joe DeRosa]], [[Robert Kelly]], [[Jim Florentine]], [[Club Soda Kenny]], and [[Couzin Ed]], who would eventually join Rockstar as a full-time employee, and even members of his own family (for example, his father can be heard as the caller who mentions [[Gardening with Maurice]] on [[Chatterbox FM]]). He even arranged voice cameos for members of the hacker magazine ''"{{WP|2600: The Hacker Quarterly}}"'', including Emmanuel Goldstein, Bernie S., and Kevin Mitnick. In April 2020, Lazlow resigned from Rockstar Games during the {{WP|COVID-19 pandemic}} to care for his sister and family. Exactly a year later, Lazlow joined [[Dan Houser]]'s next company, {{WP|Absurd Ventures}}.
+
+====Lazlow's Character====
+{{Main|Lazlow Jones (3D Universe)|Lazlow Jones (HD Universe)}}
+{{III}} was Lazlow's first ''GTA'' game. He produced, scripted and hosted the popular [[Chatterbox FM]] radio station. He co-wrote the other radio station dialogue with [[Dan Houser]] of [[Rockstar Games]].
+
+After gaining great popularity for his ''GTA III'' work, Lazlow took a larger role in {{VC}}. Rockstar hired Lazlow's production company, ''Radio Lazlow'', to co-write and produce all the radio stations in ''GTA Vice City'', as well as minor character and pedestrian dialogue. He was also the host of Vice City radio station [[V-Rock (3D Universe)|V-Rock]], referring to a comment made offhand in ''GTA III'', that he only worked at Chatterbox FM ''"because [he] got kicked off the rock station"''.
+
+In {{SA}}, he co-wrote and produced all of the in-game radio, as well as hosting ''Entertaining America'' on [[West Coast Talk Radio (3D Universe)|WCTR]] and appearing as a caller on ''[[I Say/You Say]]''.
+
+He also returned as host of the {{LCS}} version of the Chatterbox radio show, although this time, his role was smaller — during the setting of the game, Chatterbox is merely a single show on a station, not an entire station on its own.
+
+Lazlow returned in {{VCS}} as an intern at V-Rock, working for his real-life friend, [[Couzin Ed]]. Earlier in Lazlow's and Couzin Ed's real-life radio careers, Lazlow was the sidekick of Couzin Ed.
+
+As Lazlow was involved in writing the radio content for all the 3D Universe games, he was able to create continuity between the games, even though they were released out of chronological order. This continuity built through the many games of the series is one of the few direct links between the {{3D}} and the {{HD}}, as the two do not otherwise share much continuity.
+
+For example, in ''GTA III'', Lazlow and [[Donald Love]] are said to be in charge of operating Chatterbox FM, a situation established in dialogue written for [[LCFR]] in ''GTA Liberty City Stories''. Characters mentioned in passing might later appear in a later game (such as [[Crow (3D Universe)|Crow]], who is referenced in passing in ''GTA San Andreas'', and appears on the air in ''GTA Liberty City Stories'').
+
+Another example of this continuity is when in {{IV}}, Lazlow is referred to on other channels as the host of the "long-defunct Chatterbox", and who is raising money for a new venture. Despite that, he still introduces himself as "Lazlow 2.0", a meta-joke about the character's reboot.
+
+===''GTA'' Works===
+====Voice Acting====
+*{{III}} - [[Lazlow Jones (3D Universe)|Lazlow Jones]]/Pedestrians Dialogue/[[Taxi Drivers|Taxi Driver]] (2001)
+*{{VC}} - Lazlow Jones/Radio Commercial Voices (2002)
+*{{SA}} - Lazlow Jones (2004)
+*{{LCS}} - Lazlow Jones/[[Rise FM]] Imaging Voices/Radio Commercial Voices (2005)
+*{{VCS}} - Lazlow Jones/Pedestrians Dialogue/Radio Commercial Voices (2006)
+*{{IV}} - [[Lazlow Jones (HD Universe)|Lazlow Jones]]/Pedestrian Dialogue (2008)
+*{{EFLC}} - Lazlow Jones/Pedestrian Dialogue (2009)
+*{{V}} - Lazlow Jones (2013)
+*{{O}} - Lazlow Jones (2018)
+
+====Motion Capture====
+*''Grand Theft Auto V'' - Lazlow Jones (2013)
+*''Grand Theft Auto Online'' - Lazlow Jones (2018)
+
+===Video Game Credits===
+====Radio Stations & Music====
+=====DJ Banter and Imaging Writer=====
+*''Grand Theft Auto III'' (2001)
+*''Grand Theft Auto: Vice City'' (2002)
+*''Grand Theft Auto: San Andreas'' (2004)
+*''Grand Theft Auto: Liberty City Stories'' (2005)
+*''Grand Theft Auto: Vice City Stories'' (2006)
+*''Grand Theft Auto IV'' (DJ dialogue, jingles, station imaging) (2008)
+*''Grand Theft Auto: Chinatown Wars'' (Imaging only) (2009)
+*''Grand Theft Auto V'' (2013)
+
+=====Radio Stations and Music Producer=====
+*''Grand Theft Auto: Vice City'' (2002)
+*''Grand Theft Auto: Liberty City Stories'' (2005)
+*''Grand Theft Auto IV'' (2008)
+
+====Pedestrian Dialogue Director====
+*''Grand Theft Auto III'' (2001)
+*''Grand Theft Auto V'' (2013)
+
+====Rockstar NYC Production Team====
+*''Grand Theft Auto IV'' (2008)
+*''Episodes from Liberty City'' (2009)
+*''Grand Theft Auto: Chinatown Wars'' (2009)
+*''Grand Theft Auto V'' (2013)
+*''Grand Theft Auto Online'' (2013)
+
+====In-Game Media====
+*''Grand Theft Auto IV'' - [[Internet in GTA IV|Internet]] and Jingles (2008)
+*''Episodes from Liberty City'' - [[Internet in GTA IV|Internet]] and Jingles (2009)
+*''Grand Theft Auto V'' - TV, Radio and Cinema (2013)
+*''Grand Theft Auto Online'' - TV, Radio and Cinema (2013)
+
+====Director, Audio Content====
+*''Grand Theft Auto Online'' (2013)
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+LazlowJones-Writer.png|'''Lazlow''' wearing a cowboy hat.
+</gallery>
+
+==References==
+{{Reflist}}
+
+[[Category:Real-world game music producers]]
+
+
+
+
+
+
+
+
+
+
+
+[[Category:Real-world people credited on GTA III]]
+[[Category:Real-world people credited on GTA Vice City]]
+[[Category:Real-world people credited on GTA San Andreas]]
+[[Category:Real-world people credited on GTA Liberty City Stories]]
+[[Category:Real-world people credited on GTA Vice City Stories]]
+[[Category:Real-world people credited on GTA IV]]
+[[Category:Real-world people credited on TLAD]]
+[[Category:Real-world people credited on TBOGT]]
+[[Category:Real-world people credited on GTA V]]
+[[Category:Real-world people credited on GTA Online]]
+
+[[ru:Лазло Джонс (реальный)]]
+[[Category:Real-world voice actors]]
+[[Category:Real-world people credited on GTA Chinatown Wars]]

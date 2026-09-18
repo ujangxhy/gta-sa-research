@@ -1,0 +1,95 @@
+{{infobox location
+|name           = Big Smoke's Crack Palace
+|image          = BigSmoke'sCrackPalace-GTASA-Exterior.png
+|caption        = Exterior of the crack palace in ''Grand Theft Auto: San Andreas''.
+|games          = {{Games|SA=y}}
+|style          =
+|occupants      =
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+*[[Ballas (3D Universe)|Ballas]]
+*[[San Fierro Rifa]]
+*[[Russian Mafia]]
+|location       = [[East Los Santos (3D Universe)|East Los Santos]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map            = BigSmokeCrackPalace-GTASA-Map.png
+|map_caption    = Location on the map (red).
+|status         = defunct
+|owner          = [[Big Smoke]] 
+|floors         = 5
+|structure_type = Crack Palace
+}}
+'''Big Smoke's Crack Palace''' is the home of former [[Grove Street Families]] member [[Big Smoke]] after he leaves [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]]. The building is located in [[East Los Santos (3D Universe)|East Los Santos]], southeast of [[The Pig Pen]] [[Strip Club|strip club]].
+
+==Description==
+The Crack Palace is made up of five floors, the Entrance, the "Security Area", the "Drug Lab", the "Ballas Lounge" and Big Smoke's suite. The building is used as a crack palace by allies in the form of security from the [[Ballas (3D Universe)|Ballas]], [[Los Santos Vagos (3D Universe)|Los Santos Vagos]], [[San Fierro Rifa]], corrupt [[Los Santos Police Department (3D Universe)|LSPD]] officers and the [[Russian Mafia (3D Universe)|Russian Mafia]]. It is a front to distribute drugs around the city, mostly [[Cocaine|crack cocaine]], hence the name. Even though the building is blown up during [[End of the Line]], it is still accessible after the mission, undamaged. A statue depicting Big Smoke's [[Beta Content in GTA San Andreas/Characters#Big Smoke|beta character]] design can be found inside the building. In Big Smoke's suite, there is a [[Sprunk (3D Universe)|Sprunk]] [[Vending Machines|vending machine]] and three "[[Go Go Space Monkey]]" [[Arcade Games|arcade machines]].
+
+==Events of ''Grand Theft Auto: San Andreas''==
+{{Spoiler}}
+While their enemies, the [[Grove Street Families]], are disbanded, [[Ganton]] is controlled by the [[Ballas (3D Universe)|Ballas]], [[Carl Johnson|Carl]] is taken out of Los Santos by [[Frank Tenpenny]] and [[Eddie Pulaski]], [[Sweet Johnson|Sweet]] is imprisoned, and Smoke rises to power. His power increases with the drug trade from the Crack Palace to all over Los Santos. Big Smoke moves into the building sometime after Carl Johnson is forced to [[The Green Sabre|leave]] Los Santos. The other front of Big Smoke's drug empire, second to the Crack Palace, was the [[Loco Syndicate Crack Factory|crack factory]] in [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]], destroyed by Carl Johnson in the mission [[Yay Ka-Boom-Boom]]. In the mission [[End of the Line]], Carl breaks into the building with a [[S.W.A.T. (vehicle)|SWAT Tank]] and kills Big Smoke, before Frank Tenpenny destroys the building. Carl escapes, and, after a chase across Los Santos, witnesses the death of Tenpenny.
+
+==Influence==
+As evidenced by the prop models using the prefix "carter", the building is inspired by the Carter Complex, a housing project turned crack den featured in the 1991 film ''{{WP|New Jack City}}''. The real-life building used to portray the Carter Complex was the {{WP|Graham Court}} historic building in {{WP|Harlem|Harlem, Manhattan}}, {{WP|New York City}}.
+
+==Oversights==
+*In the PlayStation 2 version of the game, the entrance to Big Smoke's Crack Palace can be blown off with any sort of high level explosive ([[Rocket Launcher (3D Universe)|Rocket Launchers]] and [[Satchel Charges]] for example, regular [[Grenades]] and car explosions do not work) before [[End of the Line]], which reveals [[Blue Hell]], as the game is not programmed to launch the interior before the mission. However, this was fixed in later ports of the game.
+
+==Gallery==
+===Exterior===
+{{Gallery
+|BigSmoke'sCrackPalace-GTASA-Exterior.png|The crack palace's exterior.
+|BigSmoke'sCrackPalace-GTASA-Exterior-EntranceCorridor.png|The corridors leading into the entrance door.
+}}
+===Interior===
+{{Gallery
+|BigSmoke'sCrackPalace-GTASA-Interior-Corridors.png|The palace's corridors.
+}}
+{{Gallery
+|header = Floor 1
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor1.png|The main area of floor one.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor1-Hole.png|The hole that the S.W.A.T. tank made in the wall after crashing through it.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor1-HoleExterior.png|The exterior of the hole.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor1-Offices.png|Offices on the first floor.
+}}
+{{Gallery
+|header = Floor 2
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor2.png|The main area of floor two.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor2-StorageRoom.png|The storage room on the second floor.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor2-Offices.png|Offices on the second floor.
+}}
+{{Gallery
+|header = Floor 3
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor3-EntranceRoom.png|The entrance room on the third floor.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor3-Lounge.png|The lounge on the third floor.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor3-Hall.png|The hall on the third floor.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor3-Statue.png|A statue depicting Big Smoke.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor3-StripRoom1.png|The first of two rooms featuring striptease poles.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor3-StripRoom2.png|The second of two rooms featuring striptease poles.
+}}
+{{Gallery
+|header = Floor 4
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor4-Overview.png|Overview of Big Smoke's suite in the palace. The staircase leads to a loft containing the bedroom.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor4-Kitchen.png|The suite's kitchen.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor4-Bed.png|Big Smoke's bedroom on the loft.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor4-Bathroom.png|The bathroom next to the bedroom.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor4-EntertainmentArea.png|The entertainment area.
+|BigSmoke'sCrackPalace-GTASA-Interior-Floor4-StorageRoom.png|The storage room next to the entertainment area.
+}}
+
+==Trivia==
+*The interior of the crack palace is a lot larger than it should be. This is especially noticeable when looking at the number of floors: from the outside, the building only houses 4 floors, while in the interior, there is a total of 7 floors.
+*At one point during the mission End of the Line, a [[S.W.A.T. (vehicle)|SWAT Tank]] breaks through the wall from a back alleyway, allowing SWAT to enter the building. However, there is no alleyway behind the building.
+**After the mission, the hole remains, but the player cannot exit the building due to an invisible wall. If the player does manage to leave the building via the hole, they will fall through the ground as the "alleyway" is not solid.
+*The statue of the beta Big Smoke depicts him holding an Uzi in his left hand. The weapon does not exist in the game, only the [[Micro SMG (3D Universe)|Micro variant]] of the Uzi exists. However, this may point out that the Uzi [[Beta Weapons|was going to appear]] in the game.
+*After End of the Line, if the player enters one of the small rooms on Floor 3 that have stripper poles, music will suddenly start playing. This is because that was intended to happen in the mission.
+*In the [[Beta Content in GTA San Andreas|beta version]] of the game, Big Smoke's Crack Palace was supposed to serve as a [[Safehouses|safehouse]] after the final mission before the idea was dropped. However, the Palace remains accessible following the end of the game.
+
+[[Category:Buildings in GTA San Andreas in Los Santos]]
+[[Category:Low-rise buildings]]
+[[Category:Homes]]
+[[Category:Gang hideouts]]
+[[Category:Destroyed buildings]]
+
+[[de:Smokes Crack-Palast]]
+[[es:Palacio de crack de Smoke]]
+[[it:Palazzo del crack di Big Smoke]]
+[[pl:Pałac Kraku Smoke'a]]
+[[ru:Дворец Крэка Биг Смоука]]

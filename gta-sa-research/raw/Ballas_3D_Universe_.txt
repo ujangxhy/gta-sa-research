@@ -1,0 +1,319 @@
+{{Title|disambig=y}}
+{{PageTabber
+|page1 = [[Ballas (3D Universe)|3D Universe]]
+|page2 = [[Ballas (HD Universe)|HD Universe]]
+|page3 = [[Front Yard Ballas|FYB set]]
+|page4 = [[Rollin' Heights Ballas|RHB set]]
+|page5 = [[Kilo Tray Ballas|KTB set]]
+|page6 = [[Temple Drive Ballas|TDB set]]
+}}
+{{Infobox organization
+|name         = Ballas
+|image        = Ballas-GTASA.png
+|games        = {{Games|SA=y}}
+|nationality  = {{Country|US|adj=y}}
+|locations    =
+*[[East Los Santos (3D Universe)|East Los Santos]]
+*[[Idlewood]] 
+*[[Jefferson (neighborhood)|Jefferson]]
+*[[Willowfield]]
+*[[Glen Park]]
+*[[Verona Beach]]
+*[[Playa del Seville]] {{Small|(after [[The Green Sabre]])}} 
+*[[Temple]] {{Small|(after The Green Sabre)}}
+*[[Vinewood (3D Universe)|Vinewood]] {{Small|(after The Green Sabre)}}
+*[[Santa Maria Beach]] {{Small|(after The Green Sabre)}}
+*[[Grove Street]] {{Small|(after The Green Sabre)}} {{Small|(formerly)}}
+*[[Ganton]] {{Small|(after The Green Sabre)}} {{Small|(formerly)}}
+|leader       = [[Kane]] (Front Yard Ballas)
+|type         = gang
+|gang_type    = African-American Street Gang
+|enemies      =
+*[[Grove Street Families]]
+*[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]] {{Small|(formerly)}}
+*[[San Fierro Triads]]
+|affiliations =
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+*[[San Fierro Rifa]]
+*[[Loco Syndicate]]
+*[[Big Smoke's Grove Street Families Faction]]
+*[[Russian Mafia (3D Universe)|Russian Mafia]]
+*[[C.R.A.S.H.]]
+*[[Big Smoke]]
+*[[Ryder]]
+*[[B Dup]]
+*[[Alan Crawford]]
+|colors       = Purple
+|vehicles     =
+*[[Tahoma]]
+*[[Majestic]]
+*[[Voodoo (3D Universe)|Voodoo]] {{Small|(during [[Sweet & Kendl]] and [[Drive-Thru]])}}
+*[[Sabre]] {{Small|(during [[The Green Sabre]])}}
+*[[Greenwood (3D Universe)|Greenwood]] {{Small|(during [[Catalyst]] and [[Los Sepulcros]])}}
+*[[Pony]] {{Small|(during The Green Sabre)}}
+*[[Sentinel]] {{Small|(during The Green Sabre)}}
+*[[Admiral (3D Universe)|Admiral]] {{Small|(during Los Sepulcros)}}
+|weapons      =
+*[[Pistol (3D Universe)|Pistol]]
+*[[Micro SMG (3D Universe)|Micro SMG]]
+*[[Tec-9]] {{Small|(during [[House Party]], [[Doberman]] and [[Pier 69 (mission)|Pier 69]])}}
+*[[Shotgun (3D Universe)|Shotgun]] {{Small|([[Gang Warfare in GTA San Andreas|gang wars]] and during Los Sepulcros and [[End of the Line]])}}
+*[[SMG (3D Universe)|MP5]] {{Small|(gang wars and during The Green Sabre and End of the Line)}}
+*[[AK47]] {{Small|(gang wars and during [[Beat Down on B Dup]])}}
+*[[Baseball Bat]] {{Small|(gang wars and during [[Cleaning the Hood]])}}
+*[[Tear Gas]] {{Small|(during Pier 69)}}
+*[[M4]] {{Small|(during End of the Line)}}
+*[[Fire Extinguisher]] {{Small|(during End of the Line)}}
+*[[Molotov Cocktails]] {{Small|(during End of the Line)}}
+|businesses   =
+*Drug trafficking/manufacturing
+*Arms-trafficking
+*Security/Protection rackets
+*Prostitution
+|fronts       =
+*[[Big Smoke's Crack Palace]]
+*[[Crack Den]]
+*[[Idlewood Projects]]
+*[[B Dup's Crack Palace]]
+|members      =
+*[[Kane]]
+*[[Little Weasel]]
+*[[Ballas Snitch|Unnamed Grove Street Families betrayer]]
+*[[Dope]] {{Small|(Formerly)}}
+*[[Bogman]]
+|status1      =
+
+|status=active}}
+{{Quote|Grove Street Families Suck Ass!|Ballas member.}}
+{{Quote|Wears color purple. Thought to denote respect on the streets. Or is it Roman? Origins shrouded in mystery. Heavily involved in cocaine trade. Thought to be developing ties with Mexican gangs (drugs) and Russian Mafia (weapons). Lawless, mindless. Attempts to infiltrate have mainly failed. Thought to be uncontrollable.|''GTA San Andreas'' Official Website.}}
+
+The '''Ballas''' are a gang featured in {{SA}}. They appear as the secondary main group of antagonists in ''Grand Theft Auto: San Andreas'', serving as the primary threat and becoming the main enemies of the game.
+
+==History==
+The Ballas have been around since the 1970s.{{Ref|name=Ballas|type=screenshot|image=Ballas-3DUniverse-GTASA-OfficialHistory.png|imagesize=300px|caption=[[Rockstar Games]]' official {{SA}} website (Flash version)}} Specific information regarding where or how they formed is unknown. However, it is likely that the Ballas evolved either from [[Glen Park]] or [[Jefferson (neighborhood)|Jefferson]], since [[Idlewood]] and possibly [[Willowfield]] were controlled by the [[Grove Street Families]] prior to [[1987]] and since [[East Los Santos (3D Universe)|East Los Santos]] was split between the Grove Street Families and the [[Los Santos Vagos in 3D Universe|Vagos]] prior to [[1992]].
+
+The Ballas have a long-running, intense and bloody rivalry with the Grove Street Families. The start date of the rivalry is unknown, but was in full swing by 1987.
+
+Prior to 1992, the Ballas used to control the area of [[Temple]] {{nd}} which is under control of the [[Temple Drive Families]] in 1992. This is evidenced by the fact that the game references a fourth Ballas set known as the [[Temple Drive Ballas]]. Graffiti referring to the Temple Drive Ballas can also be found in Temple. However, the Temple Drive Ballas become active again after [[The Green Sabre|the Grove Street Families are weakened]], allowing them to take back their former Temple territory from the Temple Drive Families.
+
+During 1992, the Ballas attempted to assassinate Grove Street Families leader [[Sweet Johnson|Sean Johnson]] ("Sweet") in an attempt to take over Grove Street territories. Using a green [[Sabre]], the Ballas performed a drive-by shooting on the [[Johnson House]]. However, instead of killing Sweet, the Ballas instead killed his mother, [[Beverly Johnson|Beverly]].
+
+===Events of ''Grand Theft Auto: San Andreas''===
+By 1992, the Ballas are the largest and most powerful street gang in [[Los Santos (3D Universe)|Los Santos]], and control most of the streets of Los Santos with the Grove Street Families being driven back to [[Grove Street (3D Universe)|Grove Street]] itself and a few surrounding neighborhoods. The Ballas become major influential players in the crack-[[cocaine]] business in Los Santos and establish ties with the [[Loco Syndicate]], [[Big Smoke]], the Vagos, and the [[San Fierro Rifa]] for narcotics (especially cocaine). The Ballas also establish ties with the [[Russian Mafia (3D Universe)|Russian Mafia]] for weapons. Despite their business relationship with the Vagos, they will still react with hostilities on the streets {{nd}} it is possible only the higher-ranking OGs of the Vagos and the Ballas are involved in the business relationship.
+
+The Ballas (in addition to Big Smoke) maintained a large influence over their Grove enemies by distributing crack cocaine into their territory to weaken them. However, upon the return of Carl Johnson, the Ballas and their drug influence slowly deteriorate and the Grove Street Families slowly gain back power and influence over them as the player progresses throughout the early missions.
+
+The player is first introduced to the Ballas during the [[In the Beginning|introduction]], in which [[C.R.A.S.H.]] dumps Carl in Jefferson, territory of the [[Rollin' Heights Ballas]]. Carl travels to his family home, where he meets Big Smoke. Smoke and Carl travel to the [[Vinewood Cemetery|cemetery]] in [[Vinewood (3D Universe)|Vinewood]] to attend Beverly's funeral, alongside Sweet, [[Ryder]] and Carl's sister [[Kendl Johnson|Kendl]]. After the funeral, the [[Sweet & Kendl|Ballas attempt a drive-by shooting]] on the remaining OGs, but are only successful at destroying Big Smoke's [[Perennial|car]]. The remaining OGs successfully travel back to Grove Street on some [[BMX (3D Universe)|bikes]] while avoiding the Ballas [[Voodoo (3D Universe)|car]].
+
+One of the main strategies that the Ballas use against the GSF is the spread of crack-cocaine in GSF neighborhoods such as [[Ganton]] and Grove Street. Big Smoke is also partly responsible for this. The spread of crack into GSF territory is part of their strategy to wipe the Families out. Spreading the drug into their territory turns gang bangers and potential gang bangers into hopeless addicts while influencing the OGs with the money that can be made from the drugs {{nd}} drawing them away from the Grove Families and gang banging, and more into selling/pushing (this is especially the case with ex-Grove OG [[B Dup]] who is supplied with crack-cocaine from the Ballas).
+
+The first loss that the Ballas experience (especially the [[Front Yard Ballas]]) is that one of their main crack houses in Idlewood is [[Cleaning the Hood|destroyed by CJ and Ryder]] for the Grove Street Families in an attempt to decrease the crack influence in their neighborhoods.
+
+The [[Kilo Tray Ballas]] [[Drive-Thru|attempted a retaliation drive-by shooting]] as revenge for the destruction of the Front Yard Ballas' Idlewood crack house and the attack of the Balla dealers during the previous mission. However, Carl, Sweet, Big Smoke, and Ryder catch them on the way to Grove Street from Willowfield as they were coming out of a drive-thru at the local [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] restaurant. They are able to destroy the Ballas car and kill the Ballas during a shoot-out/car chase. Much to the dismay of the other OGs, Big Smoke plays no part in destroying the car and is more concerned with eating his food {{nd}} providing one of the early in-game hints of Smoke's true relation with the Ballas.
+
+The Ballas eventually suffer a major loss (especially the Rollin' Heights Ballas and Kilo Tray Ballas) at the hands of a retaliation [[Drive-By Shooting|drive-by shooting]] from Sweet, Big Smoke, Carl, and Ryder during the mission [[Drive-By]]. [[Little Weasel]] (a high-ranking Ballas OG) is also killed by Carl and Big Smoke during this mission.
+
+The Ballas eventually lose their dominant position and adopt a more equal position with the Grove Street Families when CJ is ordered by Sweet to [[Doberman|take over Glen Park]] (Kilo Tray Ballas stronghold) for the Grove Street Families.
+
+In retaliation for the previous attacks, the Ballas [[House Party|attempt to start a gang war right on Grove Street]]. Fortunately, Sweet, Carl, and many other Grove members are able to defend their territory.
+
+A Ballas weapons deal with the Russian Mafia at a Willowfield warehouse is then [[Gray Imports|crashed and disrupted by CJ]] (who is tipped off by C.R.A.S.H.). CJ is able to kill the Russian Mafia [[Andre|shot-caller]] of the deal {{nd}} which suggests a possible (but only temporary) end to the arms dealing relationship between the Ballas and the Russian Mafia.
+
+Yet again, the Ballas suffer another loss when Carl, Sweet, and other Grove Street members engage with the Ballas in [[Los Sepulcros|a large shoot-out at the Vinewood cemetery during a Ballas funeral]]. In particular, many high-ranking OGs die at the funeral and the Front Yard Ballas suffer a major hit when a well-respected OG called [[Kane]] is killed at the cemetery.
+
+After a [[The Green Sabre|gang war between the Ballas and Grove Street Families]], Sweet is gunned down and arrested. Carl is also arrested, taken out of Los Santos by C.R.A.S.H. and dropped off in [[Angel Pine]], with Tenpenny warning Carl to stay away from Big Smoke. At this point, Big Smoke and Ryder have defected to the Ballas and moved into the crack-cocaine trade full-time. This leaves the Grove Street Families with no leader or OGs, and many members either die during the gang war or are in hiding. The Ballas then control the entirety of what had been Grove Street territory {{nd}} including Ganton and Grove Street itself, [[Santa Maria Beach]], [[Temple]] and [[Playa Del Seville]] (in addition to recapturing Glen Park). The Ballas then cement their control over the area of Grove Street by distributing crack cocaine through the area again, which is further fueled by their drug/supply and protection relationship with Big Smoke's cocaine empire. The Ballas and the Vagos then control all the gang territories in Los Santos.
+
+During this stage of the game, the Ballas become the most powerful and dominant gang again, which they maintain throughout the rest of the game's middle story while building on their business relationships with Big Smoke's crack empire, the San Fierro Rifa, the Loco Syndicate, and the Russian Mafia. They are also hired by Big Smoke to provide protection in return for crack-cocaine and money (as are the Los Santos Vagos).
+
+The Ballas play no large role in the middle chapter of the game as Carl is out of Los Santos. However, the Ballas do make one minor appearance during [[Pier 69 (mission)|Pier 69]] when they provide protection for Ryder during a drug deal between Ryder and the [[Loco Syndicate]]. Carl and Aztecas leader [[Cesar Vialpando]] infiltrate the deal, killing Ryder and Syndicate member [[T-Bone Mendez]].
+
+Sweet is [[Home Coming|released]] from prison on the orders of [[Mike Toreno]], and he and Carl rebuild the depleted Families by reclaiming Ganton, [[Beat Down on B Dup|Glen Park]] [[Grove 4 Life|and Idlewood]] from the Ballas while killing many of the drug dealers in the area, weakening the Ballas' stronghold in the drug dealing business. Carl later [[End of the Line|infiltrates]] Big Smoke's [[Big Smoke's Crack Palace|crack palace]] in [[East Los Santos]] where he confronts and kills Smoke. This weakens the Ballas further and causes them to lose more of their influence on the streets. If the player chooses, they can take over all Ballas territory in Los Santos, wiping the gang out for good.
+
+==Description==
+The Ballas are an African-American street gang based in Los Santos. Most of their territory can be found in the poorer/run-down neighborhoods to the far east of the city. They are involved in gangbanging, gang warfare, street violence, prostitution, gang-related homicide, murder, drug trafficking/manufacturing (especially the crack cocaine trade), gun-running/arms trafficking, vandalism, and degeneracy. They are easily identifiable by wearing purple clothing as their gang color.
+
+They are the Grove Street Families' sworn enemy. They are enemies with all sets of the Families and the rivalry has been going on for several years as part of the [[Ballas-Grove Street gang war (3D Universe)|Ballas-Grove Street war]]. The Ballas are also enemies with the two Los Santos Mexican/Latino gangs – the Los Santos Vagos and the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]], though the rivalry is not as intense as it is with the Grove Street Families. It is unknown why their feud with the Mexican gangs exist, though it is likely that the Aztecas and Ballas (especially the Front Yard Ballas) developed a rivalry due to the close proximity of their territories (Willowfield/Idlewood and [[El Corona]]/[[Unity Station]]).
+
+Despite their rivalry with the Los Santos Vagos on the streets, influential members from the Ballas and the Vagos maintain a business partnership for the interest of money and drugs. Both gangs provide protection for Big Smoke's crack empire.
+
+The Ballas have ties with the San Fierro Rifa, Big Smoke, and the Loco Syndicate for narcotics (mainly crack cocaine), and the Russian Mafia for weapons. The Ballas also collaborate with C.R.A.S.H. Unlike the GSF, the Ballas have no reservations about making money by selling drugs; the spread of crack cocaine into the Grove Street community is part of their strategy to wipe the GSF out.
+
+Like all gangs in ''GTA San Andreas'', the Ballas have three skins that walk and drive around their territories.
+
+*The first member wears a black pinstriped beanie, a purple [[ProLaps (3D Universe)|ProLaps]] jacket, beige khaki pants, sunglasses and black and white hi-top sneakers.
+*The second member is overweight, wears a purple bandanna, a chore coat (similar to what ex-GSF member B Dup wears), black jeans and white sneakers.
+*The last member sports a purple bandanna, a white T-shirt, purple khaki shorts, knee high white socks and sandals.
+
+On the streets, they are either unarmed or carry a [[Micro SMG (3D Universe)|Micro SMG]] submachine gun or a 9mm [[pistol (3D Universe)|pistol]] and in some missions, [[Shotgun (3D Universe)|shotguns]], [[AK47]]s, [[SMG (3D Universe)|MP5s]], [[Baseball Bat|baseball bats]], and [[Tec-9]]s. The latter, save for the Tec-9, are also used during [[Gang Warfare in GTA San Andreas|gang wars]]. They are often seen smoking [[Weed|marijuana]] and drinking malt liquor. They will also often flash Balla gang hand signs while talking and hanging around in groups. Ballas will often get into violent confrontations upon spotting a Grove Street, Azteca, or Vagos gang member (especially in the case of Grove Street members), in addition to posing a threat to Carl if he is spotted walking or driving through their territory (especially if wearing green clothing). 
+
+Sometimes (especially if CJ is not wearing green), Ballas may ask where he is from. If the player chooses to respond positively, CJ will announce that he is from Grove Street and the Ballas will start attacking. Hanging around or driving through their territory can be dangerous and they will often aim at the car's tires and pop them if Carl is driving. Also, when the Ballas members spot Carl driving along with Sweet, Big Smoke or Ryder (during the missions [[Ryder (mission)|Ryder]], [[Tagging Up Turf]], [[Nines and AK's]] etc.), they'll chase down Carl's vehicle and will start to shake, tackle or kick it while throwing some insults, in an attempt to make Carl exit his vehicle. The same will happen during the [[Taxi Driver in GTA San Andreas|Taxi Driver]] side mission. They will always be hostile towards CJ after completing [[Drive-By]].
+
+==Influence==
+Their rivalry with the Grove Street Families is based on the rivalry of {{WP|Los Angeles}} gangs {{WP|The Bloods}} and {{WP|Crips}}. Violence hit a peak in Los Angeles in the early-nineties due in part to the crack [[cocaine]] epidemic. Moreover, the Ballas are based on The Bloods, but their gang colors are based on those used by the Crips.
+
+The Ballas and Grove Street Families are based on {{WP|Heart of Midlothian F.C.}} (who are actually maroon) and {{WP|Hibernian F.C.}} (who are green) respectively. Hearts and Hibs are both soccer teams based in {{WP|Edinburgh}}, [[Scotland]] who have a great rivalry. Edinburgh is also the location of [[Rockstar North]], which is why they chose these two teams.
+
+==Sets==
+[[File:Ballas-GTASA-SetsMap.png|thumb|300px|Map of '''Ballas''' sets before the mission [[Doberman]].
+<br>1 = FYB <br>2 = RHB <br> 3 = KTB <br> 4 = TDB
+]]
+There are four sets of Ballas:
+*The [[Front Yard Ballas]] (FYB) territory is located in [[Idlewood]] and a part of [[East Los Santos (3D Universe)|East Los Santos]].
+*The [[Rollin' Heights Ballas]] (RHB) territory is located in [[Jefferson (neighborhood)|Jefferson]], a part of East Los Santos, and a part of [[Willowfield]].
+*The [[Kilo Tray Ballas]] (KTB) territory is located in most of Willowfield and in [[Glen Park]].
+*The [[Temple Drive Ballas]] (TDB) territory is located in [[Verona Beach]]. After the completion of [[The Green Sabre]], they take over [[Temple]], [[Vinewood (3D Universe)|Vinewood]] and [[Santa Maria Beach]] from the [[Temple Drive Families]].
+
+Each set is differentiated into different territories and neighorhoods. Apart from this, they are all the same and are all represented under the "Ballas" banner, all wear purple attire, are all enemies of all Grove sets, and are all heavily involved in the drugs trade. All sets are also strongly allied throughout the events of San Andreas {{nd}} unlike the Grove sets at the beginning of the game.
+
+The Front Yard Ballas are the largest and most active set. The Front Yard Ballas are also Los Santos' most notorious drug dealers, the primary enemy of the Grove Families. The FYB are also the primary source of spreading drugs into Grove Street territory from their crack houses in Idlewood.
+
+The Ballas employ a drug/hit strategy to wipe out their main enemy {{nd}} the Grove Family sets (especially the Grove Street set). This strategy involves the Front Yard Ballas supplying their territory with large amounts of drugs (mainly crack cocaine) to weaken them, while the other sets perform hit and run tactics such as drive-by shootings.
+
+The Ballas primarily make money by selling drugs (especially crack cocaine) {{nd}} which they primarily get from the San Fierro Rifa, the Loco Syndicate, and Big Smoke. They then use this money to acquire various weapons; primarily from the Russian Mafia. Any remaining drug supply is then sold to other dealers who have no gang affiliation in the Grove territory in an attempt to weaken them (as it would be too dangerous for a Balla to sell in enemy territory).
+
+In addition to being a regular street gang, the Ballas are also hired by Big Smoke to provide protection for his drug empire in exchange for money and crack cocaine. This protection duty is one exception in the game where the Ballas and Vagos cooperate with each other despite being enemies on the streets.
+
+==Vehicles==
+[[File:GTA San Andreas - Ballas Drive-By|thumb|right|300px|'''Ballas''' drive-by.]]
+Although they are seen with [[Voodoo (3D Universe)|Voodoo]]s in some missions (i.e. [[Sweet & Kendl]] and [[Drive-Thru]]), the Ballas only have two gang cars, the [[Tahoma]] and the [[Majestic]]. The Tahoma is a lowrider and sometimes appears with hydraulics. The Ballas prefer to use the Tahoma for drive-by shootings due to its four-door capability, as opposed to the Majestic which is only a two-door vehicle. In the mission [[Catalyst]], they use also a [[Greenwood (3D Universe)|Greenwood]], which is primarily a Grove Street Families car. In the mission Los Sepulcros, they use a unique black and blue Greenwood for backup. On one very important occasion, the Ballas use a green Sabre to murder Beverly Johnson in a drive-by shooting. In the Sabre and Voodoo's cases, it is implied they use these vehicles to avoid suspicion. The Ballas' favorite radio station is [[Bounce FM]].
+
+==Terms and Slang==
+*Ball-sack/Ball-sacks: Disrespect term
+*Ball-Pushers: Disrespect term
+*Ball-Suckers: Disrespect term
+*Ball-less: Disrespect term
+*Balla: Greeting
+*OG/Original Gangster: A high-ranking, influential and well-respected member. One who has put in a lot of work.
+*GK/Grove Killer/Grove Killa: Disrespect term used by Ballas for Grove Street Families
+*VK/Vago Killer/Vago Killa: Disrespect term used by Ballas for Vagos
+*AK/Azteca Killer/Azteca Killa: Disrespect term used by Ballas for Aztecas
+*RHBK/Rollin' Heights Balla Killer/Killa: Disrespect term used by other gangs for the Rollin' Heights set specifically (seen as non-interactive graffiti only)
+*Homie/Home Boy/Home Girl: Contemporary street slang {{nd}} refers to a friend
+*Hood: Neighborhood
+
+==Members and Associates==
+===Members===
+*[[Kane]]: High-ranking OG of the Front Yard Ballas set. {{Small|(deceased)}}
+*[[Little Weasel]]: High-ranking OG of the Kilo Tray Ballas set. {{Small|(deceased)}}
+*[[Ballas1]]: Generic member
+*[[Ballas2]]: Generic member
+*[[Ballas3]]: Generic member
+
+===Associates===
+*[[Big Smoke]]: Hires Ballas for protection and security for his cocaine empire, also supplies them with crack-cocaine. {{Small|(deceased)}}
+*[[Ryder]]: Hires Ballas for protection and security and works with Big Smoke's cocaine empire. {{Small|(deceased)}}
+*[[B Dup]]: Hires Ballas for protection and security for his drug-trafficking operations.
+*[[C.R.A.S.H.]]: Provides street intelligence. {{Small|(all deceased)}}
+*[[Loco Syndicate]]: Enters business relationship for narcotics/drugs. {{Small|(all deceased except [[Mike Toreno]])}}
+*[[Alan Crawford]]: Former manager of gangsta rapper [[Madd Dogg (3D Universe)|Madd Dogg]]. Claims to know Ballas OGs and that they are "like brothers". {{Small|(deceased)}}
+*[[Dope]]: Crack-cocaine dealer and addict. Supplied by the Ballas. Sells crack-cocaine in Grove Street during the later stages of the story.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction|Introduction]]
+*[[Sweet & Kendl]]
+*[[Tagging Up Turf]]
+*[[Cleaning the Hood]]
+*[[Drive-Thru]]
+*[[Drive-By]]
+*[[Catalyst]]
+*[[Doberman]]
+*[[Gray Imports]]
+*[[House Party]]
+*[[Los Sepulcros]]
+*[[The Green Sabre]]
+*[[Photo Opportunity]]
+*[[Pier 69]]
+*[[Home Coming]]
+*[[Beat Down on B Dup]]
+*[[Grove 4 Life]]
+*[[End of the Line]]
+
+==Quotes==
+{{Main|Ballas (3D Universe)/Quotes|l1=Ballas/Quotes}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+FYBBallas-GTASA-Graffiti.jpg|The graffiti for the [[Front Yard Ballas|Front Yard]] subsection of the '''Ballas'''.
+Ballas-GTASA-GlenParkGraffiti.jpg|'''Ballas''' graffiti at [[Glen Park]].
+Kane-GTASA.jpg|High-ranking member [[Kane]].
+Ballas-GTASA-Members3.jpg|'''Ballas''' members. The [[Beta Content in GTA San Andreas/Characters#Ballas|beta]] member with the white shirt does not wear a chain or bracelet in the final version.
+Ballas-GTASA-AggressiveMembers.jpg|Aggressive '''Ballas'''.
+Ballas-GTASA-AggressiveMembers2.jpg|Aggressive '''Ballas''' in [[Idlewood]].
+Ballas-GTASA-BetaMember1.png|A unique [[Cutscenes|cutscene]] '''Ballas''' member, as seen in [[The Introduction]].
+Ballas-GTASA-BetaMember2.png|A unique cutscene '''Ballas''' member, as seen in The Introduction.
+Ballas-GTASA-BetaMember3.png|A third unique cutscene '''Ballas''' member, as seen in The Introduction.
+Ballas-GTASA-BetaMembers1.jpg|Beta '''Ballas''' confronting [[Carl Johnson|CJ]].
+Ballas-GTASA-BetaMembers2.jpg|'''Ballas''' trying to pull CJ out from his [[Primo (3D Universe)|car]].
+Ballas-GTASA-BetaMembers3.jpg|Beta cutscene of the '''Ballas''' trying to pull the [[Grove Street Families|enemy gang]] out from the [[Greenwood (3D Universe)|car]].
+Ballas-GTASA-MemberWithAK47.jpg|A '''Ballas''' member with an [[AK47]].
+Ballas1-GTASA.jpg|'''Ballas''' first member.
+Ballas2-GTASA.jpg|'''Ballas''' second member.
+Ballas3-GTASA.jpg|'''Ballas''' third member.
+Ballas-GTASA-RHBKGraffiti.jpg|[[Rollin' Heights Ballas|Rollin Heights]] '''Ballas''' Killer graffiti.
+Ballas-GTASA-RHBKGraffiti2.jpg|Another graffiti of the Rollin Heights '''Ballas''' Killer.
+Ballas-GTASA-VinewoodCemeteryGraffiti1.png|'''Ballas''' graffiti from [[Vinewood Cemetery]].
+Ballas-GTASA-BladeArtwork.jpg|'''Ballas''' drive-by [[Grand Theft Auto: San Andreas/Artwork|artwork]].
+Ballas-GTASA-BetaMemberOfficialWebsite.jpg|A beta '''Ballas''' member, similar to another beta one, this time having a different colored skully.
+FrontYardBallas-GTASA-Tag.png|The graffiti used for the Front Yard set of the '''Ballas'''.
+KiloTrayBallas-GTASA-Tag.png|The graffiti used for the [[Kilo Tray Ballas|Kilo Tray]] set of the '''Ballas'''.
+RHBK-GTASA-Tag.png|The graffiti used for the Rollin Heights set of the '''Ballas'''.
+TempleDriveBallas-GTASA-Tag.png|The graffiti used for the [[Temple Drive Ballas|Temple Drive]] set of the '''Ballas'''.
+</gallery>
+
+==Beta Content==
+{{Beta|game=SA}}
+*The Ballas were originally going to be called '''The Flats'''.{{Ref|name=Flats|ref=<code>data/pedgrp.dat> BALLAS1, BALLAS2, BALLAS3 # Gang 1 (BALLAS - Rival Black Gang - AKA FLATS)</code>}}
+*The beta Ballas dressed different than they did in the final version.
+**The first member wore a white T-shirt, purple khaki shorts with white knee-high socks and sandals {{nd}} much like one of the members in the final version does. However, he did not wear a purple bandana on his head and his white T-shirt was tucked into his shorts. He also sported a thick goatee.
+**The second member was slightly overweight, wore a purple sweater, purple khakis, a purple bandana on his head, another purple bandana tied around his face, and white sneakers. This member's appearance is strikingly similar to the final [[Fam1]] model.
+**The third member wore a purple plaid/flannel jacket, gray khakis, a black beanie, sunglasses, and white sneakers. He also had more noticeable facial hair. At some point, his beanie was recoloured to a bright purple.
+*The Balla skin with the white T-shirt, purple khaki shorts, purple bandana, and knee-high white socks/sandals originally also wore a chain around his neck in addition to a bracelet/watch. This was quite a late skin and [[Rockstar Games|Rockstar]] likely removed the chain and bracelet for some reason just before the final phase of development finished.
+
+==Trivia==
+===General===
+*Their name is a play on the street slang term "baller", which means a thug that has made it big-time.
+*Balas (without an 'l') means bullets in {{WP|Portuguese language|Portuguese}} and {{WP|Spanish language|Spanish}}, perhaps alluding to nature of the group.
+*The Ballas gang member with the purple shirt, the black beanie and black glasses resembles the car jackers that killed Kane's cousin in ''{{WP|Menace II Society}}''.
+
+===Grand Theft Auto: San Andreas===
+====Clothing====
+*One of the aforementioned Ballas members that wears the white tee and holds the crack bag looks very similar to the in-game [[Grove Street Families|Grove Street]] member that wears the green jersey and black hat. The GSF member's facial appearance also slightly changes in mission [[cutscenes]] looking exactly like the mentioned Balla member. This could mean that either he was switched at the last minute to GSF during game development or that he's implied to be a traitor.
+*There are three additional Balla skins featured in [[The Introduction]].
+**The first member wears a white T-shirt, a gold leaf chain, purple khaki shorts with knee-high white socks and sandals, a backwards black baseball cap and facial hair. His head was taken from the [[Fam3|third Grove Street member]].
+**The second member is slightly overweight, wears a dirty purple chore coat, black jeans, a forwards dirty purple baseball cap, and white sneakers. His head was borrowed from [[Bogman]]'s model.
+**The third member wears a purple jacket, a forwards purple baseball cap, beige khakis, white sneakers, and has facial hair. His head was borrowed from [[Dope]]'s model, with the green baseball cap being recolored to purple.
+
+====Gameplay====
+*If [[Carl Johnson|CJ]] wears a full green attire representing the Grove Street Families or has an important level of [[respect]], Ballas gang members in the area will immediately attack CJ, and whenever CJ's in a vehicle, they will also attack it. Unarmed Ballas members will start punching CJ, but they will run away if he shoots a gun.
+*Sometimes, a [[Pedestrians|pedestrian]] will drive a Balla vehicle. Grove Street Families members will shoot at his vehicle and blow it up. If the ped dies, he will either drop a [[Pistol (3D Universe)|pistol]] or a [[Micro SMG (3D Universe)|Micro SMG]]. He also appears if the Ballas have no more turfs.
+*Interestingly, the Ballas will not try to attack CJ in any way when he is doing the [[Pimping]] missions. They won't shoot at his car or chase after him. It is possible that this is done to make the mission easier. This also applies to the Vagos.
+*After the mission [[The Green Sabre]], the Ballas will obtain all of the territories that were in the possession of the GSF. The territories can be taken back after completing [[Home Coming]].
+*In the [[Japan]]ese version of the game, the Ballas are shown to not only be in charge of territory, but also run some local businesses across the state. Some missions are rewritten to make the enemies that the player kill be a part of the Ballas or connected to the Ballas in some way (for example, the construction workers in [[Deconstruction]] are affiliated with the Ballas in this version).{{Ref|name=weirdcensorship|type=youtube|url={{YT|dcaXPaHvKu0|GTA SA - Strange Japanese Censorship - Feat. BadgerGoodger}}|date=01/30/2026}}
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Ballas|state=collapsed}}
+{{Gtasa gangs|state=collapsed}}
+}}
+
+[[de:Ballas]]
+[[es:Ballas]]
+[[fi:Ballas]]
+[[fr:Ballas (univers 3D)]]
+[[it:Ballas (Universo 3D)]]
+[[nl:Ballas]]
+[[pl:Ballas (uniwersum 3D)]]
+[[pt:Ballas]]
+[[ru:Ballas вселенной 3D]]
+[[tr:Ballas (3D Evren)]]
+[[uk:Баллас (3D)]]
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Afro-descendant organizations]]

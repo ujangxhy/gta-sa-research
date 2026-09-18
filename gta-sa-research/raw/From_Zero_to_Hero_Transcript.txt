@@ -1,0 +1,43 @@
+{{scriptbox|style=gtavcs|
+{{line|background=[[Victor Vance]] goes to see [[Lance Vance]] at his hotel room in [[1412 Hoarmount Avenue]].}}
+{{line|name=Lance|dialogue=Ah, just in time, bro! Ha ha ha, yeah!}}
+{{line|name=Victor|dialogue=Lance, I'm through with this, man.}}
+{{line|name=Lance|dialogue=What, you mean this dump? Yeah, me too. ''(chuckles)''}}
+{{line|name=Victor|dialogue=No - I'm through with this bullshit. I don't wanna be a damn drug dealer. It's for assholes.}}
+{{line|name=Lance|dialogue=Vic, don't go soft on me now. I got what we finally needed - I know how we can get out hands on one big shipment, completely free. We can finally get [[Pete Vance|Pete]] the healthcare he needs.}}
+{{line|name=Victor|dialogue=Look, Lance, I'm a long way from being a good guy, but drugs just mean trouble.}}
+{{line|name=Lance|dialogue=I agree, man. 100% agree. That's why we gonna get this one big pay day for all the hard work and split. [[Jerry Martinez]]...it's ''his'' [[Cocaine|coke]].}}
+{{line|name=Victor|dialogue=Oh... fuck it. You know what? Let's do it.}}
+{{line|name=Lance|dialogue=Alright, ladies and gentlemen, that is a real man. Let's pop.}}
+{{line|background=Victor and Lance head outside.}}
+{{line|name=Lance|dialogue=We're gonna make it big, Vic. I have a dream... I have a dream-muh!}}
+{{line|name=Victor|dialogue=Your dream is my nightmare.}}
+{{line|name=Lance|dialogue=Don't be like that, man. Look, I even arranged some insurance. Come on, guys, time to pop.}}
+{{line|background=Victor, Lance and their accomplices enter the [[Sentinel XS (3D Universe)|Sentinel XS]] and drive to the docks in [[Little Haiti]].}}
+{{line|name=Victor|dialogue=So, what's the plan?}}
+{{line|name=Lance|dialogue=Martinez is bringing in that big ass shipment [[Bryan Forbes|Forbes]] was rapping about. We're gonna rip it off.}}
+{{line|background=The Vance brothers arrive at the docks. Lance scopes out the shipment while his accomplices watch over the exit.}}
+{{line|name=Lance|dialogue=You two just sit tight and make sure our exit is clear. This is about to get ugly.}}
+{{line|background=Victor and Lance take care of the gang members guarding the shipment.}}
+{{line|name=Lance|dialogue=Take the other truck and follow me. Looks like your friend Martinez finally showed up!}}
+{{line|name=Victor|dialogue=Shit!}}
+{{line|background=Victor sees Jerry Martinez piloting a [[Hunter]]. Lance gets into a [[Barracks OL]], while Victor gets into another Barracks OL and follows Lance.}}
+{{line|name=Lance|dialogue=Try to keep up, man, I'm a ''baaad'' driver.}}
+{{line|name=Victor|dialogue=You said it.}}
+{{line|background=Victor and Lance drive through Little Haiti and [[Little Havana]], while being pursued by a [[Bobcat (3D Universe)|Bobcat]] and a [[Sentinel XS (3D Universe)|Sentinel XS]], and reach the [[South Bridge]]. If Victor falls behind Lance during this part, Lance may say an additional line.}} 
+{{line|name=Lance|dialogue=I'm losing you, man. Where are you?}}
+{{line|background=Once the two reach the South Bridge, Martinez shows up in his Hunter and fires missiles as the trucks are crossing the bridge. Martinez then retreats when he sees a [[Vice City Police Department (3D Universe)|police roadblock]] on the [[Ocean Beach (3D Universe)|Ocean Beach]] side of the bridge.}}
+{{line|name=Lance|dialogue=Hey, looks like the cops have scared off Martinez...}}
+{{line|background=Victor and Lance drive through the roadblock as the cops shoot at them.}}
+{{line|name=Lance|dialogue=''(not in subtitles)'' Oh, shit, they're after ''us'' now!}}
+{{line|background=Victor and Lance keep driving with the police on their tail, until they reach [[Lance Vance's Apartment|a large house]] and park the trucks with the shipment inside the garage. Victor and Lance are then seen walking on an alleyway on the other side of the house.}}
+{{line|name=Lance|dialogue=Rich at last, uh-huh, rich at last, huh! Thank God almighty, we are rich at last!}}
+{{line|name=Victor|dialogue=We haven't sold this shit yet.}}
+{{line|name=Lance|dialogue=We'd better: I've just bought us both fancy apartments. We're mortgaged to the hilt.}}
+{{line|name=Victor|dialogue=We're supposed to be getting ''out'' of this shit.}}
+{{line|name=Lance|dialogue=We ''are'', but I gotta do it in style. I've got a reputation to uphold.}}
+}}
+
+<noinclude>
+[[Category:Mission Transcripts in GTA Vice City Stories]]
+</noinclude>

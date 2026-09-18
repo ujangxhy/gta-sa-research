@@ -1,0 +1,115 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=[[Carl Johnson]] is at the ghost town in [[Las Brujas]] waiting for [[C.R.A.S.H.]] and holding the dossier he has [[Misappropriation|stolen]] to give them. After C.R.A.S.H. arrives a few seconds later, [[Jimmy Hernandez]] points the gun at CJ.
+}}{{Line
+|name=[[Eddie Pulaski|Pulaski]]
+|dialogue=Carl! Hope we didn't keep you waiting, holmes!
+}}{{Line
+|name=CJ
+|dialogue=Nah, I was just chillin'.
+}}{{Line
+|name=Pulaski
+|dialogue=Ha, I bet you were. That the dossier? Hand it over.
+}}{{Line
+|background=CJ hands over the dossier to Pulaski.
+}}{{Line
+|name=CJ
+|dialogue=Hey, everything cool now?
+}}{{Line
+|name=[[Frank Tenpenny|Tenpenny]]
+|dialogue=I don't know, Carl. Eddie?
+}}{{Line
+|name=Pulaski
+|dialogue=Ah, our boy's done good!
+}}{{Line
+|background=Tenpenny hits Hernandez with a [[shovel]], laying him out.
+}}{{Line
+|name=Tenpenny
+|dialogue=YOU SNITCH PIECE OF SHIT! YOU VATO ASSHOLE! YOU SOLD US OUT!
+}}{{Line
+|background=Tenpenny hits Hernandez with the shovel again, and then gives the shovel to CJ.
+}}{{Line
+|name=Tenpenny
+|dialogue=Time to dig, Carl.
+}}{{Line
+|background=CJ takes the shovel.
+}}{{Line
+|name=Tenpenny
+|dialogue=(to Pulaski) You take care of things. (takes the dossier)
+}}{{Line
+|name=Pulaski
+|dialogue=Whuh - where you going?
+}}{{Line
+|name=Tenpenny
+|dialogue=To get drunk and get laid - you got a problem with that?
+}}{{Line
+|name=Pulaski
+|dialogue=No, Frank, relax.
+}}{{Line
+|name=Tenpenny
+|dialogue=Good. I'll see you back at the precinct. And I'll see YOU in the next life, Carl.
+}}{{Line
+|background=Tenpenny leaves in [[Police Car|his car]]. As CJ is digging the grave, Pulaski watches by holding a gun at him.
+}}{{Line
+|name=Pulaski
+|dialogue=Awright, that's good - that's deep enough for two.
+}}{{Line
+|name=CJ
+|dialogue=Eddie, Tenpenny's just using you, he's using all of us. You're the next one he's gonna silence, man.
+}}{{Line
+|name=Pulaski
+|dialogue=Shut the fuck up, scum! And it's Officer Pulaski to you!
+}}{{Line
+|background=Hernandez regains consciousness and attempts to sneak-attack Pulaski.
+}}{{Line
+|name=Pulaski
+|dialogue=Fucking die!
+}}{{Line
+|background=Pulaski shoots Hernandez in the chest, killing him, before his body falls into the grave. Pulaski then attempts to escape in his white [[Buffalo (3D Universe)|Buffalo]], but CJ chases him in a [[Bandito]].
+}}{{Line
+|name=CJ
+|dialogue=Hey Eddie! You know Tenpenny gonna rub you out too!
+}}{{Line
+|name=Pulaski
+|dialogue=Carl, you got it all wrong, pal! Tenpenny was the one saving your ass! Every time I wanted to get rid of you he'd find some excuse to keep you alive! Well, now it's up to me, and I ain't such a fucking soft touch! So how's your sister? I always had a thing for her. Tenpenny and I got some great shots of her and her varrio boyfriend going at it like a couple of horny Chihuahuas. Man, does she put out like a pro!
+}}{{Line
+|name=CJ
+|dialogue=Screw you Pulaski! I know what you're trying to do, and you ain't gonna crawl inside my head.
+}}{{Line
+|name=Pulaski
+|dialogue=I ain't kidding! It's the best stake-out I ever done! Carl, you should have seen your moms before she was buried. She was a real mess - most of her face was hanging off!
+}}{{Line
+|name=CJ
+|dialogue=Don't fucking talk about my Moms!
+}}{{Line
+|name=Pulaski
+|dialogue=The boys, you know, they fooled around with her at the scene, you know... touching her, joking around and shit.
+}}{{Line
+|name=CJ
+|dialogue=Fuck you, Pulaski, FUCK YOU!
+}}{{Line
+|name=Pulaski
+|dialogue=Heh heh heh!
+}}{{Line
+|background=CJ catches Pulaski and shoots him until he's heavily injured.
+}}{{Line
+|name=CJ
+|dialogue=Not feeling so fucking full of yourself now, huh?
+}}{{Line
+|name=Pulaski
+|dialogue=(coughs) Yeah, well them's the breaks... fuck...
+}}{{Line
+|name=CJ
+|dialogue=Any last requests?
+}}{{Line
+|name=Pulaski
+|dialogue=Yeah... can I fuck your sister?
+}}{{Line
+|name=CJ
+|dialogue=You a asshole to the end. Punk motherfucker!
+}}{{Line
+|background=CJ stomps a dying Pulaski on the head, killing him.
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

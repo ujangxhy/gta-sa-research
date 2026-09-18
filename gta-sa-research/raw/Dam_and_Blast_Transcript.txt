@@ -1,0 +1,28 @@
+{{scriptbox|style=gtasa|
+{{line|background=Inside the storage room of [[The Four Dragons Casino]], [[Wu Zi Mu]], [[Triad Assistant 1|his two]] [[Triad Assistant 2|assistants]], [[Zero]] and a few other people murmur as they look over the layout for [[Caligula's Palace]], much to [[Carl Johnson]]'s annoyance.}}
+{{line|name=CJ|dialogue=It seems impossible to keep a secret around here! I would have thought the size of the room would keep the numbers down.}}
+{{line|name=Man #1|dialogue=Hey, speak up, we can't hear you back here!}}
+{{line|name=CJ|dialogue=I appreciate your input, but please, fuck off.}}
+{{line|name=Man #1|dialogue=What did he say?}}
+{{line|name=Man #2|dialogue=He said fuck off. C'mon, let's get outta here.}}
+{{line|background=Two men leave, while the [[Janitor]] enters the storage room.}}
+{{line|name=CJ|dialogue=Hey, what are you still doing here?}}
+{{line|name=Janitor|dialogue=I live here.}}
+{{line|name=CJ|dialogue=Oh, OK, you can stay.}}
+{{line|name=Janitor|dialogue=Great.}}
+{{line|name=Triad Assistant 2|dialogue=Hey, where's the coffee and donuts?}}
+{{line|name=CJ|dialogue=OK, look, I'm a go shut off the city's power source. Woozie, look after these fools for me.}}
+{{line|name=Woozie|dialogue=OK. Now, the important thing to remember with a plan like this is that...nothing can go wrong.}}
+{{line|background=While Woozie explains the heist's plan, CJ goes to [[Las Venturas Airport]] and steals a [[Nevada|plane]] at the end of the runway. He uses the plane to gain altitude, flies over the [[Sherman Dam]], and jumps off from a large height, leaving the plane to spin out of control and explode. CJ parachutes down to the dam's facilities and takes care of the guards outside. He then goes inside to sneak around and plant explosives around the dam's generators and avoiding security.}}
+{{line|background='''NOTE:''' The following dialogue will play if the player gets spotted by the guards.}}
+{{line|name=Guard|dialogue=<br>*The cops are on the way, this thrill seeker ain't gonna escape!<br>*We got a light saying there's been a break in!<br>*Always get the nut jobs on my shift!}}
+{{line|background=After planting the explosives, CJ escapes to the roof of the dam.}}
+{{line|name=CJ|dialogue=Shit, they must have took a wrong turn someplace!}}
+{{line|background=The guards lock the hatch.}}
+{{line|name=CJ|dialogue=What the f-? Aw, shit, somebody done locked the hatch!}}
+{{line|name=Guard|dialogue=We've got him trapped, there's no way off that ledge!}}
+{{line|background=The [[San Andreas Sheriff|sheriff's department]] and [[Special Weapons and Tactics (3D Universe)|SWAT teams]] close in on CJ's location. Rather than dealing with the cops, CJ decides to jump into the water below to escape.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

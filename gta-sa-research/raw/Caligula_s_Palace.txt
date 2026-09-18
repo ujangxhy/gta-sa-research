@@ -1,0 +1,104 @@
+{{Infobox location
+|name          = Caligula's Palace
+|altnames      = Caligula's Casino
+|image         = <gallery>
+CaligulasPalace-GTASA-Day.jpg|Day
+CaligulasPalace-GTASA-Night.png|Night
+Caligula'sCasino-GTASA-logo.jpg|Logo
+</gallery>
+|taglines = ''"When in Rome... play and live like Caligula"''
+|type = Casino and hotel
+|founded = [[1962]]
+|games = {{Games|SA=y}}
+|location = [[The Strip]], [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+CaligulasPalace-GTASA-Map.jpg|Caligula's Palace
+CaligulasPalace-GTASA-LasVenturasMap.jpg|Las Venturas
+CaligulasPalace-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|Name Change   = CASINO
+|pscanner      = PoliceScanner-GTASA-CaligulasPalace.ogg
+|owner         = 
+*[[Leone Crime Family]] <small>(formerly)</small>
+*[[Sindacco Crime Family]] <small>(formerly)</small>
+*[[Forelli Crime Family]] <small>(formerly)</small>
+*[[Salvatore Leone]] <small>(formerly)</small> 
+*[[Johnny Sindacco]] <small>(formerly)</small> 
+|employees     =
+*[[Ken Rosenberg]] <small>(Manager; Formerly)</small>
+*[[Maria Latore]] <small>(Waitress; Formerly)</small> 
+*[[Millie Perkins]] <small>(Croupier)</small> 
+|accessible    = Yes
+|aka           = Caligula's Casino
+}}
+{{Quote|Caligula's has been a Venturas Institution for 30 years. Has always been Mob-controlled. No sooner does one Mob get dealt with than another moves in. Currently believed to be controlled by 3 major crime families from the east coast. New manager. Just out of rehab. Possible Mob connections.|GTA San Andreas Website}}
+'''Caligula's Palace''' (also known as '''Caligula's Casino''') is a [[casino]] located along [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]], in {{SA}}. It is situated between [[The Clown's Pocket]] and [[Royal Casino]]. According to the game manual, it houses the largest hotel in the world.
+
+==Description==
+It is owned by the [[Sindacco Crime Family]], but later shared between them and the [[Leone Crime Family]] and [[Forelli Crime Family]]. It is one of the three accessible casinos, along with [[The Four Dragons Casino]] and [[Casino Floor]]. It features blackjack, roulette, video poker, and slot machines, as well as a large basement area and several hotel suites. The casino can still be accessed and gambled in after the mission [[Breaking the Bank at Caligula's]], in which the casino is robbed by [[Carl Johnson]] and his associates.
+
+The basement remains accessible outside of missions, though the keycard-activated door remains locked.
+
+In a similar fashion to the other two accessible casinos, three songs from [[Master Sounds 98.3]] can be heard while inside:
+*Maceo & The Macks' "Cross The Tracks (We Better Go Back)"
+*Bobby Byrd's "Hot Pants - I'm Coming, I'm Coming, I'm Coming"
+*James Brown's "Funky President"
+
+==Influence==
+Caligula's Palace is based on the Las Vegas casino {{WP|Caesars Palace}} both physically and in name (''Caesar'' was a title in ancient Rome derived from the cognomen of {{WP|Julius Caesar}}, and {{WP|Caligula}} was a Roman emperor). Certain details are taken from other casinos, like the waterworks from the {{WP|Bellagio (hotel and casino)|Bellagio}} (both being Italy-inspired, although Bellagio wasn't built until 1998 and Caesars Palace has an impressive water show of its own) or the luminous green windows from the pre-1990s Caesars Palace. As for its Mafia management, they had been mostly run out of Las Vegas in the 1980s by the FBI, but the scenario might be based on a rumor that current casino billionaire {{WP|Steve Wynn (entrepreneur)|Steve Wynn}} may have been [http://www.electricnevada.com/pages96/wynn.htm connected] with the {{WP|Genovese crime family}} around 1985, all the way up to then-don {{WP|Anthony Salerno|Anthony "Fat Tony" Salerno}}.
+
+The casino in the game is referred to as "the largest hotel in the world". However, in real life (during 1992, the year the game is set in), the world's largest hotel was actually the Excalibur Hotel & Casino (represented in-game as [[Come-A-Lot]]) until 1993.
+
+==Employees==
+*[[Ken Rosenberg]] <small>(Manager)</small>
+*[[Maria Latore]] <small>(Waitress/Formerly)</small>
+*[[Millie Perkins]] <small>(Croupier)</small>
+
+==Prominent Appearances in Gameplay==
+*[[Don Peyote]]
+*[[Intensive Care]]
+*[[The Meat Business]]
+*[[Freefall]]
+*[[Saint Mark's Bistro]]
+*[[Key to Her Heart]]
+*[[Breaking the Bank at Caligula's]] <small>(Robbed)</small>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+ArchitecturalEspionage-GTASA3.jpg|Blueprint of the casino.
+Caligula'sCasino-GTASA-3DModel.jpg|'''Caligula's Palace''' and Las Venturas scale model.
+Caligula'sCasino-GTASA-Driveway.jpg|View of the casino's driveway.
+</gallery>
+
+==Oversights==
+*There is a [[Pedestrians|pedestrian]] glitch involving the pedestrians that spawn inside the casino. If the player enters the casino, shoots many pedestrians, and then goes up to the roof of the building by the stairs, the same pedestrians that have been killed in the casino will fall from the sky and land on the roof of the casino.
+[[File:GTA San Andreas glitch people falling on the roof of Caligula's Palace|thumb|center|250px]]
+
+==Trivia==
+[[File:OGLocTourPoster-GTAV.png|thumb|right|Caligula's Palace is mentioned on OG Loc's tour poster in ''GTA V''.<ref>[[File:OGLocTourPoster-GTAV-Texture.png|100px]]</ref>]]
+*The casino also exists in the [[HD Universe]] rendition of [[Las Venturas (HD Universe)|Las Venturas]], as it was mentioned in [[OG Loc (3D Universe)|OG Loc's]] tour poster in ''[[Grand Theft Auto V]]''.
+*Caligula was a Roman Emperor notorious for his eccentricity and sexual depravity. Similarly to Julius Caesar, he was murdered.
+*The [[Security Guards|casino guards]] have the same models as [[Mafia|Mafia gang members]] and are programmed to behave like [[police officers]], as [[Carl Johnson|the player]] will obtain a [[Wanted Level in GTA San Andreas|one-star wanted level]] if they fire a gun or aim a weapon at them, while two stars are obtained by killing the guards with a firearm.
+
+{{Clr}}
+==References==
+{{Reflist}}
+
+==Navigation==
+{{3D casinos}}
+
+[[ar:قصر كاليجولا]]
+[[de:Caligula’s Casino]]
+[[es:Casino Calígula]]
+[[fi:Caligula's Palace]]
+[[fr:Caligula's Palace]]
+[[pt:Caligula's Palace]] 
+[[pl:Pałac Caliguli]]
+[[ru:Caligula's Palace]]
+
+[[Category:Buildings in GTA San Andreas in Las Venturas]]
+[[Category:Casinos]]
+[[Category:Building zones]]
+[[Category:Fronts]]

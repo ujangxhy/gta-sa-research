@@ -1,0 +1,25 @@
+{{Scriptbox|style=gtasa|
+{{line|background=[[Kendl Johnson]] and her boyfriend [[Cesar Vialpando]] are embracing each other inside a trailer in [[Angel Pine]]. Kendl's brother, [[Carl Johnson]], soon enters.}}
+{{line|name=Kendl|dialogue=Hey, Carl.}}
+{{line|name=CJ|dialogue=How you doin', sis?}}
+{{line|background=Kendl hugs CJ.}}
+{{line|name=Cesar|dialogue=This ain't over, man. I did this to take care of my woman. But now, I'm gonna head straight back home and I'm gonna cap me some fucking dope dealers!}}
+{{line|name=CJ|dialogue=Hey, look, you go into the barrio with that big willy bullshit, and you gonna get shredded.}}
+{{line|name=Kendl|dialogue=And I ain't losing you over no macho bullshit!}}
+{{line|name=CJ|dialogue=Hey, relax, man. It's gonna get handled when it's time.}}
+{{line|name=Cesar|dialogue=We already know who the fucking bad guys are, man - your stinking Grove Street brother Smoke, and those chota pigs Tenpenny and Pulaski! Smoke, he's a pusher, man.}}
+{{line|name=CJ|dialogue=No, no, not Smoke! He might mess with C.R.A.S.H., but he don't mess with no yay.}}
+{{line|name=Kendl|dialogue=Come on, CJ, how you think he got that new house, huh?! Just let that Grove-for-life bullshit go and take a look around you.}}
+{{line|name=Cesar|dialogue=Word on the street is twice a week Smoke sends a car out to San Fierro and the truck comes back full of white.}}
+{{line|name=CJ|dialogue=Shit. I gotta keep my eye on the highway to San Fierro. Maybe I'll see something. Just...just lay low and I'll be back.}}
+{{line|background=As CJ heads outside, he gets a phone call from Cesar's cousin, [[Catalina]].}}
+{{line|name=CJ|dialogue=Hello?}}
+{{line|name=Catalina<br><small>(Voice only)</small>|dialogue=Where you been, asshole? Why don't you call, eh?!}}
+{{line|name=CJ|dialogue=Well, I was just about to call you, but...}}
+{{line|name=Catalina<br><small>(Voice only)</small>|dialogue=LIAR! You've been hanging out with those stinking putas!}}
+{{line|name=CJ|dialogue=No! No, if you'd just let me...}}
+{{line|name=Catalina<br><small>(Voice only)</small>|dialogue=Silence! Get up here, we've got places to rob!}}
+{{line|name=CJ|dialogue=Look, I'm in the middle of some shit right...}}
+{{line|background=Catalina hangs up on CJ.}}
+}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

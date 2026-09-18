@@ -1,0 +1,40 @@
+{{scriptbox|style=gtasa|
+{{line|background=At [[the Panopticon]], [[Claude]] is seen fixing up his [[ZR-350]]. His girlfriend, [[Catalina]], arrives in a [[Sadler]], grabs a [[crowbar]] and kisses him on the cheek, before turning her sights on [[Carl Johnson]] and his car, another ZR-350.}}
+{{line|name=CJ|dialogue=Damn, man, now what?}}
+{{line|name=Catalina|dialogue=PIG!}}
+{{line|name=CJ|dialogue=What? What'd I do now?}}
+{{line|name=Catalina|dialogue=Oh, so ''this'' is where you been, eh? ''This'' is how you repay my tenderness! You prefer the curves of some car to those of a real woman?}}
+{{line|name=CJ|dialogue=Look, Catalina, you called it off, remember, 'just business'.}}
+{{line|name=Catalina|dialogue=What kind of a man are you? When I say 'just business', I mean that I love you!}}
+{{line|background=Catalina hits CJ's car with her crowbar.}}
+{{line|name=CJ|dialogue=(not in subtitles) What the fuck?!}}
+{{line|name=Catalina|dialogue=When I say I no interested no more, I mean that I '''long''' for you!}}
+{{line|background=Catalina hits CJ's car again.}}
+{{line|name=Catalina|dialogue=And when I say that I missed you..!}}
+{{line|name=CJ|dialogue=Wait, Catalina, wait! Leave my car alone, I did this for us, for me and you!}}
+{{line|name=Catalina|dialogue=It's too late. I don't love you no more. I love another, OK?}}
+{{line|name=CJ|dialogue=''What?'' Then what the fuck was this about?}}
+{{line|name=Catalina|dialogue=I cannot keep my passions holed up, they need a release. ''That'' was a good release, like hitting a man with a frying pan while he sleeps. This, Carl, ''this'' is my new man. Are you jealous? Are you going to fight for me?}}
+{{line|name=CJ|dialogue=No, no, I can take rejection.}}
+{{line|name=Catalina|dialogue=You are jealous and a coward! Now let's race!}}
+{{line|name=CJ|dialogue=Crazy bitch.}}
+{{line|background=CJ, Claude, Catalina and two other racers race through the countryside in [[Red County (3D Universe)|Red County]], going through [[Blueberry]] and [[Blueberry Acres]], before finishing the race near [[Montgomery (3D Universe)|Montgomery]]. While Claude checks his car, Catalina goes to yell at Carl once more.}}
+{{line|name=Catalina|dialogue=You had the unfair advantage!}}
+{{line|name=CJ|dialogue=Being a better driver ain't no unfair advantage.}}
+{{line|name=Catalina|dialogue=You think you're clever, but it is you who is missing the point! Not only was he racing, but he was satisfying me, fully! What are you gonna say about that?}}
+{{line|name=CJ|dialogue=The advantage of a stick shift, I guess. Yeah, whatever, anyway, man, what is it, cash or pink slip?}}
+{{line|background=Catalina hands CJ a piece of paper.}}
+{{line|name=Catalina|dialogue=There you go! Goodbye, Mr. Johnson, I will ''not'' be missing you!}}
+{{line|name=CJ|dialogue=Hey, wait a minute, bitch! What is this shit?!}}
+{{line|name=Catalina|dialogue=The deed to a garage in San Fierro. My lover needs his car so we can go to Liberty City.}}
+{{line|name=CJ|dialogue=Liberty City? Yeah, whatever, have a good time.}}
+{{line|name=Catalina|dialogue=I will.}}
+{{line|name=CJ|dialogue=Fine.}}
+{{line|name=Catalina|dialogue=OK.}}
+{{line|name=CJ|dialogue=Go, I ain't gonna miss you.}}
+{{line|name=Catalina|dialogue=Goodbye!}}
+{{line|background=Claude and Catalina leave.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

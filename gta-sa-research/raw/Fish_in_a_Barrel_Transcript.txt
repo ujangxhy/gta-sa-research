@@ -1,0 +1,14 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Wu Zi Mu]] is in the office of [[The Four Dragons Casino]], seeing [[Ran Fa Li]] and [[Carl Johnson]] enter the office.}}
+{{line|name=Woozie|dialogue=Mr. Ran Fa Li.}}
+{{Line|name=Ran Fa Li|dialogue=(grunts)}}
+{{line|name=Woozie|dialogue=Gentlemen, can I have your marks, please?}}
+{{line|background=Ran Fa Li and CJ sign the document, while the [[Triad Assistant 1|assistant]] brings over three shot glasses.}}
+{{line|name=Woozie|dialogue=Gentlemen? Or shall I say 'partners'?}}
+{{Line|name=CJ|dialogue=Oh, I'll drink to that!}}
+{{line|background=Woozie, Ran Fa Li and CJ make a toast and drink.}}
+}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

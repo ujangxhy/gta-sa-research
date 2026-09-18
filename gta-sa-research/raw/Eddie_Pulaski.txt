@@ -1,0 +1,161 @@
+{{Infobox character
+|name           = Eddie Pulaski
+|image          = EddiePulaski-GTASA.jpg
+|games          = {{Games|SA=y}}
+|voice          = [[Chris Penn]]
+|gender         = M
+|aka            = 
+*Ed
+|nationality    = {{Country|adj=y|PL|US}}
+|status         = [[High Noon|Deceased]]
+|dod            = [[1992]]
+|pod            = [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|cod            = Player's choice:
+*Stomped on the head by [[Carl Johnson]] after injuring him through player-chosen methods
+*Drowned {{Small|(mission failsafe)}}
+|home           = 
+*[[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+*[[Prickle Pine]], [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (HD Universe)|San Andreas]]
+|affiliations   = 
+*[[Los Santos Police Department (3D Universe)|LSPD]]
+*[[C.R.A.S.H.]]
+*[[Frank Tenpenny]] {{Status|D1=y}}
+*[[Jimmy Hernandez]] {{Small|(Formerly)}} {{Status|D1=y}}
+*[[Ballas (3D Universe)|Ballas]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+|vehicles       = 
+*[[Police (vehicle)|Police Car]]
+*Silver "{{H:title|License plate|<code>PULASKI</code>}}" [[Buffalo (3D Universe)|Buffalo]]
+*[[Bandito]]
+|weapons        = 
+*[[Pistol (3D Universe)|Pistol]] {{Small|([[Cutscene Weapons|cutscenes]] only)}}
+*[[Desert Eagle]]
+*[[Camera]] {{Small|(given to CJ)}}
+|occupation     = Police officer
+}}
+{{Quote|Carl, you got it all wrong, pal! Tenpenny was the one saving your ass! Every time I wanted to get rid of you he'd find some excuse to keep you alive! Well, now it's up to me, and I ain't such a fucking soft touch!|Eddie Pulaski during car chase with [[Carl Johnson]], before getting killed by him, in [[High Noon]].|sound=EdwardPulaski-GTASA-Quote.ogg}}
+'''Officer Eddie Pulaski''' (Polish: '''Pułaski'''; /puˈwas.ki/) is a main character and the quaternary [[antagonist]] in {{SA}}.
+
+He was voiced by the late [[Chris Penn]].
+
+==History==
+Pulaski's role as an antagonist in the game stems entirely from his role as the right-hand man of [[Frank Tenpenny|Dr. Frank Tenpenny]]. Dr. Tenpenny, Pulaski and [[Jimmy Hernandez]] make up the extremely corrupt unit of the [[Los Santos Police Department (3D Universe)|LSPD]] known as [[C.R.A.S.H.]]. 
+
+He owns a silver [[Buffalo (3D Universe)|Buffalo]], with the [[Vehicle Features/Custom Vehicle License Plates|license plate]] reading "PULASKI".
+
+===Background===
+Big Smoke once refers to him as Tenpenny's "Polish lap dog"{{Ref|name=nationality|ref={{Quote|Fuck Tenpenny and fuck his Polish lap dog, and fuck the police, man. All that's old shit.|Big Smoke refers Tenpenny and Pulaski in [[End of the Line]].}}}}, indicating he might be of [[Poland|Polish]] descent. His surname is also a hint to this.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+At some point prior to [[1992]], he joined the Los Santos Police Department. He later joined the Community Resource Against Street Hoodlums (C.R.A.S.H.) division under the leadership of corrupt policeman Frank Tenpenny, who slowly turned Pulaski into a corrupt police officer and showed him the "truth" of how the law should be handled, viewing the job more as 'percentages' and keeping the gangs in the city on an equal footing. Eddie would become Tenpenny's partner in crime. Over the years he had been working with Tenpenny, he developed a high level of deluded trust in their partnership (if anything, Tenpenny was simply using Pulaski to cover his back when needed) and an irreverent outlook on those he saw as below the law. He also served as Tenpenny's crooked henchman most of the time, doing numerous illegal activities and covering up the truth.
+
+The two's criminal operations were threatened by [[Ralph Pendelbury]], an LSPD officer who attempted to expose them to [[Internal Affairs Division (3D Universe)|Internal Affairs]] after uncovering their corruption. Later, Jimmy Hernandez joined C.R.A.S.H. as their new partner. Hernandez was then 'initiated' into their criminal gang by killing Pendelbury while being threatened to be killed by Tenpenny and Pulaski.
+
+===Life with Carl Johnson===
+Eddie Pulaski, alongside Dr. Tenpenny and Hernandez, are first seen arresting [[Carl Johnson]] in [[Ganton]] on his [[Big Smoke (mission)|return]] to [[Los Santos (3D Universe)|Los Santos]] from [[Liberty City (3D Universe)|Liberty City]] for his [[Beverly Johnson|mother's]] funeral. The three then drive Johnson around the city's poorer neighborhoods and hand him the gun that Hernandez had used to kill Pendelbury ten minutes previously, thus giving them leverage over Johnson. The three then throw him from their moving police car, leaving him in [[Jefferson (neighborhood)|Jefferson]], a part of the city controlled by Johnson's rivals, the [[Ballas (3D Universe)|Ballas]]. The three, after throwing Johnson out of their car, return to the scene of Pendelbury's murder. Pulaski continues to work with Dr. Tenpenny and Hernandez, but also becomes aware of [[Big Smoke]] and [[Ryder]]'s involvement in the death of Johnson's mother, committed by the Ballas who Smoke and Ryder had allied themselves with while remaining high-ranking members of the [[Grove Street Families]].
+
+Pulaski begins to go to Big Smoke's [[Big Smoke's House|house]] in [[Idlewood]] and [[Running Dog|meets]] Johnson briefly at first, after which he [[Wrong Side of the Tracks|meets him again]] at Smoke's house where Tenpenny reminds Johnson that he knows 'everything' about him and that he has his eye on him. Pulaski even throws his cigarette at Carl. Smoke, however, brushes these off by saying that Dr. Tenpenny and Pulaski won't leave him alone due to his connections with the Grove Street Families and has Johnson help him kill [[Los Santos Vagos (3D Universe)|Los Santos Vagos]] gangsters making a deal with the [[San Fierro Rifa]]. Johnson also [[Catalyst|meets]] Dr. Tenpenny, Pulaski and Hernandez at Ryder's [[Ryder's House|house]] in [[Grove Street (3D Universe)|Grove Street]] where they tell them of a [[Freight|train]] loaded with weapons coming into the city, which Johnson and Ryder then attack, taking the weapons.
+
+Dr. Tenpenny and Pulaski, after helping Big Smoke and Ryder, begin to put pressure on Johnson to work for him and first use their leverage [[Burning Desire|to have Johnson kill a Los Santos Vagos 'cop-killing' gangster]], which Johnson does. Dr. Tenpenny and Pulaski then have Johnson [[Gray Imports|disrupt]] a meeting between the Ballas and [[Russian Mafia (3D Universe)|Russian Mafia]], with Johnson killing everyone in the building. Johnson then begins to work with others, but is later called by [[Cesar Vialpando]], his [[Kendl Johnson|sister's]] boyfriend and the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] leader, with Johnson joining him in an alleyway in [[Verdant Bluffs]]. Vialpando and Johnson then witness Tenpenny, Pulaski, Smoke and Ryder unveil the green [[Sabre]] used in the killing of Johnson's mother. Johnson then remembers his brother, [[Sweet Johnson|Sweet]], who had gone to [[Mulholland Intersection]] for a shoot-out against the Ballas. Sweet is shot during the shooting and the Los Santos Police Department [[The Green Sabre|arrest him after they ambush the area]].
+
+===Badlands and San Fierro===
+Sweet is taken 'upstate' by the police (as revealed by [[Mike Toreno]]) but Johnson, also present at the shooting, is taken by Tenpenny, Pulaski and Hernandez to [[Angel Pine]] in [[Whetstone]]. They have him kill and then photograph [[The Informant|an old police officer]] being protected by the [[Federal Bureau of Investigation|FBI]] in a [[Mount Chiliad Cabin|cabin]] on [[Mount Chiliad (3D Universe)|Mount Chiliad]], as he is about to turn state evidence against Tenpenny.
+
+Johnson later moved to [[San Fierro (3D Universe)|San Fierro]] after [[Farewell, My Love...|winning]] a run down [[Doherty Garage|garage]] in [[Doherty (3D Universe)|Doherty]]. Shortly after arriving, he is contacted by Tenpenny who has him go to the [[Vank Hoff Hotel]] in [[Financial]] to [[555 We Tip|take]] a DA's [[Merit|car]], while working as a valet, to put some of [[The Truth|Truth's]] old [[Weed|marijuana]], from his [[Leafy Hollow|farm]], in the trunk. Johnson then phones We Tip to inform them of the DA, who is threatening to expose Dr. Tenpenny and Pulaski. The [[San Fierro Police Department]] then turn up and arrest the DA for possessing the marijuana. Dr. Tenpenny and Pulaski then turn up at Johnson's garage and have him follow [[The Reporter|a journalist]] on his journey to Los Santos where he meets [[The Journalist|his informant]]. Johnson then [[Snail Trail|kills the two]] to again protect Dr. Tenpenny and Pulaski.
+
+===Death===
+{{Dialogue|p1=CJ|d1=Any last requests?|p2=Pulaski|d2=Yeah... can I fuck your sister?|p3=CJ|d3=You a asshole to the end. Punk motherfucker!|quotedetail=Carl's conversation with a dying Pulaski, moments before killing him}}
+Johnson continues to enjoy life in San Fierro before moving out into [[Tierra Robada]] and [[Bone County (3D Universe)|Bone County]], and then settling into [[Las Venturas (3D Universe)|Las Venturas]]. He is contacted again by Dr. Tenpenny and Pulaski from a [[C.R.A.S.H. House|house]] in [[Prickle Pine]]. Dr. Tenpenny informs Johnson that despite their best efforts and the efforts of Johnson, the 'gig is nearly up'. Dr. Tenpenny tells Johnson that keeping his badge is not important and that they are the same, trying to get out of the hole, so when someone steps on him, he steps on Johnson. He then tells Johnson to go to [[Aldea Malvada]], a ghost town, [[Misappropriation|to collect a dossier]] and get rid of one [[Drug Enforcement Administration|DEA]] [[The Dossier Carrier|agent]] and one FBI agent, which Johnson does. He later [[High Noon|meets]] the two at [[Las Brujas]], another ghost town, where he hands the dossier to Pulaski while Hernandez holds him at gun point. After taking the dossier, Tenpenny knocks Hernandez unconscious with a [[shovel]] and accuses him of reporting to Internal Affairs. Tenpenny then leaves and tells Pulaski to deal with Hernandez and Johnson. After digging a hole for Hernandez and himself, Johnson tries to convince Pulaski that he is merely being used and that he will be the next killed, but Pulaski refuses to listen. Hernandez manages to regain consciousness and lunges at Pulaski, only to be shot dead. Pulaski then cowardly tries to escape in his Buffalo.
+
+During the car chase, Pulaski insisted that Tenpenny wanted to keep CJ alive and would always find an excuse every time Pulaski demanded that CJ be killed. He also angers Carl, rilling him up with numerous disgusting and outrageous comments about his mother and sister. CJ ended up wrecking Pulaski's car and mortally injuring him, before asking a dying Pulaski if he has any "last requests". Pulaski asks to have sex with Kendl, which infuriates Carl, who kills Pulaski by dealing him a strong kick to the head.
+
+===Aftermath===
+{{Quote|That bastard Pulaski will probably turn up dead, just like the rest of them.|[[Kendl Johnson|Kendl]]}}
+During the mission [[Riot (GTA San Andreas)|Riot]], when Dr. Frank Tenpenny is in court, the courts and newspapers presume that Pulaski is in hiding, but CJ (and, as later revealed, Tenpenny) knows otherwise. Just after Big Smoke is [[End of the Line|killed]], Tenpenny comments: "You killed Pulaski, and now this fat fuck? There's no stopping you!".
+
+==Character==
+
+=== Appearance ===
+Pulaski appears to be a very clean-cut officer of the [[Los Santos Police Department (3D Universe)|LSPD]]. He is a fair-skinned Caucasian male, with dirty-blond hair styled into a {{WP|High and tight|high-and-tight buzzcut}}, giving him a very military-like appearance. He has blue eyes and a five-o'clock shadow. Pulaski appears to be overweight, having a husky build and the fold-lines on his model suggest a double-chin, though this is contradicted by his relatively fit body shape.
+
+===Personality===
+{{Quote|Shut the fuck up, scum! And it's Officer Pulaski to you! Fucking die!|Pulaski to CJ after being told that Tenpenny was using him.}}
+Pulaski is depicted as a very violent, sadistic, and impulsive man. He appears to be somewhat sycophantic towards Dr. Tenpenny, always agreeing with whatever he says, suggesting he could be something of a "yes man". As part of C.R.A.S.H., Pulaski always tried to be paired as equal to Dr. Tenpenny and repeatedly tries to gain first name terms with him, despite Tenpenny repeatedly calling him out and reminding Pulaski that he is Pulaski's superior and should be addressed as "Officer Tenpenny".
+
+It is possible he harbors racial prejudices, or is at least racially insensitive, as he makes a derogatory comment towards the [[Mexico|Mexican]] cab driver who drove Carl from the [[Los Santos International Airport (3D Universe)|airport]] in the [[In the Beginning|introduction]], although he does immediately apologize to Officer Hernandez after the incident. 
+
+Pulaski has shown a strong personal hatred towards Carl, often trying to get rid of him, only for Dr. Tenpenny to find "some excuse to keep [Carl] alive". In the [[High Noon]] mission, however, he finally has clearance to kill Carl, but fails to do so. He appears to have few qualms in abusing people verbally or physically and seems to be fond of practising his brutality on others. 
+
+Officer Pulaski can more or less be summed up as the stereotypical "racist white cop" even in spite of his squad being made up of other ethnicites.
+
+Pulaski's favorite radio station seems to be [[Master Sounds 98.3]].
+
+===Murders Committed===
+*[[Jimmy Hernandez]] {{nd}} [[High Noon|Killed]] for attempting to disband C.R.A.S.H. by giving information to Internal Affairs.
+
+===Influence===
+Pulaski seems to be partially inspired by {{WP|Brian Liddy}}, one of the officers implicated in the {{WP|Rampart scandal}}. He bears a certain {{URL|https://www.gettyimages.com/detail/news-photo/rampart10-sgt-brian-liddy-on-the-stand-on-11-06-00-news-photo/569156891|visual resemblance to Liddy}}, while also resembling the late actor Chris Penn, who provided his voice. Additionally, Pulaski shares his first name with Penn's most famous character, 'Nice Guy' Eddie, from ''{{WP|Reservoir Dogs}}''. He also bears a slight resemblance to WWE superstar {{WP|Brock Lesnar}}.
+
+Pulaski may also be loosely inspired by {{WP|Mark Fuhrman}}, an {{WP|Los Angeles Police Department|LAPD}} officer and detective who was assigned to the infamous 1994-95 {{WP|murder trial of O. J. Simpson}}. During the trial, Fuhrman falsely denied using racial slurs under oath, which would be refuted by the defense who revealed the existence of {{WP|Fuhrman tapes|tapes}}. In the tapes, Fuhrman confesses to using racial slurs, having misogynistic views, and engaging in acts of police brutality against African-Americans and even fabricating evidence and testimony against suspects.
+
+Another possible influence for Pulaski's character draws from the 1988 film ''{{WP|Colors (1988 film)|Colors}}'', starring Chris Penn's older brother, Sean. In the film, Sean Penn portrays a rookie, overly-aggressive officer who is a new, hotheaded recruit to LA's C.R.A.S.H. force, a personality closely matching Pulaski's.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[In the Beginning]]
+*[[Running Dog]]
+*[[Wrong Side of the Tracks]]
+*[[Catalyst]]
+*[[Burning Desire]]
+*[[Gray Imports]]
+*[[The Green Sabre]]
+*[[Snail Trail]]
+*[[Misappropriation]]
+*[[High Noon]] {{Small|(Killed)}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250">
+File:SanAndreasPost-GTASA-SnailTrail.png|Pulaski holding a copy of the ''[[San Andreas Post]]'', during the [[Cutscenes|cutscene]] for the mission [[Snail Trail]].
+File:HighNoon-GTASA2.jpg|'''Pulaski''' taunting [[Carl Johnson|CJ]] moments before his death.
+File:HighNoon-GTASA-DeadPulaski.jpg|'''Pulaski's''' dead body.
+File:EddiePulaski-GTASAde.png|'''Eddie Pulaski''' in {{TDE|SA}}.
+File:Artwork-EddiePulaski-GTASA-UnreleasedCardGameArtwork.png|Unreleased artwork of '''Eddie Pulaski''''s beta model.
+</gallery>
+
+==Trivia==
+*He shares his first name with Captain Ed Hocken, the superior officer of the protagonist, Lieutenant Frank Drebin, from the 1982 TV series ''{{WP|Police Squad!}}'' and ''{{WP|The Naked Gun}}'' film series that succeeded it. However, Eddie is rather [[Frank Tenpenny|Frank]]'s junior officer.
+*He also shares his surname with {{WP|Casimir Pulaski}}, who was a [[Poland|Polish]] soldier and fought during the {{WP|American Revolutionary War}}. There is also a possibility that he was named after the city of {{WP|Pulaski, Tennessee}} (which was named after Casimir Pulaski), where the white-supremacist association {{WP|Ku Klux Klan}} was founded. Pulaski's Polish ancestry is referenced by [[Big Smoke]] in [[End of the Line]], who refers to him as Tenpenny's "Polish lapdog".
+*One of [[Ken Rosenberg]]'s lines in {{VC}}, when [[Tommy Vercetti]] is [[busted]], mentions a Sergeant Pulaski, though it is unknown who exactly this refers to.{{Ref|name=sergeant|ref={{Quote|Get Sergeant Pulaski down here, that chump owes me a favor.|Ken Rosenberg after Tommy gets busted.}}}}
+*Pulaski originally had a different appearance in the beta: he originally had platinum-blond hair styled into a {{WP|Regular haircut|regular cut}}, beady eyes, an angrier face, and was implied to be even fatter, with his beta model having the lines for a triple-chin. This can be seen in the [[Grand Theft Auto: San Andreas/Artwork|unreleased playing card artwork for Pulaski]], which bears a much closer resemblance to this beta model than his final in-game model. Said model in question is the unused model, ''"csplas1"'', in which "CS" stands for '''cutscene''' (denoting a cutscene-exclusive model) and "Plas" may stand for '''P'''u'''las'''ki. His beta model would be re-used as a non-cutscene model for [[Jimmy Hernandez]], as well as the model for [[Ralph Pendelbury]] in the introduction.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtasa characters|state=collapsed}}
+{{Ballas|state=collapsed}}
+{{Los Santos Vagos|state=collapsed}}
+}}
+
+[[ar:إدي بولاسكي]]
+[[de:Eddie Pulaski]]
+[[es:Eddie Pulaski]]
+[[fi:Eddie Pulaski]]
+[[it:Eddie Pulaski]]
+[[nl:Eddie Pulaski]]
+[[pl:Eddie Pulaski]]
+[[pt:Eddie Pulaski]]
+[[ru:Эдди Пуласки]]
+[[tr:Eddie Pulaski]]
+[[uk:Едді Пуласкі]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Male characters]]
+[[Category:Deceased characters]]
+[[Category:Antagonists]]
+[[Category:C.R.A.S.H.]]
+[[Category:Police officers]]
+[[Category:Killed by Carl Johnson]]

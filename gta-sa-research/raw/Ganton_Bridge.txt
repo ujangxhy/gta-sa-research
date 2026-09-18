@@ -1,0 +1,33 @@
+{{disambiglink|For a similarly-named bridge, see [[Gant Bridge]].}}
+{{Infobox_location
+|bridge = y
+|name = Ganton Bridge
+|image = GantonBridge-GTASA.jpg
+|games = {{Games|SA=y}}
+|location = [[Los Santos (3D Universe)|Los Santos]]
+|length = 
+|height = 
+|pscanner =
+}}
+The '''Ganton Bridge''' is an overpass featured in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+It is located in the districts of [[Ganton]] and [[East Los Santos]]. It passes over [[Grove Street (3D Universe)|Grove Street]] and the [[East Beach Freeway Extension]]. The bridge plays an important role in two missions: first in [[House Party]], where Carl must kill some [[Ballas (3D Universe)|Ballas]] atop the bridge; and second in [[End of the Line]], when Officer [[Frank Tenpenny]] crashes his [[Firetruck (3D Universe)|fire truck]] through the bridge's wall, landing on Grove Street.
+
+==Collectibles and Pickups==
+A [[Kilo Tray Ballas]] [[Tags|graffiti tag]] can be found under the bridge, as well as an {{HUDIcons|game=O|casinoconcierge|yellow}} information pickup. This information is the only pickup of its kind in the game.
+
+[[Brass Knuckles]] can be found near the information pickup.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+GantonBridge-GTASA-OverTheBridge.png|View of the bridge.
+GantonBridge-GTASA-UnderTheBridge.png|Under the bridge.
+</gallery>
+
+==Trivia==
+*As seen in the [[End of the Line]] mission, it is also possible to destroy the bridge's wall by either crashing the vehicle through it, by heavy weapons such as [[Rocket Launcher (3D Universe)|Rocket Launcher]], [[Heat-Seeking Rocket Launcher]], [[Satchel Charges]] and [[Grenades]], shooting it with any weapon, or simply punching it.
+
+[[Category:Beam bridges]]
+[[Category:Structures in GTA San Andreas in Los Santos]]
+[[Category:Road bridges]]

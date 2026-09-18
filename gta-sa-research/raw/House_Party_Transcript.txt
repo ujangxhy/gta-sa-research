@@ -1,0 +1,158 @@
+{{scriptbox|style=gtasa|{{line
+|background=[[Carl Johnson]] approaches [[Burger Shot (3D Universe)|Burger Shot]] and sees [[OG Loc (3D Universe)|OG Loc]] coming out from back door.
+}}{{line
+|name=OG Loc
+|dialogue=Hey, fuck you, man! And I don't care what you heard, I ain't nobody Ass Technician, bitch!
+}}{{line
+|name=CJ
+|dialogue=Hey, hey, whassup, Loc?
+}}{{line
+|name=OG Loc
+|dialogue='Technician' ain't gangsta, that's wassup!
+}}{{line
+|name=CJ
+|dialogue=I heard that!
+}}{{line
+|name=OG Loc
+|dialogue=Listen, Carl, if I'm going back to cell, I wanna have a big party first. This may be my last chance to get heard. 
+}}{{line
+|name=CJ
+|dialogue=Okay, so what's the plan?
+}}{{line
+|name=OG Loc
+|dialogue=Well I'm gonna slide back over [[Grove Street (3D Universe)|Grove Street]] and get those sounds bombastic-fantastic.
+}}{{line
+|name=CJ
+|dialogue=Alright, so what do you want me to do?
+}}{{line
+|name=OG Loc
+|dialogue=I want you to get ready for the party! Then get some girls, man!
+}}{{line
+|name=CJ
+|dialogue=OK...
+}}{{line
+|name=OG Loc
+|dialogue=Get some real fly girls, you know what I'm saying? The ones in bikinis and shit, in the videos? I told you, brother, I am the chronicler of our struggle, the voice of the Families, like Moses, only keeping it real. You know what I'm saying?
+}}{{line
+|name=CJ
+|dialogue= *not in subtitles* You said it!
+}}{{line
+|background=Later that day, OG Loc calls CJ on the phone.
+}}{{line
+|name=OG Loc
+|dialogue=Hey CJ, word up, G!
+}}{{line
+|name=CJ
+|dialogue=Hey, Loc.
+}}{{line
+|name=OG Loc
+|dialogue=This party is jumping! We got a gang of crazy ass bitches in the house! You comin' over, homie?
+}}{{line
+|name=CJ
+|dialogue=I don't know man, I had some plans tonight.
+}}{{line
+|name=OG Loc
+|dialogue=But we had a big disaster. I won't be rappin', my mic's broken!
+}}{{line
+|name=CJ
+|dialogue=Oh, OK. I'm gonna come over right now then.
+}}{{line
+|background=CJ enters [[OG Loc's House]] and sees OG Loc rapping on the stage.
+}}{{line
+|name=OG Loc
+|dialogue=Yeah, yeah, yeah... This is me, OG Loc, in the house, baby... And I'm gonna... drop it down for all my real gangsta ni**az... All of my gangsta bitches... Speaking about gangsta, look at my man CJ right there - what up, ni**a? What UUUUUUUUPPPP...
+}}{{line
+|name=CJ
+|dialogue=*not in subtitles* LOOOOOOOC... thought the motherfucking mic was broke...
+}}{{line
+|name=[[Ryder]]
+|dialogue=Hey, what's up, homie!
+}}{{line
+|name=CJ
+|dialogue=What's up, Ryder.
+}}{{line
+|name=Ryder
+|dialogue=All the homies in the back, man, away from this whack music.
+}}{{line
+|name=CJ
+|dialogue=Man, I'm furious.
+}}{{line
+|name=Ryder
+|dialogue=C'mon.
+}}{{line
+|name=OG Loc
+|dialogue=I'm the man in the place, Punch you in the face, A gun in my waist... It's Loc, baby! Yo it's Loc Loc - it's Loc Loc...
+}}{{line
+|background=CJ and Ryder go outside, where they meet [[Sweet Johnson]] and some [[Grove Street Families]] members.
+}}{{line
+|name=Ryder
+|dialogue=Damn, man, his lyrics is horrible!
+}}{{line
+|name=CJ
+|dialogue=That dude needs some work, man.
+}}{{line
+|name=Ryder
+|dialogue=Hell, yeah.
+}}{{line
+|name=Sweet
+|dialogue=What up, fellas.
+}}{{line
+|name=CJ
+|dialogue=Hey, whats up with you, baby!
+}}{{line
+|name=Sweet
+|dialogue=So you back on the block, huh?
+}}{{line
+|name=CJ
+|dialogue=Hell, yeah!
+}}{{line
+|name=Sweet
+|dialogue=You a real killer, huh?
+}}{{line
+|name=Ryder
+|dialogue=What he done that I ain't - huh?
+}}{{line
+|name=Sweet
+|dialogue=What you talkin' about, ni**a?
+}}{{line
+|name=CJ
+|dialogue=Yeah, relax, man!
+}}{{line
+|name=Grove Street OG
+|dialogue=*rushes in on the bicycle, than drops it* Hey, a [[Ballas (3D Universe)|Ballas]] posse is about to run up! They headed up here right now!
+}}{{line
+|name=Sweet
+|dialogue=Looks like we backed them Ballas against the wall, huh?
+}}{{line
+|name=Ryder
+|dialogue=Hey, CJ, strap up! It's Grove Street! I'll go get [[Big Smoke|Smoke]] and some Grove boys!
+}}{{line
+|name=Sweet
+|dialogue=OK, get some cars, block the road. The rest of y'all get heated.
+}}{{line
+|background=CJ, Sweet and other Grove Street members block the road and start shooting two Ballas cars.
+}}{{line
+|name=Sweet
+|dialogue=Pick your position, Carl get some cover! Dump on them fools! *Four Ballas members appear on the bridge above Grove Street* Hey hey, look up, more of them on the bridge! *another wave of Ballas members runs through alleway near CJ's House* Carl! Cover the alleyway! *Some Ballas members run in near OG Loc's house* Behind us, CJ! Behind us!
+}}{{line
+|background=CJ, Sweet and other Grove Street members kill all the attacking Ballas member and head back to OG Loc's house
+}}{{line
+|name=Sweet
+|dialogue=GROVE IS KING!!
+}}{{line
+|name=CJ
+|dialogue=Man, I ain't never seen the Ballas roll that deep before.
+}}{{line
+|name=Sweet
+|dialogue=Yeah, they heard Carl Johnson was running with his brother again!
+}}{{line
+|name=CJ
+|dialogue=Yeah, fo' sure.
+}}{{line
+|name=Sweet
+|dialogue=C'mon, let's get back to the party.
+}}{{line
+|name=CJ
+|dialogue=Shit man, once Loc got off the mic, then the party got started.
+}}}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

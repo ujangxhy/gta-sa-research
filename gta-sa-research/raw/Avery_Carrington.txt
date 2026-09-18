@@ -1,0 +1,179 @@
+{{Spoiler}}
+{{Disambiglink|For other uses, see [[Avery (disambiguation)]].}}
+{{Infobox character
+|name           = Avery Carrington
+|image          = 
+<gallery>
+AveryCarrington-GTALCS-PanlanticLandGrab.png|1998
+AveryCarrington-GTAVC-Portrait.png|1986
+</gallery>
+|games          = {{Games|VC=y|LCS=y}}
+|mentioned      = {{Games|SA={{UN|unseen}}}}
+|gender         = M
+|status         = [[Panlantic Land Grab|Deceased]]
+|pob            = [[United States of America|Texas]]
+|dob            = {{Circa}} [[1935]]{{Ref|name=dateofbirth|type=screenshot|image=AveryCarrington-GTAVC-BradysgameManualEntry.png|imagesize=300px|ref=Avery is said to be 51 years old in the BradyGames guide officially endorsed by Rockstar Games.}}
+|dod            = [[1998]] {{Small|(aged 62 or 63)}}
+|home           = [[Vice City (3D Universe)|Vice City]], [[State of Florida|Florida]]
+|pod            = In the vicinity of the [[Shoreside Lift Bridge]], [[Liberty City (3D Universe)|Liberty City]]
+|cod            = Killed by [[Toni Cipriani]] while escaping on foot {{Small|(player-chosen method)}}
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*[[Donald Love]] {{Small|(Formerly)}} {{Status|U=y}}
+*[[Tommy Vercetti]]
+*[[Vercetti Gang]]
+*[[Ken Rosenberg]]
+*[[Panlantic Construction Company]]
+*[[Colombian Cartel]]
+*[[Ned Burner]] {{Status|D1=y}}{{Ref|name=NedBurner|type=screenshot|image=LibertyCityStoriesWebsite-GTALCS-Inbox7-8.png|imagesize=200px|ref=''GTA Liberty City Stories'' website (Flash)}}
+|vehicles       = 
+*Black [[Stretch]]
+*White [[Bobcat (3D Universe)|Bobcat]]
+|occupation     = Real estate developer
+|businesses     = 
+*[[Avery Construction]] {{Small|(Possibly)}}
+*[[Shady Acres]]
+*[[Vice City Realty]]{{Ref|name=NedBurner}}
+|email          = AC@vicecityrealty.com{{Ref|name=NedBurner}}
+|voice          = 
+*[[Burt Reynolds]] {{Small|(''GTA Vice City'')}}
+*None {{Small|(''GTA Liberty City Stories'')}}
+|family         = Unnamed father
+}}
+{{Quote|Nothing brings down real estate prices quicker than a good ol' fashioned gang war. 'Cept maybe a disaster like a biblical plague or something, but that might be going too far in this case.|Avery Carrington|sound=AveryCarrington-GTAVC-Quote.ogg}}
+'''Avery Carrington''' is a main character in {{VC}} and a minor [[antagonist]] in {{LCS}}.
+
+He was voiced by the late [[Burt Reynolds]].
+
+==History==
+===Background===
+Avery Carrington was born and raised in {{WP|Texas}} and later moved to [[Vice City (3D Universe)|Vice City]], where he became a successful property magnate and real estate mogul willing to use any tactic to earn profits, including gang warfare, arson, intimidation, murder and demolishing the opponents' buildings. Avery is heavily influenced by his father and takes on a protégé, [[Donald Love]], passing on his knowledge, which Love would later [[Waka-Gashira Wipeout!|use]] to his own [[Panlantic Land Grab|advantage]]. However, for some reason, Avery seems to dislike Donald.
+
+He owns the [[Shady Acres]] company, whose advertisement can be heard on the in-game radio. He may also have been involved with the company [[Avery Construction]], a property development company working in [[Blueberry]], [[Red County (3D Universe)|Red County]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+===Events of ''Grand Theft Auto: Vice City''===
+In [[1986]], Avery is financing the [[Avery Construction Site|construction of a building]] in [[Vice Point]] and is one of Vice City's social elite, attending [[Juan Cortez]]' [[The Party|party]]. However, he faces problems with the [[Spand Express]] company, who refuse to sell their land. [[Ken Rosenberg]], a lawyer, introduces Carrington to [[Tommy Vercetti]], who helps to drive Spand Express out of their land by causing a [[Riot (GTA Vice City)|riot]] in their yard and destroying three [[Spand Express (truck)|Spand Express trucks]].
+
+Carrington, impressed with Vercetti's abilities, later hires him to [[Four Iron|murder]] a [[Unnamed Property Developer|man]] who refused to sell some land to Carrington, and to [[Demolition Man|structurally weaken]] a construction site located opposite his own to allow Carrington to buy it at a cheaper price. Avery continues with his business before asking Vercetti for help again, this time having him [[Two Bit Hit|initiate]] a [[Cuban-Haitan War|gang war]] between the [[Cubans]] and the [[Haitians]] in order to drive down property prices. He later visits Vercetti at his [[Vercetti Estate|new mansion]] and gives him [[Shakedown (GTA Vice City)|advice]] on how to build his criminal empire following the [[Rub Out|death]] of drug baron [[Ricardo Diaz]].
+
+===After the events of ''Grand Theft Auto: Vice City''===
+[[File:AveryConstruction-GTASA-advert.jpg|right|thumb|Avery Construction in Blueberry, Red County, San Andreas.]]
+Avery Carrington continued to expand his business, appearing on a billboard in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]] in [[1992]].
+
+===Events of ''Grand Theft Auto: Liberty City Stories''===
+{{Quote|Avery. Oh, Avery! How you've aged since we last met... you used to feed me such pearls of wisdom... and soon I shall dine again!... My God! He's wearing a wig!|[[Donald Love]] in [[Morgue Party Resurrection]].|sound=MorguePartyResurrection-GTALCS-Quote-AveryCarrington.ogg}}
+In [[1998]], Avery sends an e-mail to [[Ned Burner]], where he says that [[Liberty City (3D Universe)|Liberty City]]'s mayor [[Roger C. Hole]] is corrupt and that he liked to take bribes from the mob.{{Ref|name=NedBurner}} He goes on to offer him $200,000 to expose Hole's corrupt ways to the public and end his lies to satisfy him.
+
+A few months later, Carrington flies to [[Francis International Airport (3D Universe)|Francis International Airport]] to meet with the [[Colombian Cartel]] and discuss plans to re-develop the crime-ravaged, gang warfare-ridden, Mafia-controlled district of [[Fort Staunton]] on [[Staunton Island]]. Carrington's former protégé, Donald Love, hears of his impending arrival and hires [[Toni Cipriani]] to kill Carrington and acquire his real estate plans, as the [[Panlantic Construction Company|Panlantic Corporation]] would 'do anything to get prime real estate'. Cipriani later [[Morgue Party Resurrection|steals]] Carrington's corpse for Love, who eats the body on his flight away from Liberty City.
+
+==Character==
+===VCBI Crime Tree Record===
+{{VCBI
+|name = AVERY CARRINGTON
+|data = Texan property magnate and real estate developer. Likes to talk about his father. The good old days. Extreme Capitalist. Suspected of doing anything to manipulate property prices and land value, including, but not limited to arson, rioting, bribery, intimidation, murder. Always wears cowboy hat.
+|filedata = 
+*Texan property magnate and real estate developer.
+*Likes to talk about his father. The good old days.
+*Extreme Capitalist.
+*Suspected of doing anything to manipulate property prices and land value, including, but not limited to arson, rioting, bribery, intimidation, murder.
+*Always wears cowboy hat.
+*Believed to be involved in several developments and slum-clearance programs.
+*Known guest of Cortez.
+*Uses Ken Rosenberg for legal advice - possible weak link?
+*Hair suspected to be fake.
+|image1 = AveryCarrington-GTAVC-VCBIPic1.png
+|image2 = AveryCarrington-GTAVC-VCBIPic2.png
+|image3 = AveryCarrington-GTAVC-VCBIScreenshot.jpg
+}}
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto: Vice City''===
+*[[The Party]]
+*[[Riot (GTA Vice City)|Riot]]
+*[[Four Iron]] {{Small|(Boss)}}
+*[[Demolition Man]] {{Small|(Boss)}}
+*[[Two Bit Hit]] {{Small|(Boss)}}
+*[[Shakedown (GTA Vice City)|Shakedown]]
+
+===''Grand Theft Auto: Liberty City Stories''===
+*[[Panlantic Land Grab]] {{Small|(Killed)}}
+*[[Morgue Party Resurrection]] {{Small|(Corpse)}}
+
+==Gallery==
+===Artworks===
+<gallery position="center" spacing="small" widths="270px">
+AveryCarrington-Artwork.jpg|'''Avery Carrington's''' [[Grand Theft Auto: Vice City/Artwork|artwork]].
+AveryCarrington-GTASA-SignTexture.png|Artwork of '''Avery Carrington''' seen on a casino on the [[Old Venturas Strip]], [[Las Venturas (3D Universe)|Las Venturas]], in {{SA}}.
+AveryCarrington-GTALCS-Artwork.png|'''Avery Carrington's''' {{LCS}} [[Grand Theft Auto: Liberty City Stories/Artwork|artwork]].
+</gallery>
+
+===''Grand Theft Auto: Vice City''===
+<gallery position="center" spacing="small" widths="250px">
+AveryCarrington-GTAVC.jpg|'''Avery Carrington''' in ''Grand Theft Auto: Vice City''.
+TheParty-GTAVC-SS45.jpg|'''Avery Carrington''' with [[Donald Love]] and [[BJ Smith (3D Universe)|BJ Smith]] on [[Juan Cortez]]'s [[Cortez's Yacht|boat]].
+Riot-GTAVC-SS2.jpg|'''Avery Carrington''' meets [[Tommy Vercetti]] during the mission [[Riot (GTA Vice City)|Riot]].
+AveryCarrington-GTAVC-InsideStretchLimo.png|'''Avery Carrington''' inside his [[Stretch]] limo.
+TwoBitHit-GTAVC-SS2.jpg|'''Avery Carrington''' introducing Donald Love to Tommy Vercetti.
+Shakedown-GTAVC-SS4.jpg|'''Avery Carrington''' visits Tommy's newly acquired [[Vercetti Estate|mansion]] during the mission [[Shakedown (GTA Vice City)|Shakedown]].
+AveryCarrington-GTAVC-VercettiEstate.png|'''Avery Carrington''' suggesting Tommy to buy [[Assets|properties]] during Shakedown.
+Stretch-GTAVC-black-front.jpg|'''Avery's''' black Stretch.
+AveryCarrington-GTAVCxbox.png|'''Avery Carrington''' on the [[Xbox (console)|Xbox]] version.
+AveryCarrington-GTAVCde.png|'''Avery Carrington''' in {{TDE}} of ''Grand Theft Auto: Vice City''.
+AveryCarrington-GTAVCDE.png|'''Avery Carrington''' in the trailer for ''Grand Theft Auto: The Trilogy - The Definitive Edition''.
+</gallery>
+
+===''Grand Theft Auto: Liberty City Stories''===
+<gallery position="center" spacing="small" widths="250px">
+AveryCarrington-GTALCS.jpg|'''Avery Carrington''' in ''Grand Theft Auto: Liberty City Stories''.
+PanlanticLandGrab-GTALCS-SS13.png|'''Avery Carrington''' arriving in [[Liberty City (3D Universe)|Liberty City]] during the mission [[Panlantic Land Grab]], shortly before being killed by [[Toni Cipriani]].
+AveryCarrington-GTALCSMobile.jpg|'''Avery Carrington''' in the mobile version of ''Grand Theft Auto: Liberty City Stories'', appearing older compared to the original version.
+PanlanticLandGrab-GTALCS-SS18.png|'''Avery Carrington''' escaping from Toni Cipriani in a white [[Bobcat (3D Universe)|Bobcat]].
+AveryCarrington-GTALCS-Corpse.png|'''Avery Carrington's''' corpse.
+AveryCarrington-GTALCS-CorpseinAmbulance.png|'''Avery Carrington's''' corpse in a body bag during the mission [[Morgue Party Resurrection]].
+AveryHangar_GTALCS.png|'''Avery's''' hangar at [[Francis International Airport (3D Universe)|Francis Intl. Airport]].
+</gallery>
+
+==Trivia==
+===General===
+*His surname is possibly inspired by the {{WP|Carrington family}} from the popular 1980s TV show ''{{WP|Dynasty (1981 TV series)|Dynasty}}''.
+*Avery bears visual similarities to {{WC|kingofthehill|M.F. Thatherton}}, a propane businessman from the {{WP|Fox Broadcasting Company|Fox}} cartoon series ''{{WP|King Of The Hill}}''. Both are voiced by the late [[Burt Reynolds]].
+
+===''Grand Theft Auto''===
+*Avery Carrington is one of the three real estate developers in the {{S}} to be named Avery. The others are [[Lenny Avery]] and [[Avery Duggan]].
+*Avery's missions are not necessary for the story, as they can be completed even after the final mission.
+*All of his missions in {{VC}}, apart from [[Demolition Man]], require the player to have a change of [[Clothing in GTA Vice City|clothes]].
+*It is revealed in [[Morgue Party Resurrection]] that he was wearing a wig, which confirms both [[Tommy Vercetti]]'s and the [[Vice City Bureau of Investigation|VCBI]]'s suspicions.
+*Avery's character model appears to be unchanged from his ''GTA Vice City'' appearance during the {{LCS}} [[Missions in GTA Liberty City Stories|mission]] [[Panlantic Land Grab]], despite the [[Grand Theft Auto: Liberty City Stories/Artwork|artwork]] depicting him having significantly aged.
+**On the mobile version, his character model was updated and he now looks similar to his artwork.
+*Originally, Avery's first name was Sergio. His missions still have the prefix "''SERG''" in the game files of ''Grand Theft Auto: Vice City''. 
+
+{{Clear}}
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtavc characters|state=collapsed}}
+{{Navbox gtalcs characters|state=collapsed}}
+}}
+
+[[ar:أفيري كارينجتون]]
+[[de:Avery Carrington]]
+[[es:Avery Carrington]]
+[[fi:Avery Carrington]]
+[[fr:Avery Carrington]]
+[[hu:Avery Carrington]]
+[[pl:Avery Carrington]]
+[[pt:Avery Carrington]]
+[[ru:Эйвери Кэррингтон]]
+[[tr:Avery Carrington]]
+[[zh:Avery Carrington]]
+
+[[Category:Characters in GTA Liberty City Stories]]
+[[Category:Characters in GTA Vice City]]
+[[Category:Male characters]]
+[[Category:Deceased characters]]
+[[Category:Businesspeople]]
+[[Category:Mission givers]]

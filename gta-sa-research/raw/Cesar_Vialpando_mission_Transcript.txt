@@ -1,0 +1,140 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] enters [[Sweet's House]] to find him and [[Kendl Johnson]] arguing over her dating [[Cesar Vialpando]].
+}}{{line
+|name=Sweet
+|dialogue=I'm tired of you not listening to me, girl!
+}}{{line
+|name=Kendl
+|dialogue=And I'm tired of you acting like you own me! I can see who I wanna see.
+}}{{line
+|name=Sweet
+|dialogue=I just think it ain't right, you seeing some [[wikipedia:Cholo|cholo]] motherfucker!
+}}{{line
+|name=Kendl
+|dialogue=Oh, what, a no-good, narrow-minded, hypocrite gangbanger telling me what is right and what is wrong? Let me guess, Sweet: senseless killing, right, but a boyfriend from the Southside, wrong?
+}}{{line
+|name=Sweet
+|dialogue=Some things ain't just meant to happen. I mean, what if y'all kids? Leroy Hernández? That don't sound good, girl.
+}}{{line
+|name=Kendl
+|dialogue=His name ain't Hernández.
+}}{{line
+|name=Sweet
+|dialogue=Well, Leroy López, then.
+}}{{line
+|name=Kendl
+|dialogue=Or López either, you racist fuck. That ain't how [[Beverly Johnson|Moms]] raised us.
+}}{{line
+|name=Sweet
+|dialogue=I ain't racist, I just know how they feel about you. And look at you: you're dressed like a [[Prostitutes|hooker]].
+}}{{line
+|name=Kendl
+|dialogue=Oh, I guess you two would know what a hooker look like, huh?
+}}{{line
+|name=CJ
+|dialogue=You say it like it's a bad thing.
+}}{{line
+|name=Sweet & Kendl
+|dialogue=Shut up, Carl!
+}}{{line
+|name=Sweet
+|dialogue=I'm just trying to protect you.
+}}{{line
+|name=Kendl
+|dialogue=For what? So I can date one of your mindless friends? I don't think so.
+}}{{line
+|name=Sweet
+|dialogue=Don't say a word, Carl, just follow your sister before you see another dead sibling, then you'll know exactly what my problem is. She's meeting him at some cholo car club.
+}}{{line
+|background=CJ drives to a [[Loco Low Co.]] in [[Willowfield]] to get a custom Lowrider.
+}}{{line
+|name=Loco Owner
+|dialogue=So, you must be Sweet's bro, huh? He phoned ahead, said you might be looking for a car that bounces. Well I owe him big from way back so, here, this should do the trick. Custom springs should see you hopping all of the way home. Try her out! Very popular with the eses - they compete in these things. You can usually find them over by [[Unity Station]]. If you ever wanna mod your ride, come back any time, man.
+}}{{line
+|background=CJ customizes the car and heads to Unity Station to compete in the [[Lowrider Challenge]].
+}}{{line|name=[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] Member|dialogue=<br>
+*Alright, homie, let's see if you got what it takes.
+*You up for a bounce, homie?
+*So you think you can lowride? Well let's see what you can do.
+}}{{line
+|background=CJ completes the challenge.
+}}{{line|name=Varrios Los Aztecas Member
+|dialogue=<br>
+*You're pretty good for a beginner, eh!
+*I've seen worse, but you did alright.
+}}{{line
+|name=Kendl
+|dialogue=That shit was alright! Eeee! So since when has my brother been a Lowrider?
+}}{{line
+|name=CJ
+|dialogue=Since Sweet told me to keep an eye on you, make sure that whatever you're dating don't get you in trouble. 
+}}{{line
+|name=Cesar
+|dialogue=¿Qué onda? Nice hopping, holmes!
+}}{{line
+|name=Kendl
+|dialogue=Well, you just shook that whatever's hand.
+}}{{line
+|name=Cesar
+|dialogue=Come here, baby girl.
+}}{{line
+|name=CJ
+|dialogue=Hey, get your dirty hands off my sister!
+}}{{line
+|name=Kendl
+|dialogue=Carl! What is wrong with you?!
+}}{{line
+|name=Cesar
+|dialogue=Holmes, you're acting like she's your woman, eh. She's with me, cabrón, so chill the fuck out. I treat her good.
+}}{{line
+|name=Kendl
+|dialogue=Look, baby, don't start no shit. Don't make it worse, okay?
+}}{{line
+|name=[[Jose (GTA San Andreas)|Jose]]
+|dialogue=¡Órale, vato! Who's this pendejo?
+}}{{line
+|name=Kendl
+|dialogue=What? Dickhead? This dickhead is my brother!
+}}{{line
+|name=Cesar
+|dialogue=Easy, holmes, he ain't from nowhere. He's cool.
+}}{{line
+|name=Jose
+|dialogue= Well, I say he ain't cool, holmes. I say he thinks he's gangsta, man, and I don't like it. So you know what you can do for me, man? You can fuck off, pendejo! And then maybe we cool.
+}}{{line
+|name=CJ
+|dialogue=Nah, ''you'' fuck off, I'm talking to my sister!
+}}{{line
+|name=Kendl
+|dialogue=Carl!
+}}{{line
+|name=Cesar
+|dialogue=José, come on, holmes. I can handle this, this is important to me.
+}}{{line
+|name=Jose
+|dialogue=Órale, pendejo, you lucky. That's right, you lucky Cesar spoken for you. Vámonos, muchachos. Let's get some fucking beer, huh? I'm thirsty.
+}}{{line
+|name=Kendl
+|dialogue=Carl, what the hell were you thinking?!
+}}{{line
+|name=Cesar
+|dialogue=Look, baby, go get in the car, okay? I'mma speak to Carl. Look, holmes: I love your sister. I honor her, she's my girl for life. This is why I stopped you from being skinned just then! You got a problem with me? Fine, we don't have to be friends. But Kendl: she's happy with me, carnal.
+}}{{line
+|name=CJ
+|dialogue=Yeah, okay, I guess we cool. For now.
+}}{{line
+|name=Cesar
+|dialogue=Cesar Vialpando.
+}}{{line
+|name=CJ
+|dialogue=Carl Johnson - CJ.
+}}{{line
+|name=Cesar
+|dialogue=Cabrón, you got a nice ride there, holmes! Maybe we'll get to kick it again soon, eh?
+}}{{line
+|name=CJ
+|dialogue=Yeah, maybe.
+}}}}
+
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

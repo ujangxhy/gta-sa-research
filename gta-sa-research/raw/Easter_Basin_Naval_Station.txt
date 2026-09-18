@@ -1,0 +1,91 @@
+{{Infobox_location
+|type         = militarybase
+|name         = Easter Basin Naval Station
+|sign         = EasterBasinNavalStation-GTASA-Sign.png
+|image        = EasterBasinNavalStation-GTASA.jpg
+|caption      = Overview of the base.
+|games        = {{Games|SA=y}}
+|location     = [[Easter Basin]], [[San Fierro (3D Universe)|San Fierro]]
+|map          = EasterBasinNavalStation-GTASA-Map.png
+|map_caption  = Location on the map (red).
+}}
+The '''Easter Basin Naval Station''' is a [[Military (3D Universe)|military]] base in {{SA}} located in [[Easter Basin]], [[San Fierro (3D Universe)|San Fierro]].
+
+==Description==
+The base consists of a large submarine pen, several coastal docking points and a multipurpose amphibious assault ship, [[LHD-069]]. A [[Hydra]] and [[Vortex]] can spawn on the LHD after completing missions.
+
+The submarine pen appears to serve as storage and shelter for equipment and boats. It consists of three compartments, the southmost of which may serve as a spawn point for the [[Launch]]. Several exterior docking points around the south part of the base also serve as spawn locations for the [[Reefer]].
+
+A large courtyard at the southern quarter of the base as it merges with the main road creates a triangular section where a [[Hunter]] may spawn after all-Gold completions of [[Flight School]]. Behind the main base, a [[Barracks OL|Barracks]] can spawn, and a military-styled [[Patriot]] can spawn near the LHD.
+
+Like [[Area 69 (3D Universe)|Area 69]], Easter Basin Naval Station is a restricted area. The player will be granted a [[Wanted Level in GTA San Andreas|five-star wanted level]] upon entry, be it on-foot, inside any type of vehicle, or flying low above the site. The LHD features [[Surface-to-Air Missile|surface-to-air missiles]], however these are only used during the mission [[Vertical Bird]], and are disabled outside of this mission.
+
+The base has defined pedestrian paths, allowing police officers to spawn in the base when the player is wanted. Military officers will not spawn, as they are not able to spawn on foot in paths. On rare occurrences, civilian pedestrians, including prostitutes, may walk into the base from nearby streets.
+
+==Influence==
+Easter Basin Naval Station appears to be based on the former {{WP|Hunters Point Naval Shipyard}} in {{WP|San Francisco}}. However, the structure itself is based on {{WP|Submarine pen|U-boat pens}} built by [[Germany]] in {{WP|World War II}}, which is inaccurate as such submarine pens were never constructed in the [[United States]].
+
+==Events of ''Grand Theft Auto: San Andreas''==
+The base is featured during the mission [[Vertical Bird]], in which government agent [[Mike Toreno]] orders [[Carl Johnson|CJ]] to sneak onto LHD-069 and steal a [[Hydra]] from it. Carl enters the ship through its rear bay, then flies away in a Hydra which he uses to destroy [[Tropic]]s in the [[Sherman Reservoir]], before safely landing the aircraft at [[Verdant Meadows Airfield|Verdant Meadows]]. This is the only time the LHD-069's S.A.M. sites are active, although they can be disabled from a control room within the ship.
+
+==Collectibles==
+*One [[Snapshots|snapshot]] {{nd}} Above the mounted SAM site. This can be safely taken from distance from either a [[Boats|boat]] or from the [[Kincaid Bridge]] and [[Easter Bay Airport]].
+*Two [[oysters]]. These oysters are the most difficult to obtain because the player will instantly get a [[Wanted Level in GTA San Andreas|five-star wanted level]] when trespassing within the base's perimeter, though sometimes it will drop to four stars if fleeing the base by boat:
+**One in front of the LHD;
+**One in the middle tunnel of the sub pen.
+
+It is best to collect these oysters during certain missions, such as [[Outrider]] after driving to the [[Rumpo|van's]] location, [[Amphibious Assault]] before boarding the [[Da Nang Boys Freighter|tanker ship]], [[The Da Nang Thang]] after surviving the [[Maverick (3D Universe)|helicopter]] crash, and [[Vertical Bird]] before reaching the back of the LHD, as the wanted level is deactivated for these missions. If not, it is recommended to use a speedboat for a quick getaway. 
+
+==Gallery==
+{{Gallery
+|EasterBasinNavalStation-GTASA-Entrance.jpg|Entrance to the base.
+|EasterBasinNavalStation-GTASA-BaseRear.jpg|Rear view of the pen.
+|EasterBasinNavalStation-GTASA-Side.jpg|Side view.
+|EasterBasinNavalStation-GTASA-South.jpg|South view.
+|EasterBasinNavalStation-GTASA-South2.jpg|
+|EasterBasinNavalStation-GTASA-West.jpg|West view.
+|EasterBasinNavalStation-GTASA-Perimeter.jpg|Perimeter fencing.
+|EasterBasinNavalStation-GTASA-Perimeter2.jpg|
+|EasterBasinNavalStation-GTASA-Barracks.jpg|A [[Barracks OL|Barracks]] spawning at the side of the building.
+|EasterBasinNavalStation-GTASA-Dock1.jpg|Docks.
+|EasterBasinNavalStation-GTASA-Dock2.jpg|Docks.
+|EasterBasinNavalStation-GTASA-Dock3.jpg|Docks.
+|EasterBasinNavalStation-GTASA-Dock3.jpg|Docks.
+|EasterBasinNavalStation-GTASA-DockExterior.jpg|Exterior dock.
+|EasterBasinNavalStation-GTASA-DockExterior2.jpg|
+|EasterBasinNavalStation-GTASA-DockingArea.jpg|Docking area.
+|EasterBasinNavalStation-GTASA-DockInterior.jpg|Interior of the docking area.
+|EasterBasinNavalStation-GTASA-DockInteriors.jpg|
+|EasterBasinNavalStation-GTASA-Launch.jpg|[[Launch]] inside the docking area.
+|EasterBasinNavalStation-GTASA-DockSouth.jpg|
+|EasterBasinNavalStation-GTASA-Hunter.jpg|[[Hunter]] spawning at the base.
+|EasterBasinNavalStation-GTASA-Patriot.jpg|[[Patriot]] near the carrier.
+|EasterBasinNavalStation-GTASA-Reefer.jpg|[[Reefer]] spawning on the exterior.
+|EasterBasinNavalStation-GTASA-Ship.jpg|View of the ship.
+|Prostitute-GTASA-EasterBasinNavalStation.jpg|A [[Prostitutes|prostitute]] walking around in the station.
+|AirportManual-GTASA.png|
+|Easter Basin Naval Station Unauthorized Persons Will be Shot at GTA San Andreas Sign.png|
+|Easter Basin Naval Station Unauthorized Persons will be Shot at Grand Theft Auto San Andreas The Definitive Edition Sign.jpg|
+}}
+
+==Trivia==
+*A helipad appears marked on the map, despite not being present. It is possible that it was [[Beta Content in GTA San Andreas|removed]] during development.
+*There is a sign at the entrance that says "Unauthorized persons will be shot at". The sign is, indeed, true to its word, as the player gains a [[Wanted Level in GTA San Andreas|five-star wanted level]] upon entry or when flying over the base. 
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{3D military bases|state=collapsed}}
+}}
+
+[[de:Easter-Basin-Marinestützpunkt]]
+[[es:Estación naval de Easter Basin]]
+[[pl:Easter Basin Naval Station]]
+[[pt:Easter Basin Naval Station]]
+[[ru:Военно-морская база Истер-Бейсин]]
+
+[[Category:Locations in GTA San Andreas in San Fierro]]
+[[Category:Seaports]]
+[[Category:Military ports]]
+[[Category:Restricted locations]]

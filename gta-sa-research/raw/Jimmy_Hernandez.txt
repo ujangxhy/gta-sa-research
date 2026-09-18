@@ -1,0 +1,108 @@
+{{Spoilers}}
+{{Infobox character
+|name           = Jimmy Hernandez
+|image          = JimmyHernandez-GTASA.jpg
+|games          = {{Games|SA=y}}
+|voice          = [[Armando Riesco]]
+|gender         = M
+|aka            = {{H:title|Used by Tenpenny|Pepe}}
+|status         = [[High Noon|Deceased]]
+|nationality    = {{Country|adj=y|MX|US}}
+|dod            = [[1992]]
+|pod            = [[Las Brujas Cemetery]], [[Las Brujas]], [[El Castillo del Diablo]], [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|cod            = Gunned down by [[Eddie Pulaski]]
+|home           = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|affiliations   = 
+*[[Los Santos Police Department (3D Universe)|LSPD]]
+*[[C.R.A.S.H.]] <small>(Formerly)</small>
+*[[Frank Tenpenny]] <small>(Formerly)</small>{{Status|D1=y}}
+*[[Eddie Pulaski]] <small>(Formerly)</small>{{Status|D1=y}}
+*[[Carl Johnson]]
+|weapons        = [[Pistol (3D Universe)|Pistol]]
+|vehicles       = [[Police Car]] <small>(Tenpenny & Pulaski's)</small>
+|businesses     = Police officer
+}}
+{{Dialogue|p1=Pulaski|d1=So you're the new kid, huh?|p2=Hernandez|d2=Yeah, been working on the streets three years though, and I realize that there is only one kind of crime in Los Santos: gang crime. That's why I joined C.R.A.S.H.|quotedetail=Jimmy Hernandez to [[Eddie Pulaski]] in [[The Introduction]].|sound=JamesHernandez-GTASA-Quote.ogg}}
+'''Dr. Officer Jimmy Hernandez''' is a supporting character in {{SA}}.
+
+He is voiced by [[Armando Riesco]], who also voiced [[Victor Vance]] in {{VC}}.
+
+==History==
+===Background===
+Hernandez is a rookie police officer with the [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] and [[C.R.A.S.H.]], alongside [[Frank Tenpenny|Dr. Frank Tenpenny]] and [[Eddie Pulaski]]. He recalls one of his most difficult cases to be a domestic dispute.
+
+He joined the LSPD in [[1989]]. He was involved in a domestic violence case where a twenty-year-old hit his wife for letting their kids starve. Hernandez was forced to choose to either let the man walk free or arrest the man and let his drug addict wife keep neglecting her kids in the meantime. [[1992|Three years later]], he applied for C.R.A.S.H. membership with an intention to end gang crime.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+Hernandez almost blows his membership with Dr. Tenpenny and Pulaski early on, after he says that a domestic dispute was difficult. Tenpenny tells him to get out of the car in [[Jefferson (neighborhood)|Jefferson]], however he is later seen in the dock area with Dr. Tenpenny and Pulaski. In [[The Introduction]], Dr. Tenpenny asks Hernandez to shoot [[Ralph Pendelbury]], which he does only after having his own life threatened.
+
+Hernandez continues to work with Dr. Tenpenny and Pulaski in controlling each of the four gangs in [[Los Santos (3D Universe)|Los Santos]], but also in controlling the returning [[Carl Johnson]]. They [[In the Beginning|pull him over]] when he is just around the corner from his home in [[Ganton]], and frame him for the murder of Officer Pendelbury. They throw him out of the car, and leave him in [[Jefferson (neighborhood)|Jefferson]], which is [[Ballas (3D Universe)|Ballas]] territory. Later on, Hernandez phones [[Carl Johnson]], telling him not to leave [[Los Santos (3D Universe)|Los Santos]] and that they are watching him.
+
+C.R.A.S.H. then tells [[Ryder]] about a train load of ammunition and weapons arriving in Los Santos, which Carl and Ryder then [[Catalyst|take]]. C.R.A.S.H. later employs Carl Johnson to [[Burning Desire|burn down]] a number of houses used by the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]]. Following this, Carl is told to [[Gray Imports|disrupt a meeting]] between the Ballas and the [[Russian Mafia (3D Universe)|Russian Mafia]]. However, C.R.A.S.H. later turn on Carl and the [[Grove Street Families]], and [[The Green Sabre|take]] Carl to [[Angel Pine]] in [[Whetstone]].
+
+Carl is left without any weapons and in the middle of nowhere, however C.R.A.S.H. knows exactly where he is. They send him up [[Mount Chiliad (3D Universe)|Mount Chiliad]] to [[Badlands|kill]] a [[The Informant|witness]] who is going to testify against Dr. Tenpenny and Pulaski, possibly Hernandez as well.
+
+Upon [[Yay Ka-Boom-Boom|reaching]] [[Las Venturas (3D Universe)|Las Venturas]], [[Carl Johnson]] [[Interdiction|finds out]] from [[Mike Toreno]] about the [[The Introduction|murder]] of [[Ralph Pendelbury|Officer Ralph Pendelbury]] by the hands of [[Frank Tenpenny|Dr. Frank Tenpenny]], although Frank only ordered the murder, while Hernandez actually killed Pendelbury. This might be explained by the fact that Hernandez reported the murder to Internal Affairs, but told them that Tenpenny killed Pendelbury, since admitting he murdered an officer could bring him trouble. Since Toreno is a governmental agent and has access to such information as Jimmy's statement, he told Carl only what Hernandez declared. Of course, nobody could know what actually happened, with Pendelbury dead, Hernandez protecting himself, [[C.R.A.S.H.]] framing [[Carl Johnson|CJ]] and CJ not knowing the real situation. Toreno himself does not mention Hernandez.
+
+When Carl, Dr. Tenpenny and Pulaski [[Misappropriation|next meet]] in [[Las Venturas (3D Universe)|Las Venturas]], Frank Tenpenny says that the gig is nearly up. He states that he and Pulaski may lose their badges, but does not mention Hernandez. This suggests that they are aware of Hernandez's role within C.R.A.S.H. This becomes apparent when Tenpenny and Pulaski [[High Noon|turn on]] Hernandez. Dr. Tenpenny hits him with a [[shovel]], knocking him out and calling him a snitch. Tenpenny presumes that he is dead and leaves. Pulaski, meanwhile, is left to force Carl Johnson to dig a grave for both him and Hernandez, but Hernandez suddenly regains consciousness and gets up in order to help Carl. However, Pulaski turns around and shoots Hernandez in the heart, killing him instantly, with his body falling into the grave.
+
+He is mentioned in the mission [[Riot (GTA San Andreas)|Riot]] by a television news reporter, saying that he had probably been killed for threatening to turn states evidence.
+
+==Character==
+===Appearance===
+Jimmy Hernandez is a Mexican-American officer of the LSPD, and as such is only seen wearing a police uniform. He has olive skin, dark hair that looks to be combed straight back, along with a Van Dyke-style mustache and goatee. His eyes appear to be notably far apart, and his face usually bears a scowling expression.
+
+===Personality===
+Hernandez is actually a good cop, as he clearly wants to stop gang violence, not manipulate it like Tenpenny and Pulaski. In The Introduction, he mentions a domestic dispute over a father beating his drug-addicted spouse for buying drugs instead of food, thus allowing their children to starve. He recalls asking himself if he should let the man off for domestic abuse, or arrest the man, which would leave the children with a drug-addicted mother. While telling this story, he is ignored by Dr. Tenpenny and Pulaski.
+
+Hernandez seems to have respect for Dr. Tenpenny at the beginning of The Introduction, but after being forced to kill fellow officer Ralph Pendelbury and seeing Dr. Tenpenny and Pulaski dealing with CJ, whom he knows is a criminal, he decides to inform the feds on his co-workers.
+
+===Murders Committed===
+*[[Ralph Pendelbury|Dr. Officer Ralph Pendelbury]] {{nd}} [[The Introduction|Killed]] on Frank Tenpenny's orders under the threat of death.
+
+===Influence===
+Hernandez is possibly influenced by {{WP|Javier Ovando}}, a Honduran immigrant who was wrongfully implicated and shot by the LAPD and {{WP|Rafael Pérez (police officer)|Rafael Pérez}} (who inspired Dr. Tenpenny), which would be revealed during the {{WP|Rampart scandal}}. However, in contrast to Hernandez, Ovando survived the shooting, although he ultimately became paralyzed.
+
+Hernandez may also be based on two Hispanic LAPD officers involved in the {{WP|Rodney King|Rodney King beating}} named Theodore Briseno and Rolando Solano. Briseno was critical of his fellow officers' actions ''before'' the revelation of a recording, and was a witness for the prosecution during the ensuing trial. Briseno told Solano that "Sarge ({{WP|Stacey Koon}}) really fucked up out there tonight". After the trial, Briseno would be discharged from the LAPD after being acquitted in both state and federal trials due to the police department's "code of silence" culture. Hernandez's appearance also resembles that of Briseno.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[In the Beginning]]
+*[[Tagging Up Turf]] <small>(Post-mission phone call)</small>
+*[[Catalyst]]
+*[[Burning Desire]]
+*[[Gray Imports]]
+*[[The Green Sabre]]
+*[[High Noon]] <small>(Killed)</small>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+JimmyHernandez-GTASAde.png|'''Jimmy Hernandez''' in {{TDE}} of {{SA}}.
+</gallery>
+
+==Trivia==
+*During the mission [[Misappropriation]], [[Eddie Pulaski|Pulaski]] claims that Hernandez has been gone for too long; it is possible that Hernandez was revealing information about [[Frank Tenpenny|Dr. Tenpenny]] and Pulaski at the time.
+*The only time Hernandez speaks in the game is in [[Tagging Up Turf|a phone call]] to [[Carl Johnson|CJ]] warning him not to flee [[Los Santos (3D Universe)|the town]], and briefly shouts "NO!" before being struck by Tenpenny. He does not speak again after this. He does, however, speak continuously during [[The Introduction]], only to be berated by Tenpenny and Pulaski for talking about irrelevant subjects; this is probably why he is quiet for the whole game.
+**Notably, Hernandez's voice is different between The Introduction and the actual game. In the game, Hernandez speaks with a standard American accent. However, in the Introduction, he speaks with a slightly more Hispanic accent.
+*Whenever Tenpenny and Pulaski meet with [[Big Smoke]], they never bring Hernandez along, suggesting that they don't trust him with the knowledge of their dealings with Big Smoke.
+*He has a lot in common with [[Andreas Sanchez]], a character from {{V}}. Both are of [[Mexico|Mexican]] descent, both work for the government (Hernandez is working for C.R.A.S.H., while Sanchez is working for the [[Federal Investigation Bureau|FIB]]), both work as minor partners of a main [[antagonist]] (Hernandez is working with Frank Tenpenny, while Sanchez is a partner of [[Steve Haines]]), who blackmails the [[protagonist]] to work for them (CJ for Jimmy, and [[Trevor Philips|Trevor]], [[Michael De Santa|Michael]] and [[Franklin Clinton|Franklin]] for Andreas), and both betray their patrons in the end, only to be almost immediately killed by them for that (Hernandez in [[High Noon]], and Sanchez in [[The Wrap Up]]).
+*Hernandez is based on {{WP|Ethan Hawke}}'s character Jake Hoyt from the movie ''{{WP|Training Day}}''. Both are laughed at by their new mentor upon first meeting after describing a past event on the job, both hesitate to participate in corrupt actions but are forced or threatened into doing so, and both share the initials "J.H."
+
+==Navigation==
+{{Navbox gtasa characters|state=collapsed}}
+
+[[ar:جيمي هيرنانديز]]
+[[de:Jimmy Hernandez]]
+[[es:Jimmy Hernández]]
+[[fi:Jimmy Hernandez]]
+[[nl:Jimmy Hernandez]]
+[[pl:Jimmy Hernandez]]
+[[pt:Jimmy Hernandez]]
+[[ru:Джимми Эрнандес]]
+[[tr:Jimmy Hernandez]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Deceased characters]]
+[[Category:Male characters]]
+[[Category:C.R.A.S.H.]]
+[[Category:Police officers]]

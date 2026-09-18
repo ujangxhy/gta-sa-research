@@ -1,0 +1,178 @@
+{{Infobox mission
+|name                = End of the Line
+|image               = EndOfTheLine-GTASA-Mission.png
+|caption             = [[Carl Johnson]] convinces [[Sweet Johnson|Sweet]] to allow him to go take down [[Big Smoke]] and his operation by himself.
+|game                = {{Games|SA=y}}
+|type                = SA
+|for                 = {{For|game=SA|sweet}}
+|location            = [[Sweet's House]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]]
+|target              = 
+*[[Frank Tenpenny|Dr. Frank Tenpenny]]
+*[[Big Smoke]]
+|fail                = 
+*[[Wasted]]{{Ref|name=Wasted|ref=Including if running out of time inside the building where it explodes, killing CJ in the process.}}
+*[[Sweet Johnson|Sweet]] dies
+*[[Frank Tenpenny|Dr. Tenpenny]] escapes
+*[[Greenwood (3D Universe)|Greenwood]] destroyed
+*[[S.W.A.T. (vehicle)|SWAT Tank]] destroyed before breaking into Crack Fortress{{Ref|name=SWATTank|ref=The SWAT Tank is bullet-proof and fire-proof, but it can still be destroyed by flipping it upside down or dumping it into [[water]].}}
+*[[Feltzer]] destroyed
+|reward              = 
+*[[Respect]]
+*[[Money|$]]250,000
+|reward_achievements = *[[The End of the Line]] {{Small|([[PlayStation 3|PS3]], [[PlayStation 4|PS4]], [[Xbox 360]] and {{TDE}} versions)}}
+*[[Remastered]] {{DE}} <small>(If [[100% Completion in GTA San Andreas|100% Completion]] is achieved)</small>
+|unlocks             = Story Complete
+|unlockedby          = [[Los Desperados]]
+|todo_toomuch        = 
+*Get in the car with '''<span style="color:#484576">Sweet</span>'''.
+*Drive to '''<span style="color:#D1BC86">Big Smoke's Crack Fortress</span>'''.
+*Security is tight in the Crack Fortress. There is only one way in but the door is locked down because of the riots.
+*The only way past that reinforced entrance is to knock it down.
+*A heavy vehicle like SWAT Tank will be able to smash down the entrance easily.
+*Go get the '''<span style="color:#484576">SWAT Tank</span>'''.
+*Use the SWAT Tank to ram right through the entrance of '''<span style="color:#D1BC86">Big Smoke's Crack Fortress</span>'''.
+*Smash through the '''<span style="color:#D1BC86">wall</span>''' to gain entry!
+*There is an entrance into the '''<span style="color:#D1BC86">first floor</span>''' towards the back of this area.
+*Smoke is on the Fourth floor in his '''<span style="color:#D1BC86">Penthouse suite</span>'''. You will have to work your way through three floors to get there.
+*Make your way to '''<span style="color:#D1BC86">Floor 3</span>'''.
+*Make your way to '''<span style="color:#D1BC86">Floor 4</span>'''.
+*Go get '''<span style="color:#D1BC86">Big Smoke</span>'''.
+*Smoke has switched the lights off go get the '''<span style="color:#4C5C41">thermal goggles</span>''' by the lower window.
+*Tenpenny has caused an explosion, the lighting in the building is off and the whole place is beginning to burn down. You need to get out of here quick!
+*Use the night vision goggles you have just picked up from Big Smoke to help you see in the dark and '''<span style="color:#D1BC86">escape</span>''' the building as quick as possible.
+*This floor is on fire use a '''<span style="color:#4C5C41">fire extinguisher</span>''' to help you get out!
+*Follow Tenpenny and make sure '''<span style="color:#484576">Sweet</span>''' is safe, stay close to the firetruck and do not lose Tenpenny.
+*Do not attempt to damage the firetruck or you may injure '''<span style="color:#484576">Sweet</span>'''.
+*The cop is stamping on Sweet's fingers get your car close to him in case he loses his grip.
+|cost                = Obtain 35% of [[Gang Warfare in GTA San Andreas|gang territory]] in [[Los Santos (3D Universe)|Los Santos]]
+}}
+{{Dialogue|p1=Carl|d1=Hey, Sweet!|p2=Sweet|d2=Wassup?|p3=Carl|d3=It's time for Smoke.|p4=Sweet|d4=Alright let's roll.|p5=Carl|d5=Johnson brothers fittin' to take that fat fool down!|quotedetail=[[Carl Johnson]] and [[Sweet Johnson|Sean Johnson]], before setting off to [[Big Smoke's Crack Palace|where Big Smoke is hiding]].}}
+'''End of the Line''' is the [[Climax|final storyline mission]] in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[Grove Street Families]] leader [[Sweet Johnson|Sean "Sweet" Johnson]] from his [[Sweet's House|home]] in [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Description==
+Carl and Sweet have managed to find out where their former friend, [[Big Smoke]], is hiding. They drive over to [[Big Smoke's Crack Palace|Smoke's hideout]] in [[East Los Santos (3D Universe)|East Los Santos]] while avoiding rioters. Upon arriving, they see that Smoke's crack palace has heavy security and there's no way to enter the place except for breaking through the wall. Carl convinces Sweet to allow him to go by himself, saying that Smoke and [[Frank Tenpenny|Dr. Tenpenny]] played him, and also wanted to atone for letting their brother, [[Brian Johnson|Brian]], die [[1987|five years prior]]. Carl finds a [[S.W.A.T. (vehicle)|S.W.A.T. tank]] nearby and steals it while being attacked by [[Special Weapons and Tactics (3D Universe)|S.W.A.T.]] officers and [[Ballas (3D Universe)|Ballas]] gang members. He successfully smashes the wall and enters the crack palace.
+
+Upon entering, Carl makes his way through three floors while killing Ballas, [[Los Santos Vagos (3D Universe)|Vagos]], [[San Fierro Rifa]], and [[Russian Mafia (3D Universe)|Russian Mafia]] gang members, as well as workers, whom all carry [[M16|M4s]], [[AK47]]s, [[Combat Shotgun]]s, and [[SMG (3D Universe)|MP5s]] amongst other strong weapons. Carl angry and losing patience manages to find Big Smoke, who claims that he doesn't feel any regrets over betraying the [[Grove Street Families]], and takes out a gun ready to battle Carl. During a shootout, Carl manages to kill Smoke, and after a brief conversation questioning Smoke's decision, he says he had no choice and saw the opportunity for power and money before dying. With his dying breath, Smoke claims that "everyone will remember his name", ensuring his legacy. As soon as he dies, Carl sadly and lovely laments Smoke's end, muttering "''Damn, man. What a waste...''"
+
+Dr. Frank Tenpenny, who had been watching the whole thing, arrives and orders Carl to put all of Smoke's money in his bag. Dr. Tenpenny threatens Carl with a Combat Shotgun, and sarcastically congratulates Carl on [[High Noon|killing]] [[Eddie Pulaski]] and, now, Big Smoke. Dr. Tenpenny then states his next move, boarding a plane to flee from Los Santos to avoid the rioters. As Dr. Tenpenny prepares to kill Carl, Carl manages to distract Dr. Tenpenny by shouting Sweet's name, and as Dr. Tenpenny quickly turns around, Carl manages to dive out of the way as Tenpenny quickly brings his attention back to Carl and shoots at him, albeit missing, and flees from the room. After that, Tenpenny runs to the second floor and sets the whole building on fire by shooting a generator, causing it to explode. Carl leaves the crack palace the same way he came in, killing anyone in his way.
+
+After successfully escaping, Dr. Tenpenny attempts to drive away in his [[Fire Truck (ladder)|fire truck]], but Sweet jumps on his [[Greenwood (3D Universe)|Greenwood]] and then leaps at the ladder on the back of the truck, and hangs on from it. Carl enters a parked [[Feltzer]] and starts to chase Dr. Tenpenny. During a long chase throughout Los Santos with Vagos and Ballas on the road throwing [[Molotov Cocktail|molotovs]], and the [[Los Santos Police Department (3D Universe)|police]] chasing the trio, a [[C.R.A.S.H. Rookies|police officer]] in the truck gets out and starts stomping on Sweet's fingers. Carl gets the Feltzer under the ladder and Sweet drops onto the hood and then climbs over into the passenger seat.
+
+On Carl's order, Sweet then takes control of the car with Carl acting as the shooter using his [[Micro SMG (3D Universe)|Micro SMG]] with unlimited ammo. The chase continues throughout the city with Carl destroying [[Police (vehicle)|Police Cars]], as well as Vagos rioters chasing them in [[Tornado]]s and on [[Sanchez|bikes]]. The chase comes to an end on [[Ganton Bridge|the bridge]] over [[Ganton]] where Dr. Tenpenny crashes his truck off the bridge accident. Dr. Tenpenny climbs out of the fire truck and deliriously shouts about how he had kept the neighborhood clean with his deeds and would "do it all again" before dying in the middle of Grove Street, where the story began and now where it ends.
+
+Having witnessed this, Carl, [[Cesar Vialpando|Cesar]], Sweet, and [[Kendl Johnson|Kendl]] walk towards Dr. Tenpenny, and Carl prepares to shoot Dr. Tenpenny with a [[Desert Eagle]] "to make sure it's over". Sweet lowers Carl's gun however, instead deciding that Tenpenny "killed himself in a traffic accident, no one to blame", possibly so that nobody can link any of them or Grove Street Families to Dr. Tenpenny's demise. [[The Truth]] then appears, congratulating Carl for "beating the system", a feat which Truth claims would take ages for himself to achieve. Carl informs the others about Big Smoke's death, with Kendl remarking about how Smoke was only out for himself, a statement that The Truth agrees with, referring to it as the "surest path to Hell" ("That or forty pounds of mescaline"). As Truth, Sweet, Cesar, and Kendl walk away, Carl checks Dr. Tenpenny's corpse, before swiftly kicking it and mocking by mimicking Dr. Tenpenny's usual greetings towards him with: "''See you around... Officer"''.
+
+With that, the group reconvene inside the [[Johnson House]] to talk about their future, with Kendl discussing their ventures in [[San Fierro (3D Universe)|San Fierro]] and [[Las Venturas (3D Universe)|Las Venturas]], remarking on how "shit never ends". [[Ken Rosenberg]], [[Madd Dogg (3D Universe)|Madd Dogg]], [[Kent Paul]] and [[Maccer]] enter the house, causing the rather paranoid group to ready their guns, then lower them upon seeing who it is. Madd Dogg announces his first gold record, and they all celebrate their success, and Maccer gleefully announces that he will be getting breast implants before Carl heads out of the house "''fittin' to hit the block, see what's happening''". Outside, [[Catalina]] calls for the last time while having sex with her boyfriend [[Claude]], in a failed attempt to make Carl jealous. Carl expresses his annoyance and disgust at Catalina, telling her to get help.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Drive to Big Smoke's Crack Fortress.
+*Go get the SWAT Tank.
+*Use the SWAT Tank to ram right through the entrance of Big Smoke's Crack Fortress.
+*Smoke is on the Fourth floor in his Penthouse Suite. You will have to work your way through three floors to get there.
+*Make your way to Floors 3 and 4.
+*Go get Big Smoke.
+*Smoke has switched the lights off. Go get the thermal goggles by the lower window.
+*Use the night vision goggles you have just picked up from Big Smoke to help you see in the dark and escape the building as quick as possible.
+*The floor is on fire use a fire extinguisher to help you get out.
+*Follow Tenpenny and make sure Sweet is safe, stay close to the fire truck and do not lose Tenpenny.
+*The cop is stomping on Sweet's fingers get your car close to him in case he loses his grip.
+*Protect the car from the police, Vagos and Ballas.
+
+==Deaths==
+*Numerous members of the [[Ballas (3D Universe)|Ballas]], [[Los Santos Vagos (3D Universe)|Vagos]], [[San Fierro Rifa]], [[Russian Mafia (3D Universe)|Russian Mafia]], and [[Big Smoke's Crack Palace|Crack Palace]] workers - Killed by Carl Johnson for getting in his way of killing Big Smoke.
+*[[Big Smoke]] - Killed by Carl Johnson for [[The Green Sabre|betraying]] the [[Grove Street Families]], defecting to the [[Ballas (3D Universe)|Ballas]], and usurping control of the Families for money and power.
+*Numerous [[Los Santos Police Department (3D Universe)|LSPD]] police officers, including the [[C.R.A.S.H. Rookies]] - Killed by Carl Johnson for getting in his way of chasing after Dr. Frank Tenpenny alongside his brother, Sweet.
+*Various [[Ballas (3D Universe)|Ballas]] and [[Los Santos Vagos (3D Universe)|Vagos]] protestors - Killed by Carl Johnson for attempting to kill him and getting in his way of chasing after Dr. Frank Tenpenny alongside Sweet Johnson.
+*[[Frank Tenpenny|Dr. Frank Tenpenny]] - Died after succumbing to fatal wounds caused by his [[Fire Truck (ladder)|fire engine]] losing control and falling off the overpass into [[Grove Street]].
+
+==Rewards==
+*[[Respect]]
+*[[Money|$]]250,000
+*[[The End of the Line]] [[Achievements and Trophies in GTA San Andreas|achievement]] ([[PlayStation 3|PS3]], [[PlayStation 4|PS4]], [[Xbox 360]] and {{TDE}} versions)
+*[[Micro SMG (3D Universe)|Micro SMG]] (70 rounds)
+
+==Post-Mission Phone Call==
+*'''Carl Johnson''': Eh, wassup.
+*'''Catalina''': (Heavy breathing)
+*'''Carl Johnson''': Hello?
+*'''Catalina''': Yes, [[Claude]], faster, harder, DEEPER! Oh, yes, yes, yes, YES!
+*'''Carl Johnson''': Catalina! You sick! Get help!
+*'''Catalina''': And you, Carl, you are jealous!
+
+==Aftermath==
+Following the closing [[Cutscenes|cutscene]] and credits, Carl is back on [[Grove Street (3D Universe)|Grove Street]]. The [[Los Santos Riots|riots]] subside, and a final [[West Coast Talk Radio (3D Universe)|WCTR]] news report is broadcast detailing the aftermath of the [[Los Santos Riots|riots]]. One last phone call from Catalina is received, after which Carl is free to roam about [[State of San Andreas (3D Universe)|San Andreas]] as the game enters pure sandbox mode. Any leftover non-storyline missions such as the [[Zero]], [[Wang Cars (GTA San Andreas)|Wang Cars]], and [[The Four Dragons Casino|casino heist]] strands can still be played out, as can [[Race Tournaments in GTA San Andreas|street races]], etc.
+
+In sandbox mode, certain aspects of the San Andreas universe continue to play out. Progress with the various [[Girlfriends in GTA San Andreas|girlfriends]] will still go up and down depending on whether Carl continues to date them or not; Carl's physical condition will still change depending on actions like working out and [[eating]]; enemy gang members may still randomly shoot at Carl when he passes.
+
+Also, [[Gang Warfare in GTA San Andreas|gang warfare]] conditions still apply, meaning Carl will still need to defend territory in Los Santos should any neighboring enemy gang areas remain.
+
+Finally, if [[100% Completion in GTA San Andreas|100% completion]] has been attained by this point, the various rewards will become available after the closing [[Credits in GTA San Andreas|credits]].
+
+==Transcript==
+{{/Transcript}}
+
+==Video Walkthroughs==
+{{#ev:youtube|H5lj23EUR9U|275px|center}}
+{{#ev:youtube|C1qXjfSQTCQ|275px|center}}
+{{#ev:youtube|86ewih2ejx8|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+EndoftheLine-GTASA2.jpg|[[Carl Johnson]] in the [[S.W.A.T. (vehicle)|SWAT Tank]], heading for [[Big Smoke's Crack Palace]].
+EndoftheLine-GTASA3.jpg|Carl Johnson confronting [[Big Smoke]].
+EndoftheLine-GTASA4.jpg|The destruction of Big Smoke's Crack Palace.
+EndoftheLine-GTASA5.jpg|[[Frank Tenpenny]] shortly before his death on [[Grove Street (3D Universe)|Grove Street]].
+Death.jpg|Frank Tenpenny after his death on Grove Street.
+</gallery>
+
+==Trivia==
+===General===
+*CJ smashing the [[S.W.A.T. (vehicle)|S.W.A.T. vehicle]] through the front door of the crack palace is a reference to former {{WP|Los Angeles Police Department|LAPD}} police chief {{WP|Daryl Gates}}, authorizing the LAPD's {{WP|SWAT|S.W.A.T.}} to use the {{WP|Cadillac Gage Commando#Civilian operators|Cadillac Gage V-100 Commando}}, an amphibious armored vehicle they referred to as the "battering ram" (which the in-game [[S.W.A.T. (vehicle)|S.W.A.T.]] vehicle is based on) to execute search warrants by raiding and smashing into suspected crack dens in {{WP|South Los Angeles|South Central Los Angeles}} during the late 1980s.
+*The chase sequence in the mission is a reference to the 1997 film ''{{WP|Con Air}}''.
+*When CJ tells Tenpenny that he's lost it, the latter tells him that he "ain't about to get dragged out of a patrol car and get beaten to death by some angry mob". This is a reference to {{WP|Attack on Reginald Denny|Reginald Denny}}, a truck driver who was beaten and nearly killed by a group of rioters during the {{WP|1992 Los Angeles riots}}.
+
+===''Grand Theft Auto: San Andreas''===
+*Carl is free from [[Wanted Level in GTA San Andreas|police attention]] during the mission (aside from the scripted police sequences).
+*[[Sweet Johnson|Sweet]]'s [[Greenwood (3D Universe)|Greenwood]] is locked once Carl and Sweet arrive at Big Smoke's Crack Palace, and the player cannot enter it again during the mission. Sweet remains inside until he jumps onto the ladder of the [[Fire Truck (ladder)|fire truck]] later on. Also, the Greenwood is indestructible and cannot be moved without a [[Minigun]] or [[Sawed-Off Shotgun]] when the mission fails (similarly to the Greenwood in the mission [[Tagging Up Turf]]).
+*During the fight in the crack palace before encountering Big Smoke, CJ will use quotes that are used during a 4 to 6-star wanted level, similar to [[Tommy Vercetti]] in the mission in Grand Theft Auto: Vice City [[Messing with the Man]] and in the final mission [[Keep Your Friends Close...]]. Carl will also use these quotes during the escape from the crack den.
+*At one point during the crack palace firefight, a S.W.A.T. tank breaks in through the wall from a back alleyway, allowing S.W.A.T. to enter the building. However, there is no back alleyway near the exterior of the building, and there is no hole anywhere where the tank could have burst in through. The tank comes from the [[Interiors in GTA San Andreas|Hidden Interiors Universe]], as one can tell by re-entering the building after completing the mission, going upstairs to the hole, and looking around the exterior.
+*During the final shootout with Big Smoke, he is immune to explosions.
+*If one were to explore the [[Cutscenes|cutscene]] after the gunfight with Big Smoke, the player could see that Tenpenny is fully animated, and is observing Carl and Big Smoke's conversation off-camera. This can be seen {{URL|https://www.youtube.com/watch?v{{=}}WfAtzxRAQpc&t{{=}}15m53s|here}}.
+*In the cutscene when Carl confronts Big Smoke, Smoke pulls a [[Combat Shotgun]]. However, when the gunfight begins, he uses an [[AK47]], possibly for balancing reasons. His AK47 has reduced overall performance.
+**Similarly, Tenpenny is pointing a Combat Shotgun at Carl in the cutscene following Big Smoke's death, but it gets replaced by a regular [[Shotgun (3D Universe)|shotgun]] in the following in-game cutscene where he destroys the drug lab.
+*In the cutscene when Tenpenny asks Carl to give the suitcase full of [[money]] over to him, the suitcase passes through Big Smoke's [[CJD 500]]. This is rectified in {{TDE}}.
+*When Tenpenny leaves the drug lab, Big Smoke's head will be under the couch regardless of where the player killed him. He also has an AK47, which he dropped, and [[Body Armor|body armor]].
+*The [[Feltzer]] in this mission is all-proof, and can be obtained by ditching it into a body of [[water]], thus failing the mission. The license plate reads "IMY AK", which cannot be preserved by saving the vehicle in a [[Garages|garage]], like other [[Vehicle Features/Custom Vehicle License Plates|unique license plates]] in the game. The same plate can be found on the [[BF-400]] in [[Just Business]], and the [[Cheetah (3D Universe)|Cheetah]] if the player buys it at the [[Easter Basin]] docks.
+*It is possible to shoot out the tires of Tenpenny's firetruck during the chase sequence with Sweet. This has no effect on Tenpenny's control of the firetruck, as it follows a scripted path.
+*If Carl shoots at the officer on the back of the fire truck during the chase, he will not fall off the truck and hit the ground. Instead, he will dangle from the fire truck's ladder by his feet.
+**Another officer will come out of the firetruck and attempt to shoot at the player. However, if the player kills this one, his body will fall to the ground.
+*If the [[Community Resources Against Street Hoodlums|C.R.A.S.H.]] [[C.R.A.S.H. Rookies|rookies]] are still alive when the cutscene that shows Tenpenny driving through the alleyway plays, they will despawn. The rookie on the ladder will also despawn while he is hanging from the ladder.
+*The fire truck driven by Tenpenny is all-proof. It can be obtained by destroying the Feltzer after rescuing Sweet. This can be performed by taking the Feltzer to the [[Eightballs Autoyard|bomb shop]] in [[Idlewood]], while making sure that the fire truck is not lost, and then detonating the bomb after Sweet lands on the hood of the car. Once the car is destroyed, the fire truck comes to a stop. It must then be taken to a garage and "wrecked" inside it by using a [[parachute]]. CJ must then be killed inside the garage so as to preserve the vehicle, since the mission is softlocked. The process can be seen {{URL|https://www.youtube.com/watch?v{{=}}M9o86bvBddU|here}}.
+*This mission is split in three parts: the first part ends when killing Big Smoke, the second part ends when escaping the crack palace and the third part ends after the final cutscene. If the player fails the mission after fully completing a part, they will start the mission again at the point when the next part starts. For example, if the mission is failed while escaping the burning building, it will be restarted right after Big Smoke's death. Similarly, if the player fails the mission during the chase part and restarts it, the mission will start from the cutscene with Tenpenny getting into the fire truck, skipping the whole crack palace firefight.
+*The time in this mission is prewritten. Regardless of what time the player begins the mission, the mission will start at 21:30 outside Sweet's [[Sweet's House|house]], so the confrontation between Carl and Smoke would be during the night. Although, after Tenpenny shoots the generators and Carl is left alone in the room with Smoke's body, the time is 00:00. Since the player has seven minutes (seven in-game hours) to escape from the lab, when Carl leaves the lab, it should be early in the morning. However, when the pursuit of Tenpenny begins, the time is 17:00. Tenpenny's death is around 23:00 and the mission is finally passed at 1:00.
+*When Carl is standing over Tenpenny's corpse, he sarcastically says "''See you around... Officer''". This is a callback to what Tenpenny says ("''See you around like a donut, Carl...''") when he shoves Carl out of the [[Police (vehicle)|police car]] during the [[In the Beginning|first mission]], and when he says, "''Yo Carl, see you around...''" during the opening cutscene of the mission [[Running Dog]].
+*During the final cutscene, a police car briefly appears behind Tenpenny's fire truck as the camera pans to the side. It has slightly rounded tail lights. Also, in the [[PlayStation 2|PS2]] and [[PlayStation 4|PS4]] versions, the vehicle is white.
+*Regardless of what weapon Carl has in his [[Submachine Guns|submachine gun]] slot, following the completion of this mission, Carl will always have a [[Micro SMG (3D Universe)|Micro SMG]] with 70 rounds of ammunition.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Gtasa missions|state=collapsed}}
+
+[[ar:نهاية_الخط]]
+[[de:End of the Line]]
+[[es:End of the Line]]
+[[fi:End of the Line]]
+[[fr:End of the Line]]
+[[it:End of the Line]]
+[[pl:End of the Line]]
+[[pt:End of the Line]]
+[[ru:End of the Line]]
+[[tr:End Of The Line]]
+[[zh:End of the Line]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Final missions]]
+[[Category:Storyline missions]]

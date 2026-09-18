@@ -1,0 +1,55 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] is talking to someone on the phone in the recording studio of [[Madd Dogg's Crib]].}}
+{{line|name=CJ|dialogue=I don't care ''how'', I care ''when'', as in ''now'', you hear me?}}
+{{line|background=[[Mike Toreno]] snatches the phone from CJ.}}
+{{line|name=CJ|dialogue=Hey, man, what the-?}}
+{{line|background=Mike Toreno hangs up the call started by CJ.}}
+{{line|name=Toreno|dialogue=Hello, boss man. Taking care of business, I see.}}
+{{line|name=CJ|dialogue=Toreno, fuck you. I almost lost my life out there for you.}}
+{{line|name=Toreno|dialogue=I've got just one ''tiny'' little thing for you to do, and then I'm out of your life forever.}}
+{{line|background=CJ pulls out his gun.}}
+{{line|name=CJ|dialogue=You know what? I'm tired of your fucking little jobs!}}
+{{line|name=Toreno|dialogue=Oh, will you stop? This is pathetic, come on. You're embarrassing yourself. (puts down CJ's gun) Come on, put it down, don't be ridiculous, OK? Hey, I got a little surprise for you here. You ready for this, huh? Answer it.}}
+{{line|background=CJ answers the ringing phone.}}
+{{line|name=CJ|dialogue=Hello?}}
+{{line|name=[[Sweet Johnson|Sweet]] {{Small|(Voice only)}}|dialogue=Carl, it's me, Sweet.}}
+{{line|name=CJ|dialogue=Aw, Sweet!}}
+{{line|name=Sweet {{Small|(Voice only)}}|dialogue=I don't know what happened, they just released me. No idea what's going on, but I'm in the square outside the precinct in Commerce.}}
+{{line|name=CJ|dialogue=Alright, you hold tight, I'll be right there.}}
+{{line|name=Sweet {{Small|(Voice only)}}|dialogue=Alright.}}
+{{line|background=CJ hangs up.}}
+{{line|name=CJ|dialogue=So what was that little job you was talking about, Toreno?}}
+{{line|name=Toreno|dialogue=I just want you to go pick up your brother. Get out of here.}}
+{{line|background=CJ leaves the crib and drives to the [[Los Santos Police Headquarters]] in [[Pershing Square]] to pick up Sweet. As Carl is waiting outside the precinct, Sweet goes to greet his brother while holding a briefcase.}}
+{{line|name=Sweet|dialogue=What's up, bro?}}
+{{line|name=CJ|dialogue=Hey, what's up, man?}}
+{{line|name=Sweet|dialogue=How you doin', bro?}}
+{{line|name=CJ|dialogue=I'm alright, man. Hey, man - we off to a new spot! We got a ''mansion'', Sweet! We been putting in work, and shit is going well. We got a stake in a [[Four Dragons Casino|casino]], we got some insane shit in [[San Fierro (3D Universe)|Fierro]], we're getting into the rap game! Hey man, let me get you some new clothes, c'mon!}}
+{{line|name=Sweet|dialogue=''New clothes?'' N****, what the fuck is this bullshit?!}}
+{{line|name=CJ|dialogue=What you mean, man? What's mine is yours, and you know that.}}
+{{line|name=Sweet|dialogue=You never did get it, did you, Carl? I need to go check on things in the hood. Man, that's the problem: you always a perpetrator, running from what's real!}}
+{{line|name=CJ|dialogue=Hey, man, shit's fucked up there. You don't wanna be in the hood.}}
+{{line|name=Sweet|dialogue=No, that's ''exactly'' where I wanna be. What you done for our hood?}}
+{{line|name=CJ|dialogue=Man, what the hood done for ''me?'' Always dragging me down. Ever since I got out the hood, shit been cracking! That's everybody's dream, to get out of the hood...}}
+{{line|name=Sweet|dialogue=Man, you sound just like Smoke right now.}}
+{{line|name=CJ|dialogue=Alright, man, you hard. I'm gonna show you what's going on in the hood...}}
+{{line|background=CJ and Sweet drive to [[Grove Street (3D Universe)|Grove Street]].}}
+{{line|name=CJ|dialogue=You gotta understand, shit's all fucked up now, dude.}}
+{{line|name=Sweet|dialogue=Yeah.}}
+{{line|name=CJ|dialogue=What you want, it ain't around here no more.}}
+{{line|name=Sweet|dialogue=Just take me to Momma's house.}}
+{{line|background=Once CJ and Sweet arrive back home, they find a [[Dope|crack addict]] running off with a blender.}}
+{{line|name=Dope|dialogue=Hey-ey-ey-ey, yo, y'all wanna buy this blender? It's-it's really good, it-it-it sort of works.}}
+{{line|name=Sweet|dialogue=Man, what the fuck? That's Mom's blender!}}
+{{line|name=CJ|dialogue=Looks like baseheads have took over the spot. Let's go home.}}
+{{line|name=Sweet|dialogue=This '''is''' home, man! Get these fuckers out of Mom's house! You was born in there. Damn!}}
+{{line|background=CJ and Sweet find all of the [[Crack Dealers|crack dealers]] within Grove Street and kill them all, then start a war with the [[Ballas (3D Universe)|Ballas]] to take back the hood. Once CJ and Sweet survive the gang war, they head to [[Sweet's House|the latter's house]].}}
+{{line|name=CJ|dialogue=Alright man, let's get out of here and go see Kendl.}}
+{{line|name=Sweet|dialogue=Kendl can come see me ''right here, at her home.''}}
+{{line|name=CJ|dialogue=But it ain't nothing here no more.}}
+{{line|name=Sweet|dialogue=Rome wasn't built in a day, ni**a!}}
+{{line|background=CJ walks away from his brother.}}
+{{line|name=CJ|dialogue=My brother can be a real pain in the ass!}}
+}}
+
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

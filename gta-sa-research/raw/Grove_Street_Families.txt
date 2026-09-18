@@ -1,0 +1,423 @@
+{{PageTabber
+|page1 = [[Grove Street Families]]
+|page2 = [[Seville Boulevard Families|SBF set<sup>†</sup>]]
+|page3 = [[Temple Drive Families|TDF set<sup>†</sup>]]
+|page4 = [[Big Smoke's Grove Street Families Faction|Big Smoke's faction<sup>†</sup>]]
+}}
+{{Disambiglink|For the gang featured in [[Grand Theft Auto V]] and [[Grand Theft Auto Online]], see [[The Families]].<br>For the former set of The Families in the HD Universe, see [[Grove Street Families (The Families set)]].}}
+{{Infobox organization
+|name         = Grove Street Families
+|aka          =
+*The Families
+*The Grove
+*Groves
+*{{H:title|Abbreviated in-game|GSF}}
+|image        =
+<gallery>
+GroveStreetFamilies-GTASA.png|Gang Members
+GroveSt-GTASA-Tag1.png|Tag
+</gallery>
+|caption      = 
+|games        = {{Games|SA=y}}
+|status       = active
+|locations    =
+*[[Ganton]] <small>(headquarters)</small>
+*[[Playa del Seville]] <small>(until [[The Green Sabre]])</small>
+*[[Temple]] <small>(until The Green Sabre)</small>
+*[[Santa Maria Beach]] <small>(until The Green Sabre)</small>
+*[[Vinewood (3D Universe)|Vinewood]] <small>(until The Green Sabre)</small>
+*[[Glen Park]] <small>([[Doberman]]/[[Beat Down on B Dup]] missions result)</small>
+*[[Idlewood]] <small>([[Grove 4 Life]] mission result)</small>
+*[[Willowfield]] <small>(Formerly)</small>
+|leader       =
+*[[Sweet|Sean "Sweet" Johnson]]
+*[[Carl Johnson]] <small>(Co-leader)</small>
+|type         = gang
+|gang_type    = African-American Street Gang
+|enemies      =
+*[[Ballas (3D Universe)|Ballas]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+*[[C.R.A.S.H.]]
+*[[Russian Mafia (3D Universe)|Russian Mafia]]
+*[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] <small>(formerly)</small>
+*[[Seville Boulevard Families]] <small>(formerly)</small>
+*[[Temple Drive Families]] <small>(formerly)</small>
+*[[Big Smoke's Grove Street Families Faction|Big Smoke's Faction]]
+*[[Loco Syndicate]]
+*[[San Fierro Rifa]]
+|affiliations =
+*[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]
+*[[San Fierro Triads]]
+*[[Madd Dogg (3D Universe)|Madd Dogg]]
+*[[Seville Boulevard Families]]
+*[[Temple Drive Families]]
+*[[The Truth]]
+|colors       = Green
+|vehicles     =
+*[[Voodoo (3D Universe)|Voodoo]]
+*[[Greenwood (3D Universe)|Greenwood]]
+*[[Savanna]]
+*[[BMX]] <small>([[Sweet & Kendl]])</small>
+*[[Sentinel]] <small>([[The Green Sabre]])</small>
+*[[Mountain Bike]] <small>([[House Party]])</small>
+*[[Picador]] <small>(by [[Ryder]])</small>
+*[[Perennial]] <small>(by [[Big Smoke]], destroyed)</small>
+*[[Glendale (3D Universe)|Glendale]] <small>(by [[Big Smoke]])</small>
+|weapons      =
+*[[Pistol (3D Universe)|Pistol]]
+*[[Desert Eagle]] (after spraying all 100 tags)
+*[[Micro SMG (3D Universe)|Micro SMG]] (during [[Catalyst]])
+*[[Tec-9]] (after [[Robbing Uncle Sam]])
+*[[SMG (3D Universe)|SMG]] (after spraying all 100 tags; replaces Tec-9)
+*[[Knife]] (after spraying all 100 tags)
+*[[AK47]] <small>(by [[Sweet]])</small>
+|businesses   =
+*Arms-trafficking
+*Robbery
+*Burglary/Theft
+*Protection/security
+*Racketeering
+*Gambling
+*Drug dealing {{Small|(formerly)}}{{Ref|name=pcp|type=rockstarweb|ref={{Quote|Thought to have no serious involvement in drugs trade, which has led to their decline. Some OGs heavily involved in the PCP business.|[[San Andreas Police Department (3D Universe)|San Andreas State Patrol]] ([[GTASanAndreas.com|promotional website]])}}}}
+|nationality  = {{Country|US|adj=y}}
+|fronts       =
+*[[Grove Street (3D Universe)|Grove Street]]
+*[[Johnson House]]
+*[[Sweet Johnson's House]]
+*[[Ryder's House]]
+*[[Emmet's Gun Shop]]
+*[[Ganton Courts]]
+|members      =
+*[[Brian Johnson]]
+*[[Big Smoke]] <small>(Formerly)</small>
+*[[Ryder]] <small>(Formerly)</small>
+*[[OG Loc (3D Universe)|OG Loc]] <small>(formerly)</small>
+*[[B Dup]] <small>(Formerly)</small>
+*[[Big Bear]]
+*[[Ballas Snitch|Unnamed betrayer]] <small>(Formerly)</small>
+*[[Big Devil]]
+*[[Little Devil]]
+*[[Tony (Grove Street Families)|Tony]]
+*[[LB]]
+*[[Dope]]
+*[[Scarf Face]]
+*[[Fam1]]
+*[[Fam2]]
+*[[Fam3]]
+|voice        =
+*[[Shawn Fonteno]]
+*[[Ricky Harris]]
+*[[Gregory Johnson]]
+}}
+{{Quote|Internal disputes? Spheres of influence diminishing. Thought to have no serious involvement in drugs trade, which has led to their decline. Some OG's heavily involved in PCP business.|''GTA San Andreas'' official website description.}}
+The '''Grove Street Families''' (a.k.a "Families" or "GSF", "The Grove", or "Groves") is a gang featured in {{SA}}. It is the main protagonistic group in the game, as the game's [[protagonist]] ([[Carl Johnson]]) is among its leaders.
+
+==Description==
+{{Dialogue
+|p1          = [[Sweet Johnson]]
+|d1          = Grove Street is king! Say it with me ni**as, Grove Street is king! Yeah!
+|p2          = All
+|d2          = Grove street is king!
+|quotedetail = [[Sweet Johnson]] to other GSF members in the mission [[The Green Sabre]].
+|sound       = SeanJohnson-GTASA-Quote2.ogg
+}}
+The Grove Street Families is an African-American street gang and one of the oldest street gangs in [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]. They are also the native gang of protagonist [[Carl Johnson]]. They are the sworn enemy of the [[Ballas (3D Universe)|Ballas]], an intense and ongoing rivalry as part of the [[Ballas-Grove Street gang war (3D Universe)|Ballas-Grove Street War]]. The Families also maintain rivalries with the two Mexican gangs in Los Santos – the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]] and the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]. Their rivalry with the Varrios Los Aztecas is not nearly as intense as it is with the Ballas and Vagos. However, both gangs will still commonly fight. [[Kendl Johnson|Kendl]] (sister of Grove Street Leader Sweet and CJ) ends up dating [[Cesar Vialpando|a high-ranking member of the Aztecas]] while CJ befriends him – much to Sweet's disapproval.
+
+Most of their territory can be found in the poorer/run-down neighborhoods in the far east of the city, though they also have small pockets of territory elsewhere – including the rich area of [[Temple]] and the popular tourist destination of [[Santa Maria Beach]]. They are easily identifiable by their green gang color.
+
+They are headed by [[Sweet Johnson|Sean "Sweet" Johnson]] and [[Carl Johnson]], as well as former lieutenants and OGs, [[Ryder|Lance "Ryder" Wilson]] and [[Big Smoke|Melvin "Big Smoke" Harris]].
+
+As far as street gangs in ''GTA San Andreas'' go, the GSF are depicted as more honorable than their rival gangs. Coming from a background of older traditions, they are against hard [[drugs]] being sold on their turf as opposed to the Ballas and Vagos.<ref name="GSF and Drugs">'''Sweet Johnson''': "All they do is sell yay and ruin the place. No crack ever made a gang tight". (from the [[Cleaning the Hood]] mission)</ref><ref name="GSF and Drugs 2">'''Sweet Johnson''' (''talking to Big Smoke about the possibility of selling drugs''): "Nah. We just standing by our principles, homie". (From the Introduction DVD)</ref> They are very stubborn and Sweet refuses to adapt to changes in the Los Santos criminal underworld. They ''are'' well known, however, for committing numerous other crimes and violent acts including gun running/arms-trafficking, gang-banging, gang warfare, murder, robbery, burglary/theft, gang-related homicide, vandalism, and street violence.
+
+GSF members drive the [[Greenwood (3D Universe)|Greenwood]], [[Voodoo (3D Universe)|Voodoo]], and [[Savanna]]. Their favorite radio station is the [[Radio Los Santos (3D Universe)|Radio Los Santos]]. They also have three different skins that will walk and drive around their territories.
+
+*The [[Fam1|first member]] is slightly overweight, wears a green bandana, green sweater, black jeans, and white sneakers.
+*The [[Fam2|second member]] has braided hair, wears a green button-up plaid/flannel checkered jacket, beige khaki pants, and black and white hi-top sneakers.
+*The [[Fam3|last member]] wears a backwards black baseball cap, a green #7 [[Los Santos Rimmers]] basketball jersey, a cross necklace, a bracelet, black jeans, and black and white sneakers.
+
+Initially, in the beginning of the game, Grove Street members are mostly unarmed, with some carrying [[Pistol (3D Universe)|pistols]], and they will start carrying [[Tec-9]]s after the completion of [[Robbing Uncle Sam]]. If the player sprays over all [[tags]] in Los Santos, they will wield [[Desert Eagle|Desert Eagles]], [[SMG (3D Universe)|SMGs]], and [[knife|knives]] instead. They can occasionally be seen smoking [[Weed|marijuana]] and drinking malt liquor while talking and hanging around in groups. Green clothing is a dead give-away and members will often flash their gang handsigns. Upon spotting a [[Ballas (3D Universe)|Balla]], [[Los Santos Vagos (3D Universe)|Vago]], or [[Varrios Los Aztecas (3D Universe)|Azteca gang member]], they will often engage in a violent confrontation (especially Ballas). Members of the families, like other [[pedestrians]], will often comment on CJ's attire, physical looks, or his vehicle.
+
+Their territory includes:
+*[[Ganton]] (especially [[Grove Street (3D Universe)|Grove Street]] {{nd}} considered the heart and headquarters of GSF territory)
+*[[Playa Del Seville]] (after [[Reuniting the Families|making peace]] with the [[Seville Boulevard Families]]. At first, it's an enemy hood)
+*[[Temple]] (after [[Reuniting the Families|making peace]] with the [[Temple Drive Families]]. At first, it's an enemy hood)
+*[[Vinewood Cemetery]]
+*[[Santa Maria Beach]]
+*[[Glen Park]] {{nd}} after completing "[[Doberman]]" and "[[Beat Down on B Dup]]"
+*Two or more [[Idlewood]] hoods – after completing "[[Grove 4 Life]]"
+
+==Apparel==
+Carl can buy some GSF apparels in many clothing retailers.
+#Green Cap (can be purchased in [[ProLaps (3D Universe)|ProLaps]])
+#Face Black (can be purchased in [[Sub Urban (3D Universe)|Sub Urban]])
+#Green Jeans (can be purchased in [[Binco (3D Universe)|Binco]])
+#<span>Green Tagg T (can be purchased in [[Victim]])
+#Green Rag (can be purchased in Binco)
+#Green Eris T-shirt (can be purchased in Binco)
+#Black and Green Windbreakers (can be purchased in Binco and Sub Urban)
+#Green Low-Tops (can be purchased in Binco)
+#Green Hoodie (can be purchased in Binco)
+#Green Track-pants (can be purchased in Binco)
+#Base-5 Hoodie (can be purchased in Sub Urban)
+#Olive Pants (can be purchased in Binco)
+#Woodland Camo (can be purchased in Binco)
+#Urban Camo (can be purchased in Binco)
+#Green Shirt (can be purchased in Binco)
+#Combat Jacket (can be purchased in Binco)
+#Green Rag Back (can be purchased in Binco)
+#Green Rag Front (can be purchased in Binco)
+#Watch Cap (can be purchased in Binco)
+#Suburban T (can be purchased in Sub Urban)
+#Green Chronglers (can be purchased in Sub Urban)
+#Green Shorts (can be purchased in Sub Urban)
+#Green Skully (can be purchased in Sub Urban)
+#Baseball T (can be purchased in ProLaps)
+#Green Hi-Tops (can be purchased in ProLaps)
+#Green Cap (Back) (can be purchased in ProLaps)
+#Green Cap (Side) (can be purchased in ProLaps)
+#Green Cap (Tilt) (can be purchased in ProLaps)
+#Green Cap (Up) (can be purchased in ProLaps)
+#Green Tint (can be purchased in Victim)
+#Green Jacket (can be purchased in [[Didier Sachs (3D Universe)|Didier Sachs]])
+#Green Pants (can be purchased in Didier Sachs)
+#Green Derby (can be purchased in Didier Sachs)
+#Leisure Top (can be purchased in ProLaps)
+#Leisure Pants (can be purchased in ProLaps)
+#Pro-Laps White (can be purchased in ProLaps)
+#Face Black (can be purchased in Sub Urban)
+#Olive Khakis (can be purchased in [[ZIP (3D Universe)|ZIP]])
+#Olive Shorts (can be purchased in Sub Urban)
+
+==History==
+[[File:GroveStreetFamilies-GTASA-MostWanted.png|thumb|250px|Most Wanted members of Grove Street Families, seen on the San Andreas Local Business Advertiser's Guide (Official ''GTA San Andreas'' manual).]]
+The Grove Street Families were formed in [[Ganton]] (initially in Grove Street) before spreading to the rest of Ganton and other neighborhoods. History before this time period (late 80s) is unknown, and much of what happened to the Families during the late 80s is also unknown. However, what is known is that the Families are one of the oldest gangs in Los Santos – this possibly means that they are older than the Ballas (who formed during the 1970s) – giving the possibility that the Families evolved from the 1960s, or possibly even earlier.
+
+The Families also have a history of a traditional, intense, and bloody rivalry with the Ballas. Specifically when the gang war started is unknown, but the rivalry between the two gangs was in full swing as early as [[1987]]. The start and reason of their rivalry with the Los Santos Mexican gangs is unknown, though their rivalry with the Vagos has most likely developed due to their expansion and growth around their territory along with their heavy crack-cocaine influence. Despite being divided into different sets, the Families were much more united before the early 1990s.
+
+While Sweet is adamantly anti-narcotic, Smoke believes that the GSF have fallen from power because of his refusal to sell drugs.<ref name="Smoke and GSF">'''Big Smoke''' (''talking to Sweet Johnson about the possibility of selling drugs''): "But our principles are making us ****es, man. Every day, Ballas getting stronger, and you and I get weaker. You and I get poorer, man". (From the San Andreas Introduction DVD)</ref> Their unwillingness to enter the drug trade has dragged the Grove Street Families out of prominence in the years leading up to the game's storyline. The fact that Sweet insists the gang shouldn't deal in narcotics, the deaths of OGs such as [[Tony (GSF)|Tony]], [[Big Devil]], and [[Little Devil]], and the abandonment of OGs such as [[Big Bear]] and [[B Dup]] has largely weakened them from their previous dominant position in Los Santos. Likewise, the splitting of the Grove Families into different enemy sets – the [[Temple Drive Families]] and the [[Seville Boulevard Families]] has massively increased violence from within the families and further weakened them. The fact that the Ballas are extremely successful at spreading crack cocaine into their territory to weaken the Families (also in-part due to Big Smoke's involvement) has led to the sorry state of the GSF upon CJ's [[In the Beginning|return]] from [[Liberty City (3D Universe)|Liberty City]] in [[1992]].
+
+Prior to 1992, the Families also controlled the southern portion of [[East Los Santos (3D Universe)|East Los Santos]] and [[Idlewood]] (although they lost Idlewood before 1987, as during the mission [[Cleaning the Hood]], Carl seems to know it is Ballas turf). They likely also controlled [[Willowfield]] due to [[Emmet's]] presence there; specifically the Seville Boulevard Families.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+During the beginning of the game, and upon Carl Johnson's return from [[Liberty City (3D Universe)|Liberty City]], the Grove Street Families are the smallest, least powerful, and least influential gang in [[Los Santos (3D Universe)|Los Santos]]. A variety of problems has led to their demise – including the deaths of many high-ranking members/OGs ([[Little Devil]], [[Big Devil]], [[Tony (GSF)|Tony]]) along with the death of Sweet's (leader of the Grove Street Families) family members ([[Brian Johnson]] and [[Beverly Johnson]]). On top of this, the Grove Street Families have split up into different warring sets (Temple Drive Families and the Seville Boulevard Families) – causing inter-hostilities.
+
+Further, their refusal to enter the drugs trade (especially crack [[cocaine]]) has put them at a severe disadvantage to the other gangs (such as the Ballas), who are able to make much profit from this. The GSF also face the major problem of crack-cocaine spread throughout their territory (largely due to the Ballas and Big Smoke). Crack-cocaine turns members into weak and hopeless addicts and influences high-ranking members with the money that can be made from the drugs trade (as is the case with [[B Dup]]); thus, drawing them away from gang-banging.
+
+The Ballas [[Sweet & Kendl|attempt to finish off the remaining OGs in a drive-by shooting]] as they are leaving the funeral of Beverly Johnson. However, they are only successful at destroying Big Smoke's [[Perennial|car]]. The remaining OGs escape to Grove Street on bicycles while avoiding the Ballas car.
+
+The Grove Street Families then [[Cleaning the Hood|attempt to decrease the influence of crack-cocaine in their territory]] by killing some Ballas members at a crack house in Idlewood. Sweet orders CJ and Ryder for the mission, and they successfully kill the Ballas inside the house. This gradually decreases the influence of crack-cocaine in GSF territory, and drug dealers become less prevalent on the streets in [[Ganton]].
+
+In retaliation for the events of the previous mission, [[Drive-Thru|the Kilo Tray Ballas attempt a drive-by on Grove Street]]. Luckily, Sweet, CJ, Ryder, and Big Smoke are able to catch them on the way to Grove Street while pulling out of a [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] drive-thru in Willowfield. A car chase follows, and the OGs are able to destroy the car and kill the Ballas.
+
+The Grove Street Families then gain a substantial victory of the Ballas when [[Drive-By|CJ, Ryder, Sweet, and Big Smoke went into the Ballas' territories and killed more than a dozen of the Rollin' Heights Ballas and the Kilo Tray Ballas in a drive-by shooting]].
+
+Sweet then goes to [[Sweet's Girlfriend|his girlfriend's]] house in Playa del Seville, but unfortunately, [[Sweet's Girl|he is caught by the Seville Boulevard Families]] (an enemy Grove set). CJ then killed every Seville Boulevard Families member who was attacking Sweet. Sweet states that there needs to be an end to "green-on-green" violence if the GSF are ever able to become strong again.
+
+CJ and Ryder stole various weaponry and ammunition in Los Santos in the missions [[Home Invasion]], [[Catalyst]], and [[Robbing Uncle Sam]]. In doing so, the Grove Street Families become better equipped and start carrying Tec-9 submachine guns.
+
+Sweet then gets word that a former unnamed member of the Grove Street Families (now a Balla) has been selling drugs, and is now in-hiding with the Ballas at Glen Park. [[Doberman|Sweet orders CJ to kill him]]. CJ then kills the traitor and many other Ballas at Glen Park during a gang war. Following the gang war, the Grove Street Families gain the territory of Glen Park from the Ballas. At this point, the GSF are now much stronger and are on a more equal footing with the Ballas.
+
+The Ballas, in retaliation for the previous attacks, [[House Party|attempt to start a gang war right on Grove Street]]. Luckily, a member of the Families is able to catch the Ballas on the way and warn Sweet and the OGs, who are then able to prepare. They block off Grove Street and prepare themselves. CJ, Sweet, and other members of the GSF are then able to successfully defend their territory.
+
+[[Los Sepulcros|The Ballas then hold a funeral for Little Weasel]], a Ballas member whom CJ and Smoke previously [[Drive-By|killed]] in a drive-by shooting. Many Ballas OGs are attending the funeral (including [[Kane]] of the [[Front Yard Ballas]]). CJ, Sweet, and members of the GSF are able to crash the funeral and kill many high-ranking Ballas members (including Kane).
+
+In an attempt to fully bring the Grove Street Families back to their full power, [[Reuniting the Families|a meeting is organized between the three different Family sets]] (Ganton, Playa de Seville, and Temple) at the [[Jefferson Motel (3D Universe)|Jefferson Motel]]. Sweet, CJ, Big Smoke, and Ryder attend the meeting, and Sweet is voted the representative for the Grove Street Families. However, the [[Los Santos Police Department (3D Universe)|LSPD]] and [[Special Weapons and Tactics (3D Universe)|S.W.A.T.]] raids and breaks-up the meeting, and a battle ensues inside the motel between Families gang members and S.W.A.T. officers. Luckily, CJ managed to rescue Sweet, and they are able to escape with the help of Big Smoke and Ryder.
+
+In an attempt to fully finish the Ballas, [[The Green Sabre|a large gang war is organized between the Ballas and the Families]] under the [[Mulholland Intersection]]. However, Sweet is shot and injured, and the police manage to break up the gang war. Sweet is then arrested and sent to a prison hospital upstate, while CJ is captured by [[C.R.A.S.H.]] and warned to stay away from Big Smoke. At this point, both Ryder and Big Smoke have completely defected from the Grove Street Families and into the crack-cocaine business, aligning themselves with C.R.A.S.H. and the Ballas, as well as handing over the green [[Sabre]] involved in [[The Introduction|the murder of Carl's mother]] to C.R.A.S.H. officers.
+
+This leaves the GSF with no leaders or OGs. They soon fall from power again and become subservient to the Ballas and Vagos. Remaining GSF members are either dead, imprisoned, addicted to drugs, go into hiding, left the gang, defect to the Ballas, or become employed by Big Smoke and his drug organization (as seen in the drug courier missions). The Ballas resume spreading crack-cocaine through their territory again to control them. Soon enough, the Ballas manage to control the entirety of what had been GSF territory – including Ganton and Grove Street, Playa del Seville, Temple, the Vinewood Cemetery, and Santa Maria Beach. They also recapture back Glen Park. The Families and their allies, the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] (who begin to suffer the same fate), essentially become nearly defunct and inactive and the Ballas and Vagos control the streets of Los Santos. Carl is forced to continue working for [[C.R.A.S.H.]] away from the city in exile.
+
+The Grove Street Families then have no more significance throughout the rest of the middle-game, apart for some who work with Big Smoke and Ryder while CJ becomes enveloped in a new lifestyle away from gang-banging and "hood life" while Sweet is incarcerated.
+
+However, Sweet's release from prison, courtesy of [[Mike Toreno]],<ref name="Sweet's Release">'''Mike Toreno''': Hey, I got a little surprise for you here. You ready for this? Huh? (''phone rings'') Answer it". '''Carl Johnson''': "Hello?" '''Sweet Johnson''': "Carl, it's me Sweet". '''Carl Johnson''': "Aw, Sweet!" '''Sweet Johnson''': "I don't know what happened, they just released me. No idea what's going on, but I'm in the square outside the precinct in Commerce. '''Carl Johnson''': "Alright you hold tight, I'll be right there (''puts phone down''). So what was that little job you was talking about, Toreno?" '''Mike Toreno''': "I just want you to pick up your brother. Get out of here". (From the [[Home Coming]] mission)</ref> and CJ's second return to Los Santos with Sweet allows the gang to rise and reform again (now co-headed by Carl and Sweet Johnson) and regain most of their lost turf from the [[Ballas (3D Universe)|Ballas]] while destroying the crack-cocaine influence again during the missions [[Home Coming]], [[Beat Down on B Dup]], and [[Grove 4 Life]]. That same year, [[Big Smoke's Crack Palace]] is destroyed by Frank Tenpenny by shooting a generator during [[End of the Line|the final mission]] {{nd}} greatly diminishing the crack-cocaine trade in Los Santos and further strengthening the position of the Families.
+
+Depending on the player's actions, it is possible to take some or all of the Ballas' and Vagos' turf for the GSF as part of the [[Gang Warfare in GTA San Andreas|gang warfare feature]], causing the GSF to potentially become the largest and most powerful gang in Los Santos with no major threats anymore. If the player successfully takes over the entire turf in [[Los Santos (3D Universe)|Los Santos]], then their turfs will no longer come under attack and thanks to Carl's efforts in the neighboring cities of San Fierro and Las Venturas, have powerful allies in the Mountain Cloud Boys Triad gang from San Fierro, numerous businesses Carl started generating revenue from, including the Triads' Four Dragons Casino after robbing the three Liberty City Italian Mafiosi Wiseguys Mafia Families (Leone Family Sindacco Family Forelli Family)-owned Caligula's Casino in Casino Heist, and much more.
+
+==Further Notes==
+In {{V}}, it is mentioned that a street gang named "[[The Families]]" originally had a set known as the "[[Grove Street Families (The Families set)|Grove Street Families]]", which was named after a [[Grove Street (HD Universe)|street]] in [[Davis]], rather than the [[Grove Street (3D Universe)|one]] in [[Ganton]] from ''Grand Theft Auto: San Andreas''. The gang set existed in the 1990s and disbanded at some point before 2013.
+
+However, as confirmed by Rockstar Games several times, the timeline of [[Universes|each ''Grand Theft Auto'' universe]] is designed to be completely separate to each other so that no physically appearing characters or storylines would overlap, therefore the events of ''Grand Theft Auto: San Andreas'' (set in the [[3D Universe]]) have never happened in the ''Grand Theft Auto V''{{'}}s timeline (set in the [[HD Universe]]), the characters from ''GTA San Andreas'' have never existed in ''GTA V''{{'}}s [[Canon|canon]] and, according to former VP of Creativity for Rockstar Games [[Dan Houser]], previous universe characters are treated as "mythical characters from a bygone era", except in-game radio station personalities and celebrities. <ref>{{Quote|Dan says that no one before GTA IV will be in it – the move to HD created a schism in this fictional universe, rendering CJ, Toni and co, as mythical characters from a bygone era.|Interview with [[Dan Houser]] in {{URL|https://www.theguardian.com/technology/gamesblog/2012/nov/12/grand-theft-auto-v-preview-gta-5|The Guardian}}, about the second reboot of the series.}}</ref><ref>{{Quote|The Grand Theft Auto III timeline is not necessarily over – but it is a different world to Grand Theft Auto IV – only the branding and certain radio personalities exist across both worlds.  The reason for this was that we felt Grand Theft Auto IV was a high-definition experience and required different kinds of characters.  That – and the fact that most people from the previous world are dead.|{{URL|https://www.rockstargames.com/newswire/article/89k8a554388283/updated-asked-answered-re-vice-city-red-dead-redemption-and-chin.html|Rockstar Newswire – Asked & Answered, September 18, 2009}}}}</ref>
+
+An easter egg in {{IV}}, the game that started the HD Universe canon, suggests that Carl Johnson, along with the other 3D Universe protagonists, are dead. However, this is simply to commemorate the game being the beginning of a new era and it is not considered canon. Rockstar Games have stated in a Q&A on Rockstar Newswire that this was just ''"a little joke to our fans"''. <ref>{{URL|https://www.rockstargames.com/newswire/article/89k8a554388283/updated-asked-answered-re-vice-city-red-dead-redemption-and-chin.html|''" Asked & Answered – Re: Vice City, Red Dead Redemption and Chinatown Wars"'' – Rockstar Newswire, September 18, 2009}}</ref>
+
+==Sets==
+There are three distinct sets of the Grove Street Families:
+*Grove Street Families (GSF): [[Ganton]], [[Glen Park]], [[Idlewood]] (Carl Johnson – the protagonist's set and the original gang)
+*[[Temple Drive Families]] (TDF): [[Temple]], [[Santa Maria Beach]]
+*[[Seville Boulevard Families]] (SBF): [[Playa del Seville]] (The Seville and Grove were in a bad relationship, and after the mission "Sweet's Girl", where the Seville Boulevard starts an official war with the GSF, Playa del Seville becomes an enemy territory. However, after the mission "Reuniting The Families", the SBF and GSF make peace)
+The sets get their name from their territory. For example, the Grove Street Families get their name from their formation in Grove Street, Ganton. The Seville Boulevard Families get their name from their territory – Playa del Seville, and the Temple Drive Families get their name from their main turf – Temple. All sets are part of the "Family" banner, and all wear green. The differences are based on different territories/neighborhoods, and possibly a different approach to the drugs trade. It is known the Grove Street Families are heavily against drug trafficking, but it is possible that the Seville Boulevard and Temple Drive Families are involved with narcotics due to them splitting from the Grove Street Families, though this is never mentioned in the game. Either way, they eventually reunite as allied sets with the Grove Street Families resuming the position of the most dominant, active, and powerful set, meaning that any narcotics business the other family sets were involved with would have ended.
+
+Historically, all sets were originally one with the Grove Street Families, but split up from the GSF during the five years of Carl's absence. Earlier in the game, they are not on good terms with each other,<ref name="Families Unity">'''Big Smoke''': "Emmet's Seville Boulevard Families, we ain't too close these days, but nonetheless, I'll take you to see him". (From the [[Nines and AK's]] mission)</ref> primarily because of Grove Street's opposition to drug trafficking, which is one reason for why the gang has weakened, but as stated, they are later allied and reunited again.
+
+Interestingly, the Family-on-Family violence is only referenced in the games storyline. If the player actually walks into Playa del Seville or Temple, the families there will react exactly the same as they would in Ganton and Grove Street. CJ can even recruit members in these areas. The only actual hostilties between family sets occurs during the mission [[Sweet's Girl]], in which the Seville Boulevard Families react with hostility to CJ. It is unknown why the different family sets do not react with hostility outside of this mission or within the game's lore.
+
+==Terms and Slang==
+*OG/Original Gangster: High-ranking, influential, and well-respected member. One that has put in a lot of work
+*Hood: Neighborhood
+*Homie/Home boy/Home girl: Contemporary street slang – a friend
+*Busta/Buster: A fake, fraud, and cowardly poser
+
+==Members and Associates==
+*[[Sweet|Sean "Sweet" Johnson]] {{nd}} Leader/OG
+*[[Carl Johnson|Carl "CJ" Johnson]] {{nd}} Second-in-Command/OG
+*[[Big Smoke|Melvin "Big Smoke" Harris]] {{nd}} Lieutenant/OG (former/[[End of the Line|deceased]])
+*[[Ryder|Lance "Ryder" Wilson]] {{nd}} Lieutenant/OG (former/[[Pier 69 (mission)|deceased]])
+*[[Brian Johnson]] {{nd}} Hang-around/new member before his death (deceased)
+*[[Big Bear|Barry "Big Bear" Thorne]] {{nd}} OG
+*[[B Dup|Mark "B Dup" Wayne]] {{nd}} OG (formerly; became a drug dealer and associated with the Ballas)
+*[[Big Devil]] {{nd}} OG (deceased)
+*[[Little Devil]] {{nd}} OG (deceased)
+*[[Tony (Grove Street Families)|Tony]] {{nd}} OG (deceased)
+*[[Kendl Johnson]] {{nd}} Associate, sister of Sweet, CJ and Brian. Unlike her brothers, Kendl has never been interested in criminal activities and does not belong to the gang, though she frequently wears a green top, emphasizing her ties with the Families.
+*[[Ballas Snitch|Unnamed betrayer]] {{nd}} Former member. Was secretly selling drugs to the Families. Later joined the [[Kilo Tray Ballas]] in Glen Park (former/[[Doberman|deceased]])
+*[[Madd Dogg (3D Universe)|Madd Dogg]] {{nd}} Associate, rapper, and personal friend of Carl and Sweet, CJ being his manager (after the mission [[Madd Dogg (mission)|Madd Dogg]])
+*[[Denise Robinson]] {{nd}} Associate, fanatic, and [[Girlfriends in GTA San Andreas|girlfriend]] of Carl Johnson
+*[[Emmet]] {{nd}} Former weapon supplier (associate of the Seville Boulevard Families)
+*[[OG Loc (3D Universe)|Jeffrey "OG Loc" Cross]] {{nd}} Associate and friend of many OGs, including leader Sweet. Jeffrey grew up on Grove Street, but lacked the physical capability or mentality to join the Families
+*[[LB]] {{nd}} Supplier/associate/possible member and friend of Ryder (although not physically seen, he was mentioned multiple times by Ryder) – likely associated with the Seville Boulevard Families due to owning a garage on their turf
+*[[Fam1]] {{nd}} generic member
+*[[Fam2]] {{nd}} generic member
+*[[Fam3]] {{nd}} generic member
+*Cherise (possibly) – An unseen mentioned character, Fam1 can sometimes be heard saying "Anyone seen Cherise?"
+*[[GMW]] {{nd}} Members of the rap group GMW (Ganton's Most Wanted) are members of the Grove Street Families, as evidenced by the cover art for their album ''[[It's a GMW Thang!]]''.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[Big Smoke (mission)|Big Smoke]]
+*[[Sweet & Kendl]]
+*[[Tagging Up Turf]]
+*[[Cleaning the Hood]]
+*[[Drive-Thru]]
+*[[Nines and AK's]]
+*[[Drive-By]]
+*[[Sweet's Girl]]
+*[[Catalyst]]
+*[[Robbing Uncle Sam]]
+*[[House Party]]
+*[[Doberman]]
+*[[Los Sepulcros]]
+*[[Reuniting the Families]]
+*[[The Green Sabre]]
+*[[Big Smoke's Cash]] <small>(Big Smoke's faction only)</small>
+*[[Home Coming]]
+*[[Beat Down on B Dup]]
+*[[Grove 4 Life]]
+*[[Los Desperados]]
+*[[End of the Line]]
+
+==Quotes==
+{{Main|Grove Street Families/Quotes}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+GroveStreetFamilies-GTASA-CoreMembers.jpg|Left to right: Sweet, Big Smoke, CJ, and Ryder, the main members of the '''Grove Street Families'''.
+</gallery>
+
+===Common members===
+<gallery position="center" spacing="small" widths="250px">
+GSFMember1-GTASA.jpg|'''Grove''' first member.
+GSFMember2-GTASA.jpg|'''Grove''' second member.
+GSFMember3-GTASA.jpg|'''Grove''' third member.
+GroveStreetFamilies-GTASA-Members.jpg|Ditto.
+GroveStreetFamilies-GTASA-GangSigns1.jpg|A '''GSF''' in a pose.
+GroveStreetFamilies-GTASA-GangSigns2.jpg|All gang members standing in line, wielding [[AK47]]s and [[Desert Eagle]]s.
+GroveStreetBallas-GTASA.jpg|Two '''Grove Street''' members fighting with a Balla.
+GroveStreetAztecas-GTASA.jpg|Recruited '''Grove Street''' member fighting with Aztecas.
+</gallery>
+
+===Other Members===
+<gallery position="center" spacing="small" widths="250px">
+GSFMember4-GTASA.jpg|'''Grove''' fourth member, as seen only during some missions.
+GSFMember5-GTASA.jpg|'''Grove''' fifth member, seen only in some missions.
+GroveStreetFamilies-GTASA-TheGreenSabre.jpg|Other members during the mission [[The Green Sabre]].
+Csbigbear2-GTASA.png|'''Grove''' seventh member, found in the cutscene files internally named ''csbigbear2'' "csblue3". It can be used in-game without rigging.
+GSFMember7-GTASA.jpg|'''Grove''' eighth member found in the cutscene files. His internal name is ''csblue2''. He is also seen during [[Customs Fast Track]]. It must be rigged in way to fix the mouth bug.
+Fam1-GTASA-BurgerShot.jpg|'''GSF''' member in Burger Shot (beta version).
+GSF-GTASA-Screenshot.jpg|Early screenshot of '''Grove Street''' members ([[Fam1]] in the front and some beta behind him).
+</gallery>
+
+===Gang tags===
+<gallery position="center" spacing="small" widths="270px">
+SevilleBoulevardFamilies-GTASA-Tag.jpg|Seville Boulevard Families tag.
+GroveStreetFamilies-GTASA-Tag.jpg|A [[Tags|tag]] used by the '''Grove Street Families'''.
+GroveSt-GTASA-Tag.png|Ditto
+</gallery>
+
+===Non-interactive graffiti===
+<gallery position="center" spacing="small" widths="250px">
+GroveStreetFamilies-GTASA-Families4LifeGraffiti.jpg|'''Families''' 4 Life graffiti.
+GroveStreetFamilies-GTASA-FamiliesGraffiti.jpg|'''Families''' graffiti.
+GroveStreetFamilies-GTASA-GroveStreetFamiliesGraffiti.jpg|'''Grove Street''' graffiti.
+Graffiti-GTASA-GroveSt3.png|Another '''Grove Street''' graffiti.
+GroveStreetFamilies-GTASA-OrangeGroveFamiliesGraffiti.jpg|The alternate Orange Grove Families graffiti.
+Graffiti-GTASA-OGF.png|Another OGF graffiti.
+GroveStreetFamilies-GTASA-SevilleBoulevardGraffiti.jpg|Alternate Seville Boulevard Families graffiti.
+GroveStreetFamilies-GTASA-VinewoodCemeteryGraffiti-Balla187Killa.png|Ballas Killa. <small>(Location: [[Vinewood Cemetery]])</small>
+GroveStreetFamilies-GTASA-VinewoodCemeteryGraffiti-Families4Life.png|'''Families''' 4 Life. <small>(Location: [[Vinewood Cemetery]])</small>
+</gallery>
+
+===Artworks===
+<gallery position="center" spacing="small" widths="250px">
+Artwork-GSF-GTASA.jpg|'''Grove Street''' OGs [[Grand Theft Auto: San Andreas/Artwork|artwork]].
+Artwork-GroveStreetFamily-GTASA.jpg|'''Grove Street''' OGs artwork 2.
+GSFVSBALLAS.jpg|'''GSF''' VS. Ballas artwork.
+GSF with Ballas.png|Complete version of '''GSF''' VS. Ballas artwork.
+1694 gtasa scarfface.jpg|'''Grove Street''' member's artwork, [[Scarf Face]].
+</gallery>
+
+==Trivia==
+*Unlike its [[The Families|HD Universe counterpart]], "The Families" is simply a nickname for Grove Street Families, the original gang according to the promotional website, rather than a term to refer to all sets as a whole.
+**Both the Seville Boulevard and Temple Drive Families are referred to as former "Groves/Grove Streets" in mission dialogue, including [[Sweet & Kendl]] post-mission phone call and [[Reuniting the Families]].
+**Carl's dialogue during [[In the Beginning]] confirms that Grove Street Families were always referred to as Grove Street Families as far as the late 1980s, before the split of sets.
+*The Grove Street Families consider the Ballas to be their sworn enemies, and the two were often at war for territory before the GSF's loss of prominence in the city, and again after they begin their revival. This rivalry is often thought to be inspired by {{WP|Los Angeles}}' {{WP|Bloods}} and {{WP|Crips}} gangs. Violence in Los Angeles hit a peak during the early-nineties crack epidemic, a situation mirrored in 1992's Los Santos.
+*The 4 main GSF characters have some striking similarities to the members of the rap group {{WP|N.W.A}}, with [[Ryder]] being based on {{WP|Eazy-E}}, [[Big Smoke]] on {{WP|Suge Knight}}, Sweet on {{WP|Ice Cube}}, and CJ on {{WP|Dr. Dre}}.
+*The GSF model [[Fam1]] is voiced by [[Shawn Fonteno]], who also provides the voice and motion capture of protagonist [[Franklin Clinton]] in ''Grand Theft Auto V''. Fonteno is also the cousin of [[Young Maylay]], who voices Carl Johnson.
+*During early development, the original name for the gang was "Orange Grove Families". This can be plainly seen in several places, notably the "OGF" graffiti all over Los Santos, several dialogue lines between Carl and rival gang members, at least one loading screen depicting a drive-by in an orange gang vehicle, and an upper-back tattoo with "Orange Grove Families" in a street-art design.
+**There is a male NPC wearing an orange and black jersey with the number "12" found in Los Santos. Attacking or threatening this NPC may cause him to say, "Man, I thought we were the same set?".
+*There are two GSF character models that are only seen in the mission cutscenes for [[House Party]], [[Los Sepulcros]], and [[The Green Sabre]]. One member has a bald head and wears a dark green jacket over a light green t-shirt with green khaki pants. The other has a taper fade haircut, wears a green long-sleeve chore jacket and dark blue jeans. These models are named "fam4" and "fam5" in the game files.
+*In the beta, recruited gang members could follow CJ into interiors, as shown in the gallery above.
+*Despite the Families splitting into three sets, Carl can still recruit members from the Seville Boulevard and Temple Drive Families before completing the mission [[Reuniting the Families]].
+*Friendly gang members may insult Carl's appearance, just as other pedestrians do, but will never turn hostile if the player chooses to react negatively.
+*GSF members cannot damage each other with gunfire, but they can still harm each other with melee weapons or vehicles.
+*While equipped with the [[camera]], Carl can ask a friendly gang member to take a photo of him.
+**Aiming the camera at friendly gang members will cause them to stop and make hand-signs.
+*The GSF are usually found with either [[Pistol (3D Universe)|Pistol]]s or [[Tec9]]s. If the player has successfully sprayed all 100 [[Tags|Gang Tags]], they will then carry [[knives]], [[SMG (3D Universe)|SMGs]] and [[Desert Eagle]]s.
+**Any unarmed members that are recruited are given only the [[Pistol (3D Universe)|Pistol]].
+*Similarly to [[cutscenes]] depicting [[C.R.A.S.H.]] members, a specific piece of [https://www.youtube.com/watch?v=iIptDud6_kM background music] is associated with GSF. It can be heard during [[The Introduction]], during the last cutscene of [[Beat Down on B Dup]] and during the last cutscene of [[End of the Line]].
+*The [[Police Maverick (3D Universe)|police helicopters]] that spawn overhead may use their spotlight to illuminate random criminal NPCs in a scripted event. Since possible targets of this event can be GSF members, occasionally the player will notice that recruited members will bail out of a vehicle and run in panic.
+*During the [[Los Santos Riots]], the normally friendly GSF members may also attack CJ.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families}}
+{{Gtasa gangs}}
+}}
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Afro-descendant organizations]]
+
+[[ar:عائلات شارع البستان]]
+[[cs:Grove Street Families]]
+[[de:Grove Street Families]]
+[[es:Familias (Universo 3D)]]
+[[fi:Grove Street Families]]
+[[fr:Familles de Grove Street]]
+[[hu:Grove Street Families]]
+[[id:Grove Street Families]]
+[[it:Famiglie di Grove Street]]
+[[nl:Grove Street Families]]
+[[pl:Rodziny z Grove Street (uniwersum 3D)]]
+[[pt:Grove Street Families]]
+[[ro:Grove Street Families]]
+[[ru:Grove Street Families]]
+[[sr:Гроу Стрит Фемилис]]
+[[tr:Grove Street Families]]
+[[uk:Сім'ї Ґроув-стріт]]
+[[vi:Grove Street Families]]
+[[zh:Grove Street Families]]

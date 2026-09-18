@@ -1,0 +1,270 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] waits outside as [[Sweet Johnson|Sweet]], [[Big Smoke]] and [[Ryder]] leave [[Sweet's House]].
+}}{{line
+|name=CJ
+|dialogue=What's happening with you, Ryder?
+}}{{line
+|name=Big Smoke
+|dialogue=Respect has to be earned, Sweet - just like money.
+}}{{line
+|name=Sweet
+|dialogue=So what you saying? You don't respect me?
+}}{{line
+|name=Big Smoke
+|dialogue=What I'm saying is...
+}}{{line
+|name=Sweet
+|dialogue=Speak up, ni**a!
+}}{{line
+|background=Everyone waits Smoke's answer...
+}}{{line
+|name=Big Smoke
+|dialogue=I'm hungry!
+}}{{line
+|name=CJ
+|dialogue= Oh, man! Shit. Hey, what's going on?
+}}{{line
+|name=Big Smoke
+|dialogue=Man cannot live on bread alone, I know. I tried that shit. Carl, you look a little thin, man. You gotta be hungry, man.
+}}{{line
+|name=CJ
+|dialogue=Yeah, I could eat. Let's roll.
+}}{{line
+|name=Ryder
+|dialogue=What you fools trying to eat. How about some tacos?
+}}{{line
+|name=Sweet
+|dialogue=Tacos? Again? Hell no.
+}}{{line
+|name=Big Smoke
+|dialogue=Chicken, man. No discussion.
+}}{{line
+|name=Ryder
+|dialogue=Man, I don't want no chicken.
+}}{{line
+|name=Sweet
+|dialogue=Carl, you drive. Smoke looks like he's gonna pass out.
+}}{{line
+|background=CJ, Sweet, Big Smoke and Ryder get into Sweet's [[Greenwood (3D Universe)|Greenwood]] and drive to [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] in [[Willowfield]].
+}}{{line
+|name=CJ
+|dialogue=How'd Moms get killed? We gotta talk about it.
+}}{{line
+|name=Ryder
+|dialogue=We all gotta talk about it! They was going for Sweet!
+}}{{line
+|name=Big Smoke
+|dialogue=How you supposed to know that? You know what people are like. Say they have love for you but won't say a word. Too damn scared.
+}}{{line
+|name=Ryder
+|dialogue=Some people say they saw a green Sabre doing the work, then speeding away.
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, but people like to talk, don't they? Anyway, that's half of Santos you talkin' about.
+}}{{line
+|name=Ryder
+|dialogue=Yeah, you right, my bad.
+}}{{line
+|name=CJ
+|dialogue=Hey, bro?
+}}{{line
+|name=Sweet
+|dialogue=They just sprayed the house. I ain't seen shit.
+}}{{line
+|background=CJ, Sweet, Smoke and Ryder arrive at Cluckin' Bell at the drive-thru.
+}}{{line
+|name=Voice Comm
+|dialogue=Can I take your order, please?
+}}{{line
+|name=Big Smoke
+|dialogue=Carl, what do you want? You gotta eat to keep your strength up, man.
+}}{{line
+|name=CJ
+|dialogue=Hey, I'll take a number 9 - fat boy.
+}}{{line
+|name=Ryder
+|dialogue=Gimme a number 9, just like his.
+}}{{line
+|name=Sweet
+|dialogue=Let me get a number 6 with extra dip.
+}}{{line
+|name=Big Smoke
+|dialogue=I'll have two number 9s, a number 9 large, a number 6 with extra dip, a number 7, two number 45s, one with cheese and a large soda.
+}}{{line
+|name=CJ
+|dialogue=Hey, sorry, Bro, you know I gotta know about moms.
+}}{{line
+|name=Sweet
+|dialogue=I know CJ, I know. I mean I'm just trying not to think about it, is all. I mean, I didn't even know she was hit until it was all over... 
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, right, right, right, right, right, right. Let's eat.
+}}{{line
+|background=They start to pull away from the drive-thru.
+}}{{line
+|name=Ryder
+|dialogue=Hey, don't we got beef around here? We been getting into it with these fools.
+}}{{line
+|name=Big Smoke
+|dialogue=I can't stand cold food. Unlike you, I ain't never ate from a trash can.
+}}{{line
+|name=CJ
+|dialogue=Oh, shit - trash can bitch!
+}}{{line
+|name=Sweet
+|dialogue=Pass me my food.
+}}{{line
+|background= Suddenly, they see a [[Ballas (3D Universe)|Ballas]] [[Voodoo (3D Universe)|Voodoo]] drive past on its way to [[Grove Street (3D Universe)|Grove Street]].
+}}{{line
+|name=Ryder
+|dialogue=Hey, hey look - Kilo Trays scoping us out!
+}}{{line
+|name=Sweet
+|dialogue=Damn, Ryder, you're a jinx!
+}}{{line
+|name=CJ
+|dialogue=Shit, them motherfuckers headed to the hood!
+}}{{line
+|background= The Voodoo turns around as the Ballas prepare to perform a drive-by on the GSF members in the Greenwood.
+}}{{line
+|name=Sweet
+|dialogue=DRIVE-BY!
+}}{{line
+|background=CJ begins chasing the Ballas while Sweet and Ryder shoot at them. Big Smoke continues to eat his meal.
+}}{{line
+|name=Sweet
+|dialogue=Hit it! Go, go, go! Hit the gas, we gotta ice these ni**as!
+}}{{line
+|name=Ryder
+|dialogue=Why you ain't blastin', Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=I'll shoot 'em when I'm done eatin'.
+}}{{line
+|name=CJ
+|dialogue=Quit stuffin' your motherfuckin' mouth! Let's go! 
+}}{{line
+|name=Big Smoke
+|dialogue=I ain't stuffin' it homie, I'm enjoyin' my meal. Hey, kill that asshole! Shit, this a great sandwich!
+}}{{line
+|name=Ryder
+|dialogue=Smoke! Stop stuffin' your face and start popping them Ballas!
+}}{{line
+|name=Big Smoke
+|dialogue=I'm trying to enjoy my food!
+}}{{line
+|name=Sweet
+|dialogue=And those fools are trying to enjoy our deaths! Now, c'mon, Smoke, shoot!
+}}{{line
+|name=Big Smoke
+|dialogue=Hey, I'm just finishing my fries!
+}}{{line
+|background=If CJ crashes the car...
+}}{{line
+|name=Big Smoke
+|dialogue=My special!
+}}{{line
+|name=Ryder
+|dialogue=Aw, shi! You got ketchup all over the seat!
+}}{{line
+|name=Big Smoke
+|dialogue=The business at hand, motherfucker, the business at hand!
+}}{{line
+|name=Ryder
+|dialogue=But these was clean pants!
+}}{{line
+|background=If CJ keeps crashing the car...
+}}{{line
+|name=Ryder
+|dialogue=CJ, watch the damn road!
+}}{{line
+|name=Big Smoke
+|dialogue=Chill, motherfucker! This ain't a Sunday drive situation! 
+}}{{line
+|name=Ryder
+|dialogue=My soda! It's all over the fucking floor!
+}}{{line
+|name=Sweet
+|dialogue=Well, you can suck it up once we're done! Now keep your eyes on the Ballas car! 
+}}{{line
+|background=CJ, Sweet and Ryder kill the Ballas and head back to Sweet's house.
+}}{{line
+|name=Ryder
+|dialogue=Damn, that was some serious shit!
+}}{{line
+|name=Sweet
+|dialogue=Yeah, man, those Ballas fools won't try that again! Come on, let's get back to the Grove.
+}}{{line
+|name=CJ
+|dialogue=Alright, I'm on it.
+}}{{line
+|name=Big Smoke
+|dialogue=Oh man! That food filled the hole!
+}}{{line
+|name=Ryder
+|dialogue=You chubby motherfucker! Next time you better start blasting or I blast you myself!
+}}{{line
+|name=Sweet
+|dialogue=Smoke, you wide, man, I mean ''wide!''
+}}{{line
+|name=Big Smoke
+|dialogue=And that's why you love me, baby!
+}}{{line
+|background=Carl drives back to Grove Street.
+}}{{line
+|name=Big Smoke
+|dialogue=That's one up for the Grove!
+}}{{line
+|name=Ryder
+|dialogue=Say what, Smoke? All you managed to do was eat my damn food up!
+}}{{line
+|name=Big Smoke
+|dialogue=Yeah, it was gettin' cold!
+}}{{line
+|name=Sweet
+|dialogue=Y'all comin' in for a beer?
+}}{{line
+|name=Big Smoke
+|dialogue=Nah baby, I need to get back to the crib. CJ, gimme a ride? 
+}}{{line
+|name=CJ
+|dialogue=Alright Smoke, let's go. See y'all later. 
+}}{{line
+|background=CJ and Big Smoke drive to [[Big Smoke's House]] in [[Idlewood]].
+}}{{line
+|name=CJ
+|dialogue=What was with you back there, Smoke?
+}}{{line
+|name=Big Smoke
+|dialogue=Man, if you can eat your food, while everyone else is losing theirs and blaming you, you straight homie.
+}}{{line
+|name=CJ
+|dialogue=What?
+}}{{line
+|name=Big Smoke
+|dialogue=Nothin', nothin'. Just some poetry i read.
+}}{{line
+|name=CJ
+|dialogue=Hey Smoke, tell me why you moved out the Grove?
+}}{{line
+|name=Big Smoke
+|dialogue=Man, got some money from my aunt - i mean it's a nice place and all, but the Grove is in my heart, baby - it's where my dogs is at.
+}}{{line
+|name=CJ
+|dialogue=Yeah, OK homie.
+}}{{line
+|background=CJ and Big Smoke stop at Big Smoke's Home.
+}}{{line
+|name=Big Smoke
+|dialogue=Hey thanks, Carl. Hey, I've missed having you around, baby.
+}}{{line
+|name=CJ
+|dialogue=Thanks, man. I wish Sweet thought like that.
+}}{{line
+|name=Big Smoke
+|dialogue=He don't mean it, CJ. He's still real tor'up about your moms, man. Here, get yourself a little smokey smoke on Smoke, and relax, homie.
+}}}}<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

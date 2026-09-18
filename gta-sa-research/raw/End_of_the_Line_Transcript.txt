@@ -1,0 +1,163 @@
+{{Scriptbox|style=gtasa|
+{{line|background= [[Carl Johnson]] enters [[Sweet's House]], looking for his brother, [[Sweet Johnson]], having found out where [[Big Smoke]] is hiding.}}
+{{line|name=CJ|dialogue=Hey, Sweet!}}
+{{line|name=Sweet|dialogue=Wassup?}}
+{{line|name=CJ|dialogue=It's time for Smoke.}}
+{{line|name=Sweet|dialogue=Alright let's roll.}}
+{{line|name=CJ|dialogue=Johnson brothers fittin' to take that fat fool down!}}
+{{line|background=CJ and Sweet head outside, get into Sweet's [[Greenwood (3D Universe)|Greenwood]] and drive to [[Big Smoke's Crack Palace]] in [[East Los Santos (3D Universe)|East Los Santos]].}}
+{{line|name=CJ|dialogue=You sure he in East Los Santos?}}
+{{line|name=Sweet|dialogue=Yeah, right on the edge of Los Flores - some old apartments and a warehouse.}}
+{{line|name=CJ|dialogue=He as good as dead, then! I can't believe you bought the same bucket-ass car, man.}}
+{{line|name=Sweet|dialogue=Hey, if it ain't broke, don't fix it. So, this is it, huh? Johnson boys sorting shit out.}}
+{{line|name=CJ|dialogue=Yeah.}}
+{{line|name=Sweet|dialogue=Nervous?}}
+{{line|name=CJ|dialogue=Yeah.}}
+{{line|name=Sweet|dialogue=Me too, me too.}}
+{{line|background=CJ and Sweet arrive just outside Smoke's palace. Sweet loads his pistol.}}
+{{line|name=CJ|dialogue=Look, I know you down for this, but I gotta go in there alone.}}
+{{line|name=Sweet|dialogue=What?}}
+{{line|name=CJ|dialogue=Smoke played me, Tenpenny played me.}}
+{{line|name=Sweet|dialogue=They played us all.}}
+{{line|name=CJ|dialogue=Yeah, but you're right - I was a buster when my family needed me the most. Hey, I let Brian die, man. This one's for him, for Moms... and for you, bro.}}
+{{line|name=Sweet|dialogue=For Grove Street, baby!}}
+{{line|name=CJ|dialogue=Yeah, for the Grove, baby.}}
+{{line|background=CJ opens the car's door.}}
+{{line|name=Sweet|dialogue=Hey - if you need me, you know where I'll be.}}
+{{line|name=CJ|dialogue=For sure. You've always been there for me, man.}}
+{{line|background=CJ gets out of Sweet's car. He finds that the entrance to Smoke's fortress is heavily reinforced.}}
+{{line|background='''''NOTE:''''' The following line will play if CJ tries to return to Sweet's car''.}}
+{{line|name=Sweet|dialogue=CJ, you lost your nerve or what?}}
+{{line|background=CJ finds a [[S.W.A.T. (vehicle)|S.W.A.T.]] tank, steals it and uses it to break into the fortress. From there, he heads through Smoke's palace and kills anyone that gets in his way, through the security area, the drug lab, and the [[Ballas (3D Universe)|Ballas]] lounge, until he reaches Big Smoke in his suite, who's wearing [[Body Armor|body armor]] and playing a video game. CJ greets Smoke by pointing a gun at him.}}
+{{line|name=CJ|dialogue=Hey, Smoke!}}
+{{line|name=Big Smoke|dialogue=Hey, CJ, I was wondering when you'd show up.}}
+{{line|name=CJ|dialogue=How'd you know it was me?}}
+{{line|name=Big Smoke|dialogue=Knew it was my old dog CJ. Knew you was coming and I don't give a shit.}}
+{{line|name=CJ|dialogue=I'm here to take care of your fat ass, then I'm gonna take care of your friends in the police department. Where they at?}}
+{{line|name=Big Smoke|dialogue=Man, fuck this shit.}}
+{{line|background=Smoke throws his controller down and smokes some crack.}}
+{{line|name=Big Smoke|dialogue=Man, that's some good shit...}}
+{{line|name=CJ|dialogue=''(not in subtitles)'' Man, you and Tenpenny...}}
+{{line|name=Big Smoke|dialogue=Fuck Tenpenny and fuck his Polish lap dog, and fuck the police, man. All that's old shit! Look at you, you got the whole world! I ain't got no regrets, man.}}
+{{line|name=CJ|dialogue=''(not in subtitles)'' Smoke, you had...}}
+{{line|name=Big Smoke|dialogue=''I made it, CJ, I'm a success!'' '''I can't be touched!''' I don't give a fuck, fuck the whole world...}}
+{{line|name=CJ|dialogue=What happened to you, man?}}
+{{line|name=Big Smoke|dialogue=Man, what the fuck do ''you'' care? ''(sighs)'' Guess we better do this shit, then.}}
+{{line|background=Smoke picks up his gun and attempts to fight CJ.}}
+{{line|name=CJ|dialogue=You wearing body armor, Smoke? Man, I'm disappointed in you - I thought you was gangsta!}}
+{{line|name=Big Smoke|dialogue=Hey, I'm a motherfucking celebrity! All kinds of crazy cats out there want a piece of me! Somebody save the Smoke!}}
+{{line|background=Smoke's various allies, including the Ballas, the [[Los Santos Vagos (3D Universe)|Vagos]], and the [[San Fierro Rifa|Rifa]], attempt to defend Smoke. As he is being shot by CJ, he switches the lights off in an attempt to handicap his former friend.}}
+{{line|name=Big Smoke|dialogue=Shoot him, help me!}}
+{{line|background=Ultimately, it ends up being a fruitless effort, as CJ takes Big Smoke down, and confronts him as he's about to bleed out.}}
+{{line|name=CJ|dialogue=Hey, Smoke, what made you flip out like that, man? Was it the drugs, or what?}}
+{{line|name=Big Smoke|dialogue=I got caught up in the money, ''(coughs)'' the power...I don't give a shit. Oh fuck, man... ''(coughs)''}}
+{{line|name=CJ|dialogue=Why you just didn't quit, man? We was like family, homie!}}
+{{line|name=Big Smoke|dialogue=I had no choice, I had to do it...I just see the opportunity. ''(coughs)'' When I'm gone, everyone gonna remember my name - Big Smoke!}}
+{{line|background=Big Smoke dies.}}
+{{line|name=CJ|dialogue=Oh, damn, man...what a waste.}}
+{{line|background=As CJ mourns his dead friend-turned-enemy, [[Frank Tenpenny]] greets CJ with a suitcase and a [[Combat Shotgun]].}}
+{{line|name=Tenpenny|dialogue=Carl Johnson - my man! I need you to do me another favor. You killed Pulaski, and now this fat fuck? There's no stopping you! Drop the gun.}}
+{{line|background=CJ drops his gun.}}
+{{line|name=CJ|dialogue=You ain't leaving here alive, man.}}
+{{line|name=Tenpenny|dialogue=Where's your brother at, huh?}}
+{{line|name=CJ|dialogue=Why you just didn't shoot me in the back? Feeling exposed, huh?}}
+{{line|name=Tenpenny|dialogue=Shut your dumbass up and load the bag. C'mon, let's go, I ain't got time to fuck with you!}}
+{{line|name=CJ|dialogue=So what it's like, Tenpenny, huh? All alone, nobody got your back, suck, huh?}}
+{{line|name=Tenpenny|dialogue=Why you think I'm alone? I got a couple of rookies outside, but I gotta open their eyes slowly, you know - a little truth here, a little truth there...}}
+{{line|background=CJ loads Tenpenny's suitcase with some of Smoke's drug money.}}
+{{line|name=Tenpenny|dialogue=A'ight, fuck it, that's enough. Chuck it over, I've got a firetruck to catch.}}
+{{line|background=CJ gives the suitcase back to Tenpenny.}}
+{{line|name=CJ|dialogue=You're crazy man, you've lost it... you're gone.}}
+{{line|name=Tenpenny|dialogue=Half the city is looking for cops to kill, Carl, and I ain't about to get dragged out of a patrol car and get beaten to death by some angry mob. No, no, not tonight.}}
+{{line|name=CJ|dialogue=What you catching, a plane?}}
+{{line|name=Tenpenny|dialogue=Ding-ding-ding-ding-ding! Good answer, Carl! You know, you're gonna thank me one day for opening your fucking eyes. Oh, I almost forgot, Carl! ''(cocks his shotgun)'' Time to die!}}
+{{line|name=CJ|dialogue=Uh, Sweet!}}
+{{line|name=Tenpenny|dialogue=What? Motherf-}}
+{{line|background=CJ dodges Tenpenny's gunshots.}}
+{{line|name=Tenpenny|dialogue=It ain't over, Carl, it ain't over!}}
+{{line|background=Tenpenny grabs his suitcase and flees to a power generator, firing his shotgun at it.}}
+{{line|name=Tenpenny|dialogue=Carl, you motherfucking piece of shit gang-banging cocksucker!}}
+{{line|background=The power generators explode, causing a blackout in the building, with the whole fortress beginning to burn down and fall apart. CJ makes his way downstairs to escape and kills everybody that gets in his way. CJ barely makes his escape through the flames as the entire building explodes. Tenpenny attempts to make his escape by stealing a nearby [[Firetruck (3D Universe)|firetruck]].}}
+{{line|name=Sweet|dialogue=Tenpenny, you motherfucking piece of shit! I ain't letting you get away with all you've done!}}
+{{line|background=Sweet jumps on the ladder on the back of the truck.}}
+{{line|name=CJ|dialogue=Sweet, no!}}
+{{line|background=CJ gets into a [[Feltzer]] parked nearby and begins chasing Tenpenny, as well as attempting to save his brother.}}
+{{line|name=CJ|dialogue=Hang on, Sweet!}}
+{{line|background=Tenpenny drives to [[Los Flores]] and [[Las Colinas]], where rioting Vagos members throw [[Molotov Cocktails]] at CJ.}}
+{{line|name=Sweet|dialogue=I'm gonna piss on your corpse, Tenpenny! I ain't losing this fool! Oh, SHIT!}}
+{{line|background=The chase continues in [[Glen Park]] and [[Jefferson (neighborhood)|Jefferson]].}}
+{{line|name=Sweet|dialogue=CJ, do something!}}
+{{line|name=CJ|dialogue=Just keep hanging on, bro!}}
+{{line|background=The chase continues in [[Idlewood]], as Tenpenny soon drives on the train tracks, avoiding an oncoming [[Brown Streak|train]].}}
+{{line|name=Sweet|dialogue=Oh man, that was a close call! I ain't letting this bastard go!}}
+{{line|background=The chase continues in [[Ocean Docks]]. At this point, an [[C.R.A.S.H. Rookies|LSPD officer]] gets out from the other side of the firetruck and attempts to stomp on Sweet's fingers to make him lose his grip.}}
+{{line|name=C.R.A.S.H. Rookie|dialogue=Let go, you dumb bastard!}}
+{{line|name=Sweet|dialogue=Fuck you, pig! Ow, my fingers!}}
+{{line|background=CJ catches Sweet.}}
+{{line|name=CJ|dialogue=Gotcha! Take the wheel, it's payback time!}}
+{{line|background=CJ and Sweet switch seats, as Sweet begins driving and CJ pulls out his [[Micro SMG (3D Universe)|Micro SMG]] in the other seat.}}
+{{line|name=Sweet|dialogue=Motherfucker! Take that pig bastard down!}}
+{{line|background=CJ shoots at the cops in the firetruck, but the truck shows no visible damage.}}
+{{line|name=Sweet|dialogue=Those firetrucks are indestructible, we ain't gonna dent it! Watch our six, cops on our tail!}}
+{{line|background=Two LSPD [[Police (vehicle)|cars]] chase down Sweet and CJ, and CJ fends them off.}}
+{{line|name=Sweet|dialogue=Vagos rioters coming up! This city's gone nuts!}}
+{{line|background=The Vagos throw more Molotov Cocktails at them, with some giving chase in [[Tornado]]s, with the chase going through Los Flores.}}
+{{line|name=Sweet|dialogue=I'll keep with with Tenpenny, don't you worry! Concentrate on keeping all these other lunatics off our backs, CJ!}}
+{{line|background=Tenpenny flees towards [[East Beach]], where more Vagos members throw more Molotovs at Sweet and CJ.}}
+{{line|name=Sweet|dialogue=Rioters on the bridge up ahead! They're dropping shit from that bridge! Look out, CJ! Watch our six, some rioters after us on bikes!}}
+{{line|background=As Tenpenny makes his way to [[Willowfield]], Vagos members chase after Sweet and CJ on [[Sanchez]] bikes.}}
+{{line|name=Sweet|dialogue=Look out, CJ! Crazy bikers on a rampage! I'm on Tenpenny, he ain't getting away!}}
+{{line|background=More LSPD cars escort Tenpenny and attack Sweet and CJ.}}
+{{line|name=Sweet|dialogue=Cops on our tail! Cops up ahead! Where'd all these assholes come from?!}}
+{{line|name=CJ|dialogue=Down in flames! DOWN IN FLAMES!}}
+{{line|name=Sweet|dialogue=That's my dog!}}
+{{line|background=The chase continues in [[Ganton]].}}
+{{line|name=CJ|dialogue=It's over, Tenpenny, OVER! I'm a stop you, motherfucker!}}
+{{line|background=Tenpenny heads back into East Los Santos, but suddenly loses control of the truck.}}
+{{line|name=Sweet|dialogue=He's losing control!}}
+{{line|name=CJ|dialogue=We've got the motherfucker!}}
+{{line|background=The firetruck crashes through the [[Ganton Bridge]] and into [[Grove Street (3D Universe)|Grove Street]]. Tenpenny gets out of the truck, heavily injured.}}
+{{line|name=Tenpenny|dialogue=Come on, assholes! ''(coughs)'' I'll take you all! You're mine! ''Mine!'' I run this town! Hey, over here, HEY! Officer down! Come on, HEY! ''(coughs)''}}
+{{line|background=Realizing that no one is coming to help him, Tenpenny drops on his knees in defeat.}}
+{{line|name=Tenpenny|dialogue=Assholes! You never understood what I did! Fifty of me, and this town would be okay! ''(coughs)'' I took the trash out! '''I DID!''' ''(coughs)'' And I'd do it all again... ''(coughs)''}}
+{{line|background=Sweet, CJ, [[Kendl Johnson]], [[Cesar Vialpando]] and [[The Truth]] witness Tenpenny dying, CJ points a gun at Tenpenny as he dies from his injuries.}}
+{{line|name=Sweet|dialogue=Don't...don't do it, man, he's gone.}}
+{{line|background=CJ puts his gun away.}}
+{{line|name=CJ|dialogue=I just wanna be sure it's over, man, that's all.}}
+{{line|name=Sweet|dialogue=It's cool, don't need to put a bullet in him. He killed hisself in a traffic accident, no one to blame. Let's roll.}}
+{{line|name=The Truth|dialogue=I mean, far out, man! You know, I mean, you beat the system. I tried for thirty years to cross over, but you've managed it, man. I mean, man, you're an icon, man!}}
+{{line|name=CJ|dialogue=Oh - thanks, man.}}
+{{line|name=Kendl|dialogue=I'm just glad it's finally over.}}
+{{line|name=Sweet|dialogue=What's up with Smoke?}}
+{{line|name=CJ|dialogue=You know what's up with Smoke. He always saw things a little different than us.}}
+{{line|name=Kendl|dialogue=Smoke? Smoke was always on his own, always out for self.}}
+{{line|name=The Truth|dialogue=That is the surest path to hell, man. Well, that or fifteen microdots and an ounce of mescaline.}}
+{{line|name=Cesar|dialogue=Let's go get something to eat.}}
+{{line|name=Sweet|dialogue=Sounds good to me.}}
+{{line|background=As everyone else leaves. CJ turns over Tenpenny's corpse to taunt him one last time.}}
+{{line|name=CJ|dialogue=See you around...officer!}}
+{{line|background=CJ then leaves the scene. A while later, he and his friends and family are in the [[Johnson House]], discussing what to do next.}}
+{{line|name=CJ|dialogue=Hey, now that everything is cool, we gotta stay on top of our game. Keep everything in check, but subtle.}}
+{{line|name=Kendl|dialogue=We've got problems in Venturas, problems in San Fierro, shit's never ending.}}
+{{line|name=Sweet|dialogue=For sure. I mean, the Families is back on their feet, but we gotta keep shit tight cuz a lot of people have they eyes on us.}}
+{{line|background=Somebody enters the house. Sweet, CJ and Cesar pull out their pistols, only for the guests to be revealed as [[Ken Rosenberg]], [[Madd Dogg (3D Universe)|Madd Dogg]], [[Kent Paul]] and [[Maccer]].}}
+{{line|name=Ken|dialogue=Whoa, whoa, whoa, whoa! I come in peace with Mr. Dogg here, who has an announcement.}}
+{{line|name=Madd Dogg|dialogue=My, I mean '''our''' first gold record!}}
+{{line|background=Everyone cheers.}}
+{{line|name=Maccer|dialogue=And I've decided to get breast implants.}}
+{{line|name=Paul|dialogue=Oh, shut up, will ya?}}
+{{line|name=Cesar|dialogue=Biyonco, ese!}}
+{{line|background=Paul escorts Maccer to the kitchen.}}
+{{line|name=Paul|dialogue=''(not in subtitles)'' Jog on.}}
+{{line|name=CJ|dialogue=Anyway, what's next?}}
+{{line|name=Kendl|dialogue=We should hit the casinos, roll some dice with Woozie.}}
+{{line|name=Sweet|dialogue=Nah, we gotta take care of shit here first.}}
+{{line|name=Madd Dogg|dialogue=We're going on tour, fan!}}
+{{line|name=Ken|dialogue=Has anyone got a tissue? My nose...it just won't stop running - anybody?}}
+{{line|name=Maccer|dialogue=Yeah, I have, over here!}}
+{{line|name=Ken|dialogue=Uh, I'll pass.}}
+{{line|name=Kendl|dialogue=Carl, where are you off to now?}}
+{{line|name=CJ|dialogue=Fittin' to hit the block, see what's happening.}}
+{{line|background=CJ leaves the house. Cue [[Credits in GTA San Andreas|end credits]].}}
+}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

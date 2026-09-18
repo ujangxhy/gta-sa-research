@@ -1,0 +1,42 @@
+{{Disambiglink|Not to be confused with [[Cindy (Booty Call)|Cindy]], a [[Booty Call]] in [[The Ballad of Gay Tony]].}}
+{{Infobox character
+|name           = Cindy
+|image          = Cindy-TBoGT.png
+|status         = Alive
+|gender         = F
+|affiliations   = 
+*[[Tony Prince]]
+*[[Luis Fernando Lopez]]
+|home           = [[Liberty City (HD Universe)|Liberty City]], [[State of Liberty (HD Universe)|Liberty]]
+|businesses     = Bartender at [[Maisonette 9]]
+|games          = {{Games|TBOGT=y}}
+|voice          = Unknown
+}}
+'''Cindy''' is a minor character in {{TBOGT}}.
+
+==History==
+===Background===
+Cindy is a waitress at [[Maisonette 9]] working for [[Tony Prince]].
+
+===Events of ''The Ballad of Gay Tony''===
+Cindy is briefly seen during the mission [[Chinese Takeout]], and has a short amount of dialogue in [[Boulevard Baby]] after Tony orders her to give [[Luis Fernando Lopez]], [[Ray Bulgarin]], and [[Timur]] a round of drinks on the house.
+
+When competing in the [[Champagne Drinking Contest]], Cindy brings the bottle of champagne up to Luis, and puts a lit sparkler into the neck of the bottle.
+
+==Character==
+===Appearance===
+Cindy has the same character model as [[Cloe Parker]] and [[Shirley Harlingford]], though she has black hair whilst Parker and Harlingford are brunettes.
+
+==Mission Appearances==
+*[[Chinese Takeout]]
+*[[Boulevard Baby]]
+*[[Daisy Cash-Cooze]]'s [[Random characters/TBOGT|Random Encounter]]
+
+==Navigation==
+{{Navbox tbogt characters}}
+[[de:Cindy (TBoGT)]]
+[[es:Cindy]]
+[[pl:Cindy]]
+[[ru:Синди]]
+[[Category:Characters in TBOGT]]
+[[Category:Female characters]]

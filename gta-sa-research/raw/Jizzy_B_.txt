@@ -1,0 +1,86 @@
+{{Disambiglink|For the mission, see [[Jizzy (mission)|Jizzy]].}}
+{{infobox character
+|name           = Jizzy B.
+|image          = JizzyB-GTASA.png
+|games          = {{Games|SA=y}}
+|gender         = M
+|status         = [[Ice Cold Killa|Deceased]]
+|dod            = [[1992]]
+|pod            = [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|cod            = Killed by [[Carl Johnson]] while escaping on foot (player-chosen method)
+|home           = [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*[[Loco Syndicate]]
+*[[Mike Toreno]] <small>(Formerly)</small>
+*[[T-Bone Mendez]] {{Status|D1=y}}
+*[[San Fierro Rifa]]
+*[[Big Smoke]] {{Status|D1=y}}
+*[[Ryder]] {{Status|D1=y}}
+*[[Carl Johnson]] <small>(Formerly)</small>
+|businesses     = 
+*[[Jizzy's Pleasure Domes]]
+*Pimping
+*Drug Dealing
+|vehicles       = 
+*Beige "{{H:title|License plate|<code>HO 2 HO</code>}}" [[Broadway]] ([[Jizzy (mission)|formerly]])
+*Marine [[Broadway]]
+*Black [[Stretch]]
+|voice          = [[Charlie Murphy]]
+|aka            = 
+*Jizzy
+*{{H:title|by Jizzy's girl|Jiz}}
+|weapons        = [[Micro SMG (3D Universe)|Micro SMG]]
+}}
+{{Quote|See I only got two eyes, and on these streets you got to have more than that. You got to be like a fly on shit, you know? A hundred eyes, everywhere.|Jizzy B. to [[Carl Johnson]] in [[Jizzy (mission)|Jizzy]].|sound=JizzyB-GTASA-Quote.ogg}}
+
+'''Jizzy B.''' is a main character and a minor [[antagonist]] in {{SA}}.
+
+He was voiced by the late [[Charlie Murphy]].
+
+==History==
+===Background===
+Jizzy is an infamous [[pimp]] in [[San Fierro (3D Universe)|San Fierro]], who owns the [[Jizzy's Pleasure Domes|Pleasure Domes]] [[nightclub]] under the [[Gant Bridge]]. It is a gentleman's club, where Jizzy surrounds himself with [[prostitutes]], whom he verbally abuses. Jizzy is a member of the [[Loco Syndicate]] drug cartel in San Fierro. Jizzy is the Cartel's face and charisma, recruiting men to pull hits, errands and other business for the Syndicate's dealings.
+
+Jizzy owns a special [[Broadway]] called the "Pimpmobile" which has purple seats with a beech-colored paint job and a personalised license plate which reads ''HO 2 HO'', alongside a black [[Stretch]]. After his first Broadway is given an APB, he buys another Broadway with the same license plate, albeit colored fully viridian green.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+[[Carl Johnson]] becomes aware of the "big deal" between the Loco Syndicate and representatives from [[Big Smoke]]'s [[Cocaine|crack]] empire, and decides to use Jizzy B to learn about the Syndicate's business dealings.
+
+[[Wu Zi Mu]] informs Carl that the "big deal" meeting is with [[Ryder]] and the [[Ballas (3D Universe)|Ballas]], and Carl has to take Jizzy's carphone in order to find out about where the meeting will take place. Carl then drives to the Pleasure Dome, sneaks in via the rooftop and after Jizzy has a confrontation with [[Bettina]], Carl kills the pimp's bodyguards in a shootout. A car chase ensues and Carl goes after and kills Jizzy B as he tries to escape in his [[Broadway]].
+
+Jizzy B can be heard on the radio show [[Lonely Hearts]] on [[West Coast Talk Radio (3D Universe)|WCTR]] during its first session, where he tells listeners that they can come down to the Pleasure Domes and hang out with his hookers. However, [[Christy MacIntyre]] hangs up his call after believing it is not how Lonely Hearts works at all.
+
+==Prominent Appearances in Gameplay==
+*[[Photo Opportunity]]
+*[[Jizzy (mission)|Jizzy]]
+*[[T-Bone Mendez (mission)|T-Bone Mendez]] <small>(Boss)</small>
+*[[Mike Toreno (mission)|Mike Toreno]] <small>(Boss)</small>
+*[[Outrider]] <small>(Voice/Boss)</small>
+*[[Ice Cold Killa]] <small>(Killed)</small>
+
+==Gallery==
+<gallery position="center" widths="270px">
+JizzyB-GTASAde.png|'''Jizzy B.''' in {{TDE}} of {{SA}}.
+</gallery>
+
+==Trivia==
+*Jizzy may have been influenced by ''Buc Nasty'', a pimp played by Jizzy's late voice actor [[Charlie Murphy]] in "The Playa Hater's Ball" skits from ''{{WP|Chappelle's Show}}''. In the introduction cutscene to Jizzy, his mannerisms and vocabulary are also identical to the character "Bell", played by [https://en.wikipedia.org/wiki/Roger_Robinson_(actor) Roger Robinson] from the movie [https://en.wikipedia.org/wiki/Willie_Dynamite Willie Dynamite].[https://en.wikipedia.org/wiki/Willie_Dynamite]
+*Jizzy claims that he invented the ''"I Gotta Bounce!"'' trick to get out of a slippery situation. He states this to [[T-Bone Mendez]] in the mission [[T-Bone Mendez (mission)|of the same name]].
+*Jizzy wears a purple pimp suit similar to [[Carl Johnson]]'s [[Pimp Suit|blue pimp suit]] that is given to him by his first girlfriend, [[Denise Robinson]], with the difference of having shorter shirt collar, lack of shirt cuffs, and the platform shoes are in white color.
+*Jizzy's name is derived from the word "jizz", a slang term for semen.
+
+==Navigation==
+{{Navbox gtasa characters|state=collapsed}}
+
+[[pl:Jizzy B.]]
+[[pt:Jizzy B]]
+[[ru:Джиззи Би]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Deceased characters]]
+[[Category:Male characters]]
+[[Category:Gangsters]]
+[[Category:Mission givers]]
+[[Category:Antagonists]]
+[[Category:Killed by Carl Johnson]]

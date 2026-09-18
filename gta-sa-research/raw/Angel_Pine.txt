@@ -1,0 +1,183 @@
+{{Cleanup}}
+{{Infobox_location
+|Name Change = TOWN
+|name = Angel Pine
+|image = AngelPine-GTASA-Collage.png
+|caption = From top to bottom, left to right: Overview of Angel Pine, street view of town, [[Mount Chiliad (3D Universe)|Mount Chiliad]] seen from town, the [[Angel Pine Sawmill]] on the border of [[Shady Creeks]] and [[Angel Pine Junkyard]] in the outskirts of town.
+|games = {{Games|SA=y}}
+|location = [[Whetstone]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+AngelPine-GTASA-Map.jpg|Angel Pine
+AngelPine-GTASA-WhetstoneMap.jpg|Whetstone
+AngelPine-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner       = PoliceScanner-GTASA-AngelPine.ogg
+}}
+{{Quote|Logging town at the foot of Mount Chiliad, now a center for outdoor sports such as mountain biking and wearing expensive outdoor clothing.|GTA San Andreas Website.}}
+'''Angel Pine''' is a small rural town located in [[Whetstone]], [[State of San Andreas (3D Universe)|San Andreas]] in {{SA}}.
+
+==Description==
+Located in [[Whetstone]], Angel Pine is a small, rural town nestled between [[Mount Chiliad (3D Universe)|Mount Chiliad]] and the forests of [[Shady Creek]]. It boasts an amazing view of the mountain and is virtually a minute away from the eeriness of [[Shady Cabin]] (situated in the heart of [[Shady Creeks]]) and minutes away from [[San Fierro (3D Universe)|San Fierro]] via the highway to northern [[Foster Valley]].
+
+The primary industry in the town is the [[Angel Pine Sawmill]]. There is a [[Save Point|save point]] in the Angel Pine trailer park and the [[Angel Pine Safehouse]], which can be bought for [[Money|$]] 20,000. The town features a [[Angel Pine Sheriff's Station|Sheriff`s Office]] and a [[Angel Pine Medical Center|medical center]]. The population is mainly working class whites and farmers.
+
+==Influence==
+Angel Pine appears to be based on [https://en.wikipedia.org/wiki/Boulder_Creek,_California Boulder Creek, California], considering the layout of the town and the town being within a densely forested area with mountainous hills rising above the community, and the relatively close proximity to San Francisco, even including a liquor store arrow sign in Angel Pine that appears similar to [https://www.roadarch.com/20/7/johnnies.jpg a sign] in Boulder Creek, although also sharing similarities, as well as a similar name, with [https://en.wikipedia.org/wiki/Lone_Pine%2C_California Lone Pine, California], and, considering a single significantly large mountain rising above the community, also being similar to [https://en.wikipedia.org/wiki/Weed,_California Weed, California].
+
+==Events of ''Grand Theft Auto: San Andreas''==
+{{Spoiler}}
+After the deadly [[Mulholland Intersection]] [[The Green Sabre|shoot-out]] with the [[Ballas (3D Universe)|Ballas]] in [[Los Santos (3D Universe)|Los Santos]], [[Carl Johnson]] is forced by [[C.R.A.S.H.]] officers [[Frank Tenpenny]] and [[Eddie Pulaski]] to perform various tasks for them, using the recent incarceration of Carl's brother [[Sweet Johnson|Sweet]] as leverage. Tenpenny and Pulaski deposit Carl in the remote town of Angel Pine in [[Whetstone]], a region of [[Flint County (3D Universe)|Flint County]] in [[State of San Andreas (3D Universe)|San Andreas]]. Carl, who has been stripped of all weapons and given only a [[Camera|camera]], is ordered to [[Badlands|flush out and murder]] a [[The Informant|witness]] who is hiding in a cabin on nearby [[Mount Chiliad (3D Universe)|Mount Chiliad]]. He rushes up the side of the mountain to find a cabin closely guarded by the [[Federal Bureau of Investigation|FBI]]. By creating a commotion, Carl succeeds in luring the terrified witness from the cabin, who races down the mountain in a [[Washington|car]]. After chasing him down, Carl kills him and photographs his body as proof for Tenpenny and Pulaski that their problem has been taken care of.
+
+<gallery widths="210" position="center">
+TheGreenSabre-GTASA-CJTenpennyPulaski.png|Tenpenny telling Carl what is happened to [[Sweet Johnson|Sweet]] and [[Kendl Johnson|Kendl]].
+TheGreenSabre-GTASA-CarlPulaskiTenpenny.png|Pulaski explains CJ what he will do.
+</gallery>
+
+After [[Catalina]]'s first robbery, [[Carl Johnson|CJ]] receives a call from a strange subject, it turns out to be The Truth. During the call, [[The Truth]] asks him to go to a Hotel in Angel Pine. Carl arrives at the Hotel, and there is Tenpenny smoking a bong. Then, The Truth appears, and Tenpenny leaves the Hotel and tells him to talk a while with Carl. The Truth tells Carl that he has problems with some farmers and to steal their combine harvester.
+
+<gallery widths="210" position="center">
+BodyHarvest-GTASA-Mission.png|The Truth explains to Carl his problems.
+</gallery>
+
+After Carl takes the [[Combine Harvester]] to The Truth's Farm, he receives a call from Cesar. The latter tells Carl that his [[Varrios Los Aztecas (3D Universe)|gang]] is dissolved, so he had to leave Los Santos, and now he and [[Kendl Johnson|Kendl]] are in [[Angel Pine Save Point|CJ's trailer]]. Once CJ reaches the trailer, Cesar tells him that he intends to return back in Los Santos to restore the order in the neighborhood, but Carl and Kendl dissuade him from doing so. Carl tries to calm Cesar, but him reminds and explains to Carl that Big Smoke and the C.R.A.S.H. team are behind the drug dealing. Carl responds to Cesar with incredulity, arguing that Big Smoke would never get involved in drug dealing, and that the drug epidemic is the fault of the C.R.A.S.H. team. Both Kendl and Cesar try to convince Carl of Smoke's responsibility for the dealing and Balla/LSPD ambush of the Grove Street Families, but Carl is still unwilling to believe them. Deciding to monitor the highway from San Fierro to Los Santos for any suspicious activity, Carl leaves the trailer after telling the pair to lay low for a while.
+
+<gallery widths="210" position="center">
+KingInExile-GTASA-Mission.png|Kendl hugs CJ.
+KingInExile-GTASA-Mission2.png|CJ, Kendl and [[Cesar Vialpando|Cesar]] discuss about the troubles in Los Santos.
+KingInExile-GTASA-Mission1.png|Carl leaving the trailer. 
+</gallery>
+
+After Carl moves to the [[Doherty Garage]], [[Cesar Vialpando]] informs him about a [[Ballas (3D Universe)|Ballas]] drug meeting convoy moving from [[Mulholland Intersection]]. Carl meets Cesar and then they arrive at Angel Pine, where the Ballas were last seen heading. They climb into the [[Lovin' A Loan]] building and [[Photo Opportunity|take photos of Ryder, T-Bone Mendez, Jizzy. B and Mike Toreno]] as they head inside the [[Cluckin' Bell (3D Universe)|Cluckin' Bell]] outlet. Carl then drives to a nearby petrol bunk and then Carl and Cesar split up.
+
+<gallery widths="210" position="center">
+Photo-Opportunity-GTASA-Ryder.png|[[Ryder]] arriving at the meeting.
+Photo-Opportunity-GTASA-Mendez.png|[[T-Bone Mendez]] arriving at the meeting.
+Photo-Opportunity-GTASA-Mike.png|[[Mike Toreno]] arriving at the meeting.
+Photo-Opportunity-GTASA-Jizzy.png|[[Jizzy B]] arriving at the meeting.
+</gallery>
+
+During the mission [[Lure (GTA San Andreas)|Lure]], Carl is working for the [[San Fierro Triads]] when one of the gang's leaders, [[Ran Fa Li]], is targeted by the [[Da Nang Boys]], and Carl offers himself as a decoy to lure them out of the city. Carl drives the decoy car to the [[Angel Pine Sawmill]], where a group of ambushers on bikes begin to chase and attack the car from behind. Carl eventually stops after [[Woozie]] has successfully taken Ran Fa Li into safety, after which the bikers realize it was a decoy.
+<gallery widths="210" position="center">
+Lure-GTASA-SS18.png|The Da Nang Boys bikers about to chase Carl's decoy car at Angel Pine Sawmill.
+</gallery>
+
+Later in the story, Angel Pine returns, this time as the setting for the [[N.O.E.|air-drop]] Carl is asked to perform by [[Mike Toreno]]. In order to stay within the diligent gaze of those watching him, Toreno compels Carl to fly a [[Rustler]] to Angel Pine for him in order to drop supplies to his men holed up there. Carl is given a very limited time to fly over topographically diverse terrain from the [[Verdant Meadows Airfield|abandoned airstrip]] in [[Bone County (3D Universe)|Bone County]] to Angel Pine and back, all while remaining below radar detection range.
+
+<gallery widths="210" position="center">
+N.O.E.-GTASA-Carl.png|Carl arriving in Angel Pine.
+N.O.E.-GTASA-Checkpoint.png|Carl traversing the checkpoint.
+</gallery>
+
+==Businesses and Locations==
+*[[Ammu-Nation (3D Universe)|Ammu-Nation]]
+*[[Angel Pine Cinema]]
+*[[Angel Pine Junkyard]]
+*[[Angel Pine Medical Center]]
+*[[Angel Pine Mobile Home Park]]
+*[[Angel Pine Safehouse]]
+*[[Angel Pine Sawmill]]
+*[[Angel Pine Save Point]]
+*[[Angel Pine Sheriff's Station]]
+*[[Bait Shop]]
+*[[Belle Maitresse Beauty Salon]]
+*[[Billy's Records]]
+*[[Botanica Carlos Miguel]]
+*[[C.A.M.]]
+*[[Cluckin' Bell (3D Universe)|Cluckin' Bell]]
+*[[Gas]]
+*[[J & J’s Restaurant]]
+*[[Leydi D. Café]]
+*[[Lovin' A Loan]]
+*[[No. 1 Desert Home Furnishings]]
+*[[P Hat Liquor]]
+*[[Powertool Paradise]]
+*[[Tony's Furniture]]
+*[[U Get Inn Motel]]
+
+==Gallery==
+<gallery position="center">
+AngelPine-GTASA.png|Overview of '''Angel Pine'''.
+GTASA-Ammu-Nation-AngelPine.png|[[Ammu-Nation (3D Universe)|Ammu-Nation]].
+AngelPineCinema-GTASA-exterior.jpg|[[Angel Pine Cinema]].
+AngelPineJunkyard-GTASA.jpg|[[Angel Pine Junkyard]].
+GTASA-Hospital-AP.png|[[Angel Pine Medical Center]].
+AngelPineMobileHomePark-GTASA.png|[[Angel Pine Mobile Home Park]].
+GTASA-SH-AP.png|[[Angel Pine Safehouse]].
+GTASA-Roulotte.png|[[Angel Pine Save Point]].
+AngelPineSheriff-GTASA.jpg|[[Angel Pine Sheriff's Station]].
+BaitShop-GTASA-AngelPine.png|[[Bait Shop]].
+BelleMaitresse-GTASA-AngelPine.jpg|[[Belle Maitresse Beauty Salon]].
+C.A.M.-GTASA-exterior.jpg|[[C.A.M.]]
+Cluckin'Bell-GTASA-AngelPine-Exterior.png|[[Cluckin' Bell (3D Universe)|Cluckin' Bell]].
+GAS Whetstone.jpg|[[Gas]].
+J&J'sRestaurant-GTASA-exterior.jpg|[[J & J’s Restaurant]].
+LeydiD.Café-GTASA.png|[[Leydi D. Café]].
+Lovin'ALoan-GTASA-AngelPine-exterior.jpg|[[Lovin' A Loan]].
+Tony’sFurniture-GTASA-AngelPine.png|[[Tony's Furniture]].
+UGetInnMotel-GTASA-AngelPine-exterior.jpg|[[U Get Inn Motel]].
+</gallery>
+
+==Weapons==
+*[[Desert Eagle]] {{nd}} At the [[Angel Pine Junkyard]]
+*[[Flowers]] {{nd}} South-west block, in an alley, near [[Lovin' A Loan]]
+*[[Golf Club]] {{nd}} South-west block, in an open garage
+*[[Micro SMG (3D Universe)|Micro SMG]] {{nd}} South-east block, at the [[Angel Pine Save Point|Save Point]], behind a container
+*[[Shovel]] {{nd}} At the [[Angel Pine Junkyard]]
+
+==Vehicles==
+*[[Ambulance (3D Universe)|Ambulance]] {{nd}} At the [[Angel Pine Medical Center|medical center]]
+*[[Glendale (beater)|"Beater" Glendale]] {{nd}} At the [[Angel Pine Junkyard]]
+*[[Bike]] {{nd}} Inside an open garage beside the trailer park (rarely)
+*[[BMX (3D Universe)|BMX]] {{nd}} At the [[Angel Pine Junkyard]] (not in PC version)
+*[[Cement Truck]] {{nd}} At the Angel Pine Junkyard (x2)
+*[[DFT-30]] {{nd}} At the [[Angel Pine Sawmill]] (sometimes replaced by the Forklift)
+*[[Dozer]] {{nd}} At the [[Angel Pine Junkyard]]
+*[[Forklift (3D Universe)|Forklift]] {{nd}} At the [[Angel Pine Sawmill]] (sometimes replaced by the DFT-30)
+*[[Kart]] {{nd}} In the [[Angel Pine Mobile Home Park|trailer park]] (after [[Cut Throat Business]])
+*[[Roadtrain]] {{nd}} At the Angel Pine Sawmill
+*[[Romero]] {{nd}} At the medical center
+*[[Sabre]] {{nd}} Behind the wall at the back of the church (occasionally)
+*[[Sanchez]] {{nd}} Near the [[Angel Pine Save Point|save point]]
+*[[Tow Truck]] {{nd}} At the [[Angel Pine Junkyard]]
+*[[Walton]] {{nd}} In the backyard of the Angel Pine Sawmill
+
+==Pickups==
+*[[Body Armor]] {{nd}} North-east block, in the backyard of [[J & J’s Restaurant]]
+*[[Police Bribes|Police Bribe]] {{nd}} Central block, behind the [[Angel Pine Sheriff's Station|Sheriff`s office]]
+*One [[Unique Stunt Jumps in GTA San Andreas|Unique Stunt Jump]] in [[Angel Pine Mobile Home Park|trailer park]]
+*[[Chilli Dogs]] seller
+
+<gallery widths="210" position="center">
+GTASA-USJ-AP.png|Unique Stunt Jump
+GTASA-Chili-Dogs-AP.png|Chili Dogs seller
+</gallery>
+
+==Notable Residents==
+*[[Carl Johnson]]
+*[[Kendl Johnson]] (formerly)
+*[[Cesar Vialpando]] (formerly)
+*[[The Truth]] (formerly)
+
+==Trivia==
+*The town has trash cans filled up with [[Beta Content|unused]] maps of [[Vice City (3D Universe)|Vice City]] next to [[Cluckin' Bell (3D Universe)|Cluckin' Bell]]. These maps are absent in {{TDE}}, however.
+
+==See Also==
+*[[Paleto Bay]] {{nd}} {{HD}} counterpart of Angel Pine in {{V}} and {{O}}.
+
+==Navigation==
+{{Gtasa neighborhoods}}
+[[de:Angel Pine]]
+[[es:Angel Pine]]
+[[fi:Angel Pine]]
+[[fr:Angel Pine]]
+[[hu:Angel Pine]]
+[[no:Angel Pine]]
+[[pl:Angel Pine]]
+[[pt:Angel Pine]]
+[[ru:Эйнджел-Пайн]]
+[[Category:Locations in GTA San Andreas in Whetstone]]
+[[Category:Neighborhoods]]
+[[Category:Towns]]
+[[Category:Zones]]

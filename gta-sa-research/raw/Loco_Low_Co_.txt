@@ -1,0 +1,654 @@
+{{Infobox location
+|Name Change    = 
+|style          = 
+|landmark       = y/n
+|safehouse      = y/n
+|type           = modshop
+|name           = Loco Low Co.
+|image          = LocoLowCo-GTASA.png
+|caption        = The Loco Low Co. backyard mod shop.
+|games          = {{Games|SA=y}}
+|location       = [[Willowfield]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+}}
+'''Loco Low Co.''' is an automobile customization shop appearing in {{SA}}.
+
+==Description==
+The mod shop is located in the neighborhood of [[Willowfield]] in [[Los Santos (3D Universe)|Los Santos]], and specializes in customizing vehicles that are categorized as "lowriders"; these vehicles have built-in hydraulic pumps and cylinders within their chassis that allow the vehicle to adjust height and bounce.
+
+Lowriders get visible additions as well: cylinders and suspension mods from the vehicle's axles to the chassis (best seen at when all hydraulics are deployed). In addition to hydraulics, the garage offers a myriad of other customizations that vary between each lowrider. Once hydraulics are equipped, the horn ability is removed and replaced with the hydraulic bounce.
+
+Similarly to all other available mod shops, the effects of changing colors at Loco Low Co. is similar to [[Pay 'n' Spray]], repairing the vehicle and clearing any [[Wanted Level in GTA San Andreas|wanted level]]. However, the cost of each individual color change is consistently $150, 1.5× higher than a Pay 'n' Spray service, regardless of whether or not the car is damaged to begin with or the player has a wanted level.
+
+==Availability==
+The Loco Low Co. mod shop becomes available to the player after the completion of the mission [[Cesar Vialpando (mission)|Cesar Vialpando]], which serves as an introductory mission for mod shops.
+
+==Supported Vehicles==
+Vehicles customizable at Loco Low Co. include the following:
+{{Columns
+|
+*[[Blade (car)|Blade]]
+*[[Broadway]]
+*[[Remington]]
+*[[Savanna]]
+|
+*[[Slamvan (3D Universe)|Slamvan]]
+*[[Tahoma]]
+*[[Tornado]]
+*[[Voodoo (3D Universe)|Voodoo]]
+}}
+
+==Modifications==
+{|class="wikitable" style="vertical-align:top;" valign="top"
+|-
+!colspan=9|Paint Jobs
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Paintjob 1
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|style="background:grey"|
+|$ 500
+|style="background:grey"|
+|-
+|Paintjob 2
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|style="background:grey"|
+|$ 500
+|style="background:grey"|
+|-
+|Paintjob 3
+|$ 500
+|style="background:grey"|
+|$ 500
+|$ 500
+|$ 500
+|style="background:grey"|
+|$ 500
+|style="background:grey"|
+|-
+!colspan=9|Colors
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Car Color 1
+|$ 150
+|$ 150
+|$ 150
+|$ 150
+|$ 150
+|$ 150
+|$ 150
+|$ 150
+|-
+|Car Color 2
+|$ 150
+|$ 150
+|style="background:grey"|
+|$ 150
+|style="background:grey"|
+|$ 150
+|$ 150
+|style="background:grey"|
+|-
+!colspan=9|Roof
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Vinyl Hardtop
+|$ 3340
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Convertible Roof
+|$ 3250
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Hardtop
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 3380
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Softtop
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 3290
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+!colspan=9|Front Bumper
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chromer Bumper
+|$ 2130
+|$ 1000
+|$ 2150
+|$ 2200
+|$ 2040
+|style="background:grey"|
+|$ 1040
+|style="background:grey"|
+|-
+|Slamin Bumper
+|$ 2050
+|$ 900
+|$ 2040
+|$ 2080
+|style="background:grey"|
+|style="background:grey"|
+|$ 1200
+|style="background:grey"|
+|-
+!colspan=9|Front bullbars
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chromer Bullbar
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 2130
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Slamin Bullbar
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 2050
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+!colspan=9|Misc
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chrome Grill
+|style="background:grey"|
+|style="background:grey"|
+|$ 940
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Chrome Bars
+|style="background:grey"|
+|style="background:grey"|
+|$ 860
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Chrome Lights
+|style="background:grey"|
+|style="background:grey"|
+|$ 1120
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+!colspan=9|Side Skirts
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chrome Strips
+|$ 780
+|$ 1000
+|style="background:grey"|
+|$ 830
+|style="background:grey"|
+|style="background:grey"|
+|$ 800
+|style="background:grey"|
+|-
+|Chrome Flames
+|style="background:grey"|
+|style="background:grey"|
+|$ 780
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Chrome Arches
+|style="background:grey"|
+|style="background:grey"|
+|$ 780
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Chrome Trim
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 780
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Wheelcovers
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 940
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+!colspan=9|Rear Bumper
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chromer Bumper
+|$ 2150
+|$ 1000
+|$ 2130
+|$ 2175
+|style="background:grey"|
+|style="background:grey"|
+|$ 940
+|style="background:grey"|
+|-
+|Slamin Bumper
+|$ 2040
+|$ 900
+|$ 2050
+|$ 2095
+|style="background:grey"|
+|style="background:grey"|
+|$ 1100
+|style="background:grey"|
+|-
+!colspan=9|Rear bullbars
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chromer Bullbar
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 1610
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+|Slamin Bullbar
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|$ 1540
+|style="background:grey"|
+|style="background:grey"|
+|style="background:grey"|
+|-
+!colspan=9|Exhausts
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Chromer Exhaust
+|$ 1610
+|$ 500
+|$ 3340
+|$ 1650
+|$ 3340
+|style="background:grey"|
+|$ 1000
+|style="background:grey"|
+|-
+|Slamin Exhaust
+|$ 1540
+|$ 500
+|$ 3250
+|$ 1590
+|$ 3250
+|style="background:grey"|
+|$ 1500
+|style="background:grey"|
+|-
+!colspan=9|Wheels
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Classic
+|$ 1620
+|$ 1620
+|$ 1620
+|$ 1620
+|$ 1620
+|style="background:grey"|
+|$ 1620
+|style="background:grey"|
+|-
+|Dollar
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|style="background:grey"|
+|$ 1560
+|style="background:grey"|
+|-
+|Twist
+|$ 1200
+|$ 1200
+|$ 1200
+|$ 1200
+|$ 1200
+|$ 1200
+|$ 1200
+|$ 1200
+|-
+|Wires
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|$ 1560
+|-
+|Trance
+|$ 1350
+|$ 1350
+|$ 1350
+|$ 1350
+|$ 1350
+|style="background:grey"|
+|$ 1350
+|style="background:grey"|
+|-
+|Cutter
+|$ 1030
+|$ 1030
+|$ 1030
+|$ 1030
+|$ 1030
+|style="background:grey"|
+|$ 1030
+|style="background:grey"|
+|-
+|Rimshine
+|$ 980
+|$ 980
+|$ 980
+|$ 980
+|$ 980
+|style="background:grey"|
+|$ 980
+|style="background:grey"|
+|-
+|Virtual
+|$ 620
+|$ 620
+|$ 620
+|$ 620
+|$ 620
+|$ 620
+|$ 620
+|$ 620
+|-
+|Access
+|$ 1140
+|$ 1140
+|$ 1140
+|$ 1140
+|$ 1140
+|$ 1140
+|$ 1140
+|$ 1140
+|-
+!colspan=9|Car Stereo
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Bass Boost
+|$ 100
+|$ 100
+|$ 100
+|$ 100
+|$ 100
+|$ 100
+|$ 100
+|$ 100
+|-
+!colspan=9|Hydraulics
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|Hydraulics
+|$ 1500
+|$ 1500
+|$ 1500
+|$ 1500
+|$ 1500
+|$ 1500
+|$ 1500
+|$ 1500
+|-
+!colspan=9|Nitro
+|-
+!
+![[Blade (car)|Blade]]
+![[Broadway]]
+![[Remington]]
+![[Savanna]]
+![[Slamvan (3D Universe)|Slamvan]]
+![[Tahoma]]
+![[Tornado]]
+![[Voodoo (3D Universe)|Voodoo]]
+|-
+|2x Nitrous
+|$ 200
+|$ 200
+|$ 200
+|$ 200
+|$ 200
+|$ 200
+|$ 200
+|$ 200
+|-
+|5x Nitrous
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|$ 500
+|-
+|10x Nitrous
+|$ 1000
+|$ 1000
+|$ 1000
+|$ 1000
+|$ 1000
+|$ 1000
+|$ 1000
+|$ 1000
+|}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+LocoLowCo-GTASA-Interior.png|Interior of '''Loco Low Co.'''
+LocoLowCo-GTASA-HotknifeWreck.png|[[Hotknife]] wreck.
+</gallery>
+===Paintjobs===
+<gallery position="center" spacing="small" widths="250px">
+Blade-GTASA-modified-front.jpg|[[Blade (car)|Blade]].
+Broadway-GTASA-modified-front.jpg|[[Broadway]].
+Remington-GTASA-modified-front.jpg|[[Remington]].
+Savanna-GTASA-modified-front.jpg|[[Savanna]].
+Slamvan-GTASA-modified-front.jpg|[[Slamvan (3D Universe)|Slamvan]].
+Tornado-GTASA-modified-front.jpg|[[Tornado]].
+</gallery>
+
+==Trivia==
+*Leftovers from the cut mission [[Impounded]] contains conflicting information on whether Loco Low Co. was originally intended to be located at the current Willowfield house or [[Cesar Vialpando's House]] in [[El Corona]].
+
+==See Also==
+*[[Wheel Arch Angels]]
+*[[TransFender (3D Universe)|TransFender]]
+*[[Benny's Original Motor Works]], a similar custom shop in {{O}}.
+
+[[Category:Buildings in GTA San Andreas in Los Santos]]
+[[Category:Mod shops]]
+
+[[de:Loco Low Co.]]
+[[es:Loco Low Co.]]
+[[fi:Loco Low Co.]]
+[[pl:Loco Low Co.]]
+[[pt:Loco Low Co.]]
+[[ru:Loco Low Co.]]
+[[uk:Loco Low Co.]]

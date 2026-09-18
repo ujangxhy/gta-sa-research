@@ -1,0 +1,152 @@
+{{Infobox organization
+|name         = Community Resources Against Street Hoodlums
+|image        = C.R.A.S.H.-GTASA.jpg
+|caption      = C.R.A.S.H. members: (L-R) Officer Frank Tenpenny, Officer Jimmy Hernandez, and Officer Eddie Pulaski.
+|aka          = C.R.A.S.H.
+|games        = {{Games|SA=y}}
+|type         = tactical
+|leader       = [[Frank Tenpenny]] 
+|members      = 
+*[[Eddie Pulaski]] 
+*[[Jimmy Hernandez]] <small>(Formerly)</small> 
+*[[C.R.A.S.H. Rookies]] 
+|vehicles     = [[#Vehicles]]
+|weapons      = [[#Weapons]]
+|locations    = 
+[[Los Santos (3D Universe)|Los Santos]], [[San Andreas (3D Universe)|San Andreas]]
+|affiliations =
+*[[Ballas (3D Universe)|Ballas]]
+*[[Big Smoke's Grove Street Families Faction]]
+*[[Los Santos Police Department (3D Universe)|LSPD]]
+|status       = defunct
+|enemies=*[[Grove Street Families]]
+*[[Carl Johnson]]
+*[[Varrios Los Aztecas]]}}
+'''Community Resources Against Street Hoodlums''' ('''C.R.A.S.H.''') is a unit of the [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] intended to reduce the level of gang crime within the city. They serve as the main group of [[antagonist]]s of {{SA}}. The unit is led by [[Frank Tenpenny]], who is flanked by [[Eddie Pulaski]] and [[Jimmy Hernandez]]. The unit's name and self-given-description make them out to be gang-stoppers, however the unit is extremely corrupt. Although the members of C.R.A.S.H. are all among the antagonists of the game, Frank Tenpenny is the main one.
+
+==Description==
+The group is based on the real-life {{WP|Community Resources Against Street Hoodlums|C.R.A.S.H.}} unit of the {{WP|Los Angeles Police Department|Los Angeles Police Department}}, which was rocked by the notorious {{WP|Rampart scandal}} that led to the suspension, dismissal, and desk job assignments of dozens of LAPD officers involved in the scandal.
+
+The in-game C.R.A.S.H. unit is loosely based on its real-life counterpart and the associated Rampart Division Scandal. Like the LSPD C.R.A.S.H., the LAPD C.R.A.S.H. also carried out actions of police brutality, intimidation, and evidence-planting.
+
+==History==
+===Background===
+[[File:CRASH-GTASA.jpg|thumb|282px|Jimmy Hernandez before executing Ralph Pendelbury on Frank Tenpenny's orders under the threat of death.]]
+C.R.A.S.H. was founded by [[Frank Tenpenny]] and his partner [[Eddie Pulaski]], who claimed that the unit's goal is to clean up the city of [[Los Santos (3D Universe)|Los Santos]] from crime. In reality, the unit is extremely corrupt, and made business with street gangs such as the [[Ballas (3D Universe)|Ballas]]. Due to the corruption of the unit, a fellow officer, [[Ralph Pendelbury]], threatened to expose the actions of C.R.A.S.H. to the [[Internal Affairs Division (3D Universe)|Internal Affairs]] division of the LSPD. Tenpenny eventually found out and lured Pendelbury to the docks, where Pulaski assaults him. Pendelbury is eventually [[The Introduction#Tenpenny, Pulaski, Hernandez and Pendelbury|shot and killed]] by new C.R.A.S.H. member [[Jimmy Hernandez]] after Tenpenny threatens Hernandez with his own death.
+
+By [[1992]], the unit came into contact with [[Big Smoke|Melvin "Big Smoke" Harris]] and [[Ryder|Lance "Ryder" Wilson]], two high-ranking members of the [[Grove Street Families]]. Tenpenny managed to have them join his cause, and organise the death of [[Sweet Johnson|Sean "Sweet" Johnson]], the leader of the Grove Street Families, in a drive-by shooting by the Ballas. However, the Ballas accidentally killed [[Beverly Johnson]], the mother of Sweet and CJ.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+====Involvement in Carl Johnson's life====
+[[Carl Johnson]], Sweet's brother, [[In the Beginning|returned]] to [[Los Santos (3D Universe)|Los Santos]] after hearing about his mother's death. On his way back to [[Grove Street (3D Universe)|Grove Street]], he was arrested by Tenpenny and his men, just minutes after the murder of Officer Pendelbury. Tenpenny threatened to frame Carl for Pendelbury's murder before dumping him in [[Jefferson (neighborhood)|Jefferson]], one of the Ballas' key areas of turf.
+
+Tenpenny and his unit continued to involve themselves in Carl's life, planting evidence on him to link him to Pendelbury's death so in order to coerce him into working for them, with many of Carl's tasks including planting evidence on people due to testify against C.R.A.S.H.'s corrupt actions, and in some cases, killing key witnesses.
+
+====Rise for power====
+With Big Smoke ruling the drug business in Los Santos, and Ryder making business with the [[Loco Syndicate]] in [[San Fierro (3D Universe)|San Fierro]], Tenpenny's power was expanded beyond its regular limits.
+
+However, the unit had decided that Carl was no longer useful, and Tenpenny planned to cut his ties with him. Tenpenny and Eddie found out on Hernandez' connections with the Internal Affairs, leading him to meet Carl in the desert, and knock out Hernandez, ordering Eddie to dispose of the two men. Eddie successfully killed Hernandez (who attacked him), but was [[High Noon|killed]] by Carl shortly afterwards.
+
+====Fall from grace====
+Eventually, Tenpenny was charged with racketeering, corruption, possession and use of narcotics, and numerous sexual assaults. However, as all the prosecution's witnesses have been killed by Carl, Tenpenny is acquitted, which [[Riot (GTA San Andreas)|ignites]] a [[Los Santos Riots|riot]] in Los Santos.
+
+Fearful for his life, Tenpenny tried to escape the city. Wanting Big Smoke's drug money, Tenpenny emerged just as Carl had [[End of the Line|killed]] Big Smoke and told him he had new recruits in the force who willingly followed him, but had not yet been fully indoctrinated to his corrupt ways. Tenpenny forced Carl to fill a suitcase with Smoke's money at gunpoint before trying to kill Carl. Carl managed to distract and escape Tenpenny. Tenpenny started a fire in [[Big Smoke's Crack Palace]] downstairs, hoping to kill Carl in the blaze, then fled in a [[Fire Truck (ladder)|fire truck]]. Carl escapes, and his brother, Sweet, grabs hold of the fire truck's ladder; Carl catches him in his car and continues the chase. Eventually, Tenpenny loses control of the fire truck on the [[Ganton Bridge|bridge]] over Grove Street and the fire truck crashes off the bridge. A mortally wounded and unrepentant Tenpenny crawls out of the truck, cursing his enemies and fellow cops before succumbing to his injuries in the center of Grove Street, with his death being witnessed by Carl, Sweet, Kendl, Cesar, and the Truth.
+
+Following Tenpenny's death, the riots subside, and C.R.A.S.H is disbanded as all of its members are dead.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[In the Beginning]]
+*[[Catalyst]]
+*[[Running Dog]]
+*[[Wrong Side of the Tracks]]
+*[[Burning Desire]]
+*[[Gray Imports]]
+*[[The Green Sabre]]
+*[[Body Harvest]]
+*[[555 We Tip]]
+*[[Snail Trail]]
+*[[Misappropriation]]
+*[[High Noon]] <small>([[Eddie Pulaski]] and [[Jimmy Hernandez]] killed)</small>
+*[[End of the Line]] <small>([[Frank Tenpenny]] and [[C.R.A.S.H. Rookies|new recruits]] killed; wiped out)</small>
+
+==Members==
+*[[Frank Tenpenny]] {{nd}} Leader/Gang Officer (?-1992), deceased, died in a traffic accident.
+*[[Eddie Pulaski]] {{nd}} Gang Officer (?-1992), deceased, killed by Carl Johnson.
+*[[Jimmy Hernandez]] {{nd}} Gang Member (1992), deceased, killed by Eddie Pulaski.
+*[[C.R.A.S.H. Rookies|Two unnamed rookies]] {{nd}} Gang Members (1992), deceased, killed by Carl Johnson.
+
+==Equipment==
+===Vehicles===
+====Officer Frank Tenpenny====
+<gallery position="center" spacing="small" widths="270px">
+Police-GTASA-LSPD-front.jpg|[[Los Santos Police Department (3D Universe)|LSPD]] [[Police (vehicle)|Police Car]].
+FireTruck-GTASA-ladder-front.jpg|[[Fire Truck (ladder)|Fire Truck]] (ladder variant, stolen).
+</gallery>
+
+====Officer Eddie Pulaski====
+<gallery position="center" spacing="small" widths="250px">
+Police-GTASA-LSPD-front.jpg|LSPD Police Car.
+Sabre-GTASA-FrontQuarter-TheGreenSabre.jpg|Green [[Sabre]] ([[The Green Sabre]]).
+Buffalo-GTASA-front.jpg|Silver [[Buffalo (3D Universe)|Buffalo]] ([[High Noon]]).
+Bandito-GTASA-front.jpg|[[Bandito]] (High Noon).
+</gallery>
+
+====Officer Jimmy Hernandez====
+<gallery position="center" spacing="small" widths="270px">
+Police-GTASA-LSPD-front.jpg|LSPD Police Car.
+</gallery>
+
+===Weapons===
+====Officer Frank Tenpenny====
+<gallery position="center" spacing="small" widths="250px">
+Pistol-GTASA.png|[[Pistol (3D Universe)|Pistol]].
+PumpShotgun-GTASA.png|[[Shotgun (3D Universe)|Pump Shotgun]].
+CombatShotgun-GTASA.png|[[Combat Shotgun]].
+SniperRifle-GTASA.png|[[Sniper Rifle]] <small>(mentioned in [[Snail Trail]])</small>.
+</gallery>
+
+====Officer Eddie Pulaski====
+<gallery position="center" spacing="small" widths="270px">
+Pistol-GTASA.png|Pistol.
+DesertEagle-GTASA.png|[[Desert Eagle]].
+</gallery>
+
+====Officer Jimmy Hernandez====
+<gallery position="center" spacing="small" widths="270px">
+Pistol-GTASA.png|Pistol.
+</gallery>
+
+====Unnamed Rookies====
+<gallery position="center" spacing="small" widths="270px">
+MicroSMG-GTASA.png|[[Micro SMG (3D Universe)|Micro SMG]].
+</gallery>
+
+==Radar Icon==
+<gallery position="center" spacing="small" widths="270px">
+Radar-CRASHIcon-GTASA.png|The '''C.R.A.S.H.''' team's radar icon.
+</gallery>
+
+==Trivia==
+*The {{WC|maxpayne|Unidade de Forças Especiais|UFE}} unit from ''{{WP|Max Payne 3}}'' (another game made by [[Rockstar Games]] which came out after {{IV}}) bears a resemblance to C.R.A.S.H. Both units are official law enforcement agencies which are corrupted and have dirty dealings with street gangs. Additionally, both groups oppose the protagonist in each game, whose actions lead to the death of the leader of the unit and exposure of the unit's actions, leading to its disbanding.
+*C.R.A.S.H. officers wear a badge on their sleeve that is almost identical to that of their real-life counterpart.
+*In the mobile and [[Xbox 360]] ports, they have a blue C for their radar icon instead of a C with a siren in the middle. It's almost identical to [[Catalina]]'s icon, only with a color difference.
+
+==Navigation==
+{{3D law|state=collapsed}}
+
+[[Category:Police tactical units]]
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Former organizations]]
+
+[[de:Community Resources Against Street Hoodlums]]
+[[es:C.R.A.S.H.]]
+[[fi:C.R.A.S.H.]]
+[[hu:C.R.A.S.H.]]
+[[it:C.R.A.S.H.]]
+[[nl:Community Resources Against Street Hoodlums]]
+[[pl:C.R.A.S.H.]]
+[[pt:C.R.A.S.H.]]
+[[ru:C.R.A.S.H.]]
+[[tr:C.R.A.S.H.]]
+[[zh:C.R.A.S.H.]]

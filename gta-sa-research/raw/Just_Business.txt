@@ -1,0 +1,189 @@
+{{Infobox mission
+|name       = Just Business
+|image      = JustBusiness-GTASA-Mission.png
+|caption    = [[Carl Johnson]] and [[Big Smoke]] escaping from their [[Russian Mafia (3D Universe)|Russian]] pursuers, whilst a large explosion in the background kills a number of Russian Mafia mobsters.
+|game       = {{games|SA=y}}
+|type       = SA
+|for        = {{For|game=SA|smoke}}
+|target     = [[Russian Mafia (3D Universe)|Russian Mafia]]
+|location   = [[Big Smoke's House]], [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]]
+|fail       = 
+*[[Wasted]]
+*[[Busted]]
+*[[Big Smoke]] dies
+*[[Glendale (3D Universe)|Glendale]] or [[BF-400]] destroyed
+|reward     = *[[Respect]]
+*[[Sawed-Off Shotgun|Sawnoff Shotgun]] available in [[Ammu-Nation (3D Universe)|Ammu-Nation]] <small>(if [[Doberman]] is completed first)</small>
+|unlocks    = [[Reuniting the Families]] <small>(if [[Robbing Uncle Sam]], [[High Stakes, Low-Rider]], [[House Party]], [[Gray Imports]] and [[Los Sepulcros]] are completed first)</small>
+|unlockedby = [[Wrong Side of the Tracks]]
+|todo =
+*Take Big Smoke to <font color=#D1BC86>'''Downtown'''</font>.
+*Protect <font color=#484576>'''Big Smoke'''</font> from the <font color=#AB3736>'''Russians'''</font>.
+*Follow <font color=#484576>'''Big Smoke'''</font> and protect him from the <font color=#AB3736>'''Russians'''</font>.
+*Protect the bike from the <font color=#AB3736>'''Russians'''</font>.
+}}
+{{Quote|Hey look, if you hear shit start to pop off, come in there blasting, alright?|[[Big Smoke]]}}
+'''Just Business''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[Grove Street Families]] member [[Big Smoke|Melvin "Big Smoke" Harris]] from his [[Big Smoke's House|home]] in [[Idlewood]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Carl drops by Big Smoke's house and finds him in the garage. They agree to take a ride somewhere, as Smoke has business to take care of. They head to [[Commerce]] and Big Smoke enters the [[Atrium]]. After a brief moment, a shootout is heard inside, and Carl quickly rushes inside, protecting Smoke from attacking [[Russian Mafia (3D Universe)|Russian Mafia]] goons. Once all of the Russians are killed, the two hop on a [[BF-400]] and attempt to escape. Carl will use the [[Micro SMG (3D Universe)|Micro SMG]] with unlimited ammo and acts as the shooter, killing as many enemies as possible. On the way, they jump over the ramp of a [[Packer]] to escape a roadblock, causing all of the Russians there to be obliterated in a huge explosion, however the bike survives. After a long chase, Big Smoke rides through an alley in [[East Beach]]. The two have lost all the Russians, agreeing to split up.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Take Big Smoke to <font color=#D1BC86>'''Downtown'''</font>.
+*Protect <font color=#484576>'''Big Smoke'''</font> from the <font color=#AB3736>'''Russians'''</font>.
+*Follow <font color=#484576>'''Big Smoke'''</font> and protect him from the <font color=#AB3736>'''Russians'''</font>.
+*Protect the bike from the <font color=#AB3736>'''Russians'''</font>.
+
+==Help Text==
+{{Help Text|Crouching whilst you are shooting improves your accuracy.}}
+
+==Reward==
+An increase in [[respect]]. [[Reuniting the Families]] is also unlocked.
+
+{{Clear}}
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="270px">
+JustBusiness-GTASA-SS1.png|[[Carl Johnson|CJ]] comes over to see [[Big Smoke|Smoke]] at his [[Big Smoke's House|house]] in [[Idlewood]].
+JustBusiness-GTASA-SS2.png|CJ takes a look at the garage, but the only thing in it is Smoke's [[Glendale (3D Universe)|Glendale]].
+JustBusiness-GTASA-SS3.png|CJ tries knocking on the door to no answer.
+JustBusiness-GTASA-SS4.png|Smoke emerges from behind the Glendale.
+JustBusiness-GTASA-SS5.png|Smoke greets CJ.
+JustBusiness-GTASA-SS6.png|CJ greets Smoke and asks what's up.
+JustBusiness-GTASA-SS7.png|Smoke asks CJ if he'd like to go for a ride.
+JustBusiness-GTASA-SS8.png|CJ agrees.
+JustBusiness-GTASA-SS9.png|Smoke says that their destination is [[Downtown Los Santos (3D Universe)|Downtown]].
+JustBusiness-GTASA-SS10.png|CJ must now drive Smoke to his destination.
+JustBusiness-GTASA-SS11.png|CJ says that he hopes that where they're going now isn't another errand for [[Frank Tenpenny|Tenpenny]] and [[Eddie Pulaski|Pulaski]].
+JustBusiness-GTASA-SS12.png|Smoke says that this time what they're doing is strictly for the benefit of [[Grove Street Families]].
+JustBusiness-GTASA-SS13.png|Smoke says that he's going to be honest with CJ and tells him that they're getting into some serious trouble.
+JustBusiness-GTASA-SS14.png|CJ asks Smoke what's the trouble they're in.
+JustBusiness-GTASA-SS15.png|Smoke says that the near future will be very eventful.
+JustBusiness-GTASA-SS16.png|Smoke says that the Families getting stronger and the Ballas getting weaker is what he's talking about.
+JustBusiness-GTASA-SS17.png|Smoke also mentions some [[Russian Mafia (3D Universe)|Russians]] among the reason why they're in a lot of trouble.
+JustBusiness-GTASA-SS18.png|CJ is surprised to hear something about the Russians.
+JustBusiness-GTASA-SS19.png|Smoke says that he was taught all of his life to be enemies with the Russians.
+JustBusiness-GTASA-SS20.png|Smoke also says that he has trouble accepting the fact that he's supposed to be friends with them after the fall of the Soviet Union.
+JustBusiness-GTASA-SS21.png|Smoke says that some Russians are responsible for his "[[Weed|cousin]]" getting "laid out" just as he got into the country.
+JustBusiness-GTASA-SS22.png|CJ asks Smoke if that really happened and Smoke says that it did.
+JustBusiness-GTASA-SS23.png|CJ and Smoke arriving at their destination - the [[Atrium]].
+JustBusiness-GTASA-SS24.png|CJ and Smoke approach the door to the Atrium.
+JustBusiness-GTASA-SS25.png|Before they enter, Smoke tells CJ that he needs to be sure CJ is ready for what is about to go down.
+JustBusiness-GTASA-SS26.png|CJ says that he and Smoke are friends for a very long time and that CJ will always stick with him no matter what.
+JustBusiness-GTASA-SS27.png|Smoke thanks CJ for his friendship.
+JustBusiness-GTASA-SS28.png|Smoke asks CJ to wait outside and come in and start shooting if he hears that something has gone wrong.
+JustBusiness-GTASA-SS29.png|Smoke heads into the Atrium.
+JustBusiness-GTASA-SS30.png|While Smoke takes care of business inside, CJ tries flirting with a nearby woman.
+JustBusiness-GTASA-SS31.png|Not too long after, CJ hears a distressed Smoke shouting.
+JustBusiness-GTASA-SS32.png|Smoke asks CJ to come as fast as possible.
+JustBusiness-GTASA-SS33.png|For some reason, the Russians have started a firefight and CJ and Smoke are forced to fight for their lives.
+JustBusiness-GTASA-SS34.png|CJ and Smoke shooting out with the Russian mafia.
+JustBusiness-GTASA-SS35.png|After clearing out all of the Russians, Smoke tells CJ to follow him through a back exit.
+JustBusiness-GTASA-SS36.png|As CJ and Smoke go outside they're faced by another wave of Russian mafiosos. Smoke tells CJ to stick close as they navigate the maze of bloodthirsty gangsters.
+JustBusiness-GTASA-SS37.png|The Russians taunt Smoke and CJ as they shoot at them.
+JustBusiness-GTASA-SS38.png|CJ and Smoke shooting out with the Russians.
+JustBusiness-GTASA-SS39.png|As CJ and Smoke try escaping they come across a [[BF-400]]. Smoke tells CJ that they should use it to escape the Russians.
+JustBusiness-GTASA-SS40.png|CJ and Smoke begin driving away from the Atrium.
+JustBusiness-GTASA-SS41.png|As CJ and Smoke drive through the multi-storey parking lot, the Russians start going after them.
+JustBusiness-GTASA-SS42.png|CJ tells Smoke that they have bikers on their tail.
+JustBusiness-GTASA-SS43.png|Smoke tells CJ to kill the Russians that are following them.
+JustBusiness-GTASA-SS44.png|After a while CJ notices that the Russians are going after them in a [[Packer]].
+JustBusiness-GTASA-SS45.png|Smoke tells CJ to destroy it.
+JustBusiness-GTASA-SS46.png|Smoke and CJ escaping the Russians.
+JustBusiness-GTASA-SS47.png|After a short while, CJ notices some more bikers and tells Smoke to drive faster.
+JustBusiness-GTASA-SS48.png|Smoke tells CJ to sit tight as he makes a dangerous jump.
+JustBusiness-GTASA-SS49.png|Smoke jumps onto a parked [[Bus (3D Universe)|bus]].
+JustBusiness-GTASA-SS50.png|Fortunately, the pursuing Russians hit the bus that CJ and Smoke jumped over.
+JustBusiness-GTASA-SS51.png|Smoke jokingly comments on the situation.
+JustBusiness-GTASA-SS52.png|Unfortunately, the duo are stopped by a roadblock and a single Russian mobster.
+JustBusiness-GTASA-SS53.png|Smoke once again tells CJ to hold on, as he has an idea.
+JustBusiness-GTASA-SS54.png|CJ tells Smoke to not jump into the [[Los Santos Storm Drain (3D Universe)|storm drain]], as it'll lead them to a dead-end.
+JustBusiness-GTASA-SS55.png|Smoke tells CJ that he doesn't care as long as they lose the pursuing cars.
+JustBusiness-GTASA-SS56.png|Smoke says that he knows an exit not too far away from [[Grove Street (3D Universe)|Grove Street]].
+JustBusiness-GTASA-SS57.png|CJ remembers the exit Smoke was talking about.
+JustBusiness-GTASA-SS58.png|Not too long after jumping into the storm drain, CJ notices a third wave of bikers going after them.
+JustBusiness-GTASA-SS59.png|Smoke once again tells CJ to shoot all of them.
+JustBusiness-GTASA-SS60.png|Smoke and CJ escaping from the Russians that followed them into the storm drain.
+JustBusiness-GTASA-SS61.png|Smoke and CJ seemingly lost all of their pursuers.
+JustBusiness-GTASA-SS62.png|Suddenly, the Packer that was following them previously jumps into the storm drain from a road above.
+JustBusiness-GTASA-SS63.png|CJ tells Smoke that the Packer is back on them.
+JustBusiness-GTASA-SS64.png|Smoke tells CJ to stop being negative and focus on the good things.
+JustBusiness-GTASA-SS65.png|Smoke tells CJ to not lose his faith as long as he's not running out of bullets.
+JustBusiness-GTASA-SS66.png|After a while Smoke notices that he can't accelerate properly anymore and CJ brings attention to the fact that Smoke is now being negative himself.
+JustBusiness-GTASA-SS67.png|Smoke says that he'll stay quiet now.
+JustBusiness-GTASA-SS68.png|CJ taking out the pursuing cars that were dropped off from the Packer pursuing them.
+JustBusiness-GTASA-SS69.png|As CJ and Smoke begin escaping, the pursuing Russians find a ramp into the storm drain and some more bikers come after them.
+JustBusiness-GTASA-SS70.png|The two notice another ramp and CJ tells Smoke to go up on it.
+JustBusiness-GTASA-SS71.png|Smoke says he'll do it.
+JustBusiness-GTASA-SS72.png|CJ shooting out with the bikers on the ramp opposite of the one he and Smoke are on.
+JustBusiness-GTASA-SS73.png|CJ shooting out with seemingly the last pursuing Russians.
+JustBusiness-GTASA-SS74.png|Unfortunately for CJ and Smoke, the Russians have formed a roadblock and the Packer that was pursuing them stops in front of the roadblock.
+JustBusiness-GTASA-SS75.png|CJ and Smoke use the Packer to jump over the roadblock.
+JustBusiness-GTASA-SS76.png|The badly damaged vehicles crash into the roadblock and destroy it.
+JustBusiness-GTASA-SS77.png|Smoke taunts the Russians that just blew up.
+JustBusiness-GTASA-SS78.png|The duo notice the exit Smoke was talking about earlier.
+JustBusiness-GTASA-SS79.png|The exit is blocked by a gate and Smoke tells CJ to shoot it out.
+JustBusiness-GTASA-SS80.png|CJ shooting out the gate blocking the exit.
+JustBusiness-GTASA-SS81.png|Smoke compliments CJ's work.
+JustBusiness-GTASA-SS82.png|CJ says that he used to hate the tunnel they're in when he was a kid.
+JustBusiness-GTASA-SS83.png|As CJ and Smoke near the end of the road, the Russians are still pursuing them.
+JustBusiness-GTASA-SS84.png|As CJ and Smoke go through the alleyways between buildings, CJ uses the conveniently placed [[Explosive Barrels|explosive barrels]] to take out the pursuing Russians.
+JustBusiness-GTASA-SS85.png|CJ and Smoke escaping from the Russians.
+JustBusiness-GTASA-SS86.png|After a short while, Smoke and CJ stop at a parking lot in [[East Beach]].
+JustBusiness-GTASA-SS87.png|Smoke says that they should split up now that they lost the Russians.
+JustBusiness-GTASA-SS88.png|Smoke says that he'll dump the bike in another neighborhood.
+JustBusiness-GTASA-SS89.png|He also adds that what they just gone through was crazy.
+JustBusiness-GTASA-SS90.png|CJ agrees.
+JustBusiness-GTASA-SS91.png|CJ says goodbye.
+JustBusiness-GTASA-SS92.png|Smoke says goodbye and drives off.
+JustBusiness-GTASA-SS93.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|fV0M7nKRn7s|275px|center}}
+{{#ev:youtube|LX_styIgxrw|275px|center}}
+{{#ev:youtube|qbVfXgls0yI|275px|center}}
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+JustBusiness-GTASA-HealthArmorCheat.jpg|After enabling the "health and armor" [[Cheats in GTA San Andreas|cheat]] during the bike chase.
+</gallery>
+
+==Trivia==
+*The song at the start of the opening [[Cutscenes|cutscene]] is "The Vapors" by {{WP|Biz Markie}}. This song can also be heard on [[Playback FM]].
+*The woman [[Carl Johnson|CJ]] flirts with when he arrives at the [[Atrium]] bears a strong resemblance to {{WP|Catherine Tramell}} from the movie ''{{WP|Basic Instinct}}''.
+*Sound files suggest that CJ was supposed to enter the [[Atrium]] by player control instead of a cutscene, as the mission's sound script has a few lines for Big Smoke, such as ''"CJ, get in here!"'' and ''"What took you so long?"''.{{Ref|name=playercontrol|type=website|ref={{URL|https://tcrf.net/Grand_Theft_Auto:_San_Andreas/Unused_Mission_Related_Text_and_Audio/Los_Santos|The Cutting Room Floor}}}}
+*When CJ and [[Big Smoke]] get onto the [[BF-400]] to escape, the radio starts playing [[Radio X]].
+*The player's [[SMG (3D Universe)|SMG]] weapon slot is replaced with a [[Micro SMG (3D Universe)|Micro SMG]] when the gunfight begins, and once again when the motorbike chase begins with one providing infinite ammo.
+**Therefore, there is no point to save SMG ammo, as it will be reset to 80 after this mission.
+**During the bike chase, if the player activates a [[Cheats in GTA San Andreas|cheat]] to change the Micro SMG into either a [[Tec-9]] or an SMG, they will not only be able to shoot with a different weapon, but will receive infinite ammo for the Micro SMG after the mission is over.
+*Enabling the "health and armor" cheat during the bike chase will blow up Big Smoke's bike, failing the mission, and CJ will eventually be [[wasted]]. 
+*The scene in the mission featuring a [[Packer]] jumping off a surface road in slow motion into a storm drain channel, which Big Smoke and CJ are using to escape, is a nod to a similar scene in the 1991 film ''{{WP|Terminator 2: Judgment Day}}'', where a large tow-truck (driven by a Terminator) executes a similar stunt as it is in pursuit of John Connor (also riding a motorcycle). This scene was also featured in the second ''GTA San Andreas'' [[Grand Theft Auto: San Andreas/Trailers|trailer]].
+*The BF-400 in this mission has the [[Vehicle Features/Custom Vehicle License Plates|license plate]] reading "IMY AK" (similarly to the [[Cheetah (3D Universe)|Cheetah]] the player can buy at the [[Easter Basin]] docks and the [[Feltzer]] in [[End of the Line]]).
+*The stunt jumps executed by Big Smoke in this mission will be included in the player's [[Statistics in GTA San Andreas|stats]], even though Carl is not driving.
+*This mission is similar to {{TLAD}} mission [[Shifting Weight]] where [[Johnny Klebitz|Johnny]] shoots at the [[Liberty City Police Department (HD Universe)|LCPD]] while on a [[Double T Custom|motorcycle]] and acting as the shooter (since Johnny's [[Hexer|bike]] got destroyed before the chase).
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Just Business]]
+[[es:Just Business]]
+[[fi:Just Business]]
+[[fr:Just Business]]
+[[pl:To tylko biznes]]
+[[pt:Apenas Negócios]]
+[[ru:Just Business]]
+[[zh:Just Business]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

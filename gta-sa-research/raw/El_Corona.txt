@@ -1,0 +1,99 @@
+{{Infobox_location
+|name          = El Corona
+|image         = ElCorona-GTASA.png
+|caption       = Aerial view of '''El Corona'''.
+|games         = {{Games|SA=y}}
+|location      = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+ElCorona-GTASA-Map.jpg|El Corona
+ElCorona-GTASA-LosSantosMap.jpg|Los Santos
+ElCorona-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner      = PoliceScanner-GTASA-ElCorona.ogg
+|neighborhood  = y}}
+'''El Corona''' is a neighborhood of [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]], that appears in ''[[Grand Theft Auto: San Andreas]]''.
+
+==Description==
+The neighborhood is a working-class residential district slightly to the south-east of the city centre of Los Santos. Surrounding El Corona are the districts of [[Little Mexico]], [[Verdant Bluffs]], [[Idlewood]] and [[Willowfield]]. Just south is the [[Los Santos International Airport (3D Universe)|Los Santos International Airport]].
+
+El Corona, often called the "Southside", is the main stronghold for the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] gang, and there are five known residents, [[Cesar Vialpando]], [[Gal]], [[Hazer]], [[Sunny]] and [[Kendl Johnson]] (who moves to El Corona to live with Cesar Vialpando).
+
+El Corona can be described as a gang-ridden district with a high crime rate, as evidenced by the ominous gang presence and graffiti. The area primarily contains a large housing project known as the [[El Corona Village]], some stores, businesses, and numerous small, single-story houses. El Corona is primarily a Mexican/Hispanic district.
+
+==Influence==
+The area's character, appearance, and proximity to [[Los Santos International Airport (3D Universe)|LSX]] and [[Idlewood]] seem to resemble {{WP|Lennox, California}}. El Corona also seems to be based on {{WP|Pico-Union, Los Angeles|Pico-Union}}, a neighborhood in Los Angeles with relative proximity to Downtown, and a largely Salvadorean and Mexican population. However, the nearby projects resemble the Dana Strand Village housing project in {{WP|Wilmington, Los Angeles|Wilmington}} along with the railway line overpass with the multi-colored stairs which can be found in {{WP|Watts, Los Angeles|Watts}}.
+
+==History==
+===Events of ''Grand Theft Auto: San Andreas''===
+{{Spoiler}}
+El Corona is a stronghold for the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] and the home of Cesar Vialpando, and has (prior to the events of ''[[Grand Theft Auto: San Andreas]]'') been attacked by the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]]. [[Carl Johnson]] is first introduced to El Corona (in a mission) during the [[High Stakes, Low-Rider]] mission, where Carl meets Cesar at his home. After Cesar Vialpando leaves Los Santos, El Corona falls into the control of the Los Santos Vagos.
+
+Upon his return, Cesar and his gang begin to kill Vagos gang members in El Corona, and eventually ask Carl Johnson for help. Carl, Cesar, Gal, Hazer and Sunny [[Los Desperados|kill]] many Vagos gang members, and win the district back for the Varrios Los Aztecas. The area, already [[Los Santos Riots|rioting]] following the acquittal of [[Frank Tenpenny]], continues to riot until Tenpenny's [[End of the Line|death]], at which time discipline is restored to El Corona and the rest of Los Santos.
+
+==Residents==
+*[[Cesar Vialpando]]
+*[[Gal]]
+*[[Hazer]]
+*[[Kendl Johnson]] (1992–?, moves from [[Ganton]] to live with Cesar)
+*[[Sunny]]
+
+==Homes==
+*[[Cesar Vialpando's House]]
+
+==Places of Interest==
+*[[El Corona Village]]
+*[[Unity Station]]
+
+==Businesses==
+*[[69¢ Store]]
+*[[8-Ball Autos]]
+*[[Bar, Los Santos|Bar]]
+*[[Beauty Supply Studio]]
+*[[Carniceria]]
+*[[Exotic Boutique]]
+*[[Liquor Mart]]
+*[[Mexican Food & Salvadorean Food]]
+*[[Nude & XXX Shop]]
+*[[Perfumes Flatware]]
+*[[Video Preview & News]]
+
+==Vehicles==
+The following vehicles may be seen around the district:
+*[[Greenwood (3D Universe)|Greenwood]]
+*[[Majestic]]
+*[[Regina]]
+*[[Remington]]
+*[[Stallion]]
+*[[Tahoma]]
+
+Additionally, random vehicles sometimes can be found driven and then parked by their driver at the [[Liquor Mart]] parking lot.
+
+===Stationary vehicles===
+*[[Blade (car)|Blade]] (2x, one only when wanted for export)
+*[[Remington]] (only when wanted for export)
+*[[Slamvan (3D Universe)|Slamvan]] (only when wanted for export)
+*[[Voodoo (3D Universe)|Voodoo]]
+
+==Weapons==
+*[[Flowers]]
+*[[Katana]]
+*[[SMG (3D Universe)|MP5]]
+
+==Collectibles==
+*Six [[Tags|gang tags]]
+*One [[Unique Stunt Jumps in GTA San Andreas|unique stunt jump]]
+
+==Trivia==
+*"El Corona" is incorrect Spanish. The correct form would be "La Corona", which translates as 'The Crown'.
+
+==Navigation==
+{{Gtasa neighborhoods|state=collapsed}}[[de:El Corona]]
+[[es:El Corona]]
+[[ru:Эль-Корона]]
+[[pl:El Corona]]
+[[pt:El Corona]]
+[[Category:Neighborhoods]]
+[[Category:Locations in GTA San Andreas in Los Santos]]
+[[Category:Zones]]

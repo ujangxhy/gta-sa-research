@@ -1,0 +1,49 @@
+{{Infobox location
+|image      = FlintRange-GTASA.png
+|games      = {{Games|SA=y}}
+|location   = [[Flint County (3D Universe)|Flint County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map        = 
+<gallery>
+FlintRange-GTASA-Map.jpg|Flint Range
+FlintRange-GTASA-FlintCountyMap.jpg|Flint County
+FlintRange-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption = Location on the map (red).
+|farm        = y
+|pscanner    = PoliceScanner-GTASA-FlintRange.ogg
+}}
+'''Flint Range''' is a small farm in {{SA}}, located in [[Flint County (3D Universe)|Flint County]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Description==
+Flint Range encompasses exclusively of farmland, including three fields to the northwest, northeast and southeast, and a farmhouse in the center. The farmland is presumably owned by [[Helena Wankstein]], who can be [[Girlfriends in GTA San Andreas|dated]] over the course of the game, as the player can meet her or "have some coffee" at the farmhouse.
+
+Located nearby is an unnamed [[Filling Stations|gas station]], an [[RS Haul]] [[RS Haul Depot|depot]], and the [[Flint Intersection]].
+
+==Places of Interest==
+*[[Helena Wankstein's Farm]]
+
+==Stationary Vehicles==
+*[[Bandito]] (Helena's car)
+*[[Combine Harvester]] (on the fields surrounding the farm, parked only at night)
+*[[Sadler]] (beside Helena's barn)
+*[[Tractor]] (on the fields surrounding the farm, parked only at night)
+
+==Residents==
+*[[Helena Wankstein]]
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{Gtasa neighborhoods|state=collapsed}}
+}}
+
+[[de:Flint Range]]
+[[es:Flint Range]]
+[[pl:Flint Range]]
+[[ru:Флинт-Рэндж]]
+
+[[Category:Locations in GTA San Andreas in Flint County]]
+[[Category:Neighborhoods]]
+[[Category:Farms]]
+[[Category:Zones]]

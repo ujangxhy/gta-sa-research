@@ -1,0 +1,164 @@
+{{infobox character
+|name           = Frank Tenpenny
+|image          = FrankTenpenny-GTASA.png
+|games          = {{Games|SA=y}}
+|aka            = 
+*Frankie
+*Officer Tenpenny
+|gender         = M
+|status         = [[End of the Line|Deceased]]
+|dod            = [[1992]]
+|pod            = Under the [[Ganton Bridge]], [[Grove Street (3D Universe)|Grove Street]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|cod            = Injuries sustained after his [[Fire Truck (ladder)|Fire Truck]] crashed during [[End of the Line|the chase]] with [[Carl Johnson|Carl]] and [[Sweet Johnson]]
+|home           = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|nationality    = {{Country|US|adj=y}}
+|family         = <!---Tenpenny has no wife, he said that as a joke during the mission "Catalyst"---> 
+|affiliations   = 
+*[[Los Santos Police Department (3D Universe)|LSPD]]
+*[[C.R.A.S.H.]] <small>(Leader)</small>
+*[[Carl Johnson]] <small>(Formerly)</small>
+*[[Eddie Pulaski]] {{Status|D1=y}}
+*[[Jimmy Hernandez]] <small>(Formerly)</small>{{Status|D1=y}}
+*[[C.R.A.S.H. Rookies]] {{Status|D1=y}}
+*[[Ralph Pendelbury]] <small>(Formerly)</small>{{Status|D1=y}}
+*[[Big Smoke]] <small>(Formerly)</small>{{Status|D1=y}}
+*[[Ryder]] {{Status|D1=y}}
+*[[The Truth]] <small>(Formerly)</small>
+*[[Ballas (3D Universe)|Ballas]]
+|businesses     = 
+*LSPD
+*C.R.A.S.H.
+|vehicles       = 
+*[[Los Santos Police Department (3D Universe)|LSPD]] [[Police Car]]
+*[[Fire Truck (ladder)|Fire Truck]] <small>(ladder variant, [[End of the Line|stolen]])</small>
+|weapons        = 
+*[[Pistol (3D Universe)|Pistol]]
+*[[Spade]] <small>(cutscene only)</small>
+*[[Combat Shotgun]] <small>(cutscene only)</small>
+*[[Shotgun (3D Universe)|Shotgun]]
+|voice          = [[Samuel L. Jackson]]
+}}
+{{Quote|Now you get this straight. We own you. You're ours. We can shit on you from such a height, you'll think God himself has crapped on you. You understand?|Dr. Frank Tenpenny intimidating [[Carl Johnson]] during [[Burning Desire]].|sound=FrankTenpenny-GTASA-Quote2.ogg}}
+'''Dr. Officer Frank Tenpenny''' is the primary [[antagonist]] in {{SA}}.
+
+He is voiced by actor [[Samuel L. Jackson]].
+
+==History==
+===Background===
+{{Quote|Intimidate those who intimidate others Carl. It's my job. Right, Ed?|Frank Tenpenny to CJ in [[The Green Sabre]]}}
+An [[Police (law enforcement)|officer]] of the [[Los Santos Police Department (3D Universe)|Los Santos Police Department]] (LSPD), Dr. Tenpenny – along with [[Jimmy Hernandez]] and [[Eddie Pulaski]] {{nd}} make up the individual [[C.R.A.S.H.]] (Community Resources Against Street Hoodlums) unit.
+
+Although both Dr. Tenpenny and the C.R.A.S.H. unit claim and appear to be ordinary police officers, Dr. Tenpenny and the others that make up the unit are extremely corrupt individuals who use their knowledge of the gangs they are hired to stop to coerce them into surrendering some of their profits and supplies to them, and regularly commit acts of police brutality, making them almost like a gang themselves but with the power of law enforcement behind them.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+[[The Introduction|Prior]] to the game's storyline, Dr. Tenpenny and [[Eddie Pulaski]] exit from a meeting in [[Ganton]] with an unnamed individual referred to as "that fat fuck" and "that over-sized asshole" (likely [[Big Smoke]]). Tenpenny ordered the individual to better do what he was told, further discussing that [[Ralph Pendelbury]] was becoming a problem. Dr. Tenpenny later threatened the same individual over the phone and rode with Pulaski to pick up [[Jimmy Hernandez]] before the latter joined C.R.A.S.H. Tenpenny then orders Hernandez to silence Ralph Pendelbury, an LSPD officer who uncovered and attempted to expose Dr. Tenpenny and Pulaski's corruption to [[Internal Affairs Division (3D Universe)|Internal Affairs]]. Just prior to Pendelbury's murder, Tenpenny and Pulaski brief their newest recruit, Hernandez, in a scene reminiscent of the film ''{{WP|Training Day}}''. They both order Hernandez to pull the trigger on Pendelbury, thereby initiating Hernandez into their distorted view of things.
+
+====Relationship with CJ====
+Dr. Tenpenny has known [[protagonist]] [[Carl Johnson]] at least since [[Brian Johnson]]'s death in [[1987]], and CJ is well aware of Dr. Tenpenny and calls him by name from the very beginning of the game. Dr. Tenpenny likes to "step on" CJ on a regular basis to remind him of who's in charge. Dr. Tenpenny is obviously seen to be a powerful influence on the criminals of [[Los Santos (3D Universe)|Los Santos]], even warning CJ that "we can shit on you from such a height, you'll think God himself has crapped on you." He sees CJ as another tool in his dirty dealings. He and Pulaski extort several [[Grove Street Families]] members, including [[Big Smoke]] and [[Ryder]], but Tenpenny appears to take pleasure in exercising control over CJ specifically. He officially threatens CJ to do his work or he'll frame him for Officer Pendelbury's murder, whom Tenpenny had Hernandez kill merely ten minutes before Carl's return to Los Santos.
+
+====Gang Association====
+While Tenpenny claims he is pitting the gangs against each other to wipe them all out, he is actually allied with the [[Ballas (3D Universe)|Ballas]], who (unlike the GSF) have no reservations against dealing crack cocaine. C.R.A.S.H. lets the Ballas flood the city with drugs, which turns many GSF members into addicts, effectively crushing their gang. Dr. Tenpenny also convinces Smoke to betray his gang in return for heading up the drug operation; in turn, Smoke convinces Ryder to defect also. Dr. Tenpenny and Pulaski personally oversee the Ballas murder of Carl and [[Sweet Johnson]]'s mother [[Beverly Johnson|Beverly]] (this is revealed during ''The Green Sabre''). Tenpenny anticipates that her death will bring CJ back to Los Santos, and accosts him less than a block from his home in [[Ganton]] and forces the taxi which CJ was passenger in, off with his suitcase and which is probably the main reason why CJ has only one pair of clothes at the start of the game. The C.R.A.S.H. team also plants evidence on him linking him to Pendelbury's death (allowing Dr. Tenpenny to exploit CJ into doing whatever he sees fit). He warns CJ not to leave town and dumps him out of the patrol car in [[Ballas (3D Universe)|Ballas]] territory.
+
+Later, Dr. Tenpenny and Pulaski kidnap CJ following a [[The Green Sabre|large gang assault]] beneath the Mulholland Intersection (which ended with Sweet being shot and incarcerated in a prison hospital upstate, and Carl being kidnapped. Clearly, Dr. Tenpenny personally ensured that CJ would escape the law to continue using him). They drive CJ miles away to rural Whetstone and dump him in the woods with orders to [[Badlands|kill an FBI witness]]. He also tells CJ, who now knows of Big Smoke's involvement with C.R.A.S.H., not to kill Big Smoke, or the imprisoned Sweet will be put on a Ballas cell block. Dr. Tenpenny and Pulaski surface every so often to lean on CJ and usually order him to plant evidence on or kill someone who threatens to expose the true colours of C.R.A.S.H.
+
+With Big Smoke ruling Los Santos as its crack kingpin under C.R.A.S.H.'s control, Dr. Tenpenny's reach is expanding. Despite this, the FBI is becoming interested in the wave of drugs crippling the city. CJ finally outlives his usefulness to Dr. Tenpenny and Pulaski, who are becoming edgy and less tolerant of loose ends by the time CJ reaches [[Las Venturas (3D Universe)|Las Venturas]]. There they have him [[misappropriation|acquire an FBI dossier]]. After this he drives CJ out to the desert, where Tenpenny attacks Hernandez for cooperating with Internal Affairs and orders Carl to dig his own grave. He then leaves CJ and Hernandez for Pulaski to watch so he can "get drunk and get laid", so he is not present to see [[High Noon|CJ murder Pulaski]].
+
+Upon [[A Home in the Hills|taking back Madd Dogg's mansion]], CJ learns that Dr. Tenpenny has been charged with racketeering, corruption, possession and use of narcotics and numerous sexual assaults. However, as all the prosecution's witnesses have either been killed by CJ or otherwise gone missing, Tenpenny is acquitted, which ignites a [[Los Santos Riots|riot]] in Los Santos reminiscent of the {{WP|1992 Los Angeles riots}}.
+
+====Death====
+{{Quote|Come on, assholes. I'll take you all. You're mine! Mine! I run this town! Hey, over here! Hey! Officer down! Come on! HEY! Assholes! You never understood what I did! Fifty of me and this town would be okay. I took the trash out! I DID! And I'd do it all again...|Dr. Tenpenny's last words, in [[End of the Line]].}}[[File:FrankTenpenny-GTASA-Quote.ogg|center|noicon]]
+
+Dr. Tenpenny seeks to escape Los Santos and the ongoing riot by plane (supposedly fleeing [[State of San Andreas (3D Universe)|San Andreas]]) with a suitcase full of drug money. Tenpenny emerges just as CJ has [[End of the Line|killed Big Smoke]] and tells him he has [[C.R.A.S.H. Rookies|new recruits]] in the force who are ready for him to "open their eyes" to his way of thinking. Dr. Tenpenny starts a fire in Big Smoke's Crack Palace downstairs, hoping to kill CJ in the blast, then flees in a [[Fire Truck (ladder)|fire engine]]. Carl's brother, Sweet, however, hangs on to the fire engine's ladder; CJ catches him in his open-roofed car and continues the chase.
+
+During the final cutscene of the "End of the Line" mission, Dr. Tenpenny's fire engine runs off an overpass, where it lands right in the heart of [[Grove Street (3D Universe)|Grove Street]]. A badly injured Dr. Tenpenny crawls out calling for backup. Upon realising nobody is coming, he curses the police force, claiming that with "fifty of me", Los Santos would be saved, before dying from either his injuries or an implied heart attack. CJ and the rest of his crew examine the body to make sure he's finished, but Sweet makes sure no one touches him so officials will blame a traffic accident for his death. 
+
+Before they walk away from the corpse, [[The Truth]] tells CJ that he "beat the system" after he personally had been trying for 30 years. CJ then leans over, points his fingers at Dr. Tenpenny's lifeless body and smugly says, "See you around, ''officer''." Dr. Tenpenny's corpse is reported on [[WCTR News]] to have been mutilated and stripped by the homeless, before officials found it once the riots had ended.
+
+==Character==
+===Appearance===
+Dr. Frank Tenpenny, as an officer of the [[Los Santos Police Department (3D Universe)|LSPD]], is only seen wearing their uniform. He is a black male who is bald with a black moustache.
+
+===Personality===
+Dr. Frank Tenpenny is a corrupt police officer and is depicted as a very violent, sadistic, callous, manipulative, and impulsive man. Tenpenny is also quite arrogant and ruthless and can be easily angered if things do not go his way. Dr. Tenpenny is a sociopath and appears to have a few qualms about abusing people verbally or physically and seems to be fond of practicing brutality on others.
+
+Dr. Tenpenny's notable trait is his egocentric superiority complex, in which he expresses enjoyment in manipulating others and being "in charge" of those around him. Such as the case in which he insisted his subordinate and right-hand man [[Eddie Pulaski]] call him by his title (Officer Tenpenny) instead of by name. Tenpenny seems to, in particular, enjoy controlling Carl, as he often uses Carl as his "dog" to do dirty jobs for him and to protect himself from various attempts by several people to expose his own crimes, all while blackmailing Carl and threatening him with harsh retribution that "(he) will think God himself has crapped on (him)." His treatment of Carl as his favorite "dog" has reached the point that he only wanted to kill him long after he has no use for Carl, as Pulaski said that Dr. Tenpenny will find an excuse to keep Carl alive despite Pulaski's wish to kill him sooner.
+
+While Dr. Tenpenny claims that he supports every gang in the town to "take the trash out" by having them kill each other, he actually sided with the drug-dealing Vagos and Ballas to weaken both Aztecas and GSF (who oppose the drug business) in order to gain more power and respect from them instead of preventing them from committing more crimes and gain the drug money for his own use.
+
+Another egocentric trait of his is his lack of empathy for his subordinates. He willfully forces Jimmy Hernandez to execute Ralph Pendelbury, attempts to beat Hernandez to death with a shovel, and leaves Pulaski to handle Carl singlehandedly, knowing full well how dangerous the latter had become by that point. While the first two cases can be reasonably explained through Tenpenny's desire to preserve his career, the latter example shows how little Tenpenny really cares for his comrades.
+
+During his final confrontation with Carl, Dr. Tenpenny declares that he will never be alone even after Pulaski and Smoke's death, as he can simply recruit [[C.R.A.S.H. Rookies|more rookies]] to replace them by "opening their eyes" with "a little truth" about his brutal practice. Despite his heinous actions, Tenpenny believes what he has done is justified. In this last breath, Tenpenny curses everyone for never understanding what he did, declaring that "fifty of [him]" would make [[Los Santos (3D Universe)|Los Santos]] a better place, and that he will "do it all again", showing no remorse for his crimes.
+
+All-in-all, Tenpenny represents the classic stereotype of the psychopathic authority figure, with little regard for human life on his side or the other, no empathy, manipulative tendencies, and a massive ego.
+
+===Influence===
+Dr. Tenpenny appears to be based on a real corrupt {{WP|Los Angeles Police|LAPD}} Officer, {{WP|Rafael Perez (police officer)|Rafael Perez}}, who was the center of attention in the {{WP|Rampart scandal}}. He also looks similar to {{WP|David Mack (police officer)|David Mack}}, another ringleader in the scandal.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[In the Beginning]]
+*[[Running Dog]]
+*[[Wrong Side of the Tracks]]
+*[[Catalyst]]
+*[[Madd Dogg's Rhymes]] <small>(Post-mission phone call)</small>
+*[[Burning Desire]] <small>(Boss)</small>
+*[[Gray Imports]] <small>(Boss)</small>
+*[[The Green Sabre]]
+*[[Badlands]] <small>(Boss/Unseen)</small>
+*[[Body Harvest]]
+*[[555 We Tip]] <small>(Voice/Boss)</small>
+*[[Snail Trail]] <small>(Boss)</small>
+*[[Misappropriation]] <small>(Boss)</small>
+*[[Freefall]] <small>(Post-mission phone call, if Misappropriation is completed)</small>
+*[[High Noon]] <small>(Boss)</small>
+*[[End of the Line]] <small>(Death)</small>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+FrankTenpenny-GTASA.jpg|'''Dr. Tenpenny''' in game.
+FrankTenpenny-GTASAde.png|'''Dr. Tenpenny''' in {{TDE}} of {{SA}}.
+FrankTenpenny-Artwork.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''Dr.''' '''Frank Tenpenny''' from ''Grand Theft Auto: San Andreas''. This artwork is also on the [[Personal Computer|PC]] version's disc cover and loadup screen.
+Artwork-FrankTenpenny-Beta.jpg|An old artwork of '''Dr. Tenpenny'''.
+</gallery>
+
+==Trivia==
+*In an {{URL|https://web.archive.org/web/20080404053506/http://www.pcworld.idg.com.au/index.php/id;338891934;pp;1|article}} on {{WP|PC World}}, Frank Tenpenny was voted as #35 of the top 47 "most diabolical video game villains of all time". In {{WP|Game Informer}},  Dr. Tenpenny was voted #2 Best Villain of 2004.
+*Dr. Tenpenny's [[Grand Theft Auto: San Andreas/Artwork|artwork]] and his actual character model slightly differ. In the artwork he appears slightly younger than in his in-game appearance, and he also had numerous tattoos on both of his arms. These tattoos do not appear in-game. He also appears much less muscular in the game. One tattoo partially visible on Dr. Tenpenny's left arm in the artwork appears to be the {{WP|United States Marine Corps}} {{WP|Eagle, Globe, and Anchor}} emblem. Corrupt {{WP|Los Angeles Police Department|LAPD}} {{WP|Community Resources Against Street Hoodlums|C.R.A.S.H.}} Officer Rafael Perez, on whom Tenpenny was likely based, was a veteran of the United States Marine Corps prior to joining the LAPD. This also could be Tenpenny's [[Beta Content in GTA San Andreas|beta]] appearance.
+*Most cutscenes with Tenpenny usually have the same {{URL|http://www.youtube.com/watch?v{{=}}l2Lrjtz-u84|theme song}} playing.
+*Dr. Frank Tenpenny is similar to [[Steve Haines]], the secondary antagonist of {{V}}. Both are corrupt law enforcement officials who use the protagonist(s) to commit crimes on their behalf to advance their careers, and end up betraying them. The main difference is the fact that Haines can get away with his crimes if the player chooses to [[The Time's Come|kill]] [[Michael De Santa]] or [[Something Sensible|kill]] [[Trevor Philips]] instead of choosing to [[The Third Way|kill]] Steve and [[Stretch (character)|the]] [[Wei Cheng|other]] [[Devin Weston|three]] antagonists.
+*Oddly, CJ responds with confusion when Dr. Tenpenny calls him after the [[Madd Dogg's Rhymes]] mission (before the first C.R.A.S.H mission strand is opened), and asks how did Dr. Tenpenny get his phone number, yet CJ was contacted via a phone call by [[Jimmy Hernandez]] earlier on, after the mission [[Tagging Up Turf]].
+*One of the [[Inside Track]] horses in {{O}} is named Tenpenny (10/1 odds).
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Navbox gtasa characters|state=collapsed}}
+{{Grove Street Families|state=collapsed}}
+{{Ballas|state=collapsed}}
+{{Los Santos Vagos|state=collapsed}}
+}}
+
+[[ar:فرانك تينبيني]]
+[[de:Frank Tenpenny]]
+[[es:Frank Tenpenny]]
+[[fi:Frank Tenpenny]]
+[[fr:Frank Tenpenny]]
+[[hu:Frank Tenpenny]]
+[[it:Frank Tenpenny]]
+[[nl:Frank Tenpenny]]
+[[pl:Frank Tenpenny]]
+[[pt:Frank Tenpenny]]
+[[ru:Фрэнк Тенпенни]]
+[[tr:Frank Tenpenny]]
+[[uk:Френк Тенпенні]]
+[[vi:Frank Tenpenny]]
+[[zh:Frank Tenpenny]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Deceased characters]]
+[[Category:Male characters]]
+[[Category:Antagonists]]
+[[Category:C.R.A.S.H.]]
+[[Category:Mission givers]]
+[[Category:Police officers]]

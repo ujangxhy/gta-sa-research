@@ -1,0 +1,104 @@
+{{Title|disambig=y}}
+{{PageTabber
+|page1 = [[Leaf Links (3D Universe)|3D Universe]]
+|page2 = [[Leaf Links (HD Universe)|HD Universe]]
+}}
+{{Infobox location
+|type          = neighborhood
+|image         = 
+<gallery>
+LeafLinks-GTAVC.png|1986
+LeafLinks-GTAVCS.png|1984
+</gallery>
+|name          = Leaf Links
+|caption       = Overview of Leaf Links. 
+|altnames      = 
+*Leaf Links Golf Club
+*Leaf Links Golf and Country Club
+|games         = {{Games|VC=y|VCS=y}}
+|location      = [[Vice City Beach]], [[Vice City (3D Universe)|Vice City]], [[State of Florida|Florida]]
+|map           = 
+<gallery>
+LeafLinks-GTAVC-Map.jpg|Leaf Links
+LeafLinks-GTAVC-MapFull.jpg|Vice City
+</gallery>
+|map_caption   = Location on the map (purple) in {{VC}}.
+|map2           = 
+<gallery>
+LeafLinks-GTAVCS-Map.png|Leaf Links
+LeafLinks-GTAVCS-MapFull.png|Vice City
+</gallery>
+|map_caption2   = Location on the map (red) in {{VCS}}.
+|pscanner    = PoliceScanner-GTAVC-LeafLinks.ogg
+|unlockedafter = 
+*[[Four Iron]] {{Small|(''GTA Vice City'')}}
+*[[From Zero to Hero]] {{Small|(''GTA Vice City Stories'')}}
+}}
+[[File:Golf_logo2.jpg|thumb|right|Leaf Links logo]]
+'''Leaf Links''' is a golf course and country club{{Ref|name=logo|ref="Leaf Links Golf and Country Club" logo in ''Grand Theft Auto: Vice City''}} in {{VC}} and {{VCS}} based on a chain of islands in [[Vice City (3D Universe)|Vice City]], [[State of Florida|Florida]].
+
+==Description==
+Located just west of [[Vice City Beach]], it is surrounded by [[water]] and condominiums, and is a major attraction for the wealthy. [[Leaf Link Golfers|Golfers]] are constantly seen in the area. [[Caddy|Caddies]] and [[Golf Club]]s spawn around the course, and a [[Comet]] spawns outside the clubhouse on the driveway in ''GTA Vice City''. Two [[Patrol Invest Group]] guards, armed with [[Nightstick|nightsticks]], stand at the entrance.
+
+The golf course is a highly varied terrain in terms of elevation compared to the rest of the city. In ''Grand Theft Auto: Vice City Stories'', the terrain is even more uneven – additionally, the canal on the northern island is enlarged, creating a very small, fourth island in the golf course.
+
+Firearms and other weapons are not permitted on the course, and a metal detector gate is located at the entrance, which automatically strips all weapons from the player and leaves them to be collected outside. In ''Grand Theft Auto: Vice City'', the metal detector won't take away any [[Melee Weapons|melee weapons]] (including [[Brass Knuckles|brass knuckles]]). In all games, the taken weapons will be waiting indefinitely for the player to recollect.
+
+It is possible to gain access to the course without being searched by climbing onto a high enough vehicle and jumping over the fence next to the clubhouse. In ''GTA Vice City Stories'', the player can simply jump over one of the fences to the left or right of the entrance. It is also possible to reach the course by water or air.
+
+==Influence==
+The real-life equivalent to Leaf Links may be the {{WP|Indian Creek, Florida|Indian Creek Country Club}} in {{WP|Miami-Dade County}}. The name "Leaf Links" appears to be a reference to {{WP|Leith Links}}, a park in {{WP|Edinburgh}}, [[Scotland]]. [[Rockstar North]] is located in Edinburgh. This also alludes to the fact that the game of golf originated in Scotland. 
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto: Vice City''===
+*[[Four Iron]]
+
+===''Grand Theft Auto: Vice City Stories''===
+*[[Home's on the Range]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+LeafLinks-GTAVC-Overview.jpg|Overview of '''Leaf Links''' in {{VC}}.
+VicPlayingGolf-GTAVCS-Screenshot.jpeg|[[Victor Vance|Vic]] at the golf club in {{VCS}}.
+</gallery>
+
+==Oversights==
+*In {{VC}}, the metal detector gate is causing two major oversights:
+**If the player has [[Remote Grenade|remote-detonated grenades]], after passing through the metal detector gate and upon pickup, they will be replaced by regular [[grenades]].
+**If the player has one of the two available [[Sniper Rifles|sniper rifles]] and one of each kind of weapon in their inventory, after passing through the metal detector gate, there will be no space left for the sniper rifle, causing it to appear inside the eastern part of the golf club main building. As a result, the player will not be able to retrieve it from there by normal means, and the sniper rifle will never disappear from that location.
+**All of these bugs have been fixed in {{VCS}}. Also, in both games, none of those bugs are present when using the metal detector gates at the [[Escobar International Airport]].
+*In both games, if the player drives through the metal detector gate on a [[Motorcycles|motorcycle]]/[[BMX (3D Universe)|bicycle]] when performing a [[Drive-By Shooting|drive-by shooting]], the sub-machine gun will be taken away, leaving the character to be stuck performing the drive-by animation (with the corresponding hand being extended as if shooting a gun). The player can still control the character and the animations are fixed upon getting off the two-wheeler, when starting to reverse or when performing a bunny hop on a bicycle.
+*In ''Grand Theft Auto: Vice City'', in the southernmost island of the golf course, the player can encounter people who should not be there, such as [[Vice City Police Department (3D Universe)|police officers]] and workers from a nearby construction site. This bug is caused by the fact that the island is very close to the neighboring construction site, and the game creates [[pedestrians]] in square grids, one of which overlaps both islands at the same time. This bug seems to have been fixed in ''Grand Theft Auto: Vice City Stories''.
+*In ''Grand Theft Auto: Vice City Stories'', the boats on the body of [[water]] north of the [[Washington Beach Park]] are always crashing into the land, as well as sometimes spawning partly inside the land. This is a result of expanding the land further north, narrowing the natural water passage between the park and the small island of Leaf Links, while at the same time not updating the boat's AI paths, instead directly reusing them from ''GTA Vice City''.
+
+==Trivia==
+*One of the [[Beta Content in GTA Vice City|development]] drawings for [[Vice City (3D Universe)|Vice City]] did not feature Leaf Links.
+*In both games, entering any of the [[Caddy|Caddies]] on the golf course will give the player a free [[Golf Club|golf club]], provided that their [[Melee Weapons|melee weapons]] slot is empty.
+*In ''Grand Theft Auto: Vice City Stories'', in contrast to ''Grand Theft Auto: Vice City'', the southernmost small island is visibly taller with rocky cliffs, making [[Victor Vance]] unable to climb out of the water and onto the island.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navbox
+|title = Navigation
+|list1 = 
+{{Gtavc neighborhoods|state=collapsed}}
+}}
+
+[[de:Leaf Links Golf and Country Club]]
+[[es:Leaf Links]]
+[[fr:Leaf Links]]
+[[it:Leaf Links]]
+[[nl:Leaf Links]]
+[[pl:Klub golfowy Leaf Links]]
+[[pt:Leaf Links]]
+[[ru:Лиф-Линкс вселенной 3D]]
+
+[[Category:Locations in GTA Vice City in Vice City Beach]]
+[[Category:Locations in GTA Vice City Stories in Vice City Beach]]
+[[Category:Neighborhoods]]
+[[Category:Golf clubs]]
+[[Category:Islands]]
+[[Category:Recreation]]
+[[Category:Zones]]

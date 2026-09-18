@@ -1,0 +1,218 @@
+{{DISPLAYTITLE:Los Santos Vagos}}
+{{PageTabber
+|page1 = [[Los Santos Vagos (3D Universe)|3D Universe]]
+|page2 = [[Los Santos Vagos (HD Universe)|HD Universe]]
+}}
+{{Infobox organization
+|name         = Los Santos Vagos
+|image        = <gallery>
+LosSantosVagos-GTASA-members.jpg|Vagos Members
+LosSantosVagos-GTASA-Tag.png|Tag
+</gallery>
+|games        = {{Games|SA=y}}
+|aka          =
+*{{H:title|Abbreviation in-game|LSV}}
+*Vagos
+*Northerners
+*Northside Vagos
+|locations    =
+*[[Las Colinas]]
+*[[Los Flores]]
+*[[East Beach]]
+*[[El Corona]] <small>(briefly)</small>
+*[[Little Mexico]] <small>(briefly)</small>
+|type         = gang
+|gang_type    = Hispanic street gang
+|enemies      =
+*[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]
+*[[Ballas (3D Universe)|Ballas]] <small>(formerly)</small>
+*[[Grove Street Families]]
+*[[San Fierro Rifa]] <small>(formerly)</small>
+*[[OG Loc (3D Universe)|OG Loc]]
+*[[Big Smoke]] <small>(formerly)</small>
+*[[San Fierro Triads]]
+|affiliations =
+*[[Ballas (3D Universe)|Ballas]]
+*[[Loco Syndicate]]
+*[[San Fierro Rifa]]
+*[[Big Smoke's Grove Street Families Faction]]
+*[[Russian Mafia (3D  Universe)|Russian Mafia]]
+*[[Big Smoke]]
+*[[C.R.A.S.H.]]
+|colors       = Yellow
+|vehicles     =
+*[[Hermes]]
+*[[Tornado]]
+*[[Oceanic]]
+*[[Voodoo (3D Universe)|Voodoo]] <small>([[Burning Desire]])</small>
+*[[Phoenix (3D Universe)|Phoenix]] <small>(Used by [[Big Poppa]])</small>
+*[[PCJ-600]] <small>(Used by [[Freddy (GTA San Andreas)|Freddy]])</small>
+*[[Sentinel]] <small>([[Running Dog]])</small>
+*[[Sanchez]] <small>([[End of the Line]])</small>
+|weapons      =
+*[[Pistol (3D Universe)|Pistol]]
+*[[Tec-9]] <small>(missions only)</small>
+*[[Baseball Bat]] <small>(gang wars only)</small>
+*[[Shotgun (3D Universe)|Shotgun]] <small>(gang wars only)</small>
+*[[Micro SMG (3D Universe)|Micro SMG]] <small>(gang wars/missions only)</small>
+*[[SMG (3D Universe)|MP5]] <small>(gang wars/missions only)</small>
+*[[AK47]] <small>(gang wars only)</small>
+*[[RPG (HD Universe)|RPG]] <small>([[Los Desperados]] mission only)</small>
+*[[Flamethrower]] <small>([[Los Desperados]] mission only)</small>
+*[[M4]] <small>([[End of the Line]] mission only)</small>
+*[[Fire Extinguisher]] <small>([[End of the Line]] mission only)</small>
+*[[Molotov Cocktails]] <small>([[End of the Line]] mission only)</small>
+|businesses   =
+*Drug trafficking/manufacturing
+*Protection/Security
+|fronts       =
+*[[Big Smoke's Crack Palace]]
+*[[Los Santos Vagos House|East Los Santos Gang House]]
+*[[Madd Dogg's Crib]] <small>(Upon acquisition from [[Big Poppa]])</small>
+*[[El Corona Village]] <small>(Formerly)</small>
+|members      =
+*[[Big Poppa]]
+*[[Freddy (GTA San Andreas)|Freddy]]
+*[[Vagos gang members (Running Dog)|Two unnamed gang members]]
+|leader       = [[Big Poppa]] (possibly)
+|status       =active 
+|nationality  = {{Country|adj=y|MX|US}}
+|status1=}}
+{{Quote|Sworn enemies of Varrios Los Aztecas, another street gang. Extremely dangerous.|GTA San Andreas Website.}}
+
+The '''Los Santos Vagos''' (a.k.a '''Northside Vagos''', '''Northerners''', '''LSV''', or just the '''Vagos''') are a street gang featured in {{SA}}. They are the tertiary main antagonistic group in the game, the first two being the C.R.A.S.H. and the Ballas.
+
+==History==
+The history of the Vagos is shrouded in mystery, as well as many of the events surrounding the gang, though they probably started forming simultaneously in relation to the other Los Santos gangs during the 1970s and 1980s.
+
+The Vagos are based in the eastern and northeastern neighborhoods of Los Santos, which are historically majority-populated by the Chicano (Mexican-American) community. Incoming immigration from [[Mexico]] and other Latin American countries increased the population of the area, and it can be assumed that the deprivation of the area, as well as cynical attitudes towards [[Los Santos Police Department (3D Universe)|law enforcement]] allowed the gang to form and flourish.
+
+Prior to 1992, they also controlled northern [[East Los Santos (3D Universe)|East Los Santos]]. This is evidenced by CJ's reaction to [[OG Loc (3D Universe)|OG Loc]] directing CJ to northern East Los Santos to find and kill [[Freddy (GTA San Andreas)|Freddy]] during the mission OG Loc. CJ states, "Ain't this Vagos' hood?". This is due to CJ being away from [[Los Santos (3D Universe)|Los Santos]] for five years and not understanding the current gang situation. During 1992, the area is actually controlled by the [[Ballas (3D Universe)|Ballas]] instead, although the radio mentions that the Vagos are in a [[Los Santos Vagos-Varrios Los Aztecas War|war]] with the [[Varrios Los Aztecas (3D Universe)|Aztecas]] in East Los Santos. Additionally, a [[Los Santos Vagos House|Vagos gang house]] remains in the area and is destroyed during the mission [[Burning Desire]].
+
+Since north East Los Santos was once part of Vagos territory before falling under Ballas control in 1992, there must have been either a gang war or a diplomatic agreement between the Ballas and the Vagos at some point.
+
+The start of, as well as their reasons for their rivalries with the Aztecas, [[Grove Street Families|Families]], and Ballas are unknown. It is likely that hostilities naturally developed due to territorial expansion. Their hostilities towards the Grove Street Families has increased over the years due to their involvement in the {{WP|Crack epidemic|crack trade}} and the weakening of the Families - which the Vagos see as an opportunity to increase their influence.
+
+==Description==
+The Los Santos Vagos are the largest and most powerful Mexican/Latino street gang based in [[Los Santos (3D Universe)|Los Santos]] and the 2nd most powerful overall gang at the beginning of the events in San Andreas. They are predominant within the poorer and more run-down neighborhoods in the far east and northeast of the city.
+
+They are fierce rivals of the other Los Santos Mexican gang, the Varrios Los Aztecas, and are also enemies with the Grove Street Families and the Ballas. They're affiliated with the [[San Fierro Rifa]], who were former enemies until the Rifa joined the narcotics business. The Vagos are also affiliated with the [[Loco Syndicate]] for narcotics, and [[C.R.A.S.H.]] for street intelligence. Despite reacting with hostilities to the Ballas on the streets, high-ranking members of the Vagos and the Ballas work together in the crack-cocaine trade while providing protection for Big Smoke's cocaine empire. LSV members include drug-dealer [[Big Poppa]] and ex-convict [[Freddy (GTA San Andreas)|Freddy]].
+
+There are three different Vago skins that walk and drive around their territories.
+
+*The first member is shirtless, wears a yellow bandana, black khaki pants, gray sneakers and has tattoos.
+*The second member wears a white tank top, yellow bandana, beige khaki pants, and white and black sneakers.
+*The last member is bald-headed, wears a white tank top, yellow bandana, dark blue khaki shorts, knee high white socks with black {{WP|Huarache (shoe)|huaraches}}, and a cross necklace.
+
+The Vagos are known to be extremely violent and will often attack in very large groups from numerous directions in an attempt to swarm and flank their enemies as part of their strategy. Most of their territory consists of close-quarter areas with numerous alleyways and shortcuts which aids them to do this. The Vagos are involved in gang-banging, street violence, murder, gang-related homicide, gang warfare, drug trafficking/manufacturing (especially the crack cocaine trade) and vandalism.
+
+The Vagos appear to be the least armed gang in Los Santos, evidenced by the fact that members only carry the [[Pistol (3D Universe)|pistol]]. However, at the same time - they are one of the largest - and they use their size to their advantage. This contrasts to their primary enemy - the Varrios Los Aztecas, which function in the complete opposite way - they are the smallest but the most heavily armed. This puts the Aztecas and Vagos on equal footing in terms of power. However, the Vagos are equipped with better firepower during some missions and gang wars.
+
+Members are often seen drinking beer and smoking marijuana while hanging in groups. They are easily identifiable by their  yellow bandanas in addition to 90s "cholo" style clothing. Vagos will also often flash Vago gang handsigns. Many members are often heavily tattooed with gang tattoos as part of their unique identity. On the streets, they are either unarmed or carry the 9mm pistol. During a gang war, they carry the [[Micro SMG (3D Universe)|Micro SMG]], [[Baseball Bat]], [[SMG (3D Universe)|SMG]], [[AK47]], and the 9mm pistol.
+
+Upon spotting a Balla, Grove, or Azteca on their territory - they will often get into a violent confrontation (especially if Aztecas). They will also usually get into a violent confrontation upon spotting the player walking or driving around their territory and will sometimes question CJ's gang-banging status, and regardless if the player chooses to respond negatively or positively, the Vagos will follow him and most likely attack.
+
+==Events of ''Grand Theft Auto: San Andreas''==
+The Vagos pose a threat to {{SA}} [[protagonist]] [[Carl Johnson]], and will taunt and attack him, if they see him. (However, in the beginning of the game, they are neutral to him unless provoked.) The Vagos are also one of two gangs (the other being the Ballas) that will attack GSF territory upon completion of the mission [[Doberman]].
+
+The Vagos' first appearance in the storyline was during the mission [[Catalyst]], in which the Vagos, Ballas and Grove Street Families are tipped off by C.R.A.S.H. about an ammunitions train. This mission sees Carl and [[Ryder]] stealing weaponry and ammunition from the train, and having to kill a number of Vagos and Ballas gang members to get them.
+
+During the [[OG Loc (mission)|OG Loc]] mission, Carl and [[OG Loc (3D Universe)|OG Loc]] chase Vagos gang member [[Freddy (GTA San Andreas)|Freddy]] across parts of Los Santos before being confronted by more Vagos gang members (whom are all killed). Later, [[Big Smoke]] appears to be having problems with the Vagos gang, and along with Carl, meet two Vagos drug dealers, who have Smoke's drugs, in the mission [[Running Dog]]. After failing to hand the drugs back to Smoke, one is injured after Smoke sneaks up from behind and swings at the Vagos gangster with a baseball bat and the other is chased down and killed by Carl.
+
+In the mission [[Wrong Side of the Tracks]], Smoke hears from [[Frank Tenpenny]] that the Vagos are meeting some San Fierro Rifa and cutting some kind of deal. At Unity Station, four Vagos gang members jump onto the train after just leaving the station, and are chased and killed by Smoke and Carl. Officer Tenpenny also has issues with the Vagos, and sends Carl to burn down a [[Los Santos Vagos House|Vagos gang house]] in [[East Los Santos (3D Universe)|East Los Santos]] in the mission [[Burning Desire]].
+
+The Vagos eventually gain the territories of the Varrios Los Aztecas upon completion of the mission [[Gone Courting]], which includes [[El Corona]], [[Little Mexico]], and [[Unity Station]] due to the increasing drug influence and attacks, causing the Aztecas to dissolve. Carl and Cesar later realize that the Vagos, Rifa, Ballas and [[Russian Mafia (3D Universe)|Russian Mafia]] are affiliated with Big Smoke to influence crack distribution in Los Santos. 
+
+The Vagos are hired by Big Smoke (along with the Rifa, Russian Mafia and Ballas) for protection/security and as drug dealers for his cocaine empire. This is the only situation in the game where the Ballas and Vagos collaborate with each other due to the money interest - despite being natural enemies on the streets. It is likely that only the higher-ranking OG's of the Ballas and Vagos collaborate with Big Smoke.
+
+High-ranking Vagos member and powerful drug dealer [[Big Poppa]] is also able to buy out the [[Madd Dogg's Crib|mansion]] of washed-up rapper [[Madd Dogg (3D Universe)|Madd Dogg]]. The mansion then becomes a front and hang-out for the Vagos. In the game's storyline (in the mission [[A Home in the Hills]]), CJ and the San Fierro Triads storm the mansion, Kill Big Poppa, and reclaim the mansion for Madd Dogg.
+
+The Vagos remain in the Aztecas territories until Carl and Cesar return to Los Santos, and they reclaim El Corona, Little Mexico, and Unity Station as Aztecas territory in the mission [[Los Desperados]] in a large gang war.
+
+Upon the destruction of [[Big Smoke's Crack Palace]]/empire and [[End of the Line|the death of Big Smoke]], the Vagos lose a lot of drug influence on the streets. If the player chooses, it is possible to take over all of their territories in Los Santos as part of the [[Gang Warfare in GTA San Andreas|gang-war mini-game]], thus ending the Vagos gang for good, and they will never appear in the game again or attack GSF territory.
+
+==Members and Associates==
+===Members===
+*[[Big Poppa]] {{nd}} [[Drug]] dealer ([[A Home in the Hills|deceased]]) 
+*[[Freddy (GTA San Andreas)|Freddy]] ([[OG Loc (mission)|deceased]])
+*[[Vagos gang members (Running Dog)|Two unnamed members]] ([[Running Dog|deceased]])
+
+===Associates===
+*[[Big Smoke]] ([[End of the Line|deceased]])
+*[[Ryder]] ([[Pier 69 (mission)|deceased]])
+*[[C.R.A.S.H.]] ([[End of the Line|wiped out]])
+*[[Loco Syndicate]] ([[Yay Ka-Boom-Boom|wiped out]])
+
+==Vehicles==
+The Vagos drive three different classic cars, the two-door [[Hermes]] and [[Tornado]], and the four-door [[Oceanic]]. If a player angers the gang to the point of pursuit (during gang wars, for example), they will always give chase in the Oceanic, due to it being their only vehicle capable of holding four members. Although the Tornado appears considerably often throughout the game, it will spawn much less frequently when all Vagos territories have been captured, the best solution is storing one before this occurs. They also seem to be a larger volume of Vagos cars on the streets than any other gang, making attacks on members difficult. The favourite radio stations of the Vagos is [[K-DST]] and [[Master Sounds 98.3]].
+
+==Prominent Apperances in Gameplay==
+*[[Catalyst]]
+*[[OG Loc (mission)|OG Loc]]
+*[[Running Dog]]
+*[[Wrong Side of the Tracks]]
+*[[Burning Desire]]
+*[[A Home in the Hills]]
+*[[Los Desperados]]
+*[[End of the Line]]
+
+==Quotes== 
+{{Main|Los Santos Vagos (3D Universe)/Quotes|l1=Los Santos Vagos/Quotes}}
+
+==Gallery==
+<gallery position="center" captionalign="center" spacing="small" widths="250px">
+LSV Member 1.jpg|'''Vagos''' first member.
+LSV Member 2.jpg|'''Vagos''' second member.
+LSV Member 3.jpg|'''Vagos''' third member.
+LosSantosVagos-GTASA-Tag.png|'''Los Santos Vagos''' graffiti.
+LSV graffiti.jpg|Non-interactive graffiti of the '''Los Santos Vagos'''.
+ImagesCAEXAP56.jpg|Gang Sign.
+PromotionalWebsite-GTASA-Flash-eastlossantos vagos.jpg|The '''Vagos''' in an early screenshot.
+LosSantosVagos-GTASA.jpg|Several '''Vagos''' in their territory of East Beach.
+Los Santos Vagos-GTASA-InitialGangTerritory.png|The territories of '''Los Vagos''' prior to [[Gang Warfare in GTA San Andreas]].
+</gallery>
+
+==Trivia==
+{{Cleanup|section=y|Refer to [[Manual of Style:Trivia]].}}
+*The most accurate real prototype of Vagos is the {{WP|Latin Kings (gang)|Latin Kings}} gang, who are the biggest Hispanic street gang in the US and sport yellow as their gang color. However, the Latin Kings' city of origin is Chicago, though they did have active sets in California during the early 1990s.
+**The Latin Kings, however, is later represented as the [[Spanish Lords]] in {{IV}} and [[Grand Theft Auto: Episodes from Liberty City|its episodes]], as well as {{CW}}.
+**Considering the gang is located in [[East Los Santos (3D Universe)|East Los Santos]], which is based on {{WP|East Los Angeles, California|East Los Angeles}}, then one of the prototypes can be considered the {{URL|https://www.google.com/amp/s/unitedgangs.com/maravilla-family-gangs/%3famp|Maravilla}} gang, despite the difference in colors.  Vagos is yellow and Maravilla is green.
+**It is also possible that the Vagos are simply based on real-life Sureño gangs common in LA, as are their rivals, the [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]. Sureño gangs are known to have conflicts with other Sureño gangs.
+*Vago (Noun) is Spanish for slacker. It can mean "vague" (adjective), but the gang's direct name (In English) is "Los Santos Slackers". It is a common (and rather jeering) misconception that the gang's name means "The Lazy Saints"; however, "Los Santos" is used as a noun in their title, and is not meant to be translated literally. 
+**Vago also translates as "wanderer" or "vagabond", which in the Spanish language can have negative connotations relating to crime or delinquency.
+*It is likely that initially the East Los Santos area – or at least some part of it – was meant to be controlled by the Vagos as it is evidenced numerous times during the story:
+**During OG Loc, Freddy's house is located there, as well as CJ is convinced that this is Vagos' hood, with nobody in the car correcting him.
+**During Running Dog, the two initial Vagos' members are met here, with one of them escaping through East Los Santos, with two of the members aiding him also found in the district's premises.
+**The Vagos Gang House is located at the edge of the district which directly borders with [[Jefferson]].
+**During OG Loc, if the player will chase Freddy long enough, he will be lured into Vagos' ambush near the basketball fields, which is near the edge of East Los Santos.
+*The Vagos member who is shirtless has a tattoo on his lower abdomen of the face of Christ. If this member kills another NPC, this particular member  may utter lines such as "Bless me Father, for I have sinned".
+*Even though the Vagos gain control of [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] territory between [[The Green Sabre]] and [[Body Harvest]] story-wise, this takeover is not reflected in-game until the post-mission phone call from Catalina upon completing [[Gone Courting]]. Since the call is very easy to miss for people that complete the next mission, Vagos may not receive the four territories from Aztecas.
+*In the beta version of the game, Vagos also controlled [[Market (3D Universe)|Market]], as evidenced by the unused text that was related to the [[All-Terrain Take Down]] mission.
+*Despite the fact that they are the Families' secondary enemies and the most dangerous gang in the game, they are generally less hostile to CJ when encountering him on the streets. While the Ballas are known to shoot at CJ every time he passes on their turf, the Vagos will only confront CJ, questioning why he is on their turf. Even if Carl responds negatively, the gang will chase him but this is still a chance for Carl to run away, and the Vagos will stop chasing CJ. The Vagos however, will shoot immediately if CJ is wearing green clothing.
+*It is possible that there was a truce called between the Families and the Vagos; the Vagos (as implied from Sweet's call before [[End of the Line]]) ended up giving Big Smoke's coordinates to the Families. In exchange, the Vagos may have called for a halt in hostility between the gangs, somewhat mirroring real life gangs in Los Angeles calling truces in the 1990s after the Los Angeles riots.
+**Even if there was a truce between the two gangs, it may have been short-lived since the Vagos become enemies again in the last mission (though these members were loyal to Big Smoke). It is possible that the Vagos were scared of the Families taking over their territories in Los Santos and gave Big Smoke's coordinates to CJ and Sweet. It's not made clear which situation took place by the end of the game.
+*Interestingly, they will not attack the player in any way when he is doing the [[Pimping]] missions. They will just stand on the streets, and the gang won't even chase Carl or shoot at his car. This is likely done to make the mission easier. This is also the case with the Ballas.
+*They are the most aggressive gang in gang wars. While the Ballas are known to use weaker weapons on the first level, the Vagos will automatically come with weapons that can make short work of Carl, such as Micro SMGs, Tec-9s, and AK47s. They will also come from different directions in large numbers, so the player should be very careful when waging war on the Vagos. Usage of a strong weapon like the Minigun is advised, which will make short work of the Vagos. Similarly strong weapons such as the Rocket Launcher, the Molotov Cocktails or Grenades are useful as well, though the player should use these weapons wisely, as using them can easily backfire.
+*The Vagos are known to attack in large numbers, as proven in the missions [[A Home in the Hills]] and [[Los Desperados]], as well in the aforementioned gang wars.
+*The [[Cholos]] in {{VCS}} share similarities with the Vagos. Both gangs are Mexican, they both oppose the protagonist of their respective game, and they are both sworn enemies with another Latin gang (the Vagos are enemies with the Varrios Los Aztecas and the Cholos are enemies with the [[Cubans]]).
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Vagos}}
+{{Gtasa gangs}}
+}}
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Latino-descendant organizations]]
+
+[[de:Los Santos Vagos#Grand Theft Auto: San Andreas]]
+[[es:Los Santos Vagos]]
+[[fi:Los Santos Vagos]]
+[[fr:Los Santos Vagos (GTA San Andreas)]]
+[[hu:Vagos]]
+[[pl:Los Santos Vagos (uniwersum 3D)]]
+[[pt:Los Santos Vagos (3D)]]
+[[ru:Los Santos Vagos вселенной 3D]]

@@ -1,0 +1,28 @@
+{{DISPLAYTITLE:Getting Started}}
+{{Disambiglink|You may be looking for the achievement of the same name in [[Grand Theft Auto Online]].}}
+{{Infobox achievement
+|name = Getting Started
+|front_image = GettingStarted-GTASA-Trophy.png
+|game = {{Games|SA=y}}
+|description = Complete Big Smoke.
+|gamerscore = 20{{G}}
+|trophy = {{Trophy|Bronze}}
+}}
+{{Quote|Complete Big Smoke.|In-game description}}
+'''Getting Started''' is an achievement/trophy in {{SA}}.
+
+==Acquisition==
+To acquire this achievement, start the game and finish the first mission. As this is the only thing the player is allowed to do at the start of the game, it is virtually unmissable.
+
+==Details==
+The achievement is twofold, as it was an achievement/trophy in the retired versions, while it is a [[Social Club achievement in {{TDE}}.
+
+{{Clr}}
+==Walkthrough==
+thumb|left|335 px
+
+[[Category:Achievements and Trophies in GTA San Andreas
+
+[[es:Primeros pasos (SA)
+[[ru:Getting Started (SA)
+[[uk:Getting Started (SA)

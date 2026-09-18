@@ -1,0 +1,54 @@
+{{Infobox mission
+|name = Fish In A Barrel
+|image = FishInABarrel-GTASA-Mission.png
+|caption = [[Wu Zi Mu]], [[Carl Johnson]] and [[Ran Fa Li]] celebrate their partnership.
+|game           = {{games|SA=y}}
+|type           = SA
+|for ={{For|game=SA|triadLV}}
+|location = [[The Four Dragons Casino]], [[The Strip]], [[Las Venturas (3D Universe)|Las Venturas]]
+|reward = None
+|unlocks = [[Freefall]]
+|unlockedby = [[The Meat Business]]
+|todo = <span style="color:#b54242;">N/A</span>
+}}
+{{Quote|Gentlemen? Or shall I say 'partners'?| Woozie|sound=FishInABarrel-GTASA-Quote.ogg}}
+'''Fish in a Barrel''' is a mission in ''[[Grand Theft Auto: San Andreas]]'' given to [[protagonist]] [[Carl Johnson]] by the [[Mountain Cloud Boys]] [[San Fierro Triads|Triad]] boss [[Wu Zi Mu]] from his office at [[The Four Dragons Casino]], a casino located along [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+Although considered a mission by the game, it is merely a small cutscene.
+
+==Mission==
+[[Carl Johnson]] and [[Ran Fa Li]] enter Wu Zi Mu's office at the casino, where Woozie asks them to sign a document. Carl and Ran Fa Li sign it, and Woozie announces that they are now his partners in the Four Dragons Casino. The cutscene ends with the three men raising a toast in celebration.
+
+==Reward==
+There is no reward for completing this mission, though the mission [[Freefall]] is unlocked.
+
+{{Clear}}
+==Transcript==
+{{/Transcript}}
+
+==Post-Mission Phone Call==
+*'''Carl Johnson''': Hello?
+*'''[[Ken Rosenberg]]''': Carl? It's me, Ken. The [[Leone Crime Family|Leone family]] has made their move! [[Salvatore Leone|Salvatore's]] here, now! He's taken over [[Caligula's Palace|Caligula's]]! We're screwed! It's [[Caligula's Palace War|war]] for control of [[Las Venturas (3D Universe)|Venturas]], man. War! WAR! There's word of some [[San Fierro Triads|Triad]] visit or something that should keep him busy. I'm calling from the bathroom, I gotta go, I really gotta go.
+
+==Video Walkthroughs==
+{{#ev:youtube|3AD9_tM_eq0|275px|center}}
+{{#ev:youtube|vZJoEB01rps|275px|center}}
+{{#ev:youtube|M1lVSYJyr9M|275px|center}}
+
+==Trivia==
+*As with [[The Green Sabre]] (except for mobile versions and ''The Definitive Edition'') and [[King in Exile]], no "Mission Passed" message appears at the end of the mission.
+*This cutscene, internally codenamed "Casino 7 Cutscene '''B'''" in the text files, is simply a leftover outro cutscene from a [[Fish in a Barrel (cut mission)|cut mission of the same name]] for the Four Dragons Casino, in which Carl Johnson was intended to escort Ran Fa Li from the airport to the casino and protect him from a [[Mafia]] attack.
+*This is the last appearance of Ran Fa Li in the game's storyline and notably the only time he appears without his interpreter.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+[[de:Fish in a Barrel]]
+[[es:Fish in a Barrel]]
+[[pl:Ryba w beczce]]
+[[ru:Fish in a Barrel]]
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

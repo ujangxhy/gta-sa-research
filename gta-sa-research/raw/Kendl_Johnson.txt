@@ -1,0 +1,98 @@
+{{Spoiler}}
+{{Infobox character
+|name            = Kendl Johnson
+|image           = KendlJohnson-GTASA.png
+|games           = {{Games|SA=y}}
+|gender          = F
+|status          = Alive
+|pob             = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|home            = *[[Grove Street (3D Universe)|Grove Street]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]] (formerly)
+*[[El Corona]], [[Los Santos (3D Universe)|Los Santos]]
+|nationality     = {{Country|US|adj=y}}
+|family          = *[[Beverly Johnson]] <small>(mother)</small>{{Status|D1=y}}
+*[[Carl Johnson]] <small>(brother)</small>
+*[[Carl Johnson's father|Unnamed father]]{{Status|U=y}}
+*[[Sweet Johnson]] <small>(brother)</small>
+*[[Brian Johnson]] <small>(brother)</small>{{Status|D1=y}}
+*[[Cesar Vialpando]] <small>(boyfriend)</small>
+|affiliations    = *[[Grove Street Families]]
+*[[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]]
+*[[Wu Zi Mu]]
+|voice           = [[Yo-Yo]]
+|dob             = [[1972]]
+}}
+{{Quote|Ohh, what - a no good, narrow minded, hypocrite gang banger telling me what is right and what is wrong?|Kendl Johnson to [[Sweet Johnson]] during the mission [[Cesar Vialpando (mission)|Cesar Vialpando]].|sound=KendlJohnson-GTASA-Quote.ogg}}
+'''Kendl Johnson''' is a main character in {{SA}}.
+
+She is voiced by [[Yolanda Whittaker]].
+
+==History==
+===Background===
+Kendl is [[Carl Johnson|CJ]] and [[Sean Johnson|Sweet's]] younger sister, and the older sister of the late Brian Johnson. Their mother is [[Beverly Johnson]] (who dies just before the game begins). She is also [[Cesar Vialpando]]'s girlfriend, and therefore affiliated with both Cesar's [[Varrios Los Aztecas (3D Universe)|Varrios Los Aztecas]] and the [[Grove Street Families]].
+
+===Events of ''Grand Theft Auto: San Andreas''===
+{{Stub}}
+After learning about [[Big Smoke]] and [[Ryder|Ryder's]] betrayal, CJ requests that Cesar bring Kendl to safety by fleeing from [[Los Santos (3D Universe)|Los Santos]]. Later in the storyline, Cesar pondered proposing to Kendl but the question of whether Kendl accepted or not remains unanswered.
+
+Moving to the [[Doherty Garage|gas station/garage]] in [[Doherty (3D Universe)|Doherty]], [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]] alongside Carl, Cesar, and The Truth, she found the place could be reworked into something profitable, putting her despaired bother into an ease ([[Claude]] gave him that place as the reward for the [[Farewell, My Love...|race]] instead of a pink slip). The renovation into a successful chop shop went well after The Truth enlisted [[Jethro|a]] [[Dwaine|few]] [[Zero|acquaintances]] of his for the endeavor, though it was briefly interrupted by construction workers from the [[The Waste Ground|construction site]] next to the garage who harassed her, much to CJ's anger that [[Deconstruction|he confronted them for it.]]
+
+==Character==
+===Personality===
+Kendl is depicted as intelligent and pragmatic which suggests that although her brothers turned to crime as a last resort to support themselves, Kendl could become successful within the bounds of the law which makes her the "brains" of CJ's business ventures. She possesses entrepreneurial talents, strong willpower, creativity, and a sense of leadership. In fact it was Kendl who came up with the idea of "Letting [[money]] work for you" and when CJ responded with, "I ain't going to no college man", she shot back that she will take care of it. She has little tolerance for whining or complaining or complacency which causes CJ and others to regard her as a bit bossy. This is exemplified in the mission [[Zeroing In]], when she discovers everyone sitting around playing poker and chastises them questioning if that was how they would build their business.
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[Big Smoke (mission)|Big Smoke]] <small>(Voice)</small>
+*[[Sweet & Kendl]]
+*[[Cesar Vialpando (mission)|Cesar Vialpando]]
+*[[High Stakes, Low-Rider]]
+*[[King in Exile]]
+*[[Wear Flowers in Your Hair]]
+*[[Deconstruction]]
+*[[Zeroing In]]
+*[[Customs Fast Track]]
+*[[A Home in the Hills]]
+*[[Riot (GTA San Andreas)|Riot]]
+*[[End of the Line]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+Artwork-Cesar&Kendl-GTASA.jpg|[[Grand Theft Auto: San Andreas/Artwork|Artwork]] of '''Kendl''' with [[Cesar Vialpando|Cesar]].
+JohnsonHouse-GTASA-SweetandKendlPortrait.png|[[Beta Content in GTA San Andreas/Characters|Early version]] of the [[Cutscenes|cutscene]] models of [[Sweet Johnson|Sweet]] and '''Kendl''' found in the [[Johnson House]].
+KendlJohnson-GTASADE.png|'''Kendl Johnson''' in the trailer for {{TDE}}.
+KendlJohnson-GTASAde.png|'''Kendl''' in ''The Definitive Edition'' of ''Grand Theft Auto: San Andreas''.
+</gallery>
+
+==Trivia==
+*The only mission where Kendl appears outside of cutscenes is [[High Stakes, Low-Rider]]. During this mission, her [[Beta Content in GTA San Andreas|Beta]] model is used during regular gameplay. The inconsistency is fixed in {{TDE}}.
+*Kendl's beta model wears a black #81 football jersey with "BROWN" on the back, blue track pants and white shoes. The model can still be found inside game files, and was edited slightly by [[Rockstar North]] into a [[Pedestrians|pedestrian]] model: "BROWN" was changed to "CROON", the "81" to "31", and black to purple.
+*The only time Kendl calls [[Carl Johnson|Carl]] "CJ" in the storyline is during [[King in Exile]]. She can also call Carl CJ if the player loses the race in High Stakes, Low-Rider.
+*Shortly before dying in the mission [[High Noon]], Officer [[Eddie Pulaski]] claims he wants to have sex with Kendl, leading Carl to say he was an "asshole to the end". In addition, during [[Yay Ka-Boom-Boom]], Cesar claims [[Ryder]] once tried to seduce Kendl.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Grove Street Families|state=collapsed}}
+{{Navbox gtasa characters|state=collapsed}}
+}}
+
+[[de:Kendl Johnson]]
+[[es:Kendl Johnson]]
+[[fi:Kendl Johnson]]
+[[fr:Kendl Johnson]]
+[[hu:Kendl Johnson]]
+[[it:Kendl Johnson]]
+[[no:Kendl Johnson]]
+[[pl:Kendl Johnson]]
+[[pt:Kendl Johnson]]
+[[ro:Kendl Johnson]]
+[[ru:Кендл Джонсон]]
+[[tr:Kendl Johnson]]
+[[uk:Кендл Джонсон]]
+[[vi:Kendl Johnson]]
+[[zh:Kendl Johnson]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Female characters]]
+[[Category:Members of the Johnson family]]

@@ -1,0 +1,122 @@
+{{Infobox mission
+|name = Badlands
+|image = Badlands-GTASA-Mission.png
+|caption = The cabin containing the witness on [[Mount Chiliad (3D Universe)|Mount Chiliad]] with an [[Federal Bureau of Investigation|FBI]] agent patrolling the outside of the cabin.
+|game           = {{Games|SA=y}}
+|type           = SA
+|for = {{For|game=SA|crash}}
+|location = [[Angel Pine Save Point|Trailer Park]], [[Angel Pine Mobile Home Park]], [[Angel Pine]], [[Whetstone]]
+|target = [[The Informant]]
+|reward = None
+|fail = *[[Wasted]]
+*[[Busted]]
+*[[The Informant|Informant]] escapes
+*Informant's body is abandoned or can't be identified
+|unlocks = [[First Date (GTA San Andreas)|First Date]]
+|unlockedby = [[The Green Sabre]]
+|todo =
+*Kill the '''<span style="color:#D1BC86">witness</span>'''! Bring back proof.
+*Make your way up the '''<span style="color:#D1BC86">mountain</span>''' to find that snitch!
+*He's inside, smoke him out!
+*Watch out for the feds!
+*Remember, you need a photo of him in one piece!
+*Photograph the '''<span style="color:#AB3736">body</span>'''.
+*Take the camera to the '''<span style="color:#D1BC86">drop</span>'''.
+}}
+{{Quote|For some reason, we've got a little problem with a former friend of ours, he seems to disagree with some of our methods.|[[Eddie Pulaski]] giving instructions to [[Carl Johnson]] in the end of the [[The Green Sabre|previous mission]].}}
+'''Badlands''' is a mission in {{SA}} given to [[protagonist]] [[Carl Johnson]] by [[C.R.A.S.H.]] officers [[Frank Tenpenny]], [[Eddie Pulaski]] and [[Jimmy Hernandez]] from a [[Angel Pine Save Point|trailer]] in [[Angel Pine]], [[Whetstone]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+After the [[The Green Sabre|gunfight]] beneath the [[Mulholland Intersection]] that resulted in [[Sean Johnson|Sweet]] being badly injured and taken into police custody; Carl is kidnapped and taken outside of [[Los Santos (3D Universe)|Los Santos]] to begin performing errands for C.R.A.S.H. The first of these tasks is a favor for Tenpenny, who tells Carl to kill an [[The Informant|ex-police officer]] being held by the [[Federal Bureau of Investigation|FBI]] under a witness protection program. The witness, who has compromising information about Tenpenny, is hiding in a [[Mount Chiliad Cabin|remote cabin]] located on [[Mount Chiliad (3D Universe)|Mount Chiliad]]. Carl, disarmed by the police, and carrying only a [[camera]], is forced to make his way up Mount Chiliad. He then flushes the witness out of the cabin, and chases him down Mount Chiliad as he attempts to flee in a [[Washington]]. After Carl kills the witness, he photographs the evidence that he will no longer be talking, and delivers it to a trailer in Angel Pine. If the witness makes it to the road at the base of the mountain, he will continue north until reaching the road in south [[Foster Valley]], after which he will continue randomly until killed by Carl.
+
+After completing the mission in Angel Pine, Carl will receive two phone calls in the first succession. The first phone call is from [[Cesar Vialpando|Cesar]], who suggests Carl to locate an [[Catalina|unknown person]] who will protect him. The second is from Sweet, now held captive in a prison hospital while receiving treatment for his gunshot wounds.
+
+==Mission Objectives==
+In order to complete the mission the player must:
+*Kill the '''[[The Informant|<span style="color:#D1BC86">witness</span>]]'''! Bring back proof.
+*Make your way up the '''[[Mount Chiliad (3D Universe)|<span style="color:#D1BC86">mountain</span>]]''' to find that snitch!
+*He's inside, smoke him out!
+*Watch out for the feds!
+*Remember, you need a photo of him in one piece!
+*Photograph the '''<span style="color:#AB3736">body</span>'''.
+*Take the [[camera]] to the '''[[Angel Pine Save Point|<span style="color:#D1BC86">drop</span>]]'''.
+
+==Deaths==
+*[[The Informant]] – Killed by Carl Johnson on the orders of Frank Tenpenny.
+*[[Federal Bureau of Investigation|FBI]] guards (optional) – Can be killed by Carl for getting in his way of killing the witness.
+
+==Reward==
+There is no reward for completing this mission, though the mission [[First Date (GTA San Andreas)|First Date]] is unlocked.
+
+==Post-Mission Phone Calls==
+===Phone Call 1===
+*'''Carl Johnson''': Cesar, it's me.
+*'''[[Cesar Vialpando]]''': Carl. You alright, holmes? [[Kendl Johnson|Your sister]]'s been worried. I heard some shit went down.
+*'''Carl Johnson''': Yeah. [[Los Santos (3D Universe)|Los Santos]] is dangerous right now. I'm out in the middle of... I don't know... of Whetstone, wherever that is.
+*'''Cesar Vialpando''': Don't know Whetstone too well. I got some family out near there, I think. But at least you ain't in jail, holmes. Shit's fucked up with your brother, ese.
+*'''Carl Johnson''': You be careful and look after Kendl.
+*'''Cesar Vialpando''': Don't worry about me, man. You worry about the man who tries to fuck with my woman. I got some back up coming out to protect you. My cousin. Really intense, holmes. Trust me. Meet them over at the diner in [[Dillimore]] over in [[Red County (3D Universe)|Red County]]. You won't miss them.
+===Phone Call 2===
+*'''[[Sweet Johnson]]''': Carl, it's me.
+*'''Carl Johnson''': Sweet, what's going on, man?
+*'''Sweet Johnson''': Man, what the fuck you think is going on? I'm in a prison hospital, n***a!
+*'''Carl Johnson''': I know, you alright?
+*'''Sweet Johnson''': Hell no. You gotta do something, man.
+*'''Carl Johnson''': I'm trying, man, I just gotta make sure Kendl's safe first.
+*'''Sweet Johnson''': A'ight, man, I gotta go.
+*'''Carl Johnson''': Don't worry bro, I ain't gonna leave you in there.
+
+==Walkthrough==
+<gallery position="center" spacing="small" widths="250px" bordersize="small">
+Badlands-GTASA-SS1.png|Carl looks over Mount Chiliad. Somewhere on the mountain is his target's hideout.
+Badlands-GTASA-SS2.png|Carl must locate the target, kill him and get proof for [[C.R.A.S.H.]] – a photograph.
+Badlands-GTASA-SS3.png|Carl heading out of [[Angel Pine]].
+Badlands-GTASA-SS4.png|Carl arriving by the mountain side.
+Badlands-GTASA-SS5.png|Carl must climb the mountain and find the target.
+Badlands-GTASA-SS6.png|Carl climbing up the mountain.
+Badlands-GTASA-SS7.png|Carl's journey up the mountain leads him to a forested till overlooking the Badlands.
+Badlands-GTASA-SS8.png|It appears that the target is hiding out in a small [[Mount Chiliad Cabin|cabin]] on this till.
+Badlands-GTASA-SS9.png|The cabin is closely guarded by federal agents. Carl must be careful not to alert them, or else his mission will become greatly complicated.
+Badlands-GTASA-SS10.png|After killing the target, Carl mustn't forget to take a photo of the target's dead body as proof that he is dead.
+Badlands-GTASA-SS11.png|Carl stalking the target in the cabin from the woods nearby.
+Badlands-GTASA-SS12.png|Carl beating the target to death.
+Badlands-GTASA-SS13.png|After Carl has killed the target, he must take a picture of the dead body.
+Badlands-GTASA-SS14.png|Carl photographing the dead informant.
+Badlands-GTASA-SS15.png|Carl must now return safely back to Angel Pine and drop the camera off.
+Badlands-GTASA-SS16.png|Carl climbing down the mountain.
+Badlands-GTASA-SS17.png|Carl returning to his [[Angel Pine Save Point|trailer]] in Angel Pine.
+Badlands-GTASA-SS18.png|Carl walking into the trailer to drop the camera off.
+Badlands-GTASA-SS19.png|Mission passed.
+</gallery>
+
+===Video Walkthroughs===
+{{#ev:youtube|ULJfiIx8inA|275px|center}}
+{{#ev:youtube|UtH3Q5kgjhw|275px|center}}
+{{#ev:youtube|qbkPiLaoMZo|275px|center}}
+
+==Trivia==
+*The Washington that the witness drives has a unique [[San Fierro (3D Universe)|San Fierro]] [[Vehicle Features|license plate]] that reads "ASSMAN".
+*If the player manages to destroy the Washington before the witness enters it, he will remain in the cabin and not move.
+*If the player lost the infinite camera received after The Green Sabre, they will receive a new one at the start of this mission.
+*If the player somehow loses the camera during this mission, the mission will continue as normal until the player successfully kills the target, when the game will instruct the player to pick up a new one from the drop point.
+*If the player headshots the informant with weapons that can decapitate, such as the [[Shotgun (3D Universe)|Shotgun]], [[Sawed-Off Shotgun]], [[Katana]], or the [[Pistol .50|Desert Eagle]], it will cause the mission to fail as the body can't be identified.
+*FBI agents in this mission are different from the normal ones. They have much lower health, carry [[Micro SMG (HD Universe)|Micro SMGs]] instead of [[SMG (3D Universe)|SMGs]] and don't try to [[Busted|arrest]] the player if he has a [[Wanted Level in GTA San Andreas|wanted level]]. Also, they will become neutral after the witness escapes in the Washington.
+*The [[Sanchez]] used by Carl is all-proof. There is a specific method of obtaining the unique vehicle; once the chase sequence begins, the player must take the bike to the beach near the bottom of the mountain. The Sanchez must be driven deep into the water. Once the player dismounts and fails the mission, they can now push or ride the Sanchez out of the water, after which it can be stored in a garage.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Badlands]]
+[[es:Badlands]]
+[[fi:Badlands]]
+[[fr:Badlands]]
+[[pl:Złe ziemie]]
+[[pt:Badlands]]
+[[ru:Badlands]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

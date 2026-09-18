@@ -1,0 +1,45 @@
+{{scriptbox|style=gtasa|
+{{line|background=[[Carl Johnson]] meets [[Wu Zi Mu]] in the storage room of [[The Four Dragons Casino]]. The lights are turned off.}}
+{{line|name=CJ|dialogue=Woozie?}}
+{{line|name=Woozie|dialogue=Hello carl.}}
+{{line|name=CJ|dialogue=You could at least turn the lights on.}}
+{{line|name=Woozie|dialogue=Oh, I thought I had. Well, this window here must let some light in.}}
+{{line|background=CJ turns on the lights.}}
+{{line|name=CJ|dialogue=Yeah, this is perfect right here. This is where we're going to plan the heist at.}}
+{{line|name=Woozie|dialogue=Anyone else coming?}}
+{{line|name=CJ|dialogue=No.}}
+{{line|name=Woozie|dialogue=Couldn't we have done this in my office?}}
+{{line|name=CJ|dialogue=You gotta have a secret place to plan shit like this, that's just how it's done!}}
+{{line|name=Woozie|dialogue=OK, OK, I see where you're coming from. So, what do we do?}}
+{{line|name=CJ|dialogue=I guess we got to make a plan.}}
+{{line|name=Woozie|dialogue=Speaking of plans, do you have the layout to Caligula's Casino?}}
+{{line|name=CJ|dialogue=Shit, no. I guess I gotta go get one.}}
+{{line|name=Woozie|dialogue=Meeting adjourned?}}
+{{line|name=CJ|dialogue=Meeting adjourned.}}
+{{line|background=CJ leaves the storage room and turns off the lights. He heads outside to find a camera needed to photograph the layout to [[Caligula's Palace]], stealing it from some tourists near the [[Pirates in Men's Pants]] ship.}}
+{{line|name=Tourist|dialogue=What's your beef, man?}}
+{{line|background=After stealing the camera, CJ drives to the [[Las Venturas City Planning Department]] building. He enters the building and hides his weapons.<br><small>''(NOTE: Following dialogues are branching depending on the response choices)''</small>}}
+{{line|name=Receptionist|dialogue=Can I help you, sir?}}
+{{line|name=CJ|dialogue='''(negative response)''' No, thank you.<br>'''(positive response)''' I'd like to see the architectural plans for Caligula's Casino, please.}}
+{{line|name=Receptionist|dialogue='''(negative response)''' Come to me if you change your mind.<br>'''(positive response)''' OK, sir. Are you aware that the reproduction of such plans is prohibited?}}
+{{line|name=CJ|dialogue='''(negative response)''' Oh, no, I didn't know that. why?<br>'''(positive response)''' Yeah, I'm only after some reference.}}
+{{line|name=Receptionist|dialogue='''(negative response)''' Well, we don't want to be party to preparation of a daring raid on the count room! does sir understand?}}
+{{line|name=CJ|dialogue='''(negative response)''' No, I'm just a dumb ghetto kid, I don't understand shit.<br>'''(positive response)''' Of, of course, the owners wouldn't want to take a gamble on that happening!}}
+{{line|name=Receptionist|dialogue='''(negative response 1)''' I'm very sorry, sir, I can't make it any clearer.<br>'''(negative response 2)''' I will buzz open the door. It's directly by the main entrance...<br>'''(positive response)''' You'll find the plans on the top floor.}}
+{{line|background=If CJ pulling out a weapon inside the planning department}}
+{{line|name=Security Guard|dialogue=Put that weapon away, sir! this is a public building!}}
+{{line|background=If CJ ignoring the first warning from the Security Guard}}
+{{line|name=Security Guard|dialogue=This is your final warning, sir, put that weapon away!}}
+{{line|background=If CJ hiding back his weapon after warned by Security Guard}}
+{{line|name=Security Guard|dialogue=Thank you for your cooperation, sir!}}
+{{line|background=CJ goes to the top floor, only to find the casino plans guarded by security. CJ then goes to the document depository located one floor below, and breaks some air con units, triggering the fire alarm and causing a distraction.}}
+{{line|name=Security Guard|dialogue=Everybody out, this is not a drill!}}
+{{line|background=While everyone evacuates the building, CJ goes back to the top floor and photographs the plans to Caligula's Palace. Meanwhile, in another room, a man is heard talking to the [[Las Venturas Police Department|cops]].}}
+{{line|name=Man|dialogue=Where are those damn firemen?}}
+{{line|background=Due to the fire, the cops are unable to shut the bottom doors, and CJ must use lethal force to get through them. CJ leaves the building and goes back to the Four Dragons Casino with cops on his tail, where he meets [[Triad Assistant 1|Woozie's assistant]] leaving the garage in a [[Washington]].}}
+{{line|name=CJ|dialogue=Get this film developed for Woozie.}}
+{{line|name=Triad Assistant 1|dialogue=You got it, CJ! Good work!}}
+}}
+<noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

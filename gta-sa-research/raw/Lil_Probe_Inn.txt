@@ -1,0 +1,213 @@
+{{Infobox location
+|name = Lil' Probe'Inn
+|image = LilProbeInn-GTASA.png
+|sign = Lil'Probe'Inn-GTASA-logo.png
+|Name Change = BAR
+|games = {{Games|SA=y}}
+|location = Near [[Area 69 (3D Universe)|Area 69]], [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+LilProbeInn-GTASA-Map.jpg|Lil' Probe'Inn
+LilProbeInn-GTASA-BoneCountyMap.jpg|Bone County
+LilProbeInn-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|pscanner       = PoliceScanner-GTASA-LilProbeInn.ogg
+}}
+'''Lil' Probe'Inn''' is a [[bar]] appearing in {{SA}}.
+
+==Description==
+Lil' Probe'Inn is a [[UFOs|UFO]]-themed bar located in [[Bone County (3D Universe)|Bone County]], next to a [[Bone County Dry Lake|dried lake]], and is only a few hundred yards from [[Area 69 (3D Universe)|Area 69]]. Immediately to the east are [[Green Palms]] and [[Octane Springs]]. Lil' Probe'Inn is also treated as the name of the in-game zone of Bone County in which the bar, the dry lake and the [[Lil' Probe'Inn Trailer Park|nearby trailer park]] are located.
+
+The bar contains a [[pool]] table, where pool can be played for [[money]]. The bar also serves as a possible location for [[Girlfriends in GTA San Andreas|girlfriend dates]], giving a failed date with [[Barbara Schternvart]], and is one of the possible destinations during the [[Taxi Driver in GTA San Andreas|Taxi Driver]] side mission.
+
+While the bar itself is not interactive to the player outside of scripted events, pedestrians found inside the bar are healed when randomly interacting with the waitress. Police officers may also appear inside the bar.
+
+The UFO-theme of the bar is reinforced by the spinning UFO signage at the entrance, and the presence of photographs hung on its walls which depict real-life photographs of flying saucers. In the [[Xbox]] version, [[Rockstar North]] replaced some of these pictures with in-game screenshots of Bone County and the surrounding [[Las Venturas (3D Universe)|Las Venturas]] area. The room behind the bar is also accessible, which contains an early map render of [[State of San Andreas (3D Universe)|San Andreas]] with a number of markers placed on it. This asset is also reused for [[Mike Toreno's Ranch]] for a different, government agency-related context.
+
+The [[Radio Stations in GTA San Andreas|radio station]] playing inside the bar is [[K-Rose]].
+
+In {{TDE}}, all of the UFO photographs were non-canonically replaced by screenshots of [[Rockstar Advanced Game Engine|RAGE Engine]] titles from different [[universes]] (mainly {{V}} and ''{{Red Dead|Red Dead Redemption 2}}'') by the outsourced [[Grove Street Games]] studio, while the early map render was updated with the final in-game map.
+
+==Influence==
+The Lil' Probe'Inn is based on the Lil' A'Le'Inn in {{WP|Rachel, Nevada}}, a town just north of {{WP|Area 51}} (which Area 69 is based on). Lil' Probe'Inn is situated next to a [[Bone County Dry Lake|dry lake]], similar to how Lil' A'Le'Inn is situated next to {{WP|Groom Lake (salt flat)|Groom Lake}}, a dry lake next to Area 51.
+
+The name ''Lil' Probe'Inn'' is spelled as deliberately as its namesake, the ''Lil' A'Le'Inn'', whose name, when spoken with apostrophes, sounds like "Little Alien". Similarly, ''Lil' Probe'Inn'' sounds like "Little Probing", a double entendre indicating both sexual penetration and the infamous anal probes supposedly used on abductees by curious aliens.
+
+==Gallery==
+{{Gallery
+|header = Exterior
+|LilProbeInn-GTASA-Signage.png|Signage.
+|LilProbeInn-GTASA-ParkingLot.png|Parking lot.
+|LilProbeInn-GTASA-RearView.png|Rear view.
+}}
+{{Gallery
+|header = Interior
+|LilProbeInn-GTASA-Interior.png|Interior.
+|LilProbeInn-GTASA-Bar.png|The bar.
+|LilProbeInn-GTASA-PoolTable.png|Pool table.
+|LilProbeInn-GTASA-Tables.png|Tables.
+|LilProbeInn-GTASA-Toilets.png|Inaccessible toilets.
+|LilProbeInn-GTASA-UnusedRoom.png|Unused space for the bathrooms.
+|LilProbeInn-GTASA-UFOPictures.png|Real-life UFO photographs in portraits.
+|LilProbeInn-GTASA-BackroomView1.png|Back room.
+|LilProbeInn-GTASA-BackroomView2.png|Back room.
+}}
+{{Gallery
+|header = Assets
+|UFOs-GTASA-LilProbeInnTextures-ufo_pics1.png|"<code>ufo_pics1</code>" (original version).
+|UFOs-GTASA-LilProbeInnTextures-ufo_pics2.png|"<code>ufo_pics2</code>" (original version).
+|UFOs-GTASAxbox-LilProbeInnTextures-ufo_pics1.png|"<code>ufo_pics1</code>" (Xbox version).
+|UFOs-GTASAxbox-LilProbeInnTextures-ufo_pics2.png|"<code>ufo_pics2</code>" (Xbox version).
+|UFOs-GTASAde-LilProbeInnTextures-ufo_pics1.png|"<code>ufo_pics1</code>" (The Definitive Edition).
+|UFOs-GTASAde-LilProbeInnTextures-ufo_pics2.png|"<code>ufo_pics2</code>" (The Definitive Edition).
+}}
+
+==UFO Photographs==
+{{Under Construction}}
+{| class="wikitable"
+|-
+! scope="col" |Original
+! scope="col" |Xbox version
+! scope="col" |The Definitive Edition
+! scope="col" |Origin
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1A.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1A.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1A.png|thumb|center|120px]]
+|
+*'''Original:''' Photograph dated as early as 1965.{{Ref|name=source1A|type=website|url=https://pinterest.com/pin/497577458818062076/}}
+*'''Xbox:''' In-game screenshot of [[Rockshore Wedding Chapel]].
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1B.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1B.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1B.png|thumb|center|120px]]
+|
+*'''Original:''' 
+*'''Xbox:''' In-game screenshot of [[Octane Springs]].
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1C.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1C.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1C.png|thumb|center|120px]]
+|
+*'''Original:''' Photograph taken in Albuquerque, New Mexico by Paul Villa on June 16, 1963.{{Ref|name=newmexico1963|type=website|url=https://www.metabunk.org/threads/apolinar-paul-villa-ufo-photos-albuquerque-nm-june-16-1963.13359/|ref=Apolinar (Paul) Villa UFO Photos, Albuquerque, NM (June 16, 1963) - Metabunk}}
+*'''Xbox:''' In-game screenshot of [[The Big Pecker]] in [[Las Payasadas]].
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1D.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1D.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1D.png|thumb|center|120px]]
+|
+*'''Original:''' Photograph taken in Europe by Billy Meier, famously used as the first version of the [[w:c:x-files:"I Want to Believe" poster|"I Want to Believe" poster]] in the ''{{WP|The X-Files}}'' TV series.{{Ref|name=source1D|type=website|url=https://newrepublic.com/article/126715/x-files-i-want-believe-posters-origin-story|ref=The X-Files “I Want to Believe” Poster’s Origin Story - The New Republic}}
+*'''Xbox:''' In-game screenshot of the [[King Ring]] in [[Fort Carson (3D Universe)|Fort Carson]].
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1E.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1E.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1F.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1F.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1G.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1G.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1H.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1H.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1H.png|thumb|center|120px]]
+|
+*'''Original:''' Mirrored undated photograph of the {{WP|Yaroslavl#/media/File:Church_of_Saint_Nicholas_in_Yaroslavl_01.jpg|Church of Saint Nicholas in Yaroslavl}}.{{Ref|name=yaroslavlUFO|type=website|url=https://new-science.ru/wp-content/uploads/2019/04/452-3.jpg|ref={{URL|https://new-science.ru/ufologiya-i-sovremennaya-nauka-lekciya-surdin-v-g/|Источник: New-Science.ru}}}}
+*'''Xbox:''' In-game screenshot.
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1I.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1I.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1I.png|thumb|center|120px]]
+|
+*'''Original:''' Photograph taken by Harold Trudel in Woonsocket, Rhode Island, June 10 or June 18, 1967.{{Ref|name=rhodeisland1967|type=website|url=https://openminds.tv/ufo-rhode-island-1967/|ref=UFO pictures from Rhode Island in 1967 - Openminds.tv}}{{Ref|name=source1I|type=website|url=https://www.tsemrinpoche.com/tsem-tulku-rinpoche/science-mysteries/the-ufo-collection-pt-1-years-1870-1959.html?nggpage=2|Page 2 « A HUGE Collection of UFO Photographs from 1870 to 2011 - Tsem Rinpoche}}
+*'''Xbox:''' In-game screenshot of [[Verdant Meadows Airfield]].
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1J.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1J.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1J.png|thumb|center|120px]]
+|
+*'''Original:''' Taken in Las Lunas, New Mexico, on September 24, 1972.{{Ref|name=source1I}}
+*'''Xbox:''' In-game screenshot.
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1K.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1K.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1K.png|thumb|center|120px]]
+|
+*'''Original:''' Unknown origin.{{Ref|name=picture1k|type=website|url=https://annex.exploratorium.edu/learning_studio/news/october97/mainstory4_oct97.html|ref=What's New in the World: SERENDIP}}
+*'''Xbox:''' In-game screenshot of [[The Big Ear]].
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.{{fact|Double check joshua tree model}}
+|-
+|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1L.png|thumb|center|120px]]
+|[[File:UFOs-GTASAxbox-LilProbeInnTexture-Picture1L.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1L.png|thumb|center|120px]]
+|
+*'''Original:''' Unknown origin.{{Ref|name=pictureIL|type=website|url=https://tltgorod.ru/pics/%D0%94%D0%B8%D1%81%D0%BA%20%D1%81%20%D1%88%D0%B0%D0%BF%D0%BE%D1%87%D0%BA%D0%BE%D0%B9_c165397.jpg}}
+*'''Xbox:''' In-game screenshot of [[Arco del Oeste]].
+*'''The Definitive Edition:''' Unknown.<!--Edited screenshot of ''Grand Theft Auto VI''.-->
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture1M.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture1M.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Red Dead Redemption 2''.<!--Guarma-->
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture2A.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture2A.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture2B.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture2B.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture2C.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture2C.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|-
+|colspan="2"|[[File:UFOs-GTASA-LilProbeInnTexture-Picture2D.png|thumb|center|120px]]
+|[[File:UFOs-GTASAde-LilProbeInnTexture-Picture2D.png|thumb|center|120px]]
+|
+*'''Original/Xbox:''' 
+*'''The Definitive Edition:''' Edited screenshot of ''Grand Theft Auto V''.
+|}
+
+==Trivia==
+*There are a total of [[69]] pictures related to UFOs inside the bar, possibly another of [[Rockstar North|Rockstar's]] sexual jokes.
+**Additional portraits were intended to be placed near the pool table. In the final version, these portraits were placed above the ceiling.
+*If the player obtains a [[Wanted Level in GTA San Andreas|wanted level]] inside of the bar, the police scanner will locate it as "[[The Big Ear|The Big Ear Radio Telescope]]".
+*Due to an exploit, the player can access the [[Interiors in GTA San Andreas|Interior World]] 18 by jumping on the crates and boxes in the back room and clipping through the ceiling.
+
+==References==
+{{Scrollbox|{{Reflist}}}}
+==Navigation==
+{{Gtasa neighborhoods}}
+[[Category:Buildings in GTA San Andreas in Bone County]]
+[[Category:Bars]]
+[[Category:Building zones]]
+[[de:Lil’ Probe Inn]]
+[[es:Lil' Probe Inn]]
+[[hu:Lil' Probe'Inn]]
+[[pl:Lil' Probe'Inn]]
+[[ru:Lil' Probe'Inn]]

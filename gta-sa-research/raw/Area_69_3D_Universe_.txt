@@ -1,0 +1,236 @@
+{{PageTabber
+|page1 = [[Area 69 (3D Universe)|3D Universe]]
+|page2 = [[Area 69 (HD Universe)|HD Universe]]
+}}{{Title|disambig=y}}
+{{Infobox_location
+|type        = militarybase
+|name        = Area 69
+|image       = Area69-GTASA-Montage.png
+|caption     = Clockwise from top: Aerial view of Area 69, warning sign stating that "photography is prohibited", Surface-to-Air Missile sites installed around the facility, the military airstrip and the Area 69 road signage.
+|games       = {{Games|SA=y}}
+|location    = [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]]
+|runways     = 1 (smaller runway located at the eastern section of the base. Designed for smaller jets.)
+|map         = 
+<gallery>
+Area69-GTASA-Map.jpg|Area 69
+Area69-GTASA-BoneCountyMap.jpg|Bone County
+Area69-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption = Location on the map (red).}}
+{{Quote|...Government officials denied the existence of an area of Bone County that isn't on the map. Someone, who was unprepared to be named, said, "The so-called placed that isn't called anything doesn't exist. And if it did, we'd name it something."|[[Lianne Forget]] on [[WCTR News]] after [[Yay Ka-Boom-Boom]].|sound=Area69-GTASA-Quote.wav}}
+'''Area 69''' (also known as '''Restricted Area'''{{Ref|name = gtasa-text-rest|ref = |type = textdata|date = |filepath   = \TEXT\american.gxt|filedata   = [REST] Restricted Area|image      = Area69-GTASA-RestrictedArea-Map.png
+|imagesize  = 200px
+|caption    = Displayed on the in-game map.
+|image2     = Area69-GTASA-RestrictedArea-HUD.png
+|imagesize2 = 200px
+|caption2   = Displayed as the in-game zone name.}} or the '''No Fly Zone'''<ref>[[:File:Area69-GTSA-NoFlyZone_WebsiteMap.png|''GTA SA'' Website (Flash version)]] </ref>) is a highly protected and top secret government research facility in the heart of [[Bone County (3D Universe)|Bone County]], [[State of San Andreas (3D Universe)|San Andreas]], appearing in {{SA}}.
+
+==Description==
+The area is a {{WP|no-fly zone}} established by the U.S. Government in the state of San Andreas, located immediately to the south of [[Verdant Meadows Airfield|Verdant Meadows]], to the west of [[Las Venturas (3D Universe)|Las Venturas]], to the east of [[El Castillo del Diablo]], and directly to the north of [[Green Palms]].
+
+During the game's pre-release, [[Rockstar North]] kept secret the existence of Area 69 on the promotional websites up until the game's official release, labelling it as a "no-fly zone" on the website's interactive map. The appearance of Area 69 is first foreshadowed in-game when unlocking access to Bone County after [[Yay Ka-Boom-Boom]] via a [[WCTR News]] report of government officials denying the existence of "an area of Bone County that isn't on the map".
+
+===Design and Usage===
+Entering or flying low enough over the base will result in a 5-star [[Wanted Level in GTA San Andreas|wanted level]]. Flying over the base results not only in the wanted level (does not apply while in the [[Pilot School]]), but also tracking and attack from [[Surface-to-Air Missile|SAM]] sites and pursuing [[Hydra]]s. Flying too close to the edge of the base will also result in attack from the nearest SAM site, although a wanted level will not be obtained if close enough to the base's periphery. The base's four SAM sites may be destroyed using powerful weaponry such as missiles from a jet, a [[Rocket Launcher (3D Universe)|Rocket Launcher]], or a [[minigun]]. Furthermore, their heat-seeking missiles may be avoided using countermeasures (flares), if equipped on the player's aircraft.
+
+The base houses various clandestine government projects, including the ''Black Project'' [[Jetpack]], a couple of weapons, including the Minigun and the [[Combat Shotgun]], and a couple of [[Body Armor|body armor]] and health icon spawn points.
+
+Echoing the conspiracy theories surrounding Area 51, it is implied that the facility may be tied to local housing projects involving UFOs and extraterrestrial life, as suggested by the presence of the nearby [[Lil' Probe'Inn]], the dialog on the base's PA system during the [[Black Project]] mission (quotes: ''"Would the owner of a green alien saucer move it somewhere else please." "Would the personnel working with the alien body, please put it away."'' and ''"Personnel found stealing alien technology will not be invited to the next employee outing."''), and by dialog on Marvin Trill's in-game radio show.
+
+Much of the base consists of underground research labs, although the player can only enter these labs during the course of a single mission (or through exploits). Infiltration may also be obtained via a teleport glitch, should the player take a [[Freeway (3D Universe)|Freeway]] motorcycle to the base, and park it by the vent. Once the player leaves the motorcycle, they will fall through the vent and will land in the interior of the base. The above-ground structures include a series of watch towers, a control tower, small airstrip and three garages for military vehicles. These garages are the first area in the game in which military vehicles will automatically spawn.
+
+===Underground Area===
+Area 69 possesses a large underground complex, which has three access points from outside: the launch bay, blast doors and the vent. Notice that all these entrances can be interacted with only during [[Black Project]].
+
+The underground area features a large number of accessible rooms, including a large launch bay where the [[Jetpack]] project is located, laboratories, storage areas, control rooms and more areas. A few other rooms can be seen from the accessible parts, which hint that the area is larger than the accessible part.
+
+The area is not meant to be entered out of Black Project. Unless using the 'Lock Wanted Level', exploring the underground is not guaranteed to be safe as Sheriff officers will still spawn in large numbers inside, though there will be no risk of fighting [[Police Maverick (3D Universe)|Police Mavericks]] and [[Special Weapons and Tactics (3D Universe)|SWAT]]/[[Federal Bureau of Investigation|FBI]]/[[Military (3D Universe)|Military]].
+
+==Events==
+===Events of ''Grand Theft Auto: San Andreas''===
+After making his way out to Bone County to meet up with [[Mike Toreno]] at the [[Verdant Meadows Airfield|abandoned airstrip]], [[Carl Johnson]] begins performing dangerous and difficult tasks for this shady government agent, whose "paymasters" remain unidentified.
+
+After temporarily satisfying Toreno's wishes, Carl receives an unexpected visit at the airstrip from [[The Truth]], who Carl hasn't seen since leaving [[San Fierro (3D Universe)|San Fierro]]. The Truth, disturbed by Carl's allegiance to Toreno, makes his own request: to [[Black Project|steal the ''Black Project'']] from the nearby Area 69 military research facility. The Truth drops Carl off in front of the facility's main gate, and drives off in a hurry, leaving Carl to infiltrate the base alone. Armed with [[Thermal Vision|thermal vision goggles]], Carl sneaks into the base and down into the underground research labs. Carl is forced to shoot his way through soldiers and scientists alike, as he makes his way into the depths of the compound, where he finally locates the jetpack. Climbing into the jetpack's straps, Carl boldly applies thrust and escapes through the open sky bay overhead, and blasts off away from the facility as quickly as possible to avoid being shot down by SAM sites and military personnel. As he escapes, a voice over the loudspeaker can be heard frantically shouting, "Get [[General Mills]] on the line!", a tongue-in-cheek reference to an American cereal manufacturer.
+
+Later in the game, during [[Misappropriation]], a helicopter chase will lead Carl to fly over the base if Carl does not kill the [[The Dossier Carrier|target]] and claim the dossier beforehand, but neither Carl nor the target will get shot by the SAM sites.
+<!---
+
+
+    SFX-GTASA-SCRIPT-Bank059-Sound023.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound024.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound025.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound026.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound027.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound028.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound029.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound030.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound031.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound032.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound033.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound034.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound035.wav
+    SFX-GTASA-SCRIPT-Bank059-Sound036.wav
+
+
+
+--->
+==Pickups==
+*[[M16|M4]] {{nd}} Behind a staircase leading to a watchtower, southwest side.
+*[[Night Vision|Night Vision Goggles]] {{nd}} On a watchtower platform, near the entrance.
+*[[Thermal Vision|Thermal Vision Goggles]] {{nd}} Inside the control tower.
+*[[Combat Shotgun]] {{nd}} In a dark hallway inside the base, right before the labs.
+*[[Minigun]] {{nd}} In a control room inside the base, in the second room after entering the facility.
+*[[Jetpack]] {{nd}} At the bottom of the launch bay.
+*[[Body Armor]] {{nd}} Inside the facility.
+
+==Parked Vehicles==
+*[[Barracks OL|Barracks]] (spawns on the airstrip by a Cargobob and a Patriot)
+*Two [[Hydra]]s (on the airstrip, after [[Vertical Bird]])
+*[[Cargobob (3D Universe)|Cargobob]] (spawns on the airstrip by a Barracks)
+*[[Patriot]] (spawns on the airstrip by a Barracks)
+*Two [[Rhino (3D Universe)|Rhino]] tanks (in hangars on the airstrip near the Hydras, after the cutscene of [[Verdant Meadows (mission)|Verdant Meadows]])
+*[[Tug]] (within the underground complex, only during Black Project)
+
+==Influence==
+The base is a spoof of {{WP|Area 51}} in southern {{WP|Nevada}}, but named after the [[69]] sexual position. The in-game base differs greatly from Area 51, evidenced by the lack of a large runway, smaller overall size, and different layout. A scaled down version of {{WP|Groom Lake}} is located to the south of Area 69.
+
+==Gallery==
+===Approach Road===
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-ApproachRoad-South.png|Start of the approach road near [[Fort Carson (3D Universe)|Fort Carson]] and [[Lil' Probe'Inn]].
+Area69-GTASA-ApproachRoad-GroomLake.png|The [[Bone County Dry Lake|dry lake]] adjacent to the approach road.
+Area69-GTASA-ApproachRoad-RockFormations.png|The approach road cutting through rock formations of [[El Castillo del Diablo]].
+Area69-GTASA-ApproachRoad-SeenFromAfar.png|The facility seen from afar.
+Area69-GTASA-ApproachRoad-North.png|Northern end of the approach road looking south.
+Area69-GTASA-ApproachRoad-DirtTrack.png|A dirt track cutting through the road.
+Area69-GTASA-ApproachRoad-End.png|The road ending at the facility's main gate.
+</gallery>
+
+===Exterior===
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-LasVenturasandFortCarson.png|Proximity with Las Venturas (left) and Fort Carson (right).
+Area69-GTASA-MainGate.png|Closed main gate.
+Area69-GTASA-OpenGate.png|Accessible gate.
+Area69-GTASA-WarningSigns.png|Warning signs.
+Area69-GTASA-Buildings.png|Buildings.
+Area69-GTASA-FacilityEntrance.png|Entrance to the bunker complex.
+Area69-GTASA-FacilityEntrance-Locked.png|Locked by the blast doors.
+Area69-GTASA-Vents.png|Alternative entrance through the vents.
+Area69-GTASA-Vents-Locked.png|Blocked outside the mission.
+Area69-GTASA-Vents-Interior.png|Interior of the air vent.
+Area69-GTASA-SurfacetoAirMissiles.png|Surface-to-Air Missiles.
+Area69-GTASA-ControlTower.png|Control tower.
+Area69-GTASA-MissileLaunchHatch.png|Missile launch bay hatch.
+Area69-GTASA-Spotlights.png|Spotlights during the mission.
+Area69-GTASA-Military-SS1.png|Military patrolling the exterior of the facility.
+Area69-GTASA-Military-SS2.png|Ditto.
+Area69-GTASA-Military-SS3.png|Ditto.
+</gallery>
+
+====Airstrip====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-Airstrip.png|The airstrip
+Area69-GTASA-Airstrip-MainGate.png|Main gate.
+Area69-GTASA-Airstrip-AlternativeEntrance.png|Alternative access through the breakable electric fence.
+Area69-GTASA-Airstrip-MilitaryHangars.png|Military hangars.
+Area69-GTASA-Airstrip-ParkedVehicles.png|Parked vehicles.
+</gallery>
+===Interior===
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-Interior.png|The entrance of the underground bunker complex, behind the main blast doors.
+</gallery>
+====Storage Room====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-StorageRoom.png|The storage room.
+Area69-GTASA-StorageRoom-Warhead.png|A {{WP|warhead}} under development in the facility.
+Area69-GTASA-StorageRoom-Military.png|Military patrolling the storage room.
+Area69-GTASA-StorageRoom-SecurityRoom.png|Security cabin.
+Area69-GTASA-StorageRoom-TunneltoGeneratorRoom.png|Tunnel connected to the generator room.
+</gallery>
+====Generator Room====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-GeneratorRoom.png|Generator room.
+Area69-GTASA-GeneratorRoom-Military.png|Military patrolling the generator room.
+Area69-GTASA-GeneratorRoom-Underground.png|Underground area near the research labs.
+</gallery>
+====Radar Room====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-RadarRoom.png|The radar room.
+Area69-GTASA-RadarRoom-SanAndreasMap.png|Map of the state of San Andreas.
+Area69-GTASA-RadarRoom-Monitor.png|Monitors and radar showing a satellite view of the facility.
+Area69-GTASA-RadarRoom-Scientists.png|Scientists at the radar room.
+</gallery>
+
+====Research Labs====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-ResearchLabs-Entrance.png|Access to the research labs.
+Area69-GTASA-ResearchLabs-Hall.png|Halls of the research labs.
+Area69-GTASA-ResearchLabs-GenericLabInterior.png|Interior of a laboratory, sharing the same equipment as the other labs.
+Area69-GTASA-ResearchLabs-Crowbar.png|A [[Crowbar]] found in one specific laboratory interior.
+</gallery>
+====Rocket Lab====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-RocketLab-Room1.png|Interior of the rocket lab.
+Area69-GTASA-RocketLab-Room2.png|Ditto.
+</gallery>
+
+====Launch Bay====
+<gallery position="center" spacing="small" widths="250px">
+Area69-GTASA-MissileLaunchBay-TopView.png|The missile launch bay as seen from the top.
+Area69-GTASA-MissileLaunchBay-BottomView.png|The missile launch bay as seen from the bottom.
+Area69-GTASA-BlackProject.png|The Jetpack (Black Project).
+</gallery>
+
+==Bugs/Glitches==
+It is possible to re-enter the underground through glitches.
+
+===Entering===
+*The easiest way to enter the base is to use a [[Blue Hell]] glitch with a Jetpack equipped. Once in the Blue Hell, fly towards the base. Once below, fall in the Blue Hell. Once deep enough, the player will be teleported at the bottom of the launch bay.
+*Another way requires a [[Freeway (3D Universe)|Freeway]] bike (easily found in [[Fort Carson (3D Universe)|Fort Carson]]). Once obtained, drive in Area 69 and find the vent (which CJ can use to breach in the base in "Black Project"). Stick the bike on the northern side of the vent, and have the bike face towards the south-west (since Carl will leave the bike on the left side, he'll step on the vent). Once done, exit the bike. Carl will step on the vent, and will suddenly teleport below ground, on a Minigun spot in the underground.
+
+===Getting out===
+*If the Freeway bug was chosen, go back at the entrance of the underground. Destroy the vent grate, then go at the entrance of the vent and press the button to enter a vehicle. If the Freeway is at the same position, Carl will go through the vent and hop back onto the bike, above ground.
+*Still using a jetpack, go to the large room where the first scientists are found (near the SAM control site). Enter the room from the underground entrance, then go on the first staircase on the left. Once here, go upwards with the jetpack. The roof is not solid, allowing the player to go through. Fly far away enough from the base, then fall into the Blue Hell. The player will teleport at ground level.
+
+==Trivia==
+{{Cleanup}}
+*There are what appear to be nuclear warheads in the Minigun room, which would explain the presence of the launch bay.
+*Under the minigun room, there is an empty pit which reuses the same model as the launch bay, minus the floor and staircase. It is not solid, and can be viewed from the grid in the room.
+*The [[jetpack]] is the most rapid means of infiltrating the base, but at the cost of being attacked by [[Surface-to-Air Missile|SAM]] sites, even at ground level, as the game considers the jetpack to be an aircraft. This can be averted if the sites are destoyed prior to infiltration.
+[[File:Sanandreas crowbar.jpg|thumb|220x220px|The [[Crowbar]] found inside.]]
+*In one of the inaccessible underground labs, the area looks very similar to {{WC|half-life|Black Mesa}} from the video game ''{{WC|half-life|Half-Life}}''. In addition, on a table, a [[Crowbar]] can be seen, which looks very similar to {{WC|half-life|Gordon Freeman}}'s {{WC|half-life|Crowbar|crowbar}}. As well as this, a [[Combat Shotgun|SPAS-12]] pickup can be seen; in ''Half-Life'', a {{WC|half-life|HECU SPAS-12|SPAS-12}} pickup is found in a very similar spot. Black Mesa and Area 69 are also both based on the real {{WP|Area 51}}.
+*Outside of the mission "Black Project", the interior facility is actually uninhabited. It is only automatically inhabited during the mission. When not on a mission, the area only becomes inhabited as a result of a wanted level that makes [[San Andreas Sheriff|sheriff's department]], [[Federal Bureau of Investigation|FBI]] agents (five-star) and [[Military (3D Universe)|military]] personnel (six-star) spawn while the player is inside the area. This can be observed when the player activates the lock wanted level cheat and enters the area to find nobody.
+*Stealing a [[Rhino (3D Universe)|Rhino]] is relatively simple given the vehicle can take a lot of damage. Simply drive the tank either towards [[Verdant Meadows Airfield|Verdant Meadows]] or the westernmost safehouse available for purchase in Las Venturas and save the game (thus eliminating the wanted level).
+*In the Android version, entering the base does not give Carl a 5-star wanted level until a [[Are You Going to San Fierro?|certain mission]] has been passed. <small>(Tested and confirmed)</small>
+*In the iOS version, after the mission Black Project, the base can be entered through the blast doors. <small>(Tested on iPad)</small>
+*The [[West Coast Talk Radio (3D Universe)|WCTR]] [[Lianne Forget|reporter]] alludes to the existence of Area 69 in a news broadcast, stating that "government officials deny the existence of an area of Bone County that isn't on the map". This broadcast can only be heard after the completion of the mission [[The Da Nang Thang]] 
+*In the [[Vigilante in GTA San Andreas|Vigilante]] side mission, Area 69 is referred to as "Restricted Area", as the objective text is scripted to give the in-game zone name.<ref>'''american.gxt\COPCAR:'''<br/><code>[0C17826E] ~r~Suspects ~s~last seen in the vicinity of ~a~.</code></ref>
+
+==See Also==
+*[[Area 69 (HD Universe)|Area 69]] {{nd}} [[HD Universe]] counterpart mentioned in {{O}}.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{3D military bases}}
+{{Gtasa neighborhoods}}
+}}
+
+[[Category:Locations in GTA San Andreas in Bone County]]
+[[Category:Military airbases]]
+[[Category:Restricted locations]]
+[[Category:Secrets]]
+[[Category:Zones]]
+
+[[de:Area 69]]
+[[es:Área Restringida]]
+[[fi:Restricted Area]]
+[[fr:Zone 69]]
+[[pl:Strefa 69]]
+[[pt:Área 69]]
+[[ru:Зона 69]]
+[[uk:Зона 69]]

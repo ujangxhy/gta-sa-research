@@ -1,0 +1,78 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] meets [[OG Loc (3D Universe)|OG Loc]] at employees door at the back of the [[Burger Shot (3D Universe)|Burger Shot]]. 
+}}{{line
+|name=CJ
+|dialogue=Looking real technical, gangsta! *laughs*
+}}{{line
+|name=OG Loc
+|dialogue=Carl? You ain't run off again yet?
+}}{{line
+|name=CJ
+|dialogue=No, gangsta, I'm here for good.
+}}{{line
+|name=OG Loc
+|dialogue=Yeah? Well, fuck this gig, man. I'm putting together a listening party for my album, but first I need a sound system...
+}}{{line
+|name=CJ
+|dialogue=Hey, I'm down, as long as I don't have to go to the party.
+}}{{line
+|name=OG Loc
+|dialogue=What you talking about, fool? Guaranteed I start playing, everybody'll come through.
+}}{{line
+|name=CJ
+|dialogue=Beign real, OG, I really ain't into rap no more. I'm more into that hardcore gangster shit.
+}}{{line
+|name=OG Loc
+|dialogue=Well that's me, homie, that's me! OG Loc, baby!
+}}{{line
+|name=CJ
+|dialogue=Yeah, yeah, for sure. But I only like them if they rhyme real well...Y'know, well...Anyway, what you want me to steal?
+}}{{line
+|name=OG Loc
+|dialogue=That's what I'm talking about, love for your homies... Now check it, I caught me a real fly sound system cruising through the drive-thru. I think they headed down to the beach for a beach party. Now check this out, I'll roll with you, and on the way I'll kick a couple of freestyles... It's OG Loc in the place, Y'all want to stop me with a gun in your face, OG! OG!
+}}{{line
+|name=CJ
+|dialogue=Yeah yeah yeah yeah, man, look, shut the fuck up. Maybe I need to do this on my own. I believe in you. Gangster 4 life, homie. 4 life!
+}}{{line
+|name=OG Loc
+|dialogue=Yeah - for life, homie...
+}}{{line
+|background=CJ goes to [[Verona Beach]] and finds a party not far from [[Verona Beach Gym]].
+}}{{line
+|name=DJ
+|dialogue=Hey, what's popping?
+}}{{line
+|name=CJ
+|dialogue=Just hanging out, you know...
+}}{{line
+|name=DJ
+|dialogue=Well why don't you come and dance?
+}}{{line
+|name=CJ
+|dialogue=Yeah, for sure!
+}}{{line
+|name=DJ
+|dialogue=Let's see what you got...
+}}{{line
+|background=CJ dances at the party in order to impress DJ and gain access to the sound van.
+}}{{line
+|name=DJ
+|dialogue=You got some moves, wanna come and chat?
+}}{{line
+|name=CJ
+|dialogue=Yeah, for sure, thats sounds nice.
+}}{{line
+|name=DJ
+|dialogue=Let me take you into my office...
+}}{{line
+|background=CJ and DJ girl sit into the [[Pony]]. Moments later CJ pushes the girl out of the car and drives away.
+}}{{line
+|name=DJ
+|dialogue=He's stealing the sounds!
+}}{{line
+|background=CJ drives sound van to [[Commerce Garage]], while being chased by [[Voodoo (3D Universe)|Voodoo]] and [[Oceanic]].
+}}}}
+<noinclude>
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

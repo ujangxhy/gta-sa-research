@@ -1,0 +1,137 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=Carl enters the doughnut shop and encounters [[C.R.A.S.H.]] officers [[Frank Tenpenny]], [[Eddie Pulaski]], and [[Jimmy Hernandez]].
+}}{{Line
+|name=Tenpenny
+|dialogue=HEY! CARL JOHNSON! CJ!
+}}{{Line
+|name=CJ
+|dialogue=Oh, shit...
+}}{{Line
+|name=Tenpenny
+|dialogue=Come on over here, son! (to Hernandez) Move over, let him sit down, asshole!
+}}{{Line
+|background=CJ sits with them.
+}}{{Line
+|name=Tenpenny
+|dialogue=So you finally found time to drop by.
+}}{{Line
+|name=CJ
+|dialogue=Man, I've been busy. I've been burying my Moms, man.
+}}{{Line
+|name=Pulaski
+|dialogue=Sounds like a fucking excuse to me.
+}}{{Line
+|name=Tenpenny
+|dialogue=Officer Pulaski thinks you're trying to screw with us, Carl. Now you get this straight. We own you. You're ours. We can shit on you from such a height you'll think God himself has crapped on you. You understand?
+}}{{Line
+|name=Pulaski
+|dialogue=He better fucking understand.
+}}{{Line
+|name=Tenpenny
+|dialogue=Yeah, he better had. Time to go to work, CJ, and earn your freedom. There's a guy holed up across town. You got that address, Pulaski? (to CJ) Another gangbanging, drug-pushing, cop-killing bitch, just like you. We don't like him and he don't like us. Now you make sure he never leaves the neighbourhood - not even in a box. Now get the fuck outta here!
+}}{{Line
+|background=After CJ burns down the [[Los Santos Vagos (3D Universe)|Vagos']] [[Los Santos Vagos House|house]] using [[Molotov Cocktails|molotovs]], a [[Denise Robinson|girl]] is trapped the burning house.
+}}{{Line
+|name=Denise
+|dialogue=(not in subtitles) Oh god! The flames! The flames!
+}}{{Line
+|background=CJ enters the house finds the girl.
+}}{{Line
+|name=CJ
+|dialogue=You there, you OK?
+}}{{Line
+|name=Denise
+|dialogue=Yeah, but those flames, they're too hot! I'm scared!
+}}{{Line
+|name=CJ
+|dialogue=Hold on, there's probably a fire extinguisher in the kitchen! I'll be right back!
+}}{{Line
+|background=CJ gets the fire extinguisher from the kitchen and extinguishes the fire to rescue the girl.
+}}{{Line
+|name=CJ
+|dialogue=Stand back!
+}}{{Line
+|name=Denise
+|dialogue=Put it out! Put it out!
+}}{{Line
+|background=CJ extinguishes the fire.
+}}{{Line
+|name=Denise
+|dialogue=Oh God, I'm so scared!
+}}{{Line
+|background=The building begins to collapse.
+}}{{Line
+|name=Denise
+|dialogue=OHMYGOD, what was that?
+}}{{Line
+|name=CJ
+|dialogue=Hey, the building's starting to collapse, we gotta get out of here, fast!
+}}{{Line
+|background=CJ finds more fire and begins to extinguish it.
+}}{{Line
+|name=Denise
+|dialogue=Hurry up, put it out, put it out!
+}}{{Line
+|background=CJ continues to extinguish more fire.
+}}{{Line
+|name=Denise
+|dialogue=Oh my God, we'll never escape!
+}}{{Line
+|background=CJ saves the girl and both get out of the house.
+}}{{Line
+|name=Denise
+|dialogue=Hey, man, I owe you my life... (hugs CJ) I was nearly dead there, for sure!
+}}{{Line
+|name=CJ
+|dialogue=Hey, you look pretty shook up, girl. You want me to take you home?
+}}{{Line
+|name=Denise
+|dialogue=Yeah, please, thanks.
+}}{{Line
+|background=CJ and the girl get in a car and drive to the girl's house.
+}}{{Line
+|name=CJ
+|dialogue=Where you live?
+}}{{Line
+|name=Denise
+|dialogue=Just off Grove Street.
+}}{{Line
+|name=CJ
+|dialogue=No shit! What you doing in Vagos' hood?
+}}{{Line
+|name=Denise
+|dialogue=I like to live dangerously. You're CJ, right?
+}}{{Line
+|name=CJ
+|dialogue=Yeah, how you know me?
+}}{{Line
+|name=Denise
+|dialogue=Everybody in the Grove knows you and your brother, but I thought you'd run away.
+}}{{Line
+|name=CJ
+|dialogue=I never 'ran away' OK, I just needed to... get away from shit.
+}}{{Line
+|background=They approach the girl's house.
+}}{{Line
+|name=Denise
+|dialogue=This is my place, here!
+}}{{Line
+|background=They arrive at the house.
+}}{{Line
+|name=CJ
+|dialogue=Hey, what's your name?
+}}{{Line
+|name=Denise
+|dialogue=Denise. Denise Robinson. Give me a call sometime, we should go out, or something.
+}}{{Line
+|name=CJ
+|dialogue=Yeah, I'd like that.
+}}{{Line
+|name=Denise
+|dialogue=OK, I'll catch you later, CJ.
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

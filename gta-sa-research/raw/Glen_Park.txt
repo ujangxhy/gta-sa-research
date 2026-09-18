@@ -1,0 +1,110 @@
+{{Infobox_location
+|image = GlenPark-GTASA.png
+|caption = '''Glen Park''', as viewed to the northwest.
+|games = {{Games|SA=y}}
+|location = [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]]
+|map           = 
+<gallery>
+GlenPark-GTASA-Map.jpg|Glen Park
+GlenPark-GTASA-LosSantosMap.jpg|Los Santos
+GlenPark-GTASA-MapFull.jpg|San Andreas
+</gallery>
+|map_caption   = Location on the map (red).
+|neighborhood = y
+|pscanner       = PoliceScanner-GTASA-GlenPark.ogg
+}}'''Glen Park''' is a neighborhood of [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]], that appears in {{SA}}.
+
+==Description==
+The neighborhood is located to the north-east of the city center of [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]], in ''Grand Theft Auto: San Andreas''. It has [[Las Colinas]] to the northeast, [[Idlewood]] to the south, [[Jefferson (neighborhood)|Jefferson]] to the east, and [[Downtown Los Santos (3D Universe)|Downtown Los Santos]] to the west.
+
+The district is quite affluent and middle-class, even though there are severe problems with gangs and drug trafficking. It consists of many bungalows, apartments, a public park with surrounding palm trees, a large pond in the centre, and an overpass bridge. The nearby [[County General Hospital]] can also be found despite being located in the official zone of [[Jefferson (neighborhood)|Jefferson]].
+
+Glen Park is controlled by the [[Ballas (3D Universe)|Ballas]] in the early part of [[1992]], and is close to other Ballas controlled districts, namely Jefferson and [[Idlewood]]. It is later controlled by the [[Grove Street Families]]. Besides the two aforementioned districts, nearby areas include [[Downtown Los Santos (3D Universe)|Downtown Los Santos]], the [[Mulholland Intersection]] and the [[Los Santos Vagos (3D Universe)|Los Santos Vagos]]-controlled [[Las Colinas]]. There are two known residents: [[B Dup|Mark "B Dup" Wayne]] and [[Big Bear|Barry "Big Bear" Thorne]], who moved to Glen Park from [[Ganton]]. The area has a diverse multicultural population.
+
+==Influence==
+Glen Park may have taken inspiration from real-life {{WP|MacArthur Park}} and {{WP|Echo Park, Los Angeles|Echo Park}} in {{WP|Los Angeles}}. The bridge over the lake is based on {{WP|Wilshire Boulevard}} bisecting MacArthur Park's lake, however, in reality the northern part of the lake was drained at some point after completion of the boulevard.<ref>https://laist.com/news/climate-environment/los-angeles-macarthur-park-lake-reconnect-wilshire</ref><ref>https://www.plannersnetwork.org/2008/07/playing-out-democracy-in-macarthur-park-spatial-struggles-in-the-everyday-use-of-public-space-2/</ref> In the game, the park is depicted as being contested between African-American gangs, while in reality there was mainly Hispanic gang presence in the area in the 80s and 90s.<ref>https://ericbrightwell.com/2018/01/28/southland-parks-visiting-macarthur-park/</ref>
+
+==History==
+===Events of ''Grand Theft Auto: San Andreas''===
+{{Spoiler}}
+Glen Park in the early part of ''Grand Theft Auto: San Andreas'' is controlled by the [[Kilo Tray Ballas]], although they eventually lose the area to the Grove Street Families (during the mission [[Doberman]]). However, the district falls back into the hands of the Ballas, when [[Carl Johnson]] and [[Sean Johnson|Sean "Sweet" Johnson]] lose influence over the Grove Street Families. Upon Sweet Johnson's parole, the GSF retake Glen Park during a turf war in a [[Beat Down on B Dup|later mission]].
+
+==Residents==
+*[[Big Bear|Barry "Big Bear" Thorne]] (1992, moved back to Ganton)
+*[[Big Wayne]]
+*[[B Dup|Mark "B Dup" Wayne]] (1992-?)
+*[[Ballas Snitch]] (?-1992, killed)
+
+==Places and Businesses==
+*[[1 Hour Photo]]
+*[[The Bahamas Apts]]
+*[[B Dup's Crack Palace]]
+*[[Chef Ming's Restaurant]]
+*Cig
+*[[Glen Park Skate Park]]
+*[[Lavanderia]]
+*[[Optica]]
+*[[Seguros De Auto]]
+
+==Vehicles==
+The following vehicles may be seen around the district:
+{{Columns
+|
+*[[Blade (car)|Blade]]
+*[[Bobcat (3D Universe)|Bobcat]]
+*[[Clover]]
+*[[Elegant]]
+*[[Emperor (3D Universe)|Emperor]]
+*[[Hermes]]
+*[[Majestic]]
+*[[Manana]]
+|
+*[[Moonbeam (3D Universe)|Moonbeam]]
+*[[PCJ 600|PCJ-600]]
+*[[Perennial]]
+*[[Primo (3D Universe)|Primo]]
+*[[Regina]]
+*[[Sadler]]
+*[[Virgo (3D Universe)|Virgo]]
+*[[Willard]]
+}}
+
+===Stationary vehicles===
+*[[BMX (3D Universe)|BMX]] – At the skate park.
+
+==Collectibles==
+*[[Flowers]] - Hidden in a circle of flowers east of the body of water.
+*[[Police Bribes|Police Bribe]] - In the small arched passageway north of the body of water.
+*Four [[Tags|gang tags]].
+*One [[oyster]] – In the pond.
+
+==Prominent Appearances in Gameplay==
+*[[Sweet & Kendl]]
+*[[Drive-By]]
+*[[Doberman]]
+*[[Beat Down on B Dup]]
+
+==Gallery==
+<gallery position="center" widths="250px" spacing="small">
+Glen Park-GTASA-GroundView.jpg|Ground view of the main park.
+GlenPark-GTASA-OtherView.jpg|Alternate view.
+GlenPark-GTASA-Pond.jpg|Pond at center of Glen Park.
+Doberman(1).JPG|Houses and north side of the park
+</gallery>
+
+==See Also==
+*[[Mirror Park]] – {{HD}} counterpart in {{V}}.
+
+==Navigation==
+{{Gtasa neighborhoods|state=collapsed}}
+
+[[Category:Neighborhoods]]
+[[Category:Urban parks]]
+[[Category:Zones]]
+
+[[de:Glen Park]]
+[[es:Glen Park]]
+[[pl:Glen Park]]
+[[pt:Glen Park]]
+[[ru:Глен-Парк]]
+[[uk:Ґлен-парк]]

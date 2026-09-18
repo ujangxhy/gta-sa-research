@@ -1,0 +1,23 @@
+{{infobox business
+|sign = BigPuffHandDryer-GTAIII-Logo.png
+|type = Hand dryer manufacturer
+|games= ''[[Grand Theft Auto III''
+}}
+{{Manhunt Wiki}}
+'''Big Puff''' is a hand dryer manufacturer that appears in ''[[Grand Theft Auto III''.
+
+==Description==
+A hand dryer can be found inside the bathroom in [[Belleville Park in [[Staunton Island]]. In both appearances, a [[Blobs]] liquid soap dispenser appears next to the hand dryer.
+
+==Gallery==
+<gallery position="center" spacing="small" widths="270px">
+BigPuff-GTAIII.png|'''Big Puff''' hand dryer in ''Grand Theft Auto III''.
+</gallery>
+{{clr}}
+==Trivia==
+thumb|200px|'''Big Puff''' hand dryer in ''Manhunt''.
+*The assets for the bathroom, alongside this prop, are shared with [[Rockstar North's ''[[Manhunt]]'', as part of the shared universe]].
+**An old screenshot for the BradyGames' official strategy guide for ''[[Grand Theft Auto: Vice City'' indicates that this prop may have been used for a removed bathroom stall at [[InterGlobal Studios]].
+[[Category:Businesses in GTA III
+[[Category:Companies
+[[Category:Manhunt

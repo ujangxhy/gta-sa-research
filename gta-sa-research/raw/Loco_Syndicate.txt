@@ -1,0 +1,114 @@
+{{Infobox organization
+|name         = Loco Syndicate
+|games        = {{Games|SA=y}}
+|locations    = [[San Fierro (3D Universe)|San Fierro]], [[State of San Andreas (3D Universe)|San Andreas]]
+|leader       = [[Mike Toreno]] <small>(formerly)</small>
+|status       = defunct
+|gang_type    = American crime syndicate
+|enemies      =
+*[[Carl Johnson]]
+*[[Cesar Vialpando]]
+*[[Da Nang Boys]]
+*[[San Fierro Triads]]
+*[[San Andreas Bikers]]
+|affiliations =
+*[[San Fierro Rifa]]
+*[[Ballas (3D Universe)|Ballas]]
+*[[Los Santos Vagos (3D Universe)|Los Santos Vagos]]
+*[[Big Smoke]]
+*[[Ryder]]
+*[[Big Smoke's Grove Street Families Faction]]
+|members      =
+*[[Jizzy B.]]
+*[[T-Bone Mendez]]
+*[[Mike Toreno]] <small>(formerly)</small>
+*[[Carl Johnson]] <small>(undercover)</small>
+|vehicles     =
+*[[Sanchez]]
+*[[Voodoo (3D Universe)|Voodoo]]
+*[[Rumpo]]
+|weapons      =
+*[[Pistol (3D Universe)|Pistol]]
+*[[Micro SMG (3D Universe)|Micro SMG]]
+|businesses   = 
+Drug trafficking
+|fronts       = 
+*[[Loco Syndicate Crack Factory]] <small>([[Yay Ka-Boom-Boom|Destroyed]])</small>
+*[[Jizzy's Pleasure Domes]]
+|image        = Locosyndicate-GTASA-Members.png
+|caption      = The members of the Loco Syndicate.
+|type         = crimesyndicate
+|nationality  = {{Country|US|adj=y}}
+}}
+The '''Loco Syndicate'''  is a crime syndicate in the {{S}} that appears as a minor antagonist group in {{SA}}.
+
+While better classified as a joint business venture between several criminals, the Loco Syndicate was a collective outfit dealing with drugs, primarily [[cocaine]]. 
+
+==Description==
+The Syndicate had its main operations based in [[San Fierro (3D Universe)|San Fierro]], and was made up of San Fierro's most powerful [[pimp]] [[Jizzy B]], gang leader [[T-Bone Mendez]], and the mysterious businessman (later revealed to be an undercover government agent) [[Mike Toreno]]. Former [[Grove Street Families]] gang banger [[Big Smoke]], after being legally protected by corrupt [[Los Santos Police Department (3D Universe)|LSPD]] [[C.R.A.S.H.]] officers [[Frank Tenpenny]] and [[Eddie Pulaski]], organizes a large crack-cocaine empire, establishing a business venture with the Syndicate, sending his right-hand man, [[Ryder]], who would become his formal representative to conduct an alliance. The Loco Syndicate was the largest organization in San Fierro, before [[Carl Johnson]] killed Ryder, Jizzy B and T-Bone Mendez. When the Loco Syndicate was consequently disbanded, Toreno returned to his usual duties and Big Smoke's narcotics empire ceased transactions with [[San Fierro (3D Universe)|San Fierro]] operations.
+
+As shown in the game, Mike Toreno is the Syndicate's brains and leader, calling the shots, making decisions, thinking business through and holds connections to Latin and South American drug organizations. T-Bone is the muscle, he makes sure that Mike's orders, errands and deals are carried through perfectly, and utilizes his gang, the San Fierro Rifa for protection. Finally, Jizzy is the group's face and charisma, recruiting men to pull hits, errands and other business for the Syndicate. It is indicated that Mike and T-Bone each receive 40% of the Syndicate's profits and Jizzy receives only 20% (which he complains about, although T-Bone says that he agreed to the 40-40-20 split before joining).
+
+Due to T-Bone Mendez, the Loco Syndicate has strong ties with the local Mexican street gang; the [[San Fierro Rifa]]. The Loco Syndicate often employ Rifa members for protection and to do small-time dirty jobs such as selling any remaining drugs on the streets.
+
+The Syndicate most likely get their cocaine as it is smuggled into San Andreas from the [[Easter Basin|harbor]] and [[Easter Bay Airport|airport]] in San Fierro. From here, they distribute and sell the cocaine to their business partners - which includes Big Smoke. Big Smoke then sells the cocaine to the local gangs of Los Santos that are involved in drug trafficking such as the Ballas and Vagos. It is assumed that the Rifa sell the product to the Vagos as seen in the early mission [[Wrong Side of the Tracks]].
+
+In relation to their drug partnership with Big Smoke's Crack Empire, Big Smoke sends [[Big Smoke's Cash|couriers]] with money every Monday and Friday from Los Santos to San Fierro to make the deal with the Loco Syndicate, who then sends their [[Loco Syndicate Drug Courier|own courier]] with cocaine to Big Smoke in Los Santos every Wednesday and Saturday. The Loco Syndicate also operate a [[Loco Syndicate Crack Factory|drug laboratory]] in [[Doherty (3D Universe)|Doherty]] which is destroyed by Carl Johnson in the mission [[Yay Ka-Boom-Boom]].
+
+==Members and Associates==
+===Members===
+*[[Mike Toreno]] {{nd}} [[Gang Leaders|Leader]] ([[Yay Ka-Boom-Boom|formerly]])
+*[[Jizzy B.]] {{nd}} [[Pimp]] ([[Ice Cold Killa|deceased]])
+*[[T-Bone Mendez]] {{nd}} Leader of the [[San Fierro Rifa]] ([[Pier 69|deceased]])
+
+===Associates===
+*[[Big Smoke]] (formerly/[[End of the Line|deceased]])
+*[[Ryder]] ([[Pier 69 (mission)|deceased]])
+
+==Prominent Appearances in Gameplay==
+*[[The Introduction]]
+*[[Photo Opportunity]]
+*[[Jizzy (mission)|Jizzy]]
+*[[T-Bone Mendez (mission)|T-Bone Mendez]]
+*[[Mike Toreno (mission)|Mike Toreno]]
+*[[Outrider]]
+*[[Ice Cold Killa]]
+*[[Pier 69 (mission)|Pier 69]]
+*[[Toreno's Last Flight]]
+*[[Yay Ka-Boom-Boom]] <small>(Wiped out)</small>
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+PhotoOpportunity-GTASA-SS27.png|Carl Johnson taking pictures of the '''Loco Syndicate''' members.
+Outrider-GTASA-Mission.png|Carl Johnson and Mike Toreno, both working infiltrated with the '''Loco Syndicate'''.
+IceColdKilla-GTASA-Mission.png|Carl Johnson shortly before killing Jizzy B.
+Pier69mission-GTASA4.jpg|The meeting with the Ballas at the [[Pier 69]].
+Pier69mission-GTASA5.jpg|T-Bone Mendez's death.
+Pier69mission-GTASA6.jpg|Chasing and killing Ryder.
+LocoSyndicateDrugsFactory-GTASA-Destroyed2.jpg|The crack factory destroyed by Carl Johnson.
+</gallery>
+
+==Trivia==
+*"Loco" means "crazy" in Spanish.
+*During the opening cutscene to 'Highjack', Mike Toreno reveals that he is actually a government agent and that he was using the Loco Syndicate to sell drugs in order to raise money for overseas dictators that want to ally with the United States. The money was apparently sent shortly before Carl destroyed the syndicate and although never stated, it can be assumed that Toreno would have brought down the syndicate himself once they had served their purpose with Carl inadvertently taking care of that for Toreno.
+*As noted, Jizzy was the one responsible for setting up the deals for the syndicate. The person he was about to call in 'Ice Cold Killa' was most likely Big Smoke before Carl appeared and interrupted. Mike Toreno speaks with Smoke during the Introduction, telling T-Bone 'We got a buyer in Los Santos'. This makes T-Bone the only member of the syndicate who never spoke with him directly or least it isn't shown.
+
+==Navigation==
+{{Gtasa gangs}}
+
+[[Category:Organizations in GTA San Andreas]]
+[[Category:Gangs]]
+[[Category:Former organizations]]
+[[Category:Crime syndicates]]
+
+[[ar:نقابة لوكو]]
+[[de:Loco-Syndikat]]
+[[es:Loco Syndicate]]
+[[fi:Loco Syndicate]]
+[[fr:Loco Syndicate]]
+[[hu:Loco Egyesület]]
+[[it:Sindacato Loco]]
+[[pl:Syndykat Loco]]
+[[pt:Loco Syndicate]]
+[[ru:Синдикат Локо]]
+[[tr:Loco Syndicate]]

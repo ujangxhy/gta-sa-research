@@ -1,0 +1,58 @@
+{{DISPLAYTITLE:Big Smoke}}
+{{Disambiglink|For the character in [[Grand Theft Auto: San Andreas]] with the same name, see [[Big Smoke]].}}
+{{Infobox mission
+|name       = Big Smoke
+|image      = BigSmoke-GTASA-Mission.png
+|caption    = [[Big Smoke]] and [[Carl Johnson]] meeting again inside the [[Johnson House]].
+|game           = {{Games|SA=y}}
+|type           = SA
+|for        = {{For|game=SA|cj}}
+|location   = [[Johnson House]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]]
+|reward_achievements     = [[Getting Started (GTA San Andreas)|Getting Started]] [[Achievements and Trophies in GTA San Andreas|achievement]]
+|unlocks    = [[Sweet & Kendl]]
+|unlockedby = [[In the Beginning]]
+}}
+{{Quote|You picked the wrong house, fool!|[[Big Smoke]]|sound=BigSmoke(Mission)-GTASA-Quote.ogg}}
+'''Big Smoke''' is the second storyline mission in {{SA}}, which protagonist [[Carl Johnson]] performs independently at the [[Johnson House]] in [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+There is no gameplay during this mission, as it is simply formed by two cutscenes. The first begins automatically after completion of the [[In the Beginning|first mission]] and the following [[Sweet & Kendl|mission]] is automatically triggered following the end of the second cutscene.
+
+==Mission==
+Carl Johnson, after arriving in Grove Street, enters his childhood home and finds a photograph of his recently deceased mother, [[Beverly Johnson|Beverly]]. He takes a chair and sits down, reminiscing on an occasion where his sister, [[Kendl Johnson|Kendl]] threatened to tell Beverly about his antics. [[Big Smoke]], an old friend of Carl's, enters the living room from the kitchen with a [[Baseball Bat|baseball bat]] and threatens to attack Carl, mistaking him for a burglar. He explains himself to Big Smoke and the two hug, exploding with love, relief, and pride. Carl and Big Smoke talk briefly about Beverly's death, with Smoke promising to help find her killer. They leave the house and [[Sweet & Kendl|drive]] to the [[Vinewood Cemetery|cemetery]] in [[Vinewood]] in Smoke's [[Perennial]].
+
+==Reward==
+There is no [[Money|monetary]] reward for completing the mission, but the mission [[Sweet & Kendl]] is unlocked automatically after the end of it. In the remastered versions for [[Xbox 360]], [[PS3]], [[PS4]] and [[PS5]], the Getting Started [[Achievements and Trophies in GTA San Andreas|achievement/trophy]] is unlocked.
+
+==Transcript==
+{{/Transcript}}
+
+==Walkthrough==
+{{/Walkthrough}}
+
+===Video Walkthroughs===
+{{#ev:youtube|OpTizzox2Qo|275px|center}}
+{{#ev:youtube|6mJ_6upxD7M|275px|center}}
+{{#ev:youtube|w365ropuLHg|275px|center}}
+{{#ev:youtube|x7J8Hu57QSw|275px|center}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Big Smoke (Mission)]]
+[[es:Big Smoke (misión)]]
+[[fi:Big Smoke (tehtävä)]]
+[[fr:Big Smoke (mission)]]
+[[nl:Big Smoke (missie)]]
+[[pl:Big Smoke (misja)]]
+[[pt:Big Smoke (missão)]]
+[[ru:Big Smoke]]
+[[uk:Big Smoke (місія)]]
+[[vi:Big Smoke (nhiệm vụ)]]
+[[zh:Big Smoke (任务)]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]

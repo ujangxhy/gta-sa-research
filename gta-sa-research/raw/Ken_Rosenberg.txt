@@ -1,0 +1,206 @@
+{{Infobox character
+|name           = Ken Rosenberg
+|image          = 
+<gallery>
+KenRosenberg-GTASA.jpg|1992
+KenRosenberg-GTAVC.jpg|1986
+</gallery>
+|games          = {{Games|VC=y|SA=y}}
+|mentioned      = {{Games|VCS={{UN|unseen}}}}
+|aka            = Rosie
+|gender         = M
+|status         = Alive
+|dob            = {{Circa}} [[1953]]{{Ref|name=birth|type=screenshot|image=KenRosenberg-GTAVC-BradysgameManualEntry.png|imagesize=300px|caption=Ken is said to be 33 years old in the BradyGames guide officially endorsed by [[Rockstar Games]].}}
+|home           = 
+*[[Washington Beach (3D Universe)|Washington Beach]], [[Vice City (3D Universe)|Vice City]], [[State of Florida|Florida]] {{Small|(1980s)}}
+*[[Caligula's Casino]], [[Las Venturas (3D Universe)|Las Venturas]] {{Small|(1992)}}
+|nationality    = {{Country|US|adj=y}}
+|affiliations   = 
+*[[Leone Crime Family|Leone Family]] {{Small|(formerly)}}
+*[[Salvatore Leone]]{{Small|(formerly)}} {{Status|D1=y}}
+*[[Forelli Crime Family|Forelli Family]] {{Small|(formerly)}}
+*[[Sonny Forelli]] {{Small|(formerly)}} {{Status|D1=y}}
+*[[Tommy Vercetti]] {{Small|(formerly)}}
+*[[Giorgio Forelli]] {{Small|(formerly)}}
+*[[Lance Vance]] {{Small|(formerly)}} {{Status|D1=y}}
+*[[Vercetti Gang]] {{Small|(formerly)}}
+*[[Juan Cortez|Colonel Juan Cortez]]
+*[[Avery Carrington]] {{Status|D1=y}}
+*[[Cam Jones]] {{Status|D2=y}}
+*[[Kent Paul]]
+*[[Carl Johnson]]
+*[[Maccer]]
+*[[Johnny Sindacco]] {{Small|(formerly)}} {{Status|D1=y}}
+*[[Sindacco Crime Family|Sindacco Family]] {{Small|(formerly)}}
+*[[Madd Dogg (3D Universe)|Madd Dogg]]
+|vehicles       = 
+*White [[Admiral (3D Universe)|Admiral]]
+*[[Faggio (3D Universe)|Faggio]]
+|businesses     = 
+*[[K. Rosenberg & Co.]] {{Small|(formerly)}}
+*Manager of [[Caligula's Palace]] {{Small|(formerly)}}
+*Accountant for [[Madd Dogg (3D Universe)|Madd Dogg]]
+|voice          = [[William Fichtner]]
+}}
+{{Quote|Do I look like I can intimidate a jury? I couldn't intimidate a child - and believe me, I've tried.|Ken Rosenberg to [[Tommy Vercetti]] in [[Jury Fury]].|sound=KenRosenberg-GTAVC-Quote.ogg}}
+'''Ken Rosenberg''' is the [[deuteragonist]] in {{VC}} and a main character in {{SA}}. He is also indirectly mentioned in {{VCS}}.
+
+He is voiced by [[William Fichtner]].
+
+==History==
+===Background===
+Ken Rosenberg successfully graduated as a lawyer, although he is suspected of cheating on his exams, and established his own business, [[K. Rosenberg & Co.]], setting up the firm in [[Vice City (3D Universe)|Vice City]], with the company's office being inside the [[Hotel Harrison]] in [[Washington Beach (3D Universe)|Washington Beach]]. He started working for the [[Forelli Crime Family]] at some point in [[1978]], aged 25.{{Ref|name=birth}} At one point, he tried to intimidate a child and couldn't do it.
+
+===Events of ''Grand Theft Auto: Vice City Stories''===
+By [[1984]], his company has begun to represent the [[VNN|Vice News Network]] legally, with the company advising people, through a VNN news report, to quote the second amendment of the [[United States|American]] constitution if they are prosecuted for illegally using a firearm, after open gun fights in the [[Downtown Vice City (3D Universe)|Downtown]] district (seen during the mission [[Nice Package]]). 
+
+===Events of ''Grand Theft Auto: Vice City''===
+By [[1986]], he has also established ties with the [[Liberty City (3D Universe)|Liberty City]] based Forelli Crime Family, an Italian-American mob, and has begun to represent them legally. He helps [[Sonny Forelli]], the suspected [[Gang Leaders|Don]] of the family, in establishing his family in Vice City by [[In The Beginning...|setting up a drug deal]] between the [[Vance Crime Family]]'s [[Victor Vance|Victor]] and [[Lance Vance]] and Forelli Family representatives [[Tommy Vercetti]], [[Harry]] and [[Lee]]. The deal is ambushed, but Rosenberg and Vercetti escape, with Rosenberg hiding in his office, even missing [[Juan Cortez|Colonel Juan Cortez']] [[The Party|yacht party]], instead sending Vercetti to meet the man who set up the deal and later to [[Back Alley Brawl|find out]] who ambushed the deal. Rosenberg had, before the ambushed drug deal, been representing [[Giorgio Forelli]], who was facing charges of fraud, and sends Vercetti to [[Jury Fury|intimidate]] two jurors. He had also begun representing real estate mogul [[Avery Carrington]], who Vercetti later begins to work for after causing a [[Riot (GTA Vice City)|riot]] at the [[Spand Express]] depot.
+
+Vercetti eventually stops working for Rosenberg, who begins to represent him and bail him from the [[Vice City Police Department (3D Universe)|Vice City Police Department]] police stations across the city, with Rosenberg later attempting to give Vercetti advice about earning more money and about a planned [[The Job|bank heist]]. He later sides with Vercetti when Sonny Forelli arrives in Vice City and, along with Lance Vance, a former ally of Vercetti, [[Keep Your Friends Close...|attempts to take over Vercetti's business empire]]. The two become close friends, although Rosenberg's [[cocaine]] addiction later drives a wedge between the two.
+
+===Events of ''Grand Theft Auto: San Andreas''===
+Tommy Vercetti and Ken Rosenberg continue to drift apart in the early 1990s, with Rosenberg eventually entering rehabilitation at the [[Fort Carson Medical Center]] in [[Fort Carson (3D Universe)|Fort Carson]], [[State of San Andreas (3D Universe)|San Andreas]]. His rehabilitation is successful, but his friendship with Vercetti is irreparably damaged, and he is also disbarred as a lawyer. Rosenberg, however, immediately falls into the clutches to Liberty City's three mafia families, the Forelli Crime Family, [[Leone Crime Family]] and the [[Sindacco Crime Family]], who have him run [[Caligula's Casino]], a mafia run casino in [[Las Venturas (3D Universe)|Las Venturas]], with all three families having a stake in the casino.
+
+Rosenberg is informed by [[Salvatore Leone]], Don of the Leone Family, that he wants his money back quickly, whilst he expectantly waits for one family to kill him and blame one of the other families. Rosenberg begins to hide in his office once again, with only [[Tony]], a talking parrot, for company. [[Kent Paul]] and his client [[Maccer]] later [[Don Peyote|find]] Rosenberg and introduce him to [[Carl Johnson]], who begins to help Rosenberg out of his situation, including [[Intensive Care|saving]] [[Johnny Sindacco]] from a Forelli attack, though Johnny later [[The Meat Business|dies]] of a heart attack after he remembers his [[Fender Ketchup|previous encounter]] with Carl.
+
+Carl later works for both Rosenberg and Salvatore Leone to kill more Sindacco and Forelli Family mobsters, both in [[Freefall|San Andreas]] and [[Saint Mark's Bistro|Liberty City]]. Eventually Carl helps Rosenberg, as well as the by now trapped Kent Paul and Maccer, to escape from Salvatore Leone, telling them to lie low. Rosenberg, who began to use cocaine, also seemingly has flashbacks, once stating "Just like old times, hey Tommy?", in reference to Tommy Vercetti, leading Carl to question, "Who the fuck is Tommy?"
+
+{{Dialogue|p1=Carl Johnson|d1=I've got a need for an accountant and a sound engineer and I thought of you and Paul.|p2=Ken Rosenberg|d2=Fucking amazing! Paul's great with figures and I'd make a fucking amazing producer! This is (sniff) this is fucking great! It's amazing!|p3=Carl Johnson|d3=Yeah, yeah, whatever you say man, but look. See you soon.|quotedetail=Carl Johnson to Ken Rosenberg in a phone call after [[A Home in the Hills]].}}
+
+Rosenberg and Kent Paul later begin to work for [[Madd Dogg (3D Universe)|Madd Dogg]], a rapper who is being managed by Carl Johnson. He, Kent Paul, Maccer and Madd Dogg later [[End of the Line|appear]] in the [[Johnson House]] in [[Grove Street (3D Universe)|Grove Street]], [[Ganton]], [[Los Santos (3D Universe)|Los Santos]], to announce their first gold record.
+
+==Character==
+===Influence===
+Rosenberg is undoubtedly heavily influenced by {{WP|Sean Penn}}'s character Dave Kleinfeld from the [[1993]] movie ''{{WP|Carlito's Way}}''. Both worked as lawyers, helped the protagonists, were heavily addicted to cocaine and both did something that made the protagonist sever their ties with them (in Kleinfeld's case, he was going to testify against Carlito and Tommy severed his ties with Rosenberg because of his drug addiction). The interior of Rosenberg's office in Vice City is also remarkably similar to Dave Klenfield's office.
+
+==="Busted!" Quotes===
+In ''Grand Theft Auto: Vice City'', during the blank screen after being [[busted]] before the player respawns outside a police station, the player can occasionally hear Ken Rosenberg talking over the phone with the police in an attempt to get Tommy Vercetti released, using a variety of conjecture, insults and even threats to get his way. There are 28 lines in total.
+
+{{Scrollbox|content=
+*''"Tommy Vercetti is an innocent man!"'' [[File:KenRosenberg-GTAVC-bust_01.ogg|noicon]]
+*''"Officer, do you really think my client was capable of that?"'' [[File:KenRosenberg-GTAVC-bust_02.ogg|noicon]]
+*''"Tommy Vercetti walks right here or we sue for defamation."'' [[File:KenRosenberg-GTAVC-bust_03.ogg|noicon]]
+*''"My client wasn't even in town today and you know it!"'' [[File:KenRosenberg-GTAVC-bust_04.ogg|noicon]]
+*''"Of course he looks like the suspect, that don't make him guilty. You look like an idiot, that doesn't mean you are one."'' [[File:KenRosenberg-GTAVC-bust_05.ogg|noicon]]
+*''"Vercetti walks right now or there's gonna be hell to pay."'' [[File:KenRosenberg-GTAVC-bust_06.ogg|noicon]]
+*''"Tommy Vercetti is a kind man, a generous man, a civic-minded man, but he does not appreciate being called a killer, officer."'' [[File:KenRosenberg-GTAVC-bust_07.ogg|noicon]]
+*''"Come on, officer! Tommy Vercetti wasn't even in Vice City on the day in question."'' [[File:KenRosenberg-GTAVC-bust_08.ogg|noicon]]
+*''"Tommy Vercetti doesn't even own a gun! How could he do that? How could he? Now let him go!"'' [[File:KenRosenberg-GTAVC-bust_09.ogg|noicon]]
+*''"You know and I know Tommy Vercetti never did that."'' [[File:KenRosenberg-GTAVC-bust_10.ogg|noicon]]
+*''"Vercetti walks or you can kiss your promotion goodbye, pal."'' [[File:KenRosenberg-GTAVC-bust_11.ogg|noicon]]
+*''"Well, sure he was there, but that hardly means he did it."'' [[File:KenRosenberg-GTAVC-bust_12.ogg|noicon]]
+*''"Vercetti walks right now, bail or I sue."'' [[File:KenRosenberg-GTAVC-bust_13.ogg|noicon]]
+*''"You wouldn't know the truth if you found it banging your wife, now shut up and release my client! And your wife is not that great."'' [[File:KenRosenberg-GTAVC-bust_14.ogg|noicon]]
+*''"Oh really? 'Cause you saw it, it must have happened. Ho ho ho, what a load of crap and you know it!"'' [[File:KenRosenberg-GTAVC-bust_15.ogg|noicon]]
+*''"Come on, officer... Officer!... Come on, what are you, drinking on the job?"'' [[File:KenRosenberg-GTAVC-bust_16.ogg|noicon]]
+*''"Get Sergeant Pulaski down here, that fat chump owes me a favor!"'' [[File:KenRosenberg-GTAVC-bust_17.ogg|noicon]]
+*''"My client is a very important man and he won't respond kindly to these revolting accusations."'' [[File:KenRosenberg-GTAVC-bust_18.ogg|noicon]]
+*''"All your evidence is circumstantial bullshit and you know it!"'' [[File:KenRosenberg-GTAVC-bust_19.ogg|noicon]]
+*''"We're trying to prepare a legal case, officer, not sling accusations around like a priapic dildo."'' [[File:KenRosenberg-GTAVC-bust_20.ogg|noicon]]
+*''"Do you think your opinion is important here? We are talking about a man's freedom!"'' [[File:KenRosenberg-GTAVC-bust_21.ogg|noicon]]
+*''"Don't make me get irritated with you, officer. You cannot substantiate your claims in any way, any way, shape, or form. Vercetti walks!"'' [[File:KenRosenberg-GTAVC-bust_22.ogg|noicon]]
+*''"These charges, they ain't worth the paper they're written on, and you know it."'' [[File:KenRosenberg-GTAVC-bust_23.ogg|noicon]]
+*''"You have no grounds for refusing bail right now!"'' [[File:KenRosenberg-GTAVC-bust_24.ogg|noicon]]
+*''"My client is innocent!"'' [[File:KenRosenberg-GTAVC-bust_25.ogg|noicon]]
+*''"You think that is gonna stand up in court?"'' [[File:KenRosenberg-GTAVC-bust_26.ogg|noicon]]
+*''"Come on, he's an innocent man, officer!"'' [[File:KenRosenberg-GTAVC-bust_27.ogg|noicon]]
+*''"If I have to make a claim against the police department for this outrage, I will."'' [[File:KenRosenberg-GTAVC-bust_28.ogg|noicon]]
+}}
+
+===VCBI Crime Tree Record===
+{{VCBI
+|name = KEN ROSENBERG
+|data = Partner at Rosenberg & Associates, legal firm. Suspected problem with narcotics and egomania. Believed to be developing contracts with Liberty City mob.
+|filedata = 
+*Partner at Rosenberg & Associates, legal firm.
+*Suspected problem with narcotics and egomania.
+*Believed to be developing contracts with Liberty City mob.
+*Suspected of cheating in law school exams.
+*Believed to have employed heavies on numerous occasions to intimidate and corrupt juries.
+*Very poor success rate in trials.
+*"Blue chip" clients include {{H:title|Website misspell|Georgio}} Forelli. Cousin of Liberty City crime boss, Sonny.
+*Always desperate for money.
+|image1 = KenRosenberg-GTAVC-VCBIPic1.png
+|image2 = KenRosenberg-GTAVC-VCBIPic2.png
+|image3 = KenRosenberg-GTAVC-VCBIScreenshot.jpg
+}}
+
+==Prominent Appearances in Gameplay==
+===''Grand Theft Auto: Vice City''===
+*[[In The Beginning...]]
+*[[The Party]] {{Small|(Boss)}}
+*[[Back Alley Brawl]] {{Small|(Boss)}}
+*[[Jury Fury]] {{Small|(Boss)}}
+*[[Riot (GTA Vice City)|Riot]] {{Small|(Boss)}}
+*[[Shakedown (GTA Vice City)|Shakedown]]
+*[[No Escape?]]
+*[[The Shootist]]
+*[[The Driver]]
+*[[The Job]]
+*[[Cop Land]] or [[Hit the Courier]] {{Small|(Post-mission phone call)}}
+*[[Cap the Collector]] {{Small|(Pre-mission phone call)}}
+*[[Keep Your Friends Close...]]
+
+===''Grand Theft Auto: San Andreas''===
+*[[The Introduction]]
+*[[Don Peyote]]
+*[[Intensive Care]] {{Small|(Boss)}}
+*[[The Meat Business]] {{Small|(Boss)}}
+*[[Fish in a Barrel]] {{Small|(Post-mission phone call)}}
+*[[Freefall]]
+*[[Green Goo]], [[Madd Dogg (mission)|Madd Dogg]] or [[High Noon]] {{Small|(Post-mission phone call)}}
+*[[Saint Mark's Bistro]]
+*[[A Home in the Hills]] {{Small|(Post-mission phone call)}}
+*[[End of the Line]]
+
+==Gallery==
+<gallery position="center" spacing="small" widths="250px">
+KenRosenburg-GTAVC.jpg|'''Ken''' in his [[K. Rosenberg & Co.|office]] in {{VC}}.
+KenRosenberg-Artwork.jpg|An [[Grand Theft Auto: Vice City/Artwork|artwork]] of '''Ken Rosenberg''' in ''Grand Theft Auto: Vice City''.
+KenRosenberg-GTAVC-10thAnniversaryArtwork.jpg|'''Ken Rosenberg's''' [[Grand Theft Auto: Vice City/Editions|10th anniversary]] artwork.
+KenRosenberg-GTAVCxbox.png|'''Ken Rosenberg''' on the [[Xbox (console)|Xbox]] version of ''Grand Theft Auto: Vice City''.
+KenRosenberg-GTAVCde.png|'''Ken Rosenberg''' in {{TDE}} of ''Grand Theft Auto: Vice City''.
+KenRosenberg-GTASAde.png|'''Ken Rosenberg''' in ''The Definitive Edition'' of {{SA}}.
+</gallery>
+
+==Trivia==
+*During the mission [[The Meat Business]] in ''Grand Theft Auto: San Andreas'', he will sometimes yell out "This is so exciting, Tommy! It's just like old times!", apparently still missing his days working alongside [[Tommy Vercetti]] in [[Vice City (3D Universe)|Vice City]].
+*According to artwork, Ken Rosenberg originally wore the same soiree suit as he does in the game, but wore a yellow shirt underneath.
+*In ''Grand Theft Auto: Vice City'', Ken is not seen outside of full-motion [[cutscenes]], except for the mission [[In The Beginning...]]
+*Ken's name is misspelled as "Rosenburg" on the official {{URL|http://www.stephenbliss.com/|website}} of [[Rockstar Games]]' artist [[Stephen Bliss]]. Whether this is his beta name or just a typo is unknown.
+
+==References==
+{{Reflist}}
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Vercetti Gang}}
+{{Navbox gtavc characters|state=collapsed}}
+{{Navbox gtasa characters|state=collapsed}}
+}}
+
+[[ar:كين روزنبيرغ]]
+[[de:Ken Rosenberg]]
+[[es:Ken Rosenberg]]
+[[fi:Ken Rosenberg]]
+[[fr:Ken Rosenberg]]
+[[hu:Ken Rosenberg]]
+[[it:Ken Rosenberg]]
+[[nl:Ken Rosenberg]]
+[[pl:Ken Rosenberg]]
+[[pt:Ken Rosenberg]]
+[[tr:Ken Rosenberg]]
+[[ru:Кен Розенберг]]
+[[vi:Ken Rosenberg]]
+[[zh:Ken Rosenberg]]
+
+[[Category:Characters in GTA San Andreas]]
+[[Category:Characters in GTA Vice City]]
+[[Category:Male characters]]
+[[Category:Deuteragonists]]
+[[Category:Lawyers]]
+[[Category:Members of the Vercetti gang]]
+[[Category:Mission givers]]

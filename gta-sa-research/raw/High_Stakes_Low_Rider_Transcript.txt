@@ -1,0 +1,49 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=[[Carl Johnson]] goes to [[Cesar's House]] where he finds [[Cesar Vialpando]] and [[Kendl Johnson]] sitting in Cesar's [[Savanna]].
+}}{{line
+|name=Cesar
+|dialogue=Heeyy, CJ, you made it!
+}}{{line
+|name=CJ
+|dialogue=What's the bi'ness?
+}}{{line
+|name=Kendl
+|dialogue=Hey Carl!
+}}{{line
+|name=CJ
+|dialogue=Hey, baby.
+}}{{line
+|name=Cesar
+|dialogue=Nice ride, man. That's no carrucha! You sure you want to risk that baby?
+}}{{line
+|name=CJ
+|dialogue=Yeah, I'm sure. How much they talking about?
+}}{{line
+|name=Cesar
+|dialogue=It's hard cash or your pink slip in the pot. Con Safos, eh. Then you pull up and race. First past the post wins, con chota, sin chota.
+}}{{line
+|name=CJ
+|dialogue=OK, for sure. I'm down.
+}}{{line
+|name=Cesar
+|dialogue=Watch out, CJ, these boys don't like to lose, eh...
+}}{{line
+|name=CJ
+|dialogue=Yeah, well me either.
+}}{{line
+|name=Cesar
+|dialogue=Follow me to the race, dude!
+}}{{line
+|background=CJ follows Cesar and Kendl to race start point near [[Commerce]].
+}}{{line
+|name=Cesar
+|dialogue=Hey, keep up, holmes! Not far now, eh!
+}}{{line
+|name=Kendl
+|dialogue=C'mon, Carl, follow us! You almost there, Carl!
+}}}}
+<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

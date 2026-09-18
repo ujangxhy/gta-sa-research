@@ -1,0 +1,160 @@
+{{scriptbox|style=gtasa|
+{{line
+|background=Text reads [[Francis International Airport (3D Universe)|Francis International Airport]], [[Liberty City (3D Universe)|Liberty City]], 1992.
+}}{{line
+|name=[[Carl Johnson|CJ]]
+|dialogue=After five years on the East Coast, it was time to go home.
+}}{{line
+|background=Text reads "[[Los Santos International Airport (3D Universe)|Los Santos International Airport]]". CJ picks up his suitcase and leaves the airport. Phone rings.
+}}{{line
+|name=CJ
+|dialogue='Sup?
+}}{{line
+|name=[[Sweet Johnson|Sweet]]
+|dialogue=Carl, it's Sweet.
+}}{{line
+|name=CJ
+|dialogue=Whassup Sweet, what do you want?
+}}{{line
+|name=Sweet
+|dialogue=It's Momma... She's dead, bro.
+}}{{line
+|background=CJ leaves the airport and enters a [[Taxi (3D Universe)|Taxi]]. The taxi is pulled over by an [[Los Santos Police Department (3D Universe)|LSPD]] car.
+}}{{line
+|name=[[Frank Tenpenny|Tenpenny]]
+|dialogue=Passenger. Show us your hands.
+}}{{line
+|background=CJ walks towards the police car.
+}}{{line
+|name=Tenpenny
+|dialogue=Stop. Get down on your knees. Now down on your stomach. There you go.
+}}{{line
+|background=CJ is handcuffed and searched by [[Jimmy Hernandez|Hernandez]].
+}}{{line
+|name=Tenpenny
+|dialogue=I'll take that, Hernandez.
+}}{{line
+|name=CJ
+|dialogue=Hey, that's my paper man. That's money.
+}}{{line
+|name=Tenpenny
+|dialogue=This is drug money.
+}}{{line
+|name=CJ
+|dialogue=My money, man...
+}}{{line
+|background=CJ is stood onto his feet.
+}}{{line
+|name=[[Eddie Pulaski|Pulaski]]
+|dialogue=Hey, don't worry about it. I'll fill it out later.
+}}{{line
+|name=Tenpenny
+|dialogue=Welcome home, Carl. Glad to be back? You haven't forgotten about us, have you boy?
+}}{{line
+|name=CJ
+|dialogue=Hell no, Officer Tenpenny. I was just wondering what took y'all so long.
+}}{{line
+|name=Tenpenny
+|dialogue=Get in the car.
+}}{{line
+|background=CJ is taken to the police car.
+}}{{line
+|name=CJ
+|dialogue=Ease up, man. Damn.
+}}{{line
+|name=Tenpenny
+|dialogue=Watch your head.
+}}{{line
+|background=CJ hits his head on the car roof.
+}}{{line
+|name=Pulaski
+|dialogue=(Laughter)
+}}{{line
+|name=Tenpenny
+|dialogue=Oh! My bad.
+}}{{line
+|name=Pulaski
+|dialogue=Get outta here, you greaseball bastard!
+}}{{line
+|background=The taxi drives away.
+}}{{line
+|name=Pulaski
+|dialogue=Stupid [[Mexico|Mexican]]... *stares at Hernandez* Oh, hey, sorry.
+}}{{line
+|name=CJ
+|dialogue=My bag. Hey, man, my bag!
+}}{{line
+|background=The car drives away. The screen blacks out and then reappears in [[East Los Santos (3D Universe)|East Los Santos]].
+}}{{line
+|name=Tenpenny
+|dialogue=How have you been Carl? How's your wonderful family?
+}}{{line
+|name=CJ
+|dialogue=I'm here to bury my Moms. You know that.
+}}{{line
+|name=Tenpenny
+|dialogue=Yeah, I guess I do. So what else you got shakin' Carl?
+}}{{line
+|name=CJ
+|dialogue=Nothing. I live in Liberty City now. I'm clean. Legit.
+}}{{line
+|name=Tenpenny
+|dialogue=No, you ain't never been clean, Carl.
+}}{{line
+|background=The car stops at the train track as a [[Freight]] crosses.
+}}{{line
+|name=Pulaski
+|dialogue=Well, what have we got here?
+}}{{line
+|name=Tenpenny
+|dialogue=This is a weapon, Officer Pulaski, that was used to gun down a police officer not ten minutes ago. [[Ralph Pendelbury|Officer Pendelbury]], A fine man, I might add. You work fast, ni**a.
+}}{{line
+|name=CJ
+|dialogue=You know I just got off the plane.
+}}{{line
+|name=Pulaski
+|dialogue=Then it's a good thing we found you and retrieved the murder weapon.
+}}{{line
+|name=CJ
+|dialogue=That ain't my gun.
+}}{{line
+|name=Tenpenny
+|dialogue=Don't bullshit me, Carl.
+}}{{line
+|name=Pulaski
+|dialogue=Yeah, don't bullshit him, Carl.
+}}{{line
+|name=CJ
+|dialogue=What the fuck you want from me this time?
+}}{{line
+|name=Tenpenny
+|dialogue=When we want you, we'll find you. In the meantime, try not to gun down any more officers of the law. (Laughs)
+}}{{line
+|background=The car drives into an alley.
+}}{{line
+|name=CJ
+|dialogue=You can't leave me here - its [[Ballas (3D Universe)|BALLAS]] country.
+}}{{line
+|name=Tenpenny
+|dialogue=I thought you said you were innocent, Carl? That you don't bang?
+}}{{line
+|name=Pulaski
+|dialogue=This is car 58... WHAT?!
+}}{{line
+|background=CJ is thrown out of the car.
+}}{{line
+|name=Tenpenny
+|dialogue=See you around like a doughnut, Carl... (laughs)
+}}{{line
+|name=Pulaski
+|dialogue=Officer Pendelbury's down? We'll be right over.
+}}{{line
+|name=CJ
+|dialogue=Ah shit, here we go again. Worst place in the world. Rollin Heights Balla country. I ain't represented [[Grove Street Families|Grove Street]] in five years, but the Ballas won't give a shit.
+}}{{line
+|background=CJ walks up to a [[BMX (3D Universe)|BMX]]. Help text reads "Follow the 'CJ' icon to get back to the hood." CJ rides the bike into [[Grove Street (3D Universe)|Grove Street]].
+}}{{line
+|name=CJ
+|dialogue=Grove Street - Home. At least it was before I fucked everything up.
+}}}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>

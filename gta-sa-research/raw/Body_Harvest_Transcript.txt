@@ -1,0 +1,58 @@
+{{Scriptbox|style=gtasa|
+{{line|background=Inside the [[U Get Inn Motel]], [[Frank Tenpenny]] is hitting the bong in a motel room. [[Carl Johnson]] knocks on the motel room's door.}}
+{{line|name=CJ<br><small>(Voice only)</small>|dialogue=Hello? Hello, somebody in there?}}
+{{line|name=Tenpenny|dialogue=In here.}}
+{{line|background=CJ enters the motel room.}}
+{{line|name=CJ|dialogue=Check this shit out. What do we have here?}}
+{{line|name=Tenpenny|dialogue=Yo, Carl! What up, kid?}}
+{{line|name=CJ|dialogue=Hey, what's happening? Oh, is this undercover training? Oh, no, you must be off duty.}}
+{{line|name=Tenpenny|dialogue=Yeah, yeah, whatever, hush up, man. Mr. Truth here is going to be supplying you with some of the finest... (cough) weed, and you're going to deliver it for us.}}
+{{line|name=CJ|dialogue=Hey, man, you losing it. You're hallucinating and shit.}}
+{{line|name=Tenpenny|dialogue=Whuh? Oh. Yo, Truth, come here, man!}}
+{{line|background=As Tenpenny continues to hit the bong, [[The Truth]] goes to greet CJ from the bathroom.}}
+{{line|name=The Truth|dialogue=Greetings, friend.}}
+{{line|name=CJ|dialogue=Wassup?}}
+{{line|name=Tenpenny|dialogue=Carl here is gonna be paying you your money.}}
+{{line|name=CJ|dialogue=What are you talking about?}}
+{{line|name=Tenpenny|dialogue=Now, Carl, I got a real do-gooder fucking with me, and I want you to take this evil green poison, and drop it on him. (laughs) It's going to ruin that asshole's career!}}
+{{line|name=CJ|dialogue=Oh, bullshit.}}
+{{line|name=The Truth|dialogue=Dudes, you want mushrooms? Ludes? How about some DMT?}}
+{{line|name=Tenpenny|dialogue=No, not for me, man. I gotta jet.}}
+{{line|background=Tenpenny gets up, barely being able to walk.}}
+{{line|name=Tenpenny|dialogue=Oh, shit... I'm fucked up. Yo, Carl, pay the man!}}
+{{line|name=The Truth|dialogue=Whoa, man! I never thought I'd see that - a fed out-smoking me. What are you, dude? FBI? DEA?}}
+{{line|name=CJ|dialogue=No, I'm more like a private investigator.}}
+{{line|name=The Truth|dialogue=Friend, you give off a positive energy. How about some Vietnamese opium?}}
+{{line|name=CJ|dialogue=Nah, I don't get down with that.}}
+{{line|name=The Truth|dialogue=But how do I know I can trust you, then?}}
+{{line|name=CJ|dialogue=What, I'm working for you now?}}
+{{line|name=The Truth|dialogue=I'm a man of peace, but some squares across that ridge are not respecting my peace. They're survivalist maniacs. Right-wingers, fascists! They have a harvester and I need one. Get it, and then you can pay me. Namaste, Carl.}}
+{{line|name=CJ|dialogue=The fuck that mean? Later, freak.}}
+{{line|background=CJ goes to [[The Farm]] run by [[Survivalists]] up in [[Flint County (3D Universe)|Flint County]]. Upon entering the premises, he gets spotted.}}
+{{line|name=Survivalist #1|dialogue=You come to the wrong farm, boy. This ain't no country club, fella!}}
+{{line|name=Survivalist #2|dialogue=Beat him down, it's all he's good for!}}
+{{line|name=Survivalist #3|dialogue=Hey, who is this guy?}}
+{{line|name=Survivalist #4|dialogue=Dunno, but he looks kinda shifty! Roll him in some pig shit!}}
+{{line|background=CJ goes to get the [[Combine Harvester]] that's being driven at the farm's field.}}
+{{line|name=Survivalist #5|dialogue=He's a combine rustler! That son of a bitch is stealin' Betsy!}}
+{{line|background=CJ steals the harvester.}}
+{{line|name=Survivalist #6|dialogue=Stop that dang varmint!}}
+{{line|background=CJ takes the harvester to the Truth's farm in [[Leafy Hollow]], avoiding other survivalists.}}
+{{line|name=The Truth|dialogue=Man, you've brought peace back to my valley. Thank you, friend. I'll call you when the whoop-de-doo is ready, just make sure you get that cash.}}
+{{line|background=As CJ leaves the farm, he gets a phone call from [[Cesar Vialpando]].}}
+{{line|name=CJ|dialogue=Eh.}}
+{{line|name=Cesar<br><small>(Voice only)</small>|dialogue=Carl, it's Cesar.}}
+{{line|name=CJ|dialogue=Whassup?}}
+{{line|name=Cesar<br><small>(Voice only)</small>|dialogue=Bad stinking shit - that's wassup, holmes.}}
+{{line|name=CJ|dialogue=What's wrong, where's Kendl, is she OK?}}
+{{line|name=Cesar<br><small>(Voice only)</small>|dialogue=She's with me, she's OK for now. The Varrios Los Aztecas, it's all over. There's a price on my head, maybe Kendl's too.}}
+{{line|name=CJ|dialogue=What happened?!}}
+{{line|name=Cesar<br><small>(Voice only)</small>|dialogue=Trust, respect, honor - they don't mean jack in Los Santos now. My OGs, my eses, all dead or in hiding, eh.}}
+{{line|name=CJ|dialogue=Get out of town. Head over to Angel Pine, rent you and Kendl a trailer and I'll meet you there.}}
+{{line|name=Cesar<br><small>(Voice only)</small>|dialogue=OK, I just got some shit to take care of and...}}
+{{line|name=CJ|dialogue=''No!'' Just get my sister out of town and someplace safe! Don't shit with me on this one, I can't lose her, man!}}
+{{line|name=Cesar<br><small>(Voice only)</small>|dialogue=Sure thing, holmes, we'll see you in Angel Pine.}}
+}}<noinclude>
+
+[[Category:Mission Transcripts in GTA San Andreas]]
+</noinclude>

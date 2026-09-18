@@ -1,0 +1,86 @@
+{{Disambiglink|Not to be confused with [[Free Fall]], a bike race in [[Grand Theft Auto Online]].}}
+{{Infobox mission
+|name = Freefall
+|image = Freefall-GTASA-Mission.png
+|caption = [[Carl Johnson]] jumps out of a [[Dodo (3D Universe)|Dodo]] and about to get in the [[Forelli Crime Family|Forelli]]'s [[Shamal]] plane.
+|game           = {{games|SA=y}}
+|type           = SA
+|for ={{For|game=SA|mafiaSal}}
+|location = [[Caligula's Palace]], [[The Strip]], [[Las Venturas (3D Universe)|Las Venturas]]
+|target = [[Forelli Crime Family|Forelli Hitmen]]
+|fail = *[[Wasted]]
+*[[Busted]]
+*[[Dodo (3D Universe)|Dodo]] destroyed
+*Player fails to hit corona before [[Shamal]] reaches Las Venturas
+*[[Shamal]] destroyed
+|reward = *[[Money|$]]15,000
+*[[Respect]]
+|unlocks = [[High Noon]] <small>(if [[Misappropriation]] is completed first)</small>
+|unlockedby = [[Fish in a Barrel]]
+|todo =
+*Get to the '''<span style="color:#D1BC86">airport</span>'''.
+*Steal the '''<span style="color:#484576">plane</span>''' in the hangar.
+*The hitmen's flight is due to land soon, intercept the '''<span style="color:#D1BC86">plane</span>''' before it gets to Las Venturas.
+*Get behind the '''<span style="color:#D1BC86">plane</span>''' and fly into the '''<span style="color:#AB3736">corona</span>'''.
+*Fly the plane back to the '''<span style="color:#D1BC86">airport</span>'''.
+}}{{Quote|You know, the Forelli's are sending over a crew to hit me. Their flight gets in soon - traveling as a string quartet. Ha ha! I was going to send some of the boys over as a little welcoming committee, but, uh, maybe you can take care of it.|[[Salvatore Leone]]|sound=Freefall-GTASA-Quote.ogg}}
+'''Freefall''' is a mission in ''[[Grand Theft Auto: San Andreas]]'' given to [[protagonist]] [[Carl Johnson]] by [[Leone Crime Family|Leone Family]] [[Don]] [[Salvatore Leone]] from the [[Caligula's Palace]], a casino located along [[The Strip]] in [[Las Venturas (3D Universe)|Las Venturas]], [[State of San Andreas (3D Universe)|San Andreas]].
+
+==Mission==
+Salvatore is sitting in his office at [[Caligula's Casino|Caligula's Palace]] when [[Maria Latore|Maria]] appears and gives him the sandwich he ordered. After a while, [[Carl Johnson]] shows up and informs Salvatore about having worked with his son [[Joey Leone]] back in [[Liberty City (3D Universe)|Liberty City]] and that he can do anything Salvatore wants from him. Carl is informed that a [[Shamal]] plane is arriving at the airport soon and it contains [[Forelli Crime Family|Forelli]] hitmen coming to kill Salvatore. Carl then makes his way to the [[Las Venturas Airport]] and steals a [[Dodo (3D Universe)|Dodo]]. He flies over to the Shamal and follows it. After catching up to it, Carl jumps out of his Dodo and gets in the Shamal, killing every Forelli hitman inside, as well as the pilot. He then flies the plane back to the airport, completing the mission.
+
+==Mission Objectives==
+*Get to the airport
+*Steal the plane in the hangar
+*The hitmen's flight is due to land soon, intercept the plane before it gets to Las Venturas
+*Get behind the plane and fly into the corona
+*Kill the Forelli hitmen
+*Kill the pilot
+*Fly the plane back to the airport
+
+==Reward==
+The reward for completing this mission is [[Money|$]]15,000 and an increase in [[respect]]. The mission [[High Noon]] is also unlocked if the mission [[Misappropriation]] is completed.
+
+{{Clear}}
+==Transcript==
+{{/Transcript}}
+
+==Post-Mission Phone Call==
+Note: This call only happens if [[Misappropriation]] is completed first.
+*'''[[Frank Tenpenny]]''': Carl! You get that dossier?
+*'''Carl Johnson''': Yeah, I got the files. What you want me to do with 'em?
+*'''Frank Tenpenny''': We need to meet up someplace quiet and take care of things. There's a ghost town, [[Las Brujas]] in the [[El Castillo del Diablo|devil's Castle]], you know it?
+*'''Carl Johnson''': Yeah, I'll find it.
+*'''Frank Tenpenny''': I know you will. I'll see you there. Carl.
+
+==Video Walkthroughs==
+{{#ev:youtube|nKs2qa6mbSc|275px|center}}
+{{#ev:youtube|C9auWUdKixc|275px|center}}
+{{#ev:youtube|Kc_Oo_M7Cjc|275px|center}}
+
+==Trivia==
+*Freefall is unique for allowing Carl to take cover instead of crouching during the shootout. Also, the player plays from a [[First-Person View|first-person perspective]].
+*Regardless of the player's arsenal of weapons, CJ is automatically equipped with a [[Pistol (3D Universe)|9mm pistol]] (single or dual wielded depending on the player's weapon skill) with unlimited ammo, which is the only weapon he is allowed to use during the firefight. If the player carries a pistol that is not a standard 9mm, the mission will empty the pistol slot upon completion of the mission.
+*The Shamal that Carl enters is actually an interior in the [[Hidden Interiors Universe]].
+*This mission's [[Cutscenes|cutscene]] represents the first chronological appearance of [[Maria Latore]].
+*The mission does not actually require the player to turn around and follow the plane. An easier method is to simply fly straight into the corona while still flying east.
+*Carl's Dodo is capable of flying as fast as the Shamal, which is odd since the Shamal can normally travel much faster than the Dodo. Giving the Shamal a slower speed was most likely done for mission purposes; to prevent the mission from being too difficult. However, it still requires extreme accuracy to not fall too far behind the Shamal as it would be very difficult to catch the plane before it is too late.
+*If CJ destroys the hijacked Shamal, the mission fails, even though the mission's main objective has already been reached. It is suggested that the Forellis intended the plane to return to Liberty City and [[Saint Mark's Bistro|was instead commandeered by CJ to mask his arrival to the city]] for a Forelli hit at [[Marco's Bistro]].
+*If CJ fails to reach the Shamal as it reaches [[Las Venturas (3D Universe)|land]], it will stop flying straight and lose control. The mission will also fail.
+*An [[FCR-900]] spawns on the sidewalk after the cutscene ends should the player need it to get to the airport.
+
+==Navigation==
+{{Navboxes
+|title = Navigation
+|list1 = 
+{{Gtasa missions|state=collapsed}}
+}}
+
+[[de:Freefall]]
+[[es:Freefall]]
+[[fi:Freefall]]
+[[pl:Swobodne lądowanie]]
+[[ru:Freefall]]
+
+[[Category:Gameplay in GTA San Andreas]]
+[[Category:Storyline missions]]
