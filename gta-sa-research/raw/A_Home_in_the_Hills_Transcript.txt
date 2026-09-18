@@ -1,0 +1,245 @@
+{{Scriptbox|style=gtasa|
+{{Line
+|background=[[Carl Johnson|Carl]], [[Wu Zi Mu|Woozie]], and [[Kendl Johnson|Kendl]] are mediating auditions at [[The Four Dragons Casino]]. A man of small stature is auditioning.
+}}{{Line
+|name=Auditionee
+|dialogue=(singing) Don't hate the little man, 'cause he's packing a 6 shooter!
+}}{{Line
+|name=Kendl
+|dialogue=Next.
+}}{{Line
+|name=CJ
+|dialogue=Thank you.
+}}{{Line
+|name=Auditionee
+|dialogue=Thank you? ''Thank you?!'' Do you know how much balls it takes to stand down here and sing a song like that? It takes guts!
+}}{{Line
+|name=Woozie
+|dialogue=I'm sorry. We're just looking for something with a little more mass appeal.
+}}{{Line
+|name=Auditionee
+|dialogue=What could have more mass appeal than a song like "Small But Perfectly Formed"? Women want me. Men want to be like me! Assholes!
+}}{{Line
+|background=The auditionee leaves angrily and disappointedly.
+}}{{Line
+|name=Kendl
+|dialogue=(laughs) You gotta be kidding me, right?
+}}{{Line
+|name=CJ
+|dialogue=Damn! This casino game is hard work. I thought it was just a case of opening the doors and letting suckers give you their money.
+}}{{Line
+|name=Woozie
+|dialogue=If only.
+}}{{Line
+|name=Kendl
+|dialogue=You know what? I'm getting bored here. I'm trying to do business, not audition midgets.
+}}{{Line
+|name=Woozie
+|dialogue=People of reduced stature, you mean.
+}}{{Line
+|name=Kendl
+|dialogue=Yeah, yeah, I said that. All I know is, when are we gonna get some real talent in here?
+}}{{Line
+|name=CJ
+|dialogue=I heard that.
+}}{{Line
+|background=[[Madd Dogg (3D Universe)|Madd Dogg]] arrives.
+}}{{Line
+|name=CJ
+|dialogue=Madd Dogg!
+}}{{Line
+|name=Madd Dogg
+|dialogue=CJ! I'm clean, dude!
+}}{{Line
+|name=CJ
+|dialogue=That's good news, man. Hey, what's cracking? You ready to take it to the stage again?
+}}{{Line
+|name=Madd Dogg
+|dialogue=Easy, CJ, c'mon man. One step at a time, you know? I'm almost ready, but, but...
+}}{{Line
+|name=CJ
+|dialogue=But what?
+}}{{Line
+|name=Madd Dogg
+|dialogue=I want to go home now, CJ.
+}}{{Line
+|name=CJ
+|dialogue=That's cool, man, I'll take you. Where's home?
+}}{{Line
+|name=Madd Dogg
+|dialogue=My mansion, baby.
+}}{{Line
+|name=Kendl
+|dialogue=Yeah, I heard about that place. Drugs, sex, all that shit.
+}}{{Line
+|name=Madd Dogg
+|dialogue=Yeah, you know it - but...
+}}{{Line
+|name=CJ
+|dialogue=Yeah, yeah I been there... I mean, I seen it on TV.
+}}{{Line
+|name=Madd Dogg
+|dialogue=Yeah.
+}}{{Line
+|name=CJ
+|dialogue=Nice crib.
+}}{{Line
+|name=Madd Dogg
+|dialogue=Thanks, player.
+}}{{Line
+|name=CJ
+|dialogue=We could do with a place like that to set up in LS again, wait for Sweet. Get things moving. Get out dis midget game.
+}}{{Line
+|name=Madd Dogg
+|dialogue=But, CJ... C'mon, man...
+}}{{Line
+|name=CJ
+|dialogue=What? I saved your life, man!
+}}{{Line
+|name=Madd Dogg
+|dialogue=My mansion ain't big enough. Only got 19 bedrooms, you hear? A'ight, man, my mansion's been seized.
+}}{{Line
+|name=Woozie
+|dialogue=IRS?
+}}{{Line
+|name=Madd Dogg
+|dialogue=Nah, not exactly.
+}}{{Line
+|name=CJ
+|dialogue=Who?
+}}{{Line
+|name=Madd Dogg
+|dialogue=Nobody.
+}}{{Line
+|name=CJ
+|dialogue=Who, Madd Dogg?
+}}{{Line
+|name=Madd Dogg
+|dialogue=A'ight, Big Poppa.
+}}{{Line
+|name=CJ
+|dialogue=Big Poppa, the drug dealer? Man... you gave your multi million-dollar mansion to a motherfucking '''pusher?'''
+}}{{Line
+|name=Madd Dogg
+|dialogue=You know, CJ, these things happen. I was powerless!
+}}{{Line
+|name=CJ
+|dialogue=You fucking degenerate! Oh - man! How much blow can one guy snort?
+}}{{Line
+|name=Madd Dogg
+|dialogue=It's not my fault, CJ!
+}}{{Line
+|name=CJ
+|dialogue=Man, I should have let you jump! Come with me. All of you! We're ''all'' going home.
+}}{{Line
+|background=Everyone except Woozie prepare to return to [[Los Santos (3D Universe)|Los Santos]]. An [[Andromada]] flies towards Los Santos. CJ and [[San Fierro Triads|The Triads]] are in the plane preparing to parachute to [[Madd Dogg's Crib|Madd Dogg's mansion]]. CJ's phone rings.
+}}{{Line
+|name=CJ
+|dialogue=Hello.
+}}{{Line
+|name=Kendl <small>(voice only)</small>
+|dialogue=Hey, what's up, Carl?
+}}{{Line
+|name=CJ
+|dialogue=Hey Kendl, wassup?
+}}{{Line
+|name=Kendl <small>(voice only)</small>
+|dialogue=Nothing - just thought I'd wish you luck. We're gonna drive back to uh San Fierro first. Wanna check things out there before we hook up with you guys in Los Santos.
+}}{{Line
+|name=CJ
+|dialogue=Alright cool, you be careful.
+}}{{Line
+|name=Kendl <small>(voice only)</small>
+|dialogue=I'll be fine, I got Cesar and Madd Dogg to keep me safe. You be careful.
+}}{{Line
+|name=CJ
+|dialogue=I will. I'll see you in Los Santos. (to [[Triad Assistant 2|Woozie's assistant]]) Me and you gonna go in to clear the place out.
+}}{{Line
+|name=Woozie's assistant
+|dialogue=Good idea - the element of surprise.
+}}{{Line
+|name=CJ
+|dialogue=So the rest of the crew can move in in peace.
+}}{{Line
+|background=The scene changes to the mansion where few Triads land on the rooftop and take on the [[Los Santos Vagos (3D Universe)|Vagos]]. The plane's ramp opens so that CJ and The Triads can jump.
+}}{{Line
+|name=Woozie's assistant
+|dialogue=You ever jumped before?
+}}{{Line
+|name=Triad Member #1
+|dialogue=Nah. You?
+}}{{Line
+|name=Woozie's assistant
+|dialogue=Nah.
+}}{{Line
+|name=Triad Member #1
+|dialogue=When we land, we're going to feel invincible!
+}}{{Line
+|name=Triad Member #2
+|dialogue=I AM INVINCIBLE! (jumps)
+}}{{Line
+|name=Triad Member #1
+|dialogue=Hey, wait up! (jumps) WhaaaHOOOOOO!
+}}{{Line
+|name=Triad Member #3
+|dialogue=(jumps) WhaaaHEEEEEE!
+}}{{Line
+|name=Triad Member #4
+|dialogue=(jumps) WOOOHOOOOOO!
+}}{{Line
+|background=The Triads and CJ jump off the plane and land on the mansion's rooftop. Once landed, they battle the Vagos on the rooftop. After all the Vagos outside are cleared, CJ's crew heads inside.
+}}{{Line
+|name=Triad member #2
+|dialogue=We're heavily outnumbered, but if we all keep our heads, we should kick ass!
+}}{{Line
+|background=A Vagos member hiding in the bushes kills the Triad member by shooting him in the head.
+}}{{Line
+|name=Woozie's assistant
+|dialogue=Bastards! LET'S HIT 'EM!
+}}{{Line
+|background=CJ and The Triads take out the Vagos and reach the corridor.
+}}{{Line
+|name=Woozie's assistant
+|dialogue=CJ, clear the corridor and we'll clear each room!
+}}{{Line
+|background=While CJ takes on the Vagos in the corridor, Woozie's assistant and The Triads clear the rooms.
+}}{{Line
+|name=Vagos
+|dialogue=Die motherfuckers, none of you are leaving this house alive!
+}}{{Line
+|name=Woozie's assistant
+|dialogue=(clears first room) This one's clear!
+}}{{Line
+|name=Triad members
+|dialogue=(clears second room) No one in there!
+}}{{Line
+|name=Woozie's assistant
+|dialogue=(clears third room) OK, it's clear!
+}}{{Line
+|name=Triad members
+|dialogue=(clears fourth room) Room clear!
+}}{{Line
+|name=Woozie's assistant
+|dialogue=(clears fifth room) This one's clear!
+}}{{Line
+|name=Triad members
+|dialogue=(clears last room) No one in there!
+}}{{Line
+|background=CJ and The Triads clear the corridor and all the rooms.
+}}{{Line
+|name=Woozie's assistant
+|dialogue=You go ahead, CJ, we'll hold the balcony!
+}}{{Line
+|background=While The Triads take on the Vagos, CJ heads downstairs to take on the remaining Vagos and finds [[Big Poppa]].
+}}{{Line
+|name=Big Poppa
+|dialogue=You chose the wrong house to rob, fool!
+}}{{Line
+|background=CJ chases Big Poppa.
+}}{{Line
+|name=Big Poppa
+|dialogue=You don't know who you're fucking with, do you? You trying to fuck with my house, with my shit? I'm a fuck with YOU!
+}}{{Line
+|background=Big Poppa leaves the mansion through the backdoor and attempts to escape in his [[Phoenix (3D Universe)|Phoenix]], but CJ follows and chases him down in a pink [[Windsor]]. CJ kills him in the car chase, thus taking back Madd Dogg's mansion from the Vagos.
+}}}}
+<noinclude>[[Category:Mission Transcripts in GTA San Andreas]]</noinclude>
